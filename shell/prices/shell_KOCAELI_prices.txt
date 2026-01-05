@@ -1,0 +1,12 @@
+KOCAELI | K.Benzin 95 Oktan: - | Motorin: - | Gaz Yağı: - | Kalyak: - | Yüksek Kükürtlü Fuel Oil: - | Fuel Oil: - | Otogaz: 30,27
+MERKEZ | K.Benzin 95 Oktan: 53,37 | Motorin: 54,73 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+BASISKELE | K.Benzin 95 Oktan: 53,37 | Motorin: 54,73 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+CAYIROVA | K.Benzin 95 Oktan: 53,37 | Motorin: 54,73 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+DARICA | K.Benzin 95 Oktan: 53,37 | Motorin: 54,73 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+DERINCE | K.Benzin 95 Oktan: 53,37 | Motorin: 54,73 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+GEBZE | K.Benzin 95 Oktan: 53,37 | Motorin: 54,73 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+GOLCUK | K.Benzin 95 Oktan: 53,37 | Motorin: 54,73 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+IZMIT | K.Benzin 95 Oktan: 53,37 | Motorin: 54,73 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+KARAMURSEL | K.Benzin 95 Oktan: 53,37 | Motorin: 54,73 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+KARTEPE | K.Benzin 95 Oktan: 53,37 | Motorin: 54,73 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+KORFEZ | K.Benzin 95 Oktan: 53,37 | Motorin: 54,73 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -

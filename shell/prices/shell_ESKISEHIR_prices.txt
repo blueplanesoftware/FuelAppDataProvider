@@ -1,0 +1,7 @@
+ESKISEHIR | K.Benzin 95 Oktan: - | Motorin: - | Gaz Yağı: - | Kalyak: - | Yüksek Kükürtlü Fuel Oil: - | Fuel Oil: - | Otogaz: 30,72
+MERKEZ | K.Benzin 95 Oktan: 54,21 | Motorin: 55,57 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+CIFTELER | K.Benzin 95 Oktan: 54,21 | Motorin: 55,57 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+INONU | K.Benzin 95 Oktan: 54,21 | Motorin: 55,57 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+ODUNPAZARI | K.Benzin 95 Oktan: 54,21 | Motorin: 55,57 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+SEYITGAZI | K.Benzin 95 Oktan: 54,21 | Motorin: 55,57 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+SIVRIHISAR | K.Benzin 95 Oktan: 54,21 | Motorin: 55,57 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -

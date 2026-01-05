@@ -1,0 +1,3 @@
+KIRSEHIR | K.Benzin 95 Oktan: - | Motorin: - | Gaz Yağı: - | Kalyak: - | Yüksek Kükürtlü Fuel Oil: - | Fuel Oil: - | Otogaz: 30,60
+MERKEZ | K.Benzin 95 Oktan: 54,22 | Motorin: 55,78 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+MUCUR | K.Benzin 95 Oktan: 54,22 | Motorin: 55,78 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -

@@ -1,0 +1,12 @@
+MANISA | K.Benzin 95 Oktan: - | Motorin: - | Gaz Yağı: - | Kalyak: - | Yüksek Kükürtlü Fuel Oil: - | Fuel Oil: - | Otogaz: 30,48
+MERKEZ | K.Benzin 95 Oktan: 54,28 | Motorin: 55,83 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+AHMETLI | K.Benzin 95 Oktan: 54,28 | Motorin: 55,83 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+AKHISAR | K.Benzin 95 Oktan: 54,28 | Motorin: 55,83 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+ALASEHIR | K.Benzin 95 Oktan: 54,28 | Motorin: 55,83 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+GOLMARMARA | K.Benzin 95 Oktan: 54,28 | Motorin: 55,83 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+KIRKAGAC | K.Benzin 95 Oktan: 54,28 | Motorin: 55,83 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+KULA | K.Benzin 95 Oktan: 54,28 | Motorin: 55,83 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+SALIHLI | K.Benzin 95 Oktan: 54,28 | Motorin: 55,83 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+SARIGOL | K.Benzin 95 Oktan: 54,28 | Motorin: 55,83 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+SOMA | K.Benzin 95 Oktan: 54,28 | Motorin: 55,83 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+TURGUTLU | K.Benzin 95 Oktan: 54,28 | Motorin: 55,83 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -

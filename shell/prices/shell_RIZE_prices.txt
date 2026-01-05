@@ -1,0 +1,5 @@
+RIZE | K.Benzin 95 Oktan: - | Motorin: - | Gaz Yağı: - | Kalyak: - | Yüksek Kükürtlü Fuel Oil: - | Fuel Oil: - | Otogaz: 31,29
+ARDESEN | K.Benzin 95 Oktan: 54,76 | Motorin: 56,32 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+CAMLIHEMSIN | K.Benzin 95 Oktan: 54,76 | Motorin: 56,32 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+CAYELI | K.Benzin 95 Oktan: 54,76 | Motorin: 56,32 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+IYIDERE | K.Benzin 95 Oktan: 54,76 | Motorin: 56,32 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -

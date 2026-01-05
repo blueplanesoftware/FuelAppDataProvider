@@ -1,0 +1,5 @@
+EDIRNE | K.Benzin 95 Oktan: - | Motorin: - | Gaz Yağı: - | Kalyak: - | Yüksek Kükürtlü Fuel Oil: - | Fuel Oil: - | Otogaz: 30,53
+MERKEZ | K.Benzin 95 Oktan: 54,09 | Motorin: 55,69 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+IPSALA | K.Benzin 95 Oktan: 54,09 | Motorin: 55,69 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+KESAN | K.Benzin 95 Oktan: 54,09 | Motorin: 55,69 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+UZUNKOPRU | K.Benzin 95 Oktan: 54,09 | Motorin: 55,69 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -

@@ -1,0 +1,7 @@
+DIYARBAKIR | K.Benzin 95 Oktan: - | Motorin: - | Gaz Yağı: - | Kalyak: - | Yüksek Kükürtlü Fuel Oil: - | Fuel Oil: - | Otogaz: 30,79
+MERKEZ | K.Benzin 95 Oktan: 55,32 | Motorin: 56,93 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+BAGLAR | K.Benzin 95 Oktan: 55,32 | Motorin: 56,93 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+BISMIL | K.Benzin 95 Oktan: 55,32 | Motorin: 56,93 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+ERGANI | K.Benzin 95 Oktan: 55,32 | Motorin: 56,93 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+KAYAPINAR | K.Benzin 95 Oktan: 55,32 | Motorin: 56,93 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+SUR | K.Benzin 95 Oktan: 55,32 | Motorin: 56,93 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -

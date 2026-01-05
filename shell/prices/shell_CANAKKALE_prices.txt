@@ -1,0 +1,8 @@
+CANAKKALE | K.Benzin 95 Oktan: - | Motorin: - | Gaz Yağı: - | Kalyak: - | Yüksek Kükürtlü Fuel Oil: - | Fuel Oil: - | Otogaz: 30,77
+MERKEZ | K.Benzin 95 Oktan: 54,57 | Motorin: 56,12 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+BAYRAMIC | K.Benzin 95 Oktan: 54,57 | Motorin: 56,12 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+BIGA | K.Benzin 95 Oktan: 54,57 | Motorin: 56,12 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+CAN | K.Benzin 95 Oktan: 54,57 | Motorin: 56,12 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+EZINE | K.Benzin 95 Oktan: 54,57 | Motorin: 56,12 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+GELIBOLU | K.Benzin 95 Oktan: 54,57 | Motorin: 56,12 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -
+LAPSEKI | K.Benzin 95 Oktan: 54,57 | Motorin: 56,12 | Gaz Yağı: 45,36 | Kalyak: 32,65 | Yüksek Kükürtlü Fuel Oil: 22,51 | Fuel Oil: 27,38 | Otogaz: -

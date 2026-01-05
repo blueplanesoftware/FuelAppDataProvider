@@ -1,0 +1,16 @@
+ADANA | 95: 54.89 | Diesel: 56.48 | Gazyağı: 47.57 | Kalorifer: 36.32 | FuelOil: 31.27 | Otogaz: 29.41
+ALADAG | 95: 54.89 | Diesel: 56.48 | Gazyağı: 47.55 | Kalorifer: 36.29 | FuelOil: 31.25 | Otogaz: 29.41
+CEYHAN | 95: 54.89 | Diesel: 56.48 | Gazyağı: 47.64 | Kalorifer: 36.38 | FuelOil: 31.34 | Otogaz: 29.41
+CUKUROVA | 95: 54.89 | Diesel: 56.48 | Gazyağı: 47.56 | Kalorifer: 36.31 | FuelOil: 31.26 | Otogaz: 29.41
+FEKE | 95: 54.89 | Diesel: 56.48 | Gazyağı: 47.60 | Kalorifer: 36.43 | FuelOil: 31.39 | Otogaz: 29.41
+IMAMOGLU | 95: 54.89 | Diesel: 56.48 | Gazyağı: 47.63 | Kalorifer: 36.38 | FuelOil: 31.33 | Otogaz: 29.41
+KARAISALI | 95: 54.89 | Diesel: 56.48 | Gazyağı: 47.54 | Kalorifer: 36.28 | FuelOil: 31.24 | Otogaz: 29.41
+KARATAS | 95: 54.89 | Diesel: 56.48 | Gazyağı: 47.65 | Kalorifer: 36.39 | FuelOil: 31.35 | Otogaz: 29.41
+KOZAN | 95: 54.89 | Diesel: 56.48 | Gazyağı: 47.67 | Kalorifer: 36.42 | FuelOil: 31.38 | Otogaz: 29.41
+POZANTI | 95: 54.89 | Diesel: 56.48 | Gazyağı: 47.06 | Kalorifer: 36.17 | FuelOil: 31.12 | Otogaz: 29.41
+SAIMBEYLI | 95: 54.89 | Diesel: 56.48 | Gazyağı: 47.10 | Kalorifer: 36.30 | FuelOil: 31.25 | Otogaz: 29.41
+SARICAM | 95: 54.89 | Diesel: 56.48 | Gazyağı: 47.58 | Kalorifer: 36.33 | FuelOil: 31.28 | Otogaz: 29.41
+SEYHAN | 95: 54.89 | Diesel: 56.48 | Gazyağı: 47.57 | Kalorifer: 36.32 | FuelOil: 31.27 | Otogaz: 29.41
+TUFANBEYLI | 95: 54.89 | Diesel: 56.48 | Gazyağı: 47.06 | Kalorifer: 36.26 | FuelOil: 31.21 | Otogaz: 29.41
+YUMURTALIK | 95: 54.89 | Diesel: 56.48 | Gazyağı: 47.68 | Kalorifer: 36.43 | FuelOil: 31.38 | Otogaz: 29.41
+YUREGIR | 95: 54.89 | Diesel: 56.48 | Gazyağı: 47.57 | Kalorifer: 36.32 | FuelOil: 31.27 | Otogaz: 29.41
