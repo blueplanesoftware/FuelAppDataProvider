@@ -1,0 +1,7 @@
+AKSARAY | K.Benzin 95: 52,69 | Gaz Yağı: 40,94 | Motorin: 54,51 | Motorin 2: 54,51 | Kalorifer Yakıtı: 31,49 | Fuel Oil: 26,46 | Y.K. Fuel Oil: 22,84 | Gaz: 28,99
+AGACOREN | K.Benzin 95: 52,70 | Gaz Yağı: 40,95 | Motorin: 54,52 | Motorin 2: 54,52 | Kalorifer Yakıtı: 31,50 | Fuel Oil: 26,47 | Y.K. Fuel Oil: 22,85 | Gaz: 28,99
+ESKIL | K.Benzin 95: 52,71 | Gaz Yağı: 40,96 | Motorin: 54,53 | Motorin 2: 54,53 | Kalorifer Yakıtı: 31,51 | Fuel Oil: 26,48 | Y.K. Fuel Oil: 22,86 | Gaz: 28,99
+GULAGAC | K.Benzin 95: 52,71 | Gaz Yağı: 40,96 | Motorin: 54,53 | Motorin 2: 54,53 | Kalorifer Yakıtı: 31,51 | Fuel Oil: 26,48 | Y.K. Fuel Oil: 22,86 | Gaz: 28,99
+GUZELYURT | K.Benzin 95: 52,70 | Gaz Yağı: 40,95 | Motorin: 54,52 | Motorin 2: 54,52 | Kalorifer Yakıtı: 31,50 | Fuel Oil: 26,47 | Y.K. Fuel Oil: 22,85 | Gaz: 28,99
+ORTAKOY | K.Benzin 95: 52,70 | Gaz Yağı: 40,95 | Motorin: 54,52 | Motorin 2: 54,52 | Kalorifer Yakıtı: 31,50 | Fuel Oil: 26,47 | Y.K. Fuel Oil: 22,85 | Gaz: 28,99
+SARIYAGSI | K.Benzin 95: 52,71 | Gaz Yağı: 40,96 | Motorin: 54,53 | Motorin 2: 54,53 | Kalorifer Yakıtı: 31,51 | Fuel Oil: 26,48 | Y.K. Fuel Oil: 22,86 | Gaz: 28,99

@@ -1,0 +1,6 @@
+BATMAN | K.Benzin 95: 53,06 | Gaz Yağı: 40,99 | Motorin: 54,97 | Motorin 2: 54,97 | Kalorifer Yakıtı: 31,52 | Fuel Oil: 26,49 | Y.K. Fuel Oil: 22,88 | Gaz: 28,92
+BESIRI | K.Benzin 95: 53,06 | Gaz Yağı: 40,99 | Motorin: 54,97 | Motorin 2: 54,97 | Kalorifer Yakıtı: 31,52 | Fuel Oil: 26,49 | Y.K. Fuel Oil: 22,88 | Gaz: 28,92
+GERCUS | K.Benzin 95: 53,07 | Gaz Yağı: 41,00 | Motorin: 54,98 | Motorin 2: 54,98 | Kalorifer Yakıtı: 31,53 | Fuel Oil: 26,50 | Y.K. Fuel Oil: 22,89 | Gaz: 28,92
+HASANKEYF | K.Benzin 95: 53,07 | Gaz Yağı: 41,00 | Motorin: 54,98 | Motorin 2: 54,98 | Kalorifer Yakıtı: 31,53 | Fuel Oil: 26,50 | Y.K. Fuel Oil: 22,89 | Gaz: 28,92
+KOZLUK | K.Benzin 95: 53,06 | Gaz Yağı: 40,99 | Motorin: 54,97 | Motorin 2: 54,97 | Kalorifer Yakıtı: 31,52 | Fuel Oil: 26,49 | Y.K. Fuel Oil: 22,88 | Gaz: 28,92
+SASON | K.Benzin 95: 53,06 | Gaz Yağı: 40,99 | Motorin: 54,97 | Motorin 2: 54,97 | Kalorifer Yakıtı: 31,52 | Fuel Oil: 26,49 | Y.K. Fuel Oil: 22,88 | Gaz: 28,92

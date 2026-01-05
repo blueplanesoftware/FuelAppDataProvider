@@ -1,0 +1,14 @@
+CORUM | K.Benzin 95: 52,41 | Gaz Yağı: 40,94 | Motorin: 54,28 | Motorin 2: 54,28 | Kalorifer Yakıtı: 31,49 | Fuel Oil: 26,46 | Y.K. Fuel Oil: 22,83 | Gaz: 28,93
+ALACA | K.Benzin 95: 52,40 | Gaz Yağı: 40,93 | Motorin: 54,27 | Motorin 2: 54,27 | Kalorifer Yakıtı: 31,48 | Fuel Oil: 26,45 | Y.K. Fuel Oil: 22,82 | Gaz: 28,93
+BAYAT | K.Benzin 95: 52,40 | Gaz Yağı: 40,93 | Motorin: 54,27 | Motorin 2: 54,27 | Kalorifer Yakıtı: 31,48 | Fuel Oil: 26,45 | Y.K. Fuel Oil: 22,82 | Gaz: 28,93
+BOGAZKALE | K.Benzin 95: 52,41 | Gaz Yağı: 40,94 | Motorin: 54,28 | Motorin 2: 54,28 | Kalorifer Yakıtı: 31,49 | Fuel Oil: 26,46 | Y.K. Fuel Oil: 22,83 | Gaz: 28,93
+DODURGA | K.Benzin 95: 52,42 | Gaz Yağı: 40,95 | Motorin: 54,29 | Motorin 2: 54,29 | Kalorifer Yakıtı: 31,50 | Fuel Oil: 26,47 | Y.K. Fuel Oil: 22,84 | Gaz: 28,93
+ISKILIP | K.Benzin 95: 52,41 | Gaz Yağı: 40,94 | Motorin: 54,28 | Motorin 2: 54,28 | Kalorifer Yakıtı: 31,49 | Fuel Oil: 26,46 | Y.K. Fuel Oil: 22,83 | Gaz: 28,93
+KARGI | K.Benzin 95: 52,43 | Gaz Yağı: 40,96 | Motorin: 54,30 | Motorin 2: 54,30 | Kalorifer Yakıtı: 31,51 | Fuel Oil: 26,48 | Y.K. Fuel Oil: 22,85 | Gaz: 28,93
+LACIN | K.Benzin 95: 52,41 | Gaz Yağı: 40,94 | Motorin: 54,28 | Motorin 2: 54,28 | Kalorifer Yakıtı: 31,49 | Fuel Oil: 26,46 | Y.K. Fuel Oil: 22,83 | Gaz: 28,93
+MECITOZU | K.Benzin 95: 52,42 | Gaz Yağı: 40,95 | Motorin: 54,29 | Motorin 2: 54,29 | Kalorifer Yakıtı: 31,50 | Fuel Oil: 26,47 | Y.K. Fuel Oil: 22,84 | Gaz: 28,93
+OGUZLAR | K.Benzin 95: 52,42 | Gaz Yağı: 40,95 | Motorin: 54,29 | Motorin 2: 54,29 | Kalorifer Yakıtı: 31,50 | Fuel Oil: 26,47 | Y.K. Fuel Oil: 22,84 | Gaz: 28,93
+ORTAKOY | K.Benzin 95: 52,42 | Gaz Yağı: 40,95 | Motorin: 54,29 | Motorin 2: 54,29 | Kalorifer Yakıtı: 31,50 | Fuel Oil: 26,47 | Y.K. Fuel Oil: 22,84 | Gaz: 28,93
+OSMANCIK | K.Benzin 95: 52,42 | Gaz Yağı: 40,95 | Motorin: 54,29 | Motorin 2: 54,29 | Kalorifer Yakıtı: 31,50 | Fuel Oil: 26,47 | Y.K. Fuel Oil: 22,84 | Gaz: 28,93
+SUNGURLU | K.Benzin 95: 52,40 | Gaz Yağı: 40,93 | Motorin: 54,27 | Motorin 2: 54,27 | Kalorifer Yakıtı: 31,48 | Fuel Oil: 26,45 | Y.K. Fuel Oil: 22,82 | Gaz: 28,93
+UGURLUDAG | K.Benzin 95: 52,42 | Gaz Yağı: 40,95 | Motorin: 54,29 | Motorin 2: 54,29 | Kalorifer Yakıtı: 31,50 | Fuel Oil: 26,47 | Y.K. Fuel Oil: 22,84 | Gaz: 28,93

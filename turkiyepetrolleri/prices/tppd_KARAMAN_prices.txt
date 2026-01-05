@@ -1,0 +1,6 @@
+KARAMAN | K.Benzin 95: 52,66 | Gaz Yağı: 40,96 | Motorin: 54,50 | Motorin 2: 54,50 | Kalorifer Yakıtı: 31,56 | Fuel Oil: 26,53 | Y.K. Fuel Oil: 22,86 | Gaz: 29,10
+AYRANCI | K.Benzin 95: 52,66 | Gaz Yağı: 40,96 | Motorin: 54,50 | Motorin 2: 54,50 | Kalorifer Yakıtı: 31,56 | Fuel Oil: 26,53 | Y.K. Fuel Oil: 22,86 | Gaz: 29,10
+BASYAYLA | K.Benzin 95: 52,67 | Gaz Yağı: 40,97 | Motorin: 54,51 | Motorin 2: 54,51 | Kalorifer Yakıtı: 31,57 | Fuel Oil: 26,54 | Y.K. Fuel Oil: 22,87 | Gaz: 29,10
+ERMENEK | K.Benzin 95: 52,66 | Gaz Yağı: 40,96 | Motorin: 54,50 | Motorin 2: 54,50 | Kalorifer Yakıtı: 31,56 | Fuel Oil: 26,53 | Y.K. Fuel Oil: 22,86 | Gaz: 29,10
+K.KARABEKIR | K.Benzin 95: 52,66 | Gaz Yağı: 40,96 | Motorin: 54,50 | Motorin 2: 54,50 | Kalorifer Yakıtı: 31,56 | Fuel Oil: 26,53 | Y.K. Fuel Oil: 22,86 | Gaz: 29,10
+SARIVELILER | K.Benzin 95: 52,68 | Gaz Yağı: 40,98 | Motorin: 54,52 | Motorin 2: 54,52 | Kalorifer Yakıtı: 31,58 | Fuel Oil: 26,55 | Y.K. Fuel Oil: 22,88 | Gaz: 29,10

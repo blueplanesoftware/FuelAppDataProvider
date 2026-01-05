@@ -1,0 +1,9 @@
+ADIYAMAN | 95: 55.21 | Diesel: 56.82 | Gazyağı: 47.88 | Kalorifer: 37.40 | FuelOil: 31.75 | Otogaz: 29.54
+BESNI | 95: 55.21 | Diesel: 56.82 | Gazyağı: 47.90 | Kalorifer: 37.41 | FuelOil: 31.75 | Otogaz: 29.54
+CELIKHAN | 95: 55.21 | Diesel: 56.82 | Gazyağı: 47.80 | Kalorifer: 37.33 | FuelOil: 31.73 | Otogaz: 29.54
+GERGER | 95: 55.21 | Diesel: 56.82 | Gazyağı: 47.92 | Kalorifer: 37.42 | FuelOil: 31.75 | Otogaz: 29.54
+GOLBASI | 95: 55.21 | Diesel: 56.82 | Gazyağı: 47.85 | Kalorifer: 37.38 | FuelOil: 31.74 | Otogaz: 29.54
+KAHTA | 95: 55.21 | Diesel: 56.82 | Gazyağı: 47.92 | Kalorifer: 37.42 | FuelOil: 31.75 | Otogaz: 29.54
+SAMSAT | 95: 55.21 | Diesel: 56.82 | Gazyağı: 47.94 | Kalorifer: 37.43 | FuelOil: 31.75 | Otogaz: 29.54
+SINCIK | 95: 55.21 | Diesel: 56.82 | Gazyağı: 47.87 | Kalorifer: 37.40 | FuelOil: 31.75 | Otogaz: 29.54
+TUT | 95: 55.21 | Diesel: 56.82 | Gazyağı: 47.91 | Kalorifer: 37.42 | FuelOil: 31.75 | Otogaz: 29.54

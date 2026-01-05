@@ -1,0 +1,8 @@
+BINGOL | K.Benzin 95: 53,10 | Gaz Yağı: 41,05 | Motorin: 55,02 | Motorin 2: 55,02 | Kalorifer Yakıtı: 31,70 | Fuel Oil: 26,67 | Y.K. Fuel Oil: 22,94 | Gaz: 29,30
+ADAKLI | K.Benzin 95: 53,12 | Gaz Yağı: 41,07 | Motorin: 55,04 | Motorin 2: 55,04 | Kalorifer Yakıtı: 31,72 | Fuel Oil: 26,69 | Y.K. Fuel Oil: 22,96 | Gaz: 29,30
+GENC | K.Benzin 95: 53,09 | Gaz Yağı: 41,04 | Motorin: 55,01 | Motorin 2: 55,01 | Kalorifer Yakıtı: 31,69 | Fuel Oil: 26,66 | Y.K. Fuel Oil: 22,93 | Gaz: 29,30
+KARLIOVA | K.Benzin 95: 53,12 | Gaz Yağı: 41,07 | Motorin: 55,04 | Motorin 2: 55,04 | Kalorifer Yakıtı: 31,72 | Fuel Oil: 26,69 | Y.K. Fuel Oil: 22,96 | Gaz: 29,30
+KIGI | K.Benzin 95: 53,12 | Gaz Yağı: 41,07 | Motorin: 55,04 | Motorin 2: 55,04 | Kalorifer Yakıtı: 31,72 | Fuel Oil: 26,69 | Y.K. Fuel Oil: 22,96 | Gaz: 29,30
+SOLHAN | K.Benzin 95: 53,12 | Gaz Yağı: 41,07 | Motorin: 55,04 | Motorin 2: 55,04 | Kalorifer Yakıtı: 31,72 | Fuel Oil: 26,69 | Y.K. Fuel Oil: 22,96 | Gaz: 29,30
+YAYLADERE | K.Benzin 95: 53,13 | Gaz Yağı: 41,08 | Motorin: 55,05 | Motorin 2: 55,05 | Kalorifer Yakıtı: 31,73 | Fuel Oil: 26,70 | Y.K. Fuel Oil: 22,97 | Gaz: 29,30
+YEDISU | K.Benzin 95: 53,14 | Gaz Yağı: 41,09 | Motorin: 55,06 | Motorin 2: 55,06 | Kalorifer Yakıtı: 31,74 | Fuel Oil: 26,71 | Y.K. Fuel Oil: 22,98 | Gaz: 29,30

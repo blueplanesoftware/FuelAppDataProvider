@@ -1,0 +1,8 @@
+AGRI | K.Benzin 95: 53,08 | Gaz Yağı: 41,07 | Motorin: 54,94 | Motorin 2: 54,94 | Kalorifer Yakıtı: 31,63 | Fuel Oil: 26,60 | Y.K. Fuel Oil: 22,97 | Gaz: 30,33
+DIYADIN | K.Benzin 95: 53,10 | Gaz Yağı: 41,09 | Motorin: 54,96 | Motorin 2: 54,96 | Kalorifer Yakıtı: 31,65 | Fuel Oil: 26,62 | Y.K. Fuel Oil: 22,99 | Gaz: 30,33
+DOGUBEYAZIT | K.Benzin 95: 53,09 | Gaz Yağı: 41,08 | Motorin: 54,95 | Motorin 2: 54,95 | Kalorifer Yakıtı: 31,64 | Fuel Oil: 26,61 | Y.K. Fuel Oil: 22,98 | Gaz: 30,33
+ELESKIRT | K.Benzin 95: 53,08 | Gaz Yağı: 41,07 | Motorin: 54,94 | Motorin 2: 54,94 | Kalorifer Yakıtı: 31,63 | Fuel Oil: 26,60 | Y.K. Fuel Oil: 22,97 | Gaz: 30,33
+HAMUR | K.Benzin 95: 53,08 | Gaz Yağı: 41,07 | Motorin: 54,94 | Motorin 2: 54,94 | Kalorifer Yakıtı: 31,63 | Fuel Oil: 26,60 | Y.K. Fuel Oil: 22,97 | Gaz: 30,33
+PATNOS | K.Benzin 95: 53,10 | Gaz Yağı: 41,09 | Motorin: 54,96 | Motorin 2: 54,96 | Kalorifer Yakıtı: 31,65 | Fuel Oil: 26,62 | Y.K. Fuel Oil: 22,99 | Gaz: 30,33
+TASLICAY | K.Benzin 95: 53,09 | Gaz Yağı: 41,08 | Motorin: 54,95 | Motorin 2: 54,95 | Kalorifer Yakıtı: 31,64 | Fuel Oil: 26,61 | Y.K. Fuel Oil: 22,98 | Gaz: 30,33
+TUTAK | K.Benzin 95: 53,09 | Gaz Yağı: 41,08 | Motorin: 54,95 | Motorin 2: 54,95 | Kalorifer Yakıtı: 31,64 | Fuel Oil: 26,61 | Y.K. Fuel Oil: 22,98 | Gaz: 30,33

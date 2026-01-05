@@ -1,0 +1,7 @@
+KIRSEHIR | K.Benzin 95: 52,08 | Gaz Yağı: 40,93 | Motorin: 53,97 | Motorin 2: 53,97 | Kalorifer Yakıtı: 31,49 | Fuel Oil: 26,46 | Y.K. Fuel Oil: 22,82 | Gaz: 28,94
+AKCAKENT | K.Benzin 95: 52,09 | Gaz Yağı: 40,94 | Motorin: 53,98 | Motorin 2: 53,98 | Kalorifer Yakıtı: 31,50 | Fuel Oil: 26,47 | Y.K. Fuel Oil: 22,83 | Gaz: 28,94
+AKPINAR | K.Benzin 95: 52,07 | Gaz Yağı: 40,92 | Motorin: 53,96 | Motorin 2: 53,96 | Kalorifer Yakıtı: 31,48 | Fuel Oil: 26,45 | Y.K. Fuel Oil: 22,81 | Gaz: 28,94
+BOZTEPE | K.Benzin 95: 52,08 | Gaz Yağı: 40,93 | Motorin: 53,97 | Motorin 2: 53,97 | Kalorifer Yakıtı: 31,49 | Fuel Oil: 26,46 | Y.K. Fuel Oil: 22,82 | Gaz: 28,94
+CICEKDAGI | K.Benzin 95: 52,09 | Gaz Yağı: 40,94 | Motorin: 53,98 | Motorin 2: 53,98 | Kalorifer Yakıtı: 31,50 | Fuel Oil: 26,47 | Y.K. Fuel Oil: 22,83 | Gaz: 28,94
+KAMAN | K.Benzin 95: 52,07 | Gaz Yağı: 40,92 | Motorin: 53,96 | Motorin 2: 53,96 | Kalorifer Yakıtı: 31,48 | Fuel Oil: 26,45 | Y.K. Fuel Oil: 22,81 | Gaz: 28,94
+MUCUR | K.Benzin 95: 52,09 | Gaz Yağı: 40,94 | Motorin: 53,98 | Motorin 2: 53,98 | Kalorifer Yakıtı: 31,50 | Fuel Oil: 26,47 | Y.K. Fuel Oil: 22,83 | Gaz: 28,94

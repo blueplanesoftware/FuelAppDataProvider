@@ -1,0 +1,12 @@
+TOKAT | K.Benzin 95: 52,46 | Gaz Yağı: 40,96 | Motorin: 54,31 | Motorin 2: 54,31 | Kalorifer Yakıtı: 31,52 | Fuel Oil: 26,49 | Y.K. Fuel Oil: 22,85 | Gaz: 29,24
+ALMUS | K.Benzin 95: 52,47 | Gaz Yağı: 40,97 | Motorin: 54,32 | Motorin 2: 54,32 | Kalorifer Yakıtı: 31,53 | Fuel Oil: 26,50 | Y.K. Fuel Oil: 22,86 | Gaz: 29,24
+ARTOVA | K.Benzin 95: 52,47 | Gaz Yağı: 40,97 | Motorin: 54,32 | Motorin 2: 54,32 | Kalorifer Yakıtı: 31,53 | Fuel Oil: 26,50 | Y.K. Fuel Oil: 22,86 | Gaz: 29,24
+BASCIFTLIK | K.Benzin 95: 52,47 | Gaz Yağı: 40,97 | Motorin: 54,32 | Motorin 2: 54,32 | Kalorifer Yakıtı: 31,53 | Fuel Oil: 26,50 | Y.K. Fuel Oil: 22,86 | Gaz: 29,24
+ERBAA | K.Benzin 95: 52,46 | Gaz Yağı: 40,96 | Motorin: 54,31 | Motorin 2: 54,31 | Kalorifer Yakıtı: 31,52 | Fuel Oil: 26,49 | Y.K. Fuel Oil: 22,85 | Gaz: 29,24
+NIKSAR | K.Benzin 95: 52,47 | Gaz Yağı: 40,97 | Motorin: 54,32 | Motorin 2: 54,32 | Kalorifer Yakıtı: 31,53 | Fuel Oil: 26,50 | Y.K. Fuel Oil: 22,86 | Gaz: 29,24
+PAZAR | K.Benzin 95: 52,46 | Gaz Yağı: 40,96 | Motorin: 54,31 | Motorin 2: 54,31 | Kalorifer Yakıtı: 31,52 | Fuel Oil: 26,49 | Y.K. Fuel Oil: 22,85 | Gaz: 29,24
+RESADIYE | K.Benzin 95: 52,47 | Gaz Yağı: 40,97 | Motorin: 54,32 | Motorin 2: 54,32 | Kalorifer Yakıtı: 31,53 | Fuel Oil: 26,50 | Y.K. Fuel Oil: 22,86 | Gaz: 29,24
+SULUSARAY | K.Benzin 95: 52,47 | Gaz Yağı: 40,97 | Motorin: 54,32 | Motorin 2: 54,32 | Kalorifer Yakıtı: 31,53 | Fuel Oil: 26,50 | Y.K. Fuel Oil: 22,86 | Gaz: 29,24
+TURHAL | K.Benzin 95: 52,46 | Gaz Yağı: 40,96 | Motorin: 54,31 | Motorin 2: 54,31 | Kalorifer Yakıtı: 31,52 | Fuel Oil: 26,49 | Y.K. Fuel Oil: 22,85 | Gaz: 29,24
+YESILYURT | K.Benzin 95: 52,47 | Gaz Yağı: 40,97 | Motorin: 54,32 | Motorin 2: 54,32 | Kalorifer Yakıtı: 31,53 | Fuel Oil: 26,50 | Y.K. Fuel Oil: 22,86 | Gaz: 29,24
+ZILE | K.Benzin 95: 52,45 | Gaz Yağı: 40,95 | Motorin: 54,30 | Motorin 2: 54,30 | Kalorifer Yakıtı: 31,51 | Fuel Oil: 26,48 | Y.K. Fuel Oil: 22,84 | Gaz: 29,24

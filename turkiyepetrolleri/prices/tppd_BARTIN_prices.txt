@@ -1,0 +1,4 @@
+BARTIN | K.Benzin 95: 52,12 | Gaz Yağı: 40,96 | Motorin: 53,80 | Motorin 2: 53,80 | Kalorifer Yakıtı: 31,46 | Fuel Oil: 26,43 | Y.K. Fuel Oil: 22,86 | Gaz: 28,80
+AMASRA | K.Benzin 95: 52,13 | Gaz Yağı: 40,97 | Motorin: 53,81 | Motorin 2: 53,81 | Kalorifer Yakıtı: 31,47 | Fuel Oil: 26,44 | Y.K. Fuel Oil: 22,87 | Gaz: 28,80
+KURUCASILE | K.Benzin 95: 52,14 | Gaz Yağı: 40,98 | Motorin: 53,82 | Motorin 2: 53,82 | Kalorifer Yakıtı: 31,48 | Fuel Oil: 26,45 | Y.K. Fuel Oil: 22,88 | Gaz: 28,80
+ULUS | K.Benzin 95: 52,13 | Gaz Yağı: 40,97 | Motorin: 53,81 | Motorin 2: 53,81 | Kalorifer Yakıtı: 31,47 | Fuel Oil: 26,44 | Y.K. Fuel Oil: 22,87 | Gaz: 28,80

@@ -1,0 +1,4 @@
+IGDIR | K.Benzin 95: 53,11 | Gaz Yağı: 41,09 | Motorin: 54,96 | Motorin 2: 54,96 | Kalorifer Yakıtı: 31,64 | Fuel Oil: 26,61 | Y.K. Fuel Oil: 22,98 | Gaz: 29,94
+ARALIK | K.Benzin 95: 53,11 | Gaz Yağı: 41,09 | Motorin: 54,96 | Motorin 2: 54,96 | Kalorifer Yakıtı: 31,64 | Fuel Oil: 26,61 | Y.K. Fuel Oil: 22,98 | Gaz: 29,94
+KARAKOYUNLU | K.Benzin 95: 53,11 | Gaz Yağı: 41,09 | Motorin: 54,96 | Motorin 2: 54,96 | Kalorifer Yakıtı: 31,64 | Fuel Oil: 26,61 | Y.K. Fuel Oil: 22,98 | Gaz: 29,94
+TUZLUCA | K.Benzin 95: 53,10 | Gaz Yağı: 41,08 | Motorin: 54,95 | Motorin 2: 54,95 | Kalorifer Yakıtı: 31,63 | Fuel Oil: 26,60 | Y.K. Fuel Oil: 22,97 | Gaz: 29,94

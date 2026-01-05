@@ -1,0 +1,6 @@
+NIGDE | K.Benzin 95: 52,60 | Gaz Yağı: 40,95 | Motorin: 54,48 | Motorin 2: 54,48 | Kalorifer Yakıtı: 31,51 | Fuel Oil: 26,48 | Y.K. Fuel Oil: 22,85 | Gaz: 28,75
+ALTUNHISAR | K.Benzin 95: 52,60 | Gaz Yağı: 40,95 | Motorin: 54,48 | Motorin 2: 54,48 | Kalorifer Yakıtı: 31,51 | Fuel Oil: 26,48 | Y.K. Fuel Oil: 22,85 | Gaz: 28,75
+BOR | K.Benzin 95: 52,60 | Gaz Yağı: 40,95 | Motorin: 54,48 | Motorin 2: 54,48 | Kalorifer Yakıtı: 31,51 | Fuel Oil: 26,48 | Y.K. Fuel Oil: 22,85 | Gaz: 28,75
+CAMARDI | K.Benzin 95: 52,60 | Gaz Yağı: 40,95 | Motorin: 54,48 | Motorin 2: 54,48 | Kalorifer Yakıtı: 31,51 | Fuel Oil: 26,48 | Y.K. Fuel Oil: 22,85 | Gaz: 28,75
+CIFTLIK | K.Benzin 95: 52,61 | Gaz Yağı: 40,96 | Motorin: 54,49 | Motorin 2: 54,49 | Kalorifer Yakıtı: 31,52 | Fuel Oil: 26,49 | Y.K. Fuel Oil: 22,86 | Gaz: 28,75
+ULUKISLA | K.Benzin 95: 52,60 | Gaz Yağı: 40,95 | Motorin: 54,48 | Motorin 2: 54,48 | Kalorifer Yakıtı: 31,51 | Fuel Oil: 26,48 | Y.K. Fuel Oil: 22,85 | Gaz: 28,75
