@@ -1,0 +1,9 @@
+BOLU | K.Benzin 95: 51,90 | Gaz Yağı: 40,95 | Motorin: 53,57 | Motorin 2: 53,57 | Kalorifer Yakıtı: 31,43 | Fuel Oil: 26,40 | Y.K. Fuel Oil: 22,85 | Gaz: 28,66
+DORTDIVAN | K.Benzin 95: 51,91 | Gaz Yağı: 40,96 | Motorin: 53,58 | Motorin 2: 53,58 | Kalorifer Yakıtı: 31,44 | Fuel Oil: 26,41 | Y.K. Fuel Oil: 22,86 | Gaz: 28,66
+GEREDE | K.Benzin 95: 51,91 | Gaz Yağı: 40,96 | Motorin: 53,58 | Motorin 2: 53,58 | Kalorifer Yakıtı: 31,44 | Fuel Oil: 26,41 | Y.K. Fuel Oil: 22,86 | Gaz: 28,66
+GOYNUK | K.Benzin 95: 51,90 | Gaz Yağı: 40,95 | Motorin: 53,57 | Motorin 2: 53,57 | Kalorifer Yakıtı: 31,43 | Fuel Oil: 26,40 | Y.K. Fuel Oil: 22,85 | Gaz: 28,66
+KIBRISCIK | K.Benzin 95: 51,91 | Gaz Yağı: 40,96 | Motorin: 53,58 | Motorin 2: 53,58 | Kalorifer Yakıtı: 31,44 | Fuel Oil: 26,41 | Y.K. Fuel Oil: 22,86 | Gaz: 28,66
+MENGEN | K.Benzin 95: 51,91 | Gaz Yağı: 40,96 | Motorin: 53,58 | Motorin 2: 53,58 | Kalorifer Yakıtı: 31,44 | Fuel Oil: 26,41 | Y.K. Fuel Oil: 22,86 | Gaz: 28,66
+MUDURNU | K.Benzin 95: 51,90 | Gaz Yağı: 40,95 | Motorin: 53,57 | Motorin 2: 53,57 | Kalorifer Yakıtı: 31,43 | Fuel Oil: 26,40 | Y.K. Fuel Oil: 22,85 | Gaz: 28,66
+SEBEN | K.Benzin 95: 51,91 | Gaz Yağı: 40,96 | Motorin: 53,58 | Motorin 2: 53,58 | Kalorifer Yakıtı: 31,44 | Fuel Oil: 26,41 | Y.K. Fuel Oil: 22,86 | Gaz: 28,66
+YENICAGA | K.Benzin 95: 51,91 | Gaz Yağı: 40,96 | Motorin: 53,58 | Motorin 2: 53,58 | Kalorifer Yakıtı: 31,44 | Fuel Oil: 26,41 | Y.K. Fuel Oil: 22,86 | Gaz: 28,66

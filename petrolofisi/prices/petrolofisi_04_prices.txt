@@ -1,0 +1,8 @@
+AGRI | 95: 55.37 | Diesel: 56.95 | Gazyağı: 48.37 | Kalorifer: 37.60 | FuelOil: 31.82 | Otogaz: 30.04
+DIYADIN | 95: 55.37 | Diesel: 56.95 | Gazyağı: 49.14 | Kalorifer: 37.62 | FuelOil: 31.83 | Otogaz: 30.04
+DOGUBEYAZIT | 95: 55.37 | Diesel: 56.95 | Gazyağı: 49.19 | Kalorifer: 37.63 | FuelOil: 31.84 | Otogaz: 30.04
+ELESKIRT | 95: 55.37 | Diesel: 56.95 | Gazyağı: 48.32 | Kalorifer: 37.59 | FuelOil: 31.80 | Otogaz: 30.04
+HAMUR | 95: 55.37 | Diesel: 56.95 | Gazyağı: 49.07 | Kalorifer: 37.60 | FuelOil: 31.82 | Otogaz: 30.04
+PATNOS | 95: 55.37 | Diesel: 56.95 | Gazyağı: 49.12 | Kalorifer: 37.61 | FuelOil: 31.83 | Otogaz: 30.04
+TASLICAY | 95: 55.37 | Diesel: 56.95 | Gazyağı: 49.10 | Kalorifer: 37.61 | FuelOil: 31.82 | Otogaz: 30.04
+TUTAK | 95: 55.37 | Diesel: 56.95 | Gazyağı: 48.38 | Kalorifer: 37.60 | FuelOil: 31.82 | Otogaz: 30.04

@@ -7,6 +7,9 @@ from shell import save_city_prices_txt, save_all_cities_prices_txt
 import shell
 from opet import save_city_prices_txt as opet_save_city_prices_txt, save_all_cities_prices_txt as opet_save_all_cities_prices_txt
 import opet
+from turkiyepetrolleri.scraper import fetch_all_cities_prices as tppd_fetch_all_cities_prices
+from turkiyepetrolleri import save_city_prices_txt as tppd_save_city_prices_txt, save_all_cities_prices_txt as tppd_save_all_cities_prices_txt
+import turkiyepetrolleri
 from parkoil import save_city_prices_txt as parkoil_save_city_prices_txt, save_all_cities_prices_txt as parkoil_save_all_cities_prices_txt
 import parkoil
 from rpet import save_city_prices_txt as rpet_save_city_prices_txt, save_all_cities_prices_txt as rpet_save_all_cities_prices_txt
@@ -90,7 +93,13 @@ def run_rpet():
 	else:
 		fp = rpet_save_city_prices_txt(args.city, output_dir, debug=args.debug)
 		print(f"Kaydedildi: {fp}")
-
+def run_turkiyepetrolleri():
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector (PWDEBUG=1 önerilir)")
+	args = parser.parse_args()
+	# Tüm şehirler için otomatik olarak fiyat txt'leri üret (Petrolofisi gibi)
+	output_dir = Path(turkiyepetrolleri.__file__).parent / "prices"
+	tppd_fetch_all_cities_prices(output_dir, debug=args.debug)
 
 if __name__ == "__main__":
 	run_rpet()

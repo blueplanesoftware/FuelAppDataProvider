@@ -1,0 +1,7 @@
+AMASYA | K.Benzin 95: 52,41 | Gaz Yağı: 40,95 | Motorin: 54,25 | Motorin 2: 54,25 | Kalorifer Yakıtı: 31,49 | Fuel Oil: 26,46 | Y.K. Fuel Oil: 22,85 | Gaz: 29,38
+GOYNUCEK | K.Benzin 95: 52,43 | Gaz Yağı: 40,97 | Motorin: 54,27 | Motorin 2: 54,27 | Kalorifer Yakıtı: 31,51 | Fuel Oil: 26,48 | Y.K. Fuel Oil: 22,87 | Gaz: 29,38
+GUMUSHACIKOY | K.Benzin 95: 52,41 | Gaz Yağı: 40,95 | Motorin: 54,25 | Motorin 2: 54,25 | Kalorifer Yakıtı: 31,49 | Fuel Oil: 26,46 | Y.K. Fuel Oil: 22,85 | Gaz: 29,38
+HAMAMOZU | K.Benzin 95: 52,42 | Gaz Yağı: 40,96 | Motorin: 54,26 | Motorin 2: 54,26 | Kalorifer Yakıtı: 31,50 | Fuel Oil: 26,47 | Y.K. Fuel Oil: 22,86 | Gaz: 29,38
+MERZIFON | K.Benzin 95: 52,41 | Gaz Yağı: 40,95 | Motorin: 54,25 | Motorin 2: 54,25 | Kalorifer Yakıtı: 31,49 | Fuel Oil: 26,46 | Y.K. Fuel Oil: 22,85 | Gaz: 29,38
+SULUOVA | K.Benzin 95: 52,41 | Gaz Yağı: 40,95 | Motorin: 54,25 | Motorin 2: 54,25 | Kalorifer Yakıtı: 31,49 | Fuel Oil: 26,46 | Y.K. Fuel Oil: 22,85 | Gaz: 29,38
+TASOVA | K.Benzin 95: 52,41 | Gaz Yağı: 40,95 | Motorin: 54,25 | Motorin 2: 54,25 | Kalorifer Yakıtı: 31,49 | Fuel Oil: 26,46 | Y.K. Fuel Oil: 22,85 | Gaz: 29,38

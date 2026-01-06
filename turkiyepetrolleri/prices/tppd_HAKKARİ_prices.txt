@@ -1,0 +1,5 @@
+HAKKARI | K.Benzin 95: 53,20 | Gaz Yağı: 41,12 | Motorin: 55,09 | Motorin 2: 55,09 | Kalorifer Yakıtı: 31,77 | Fuel Oil: 26,74 | Y.K. Fuel Oil: 23,02 | Gaz: 29,67
+CUKURCA | K.Benzin 95: 53,22 | Gaz Yağı: 41,14 | Motorin: 55,11 | Motorin 2: 55,11 | Kalorifer Yakıtı: 31,79 | Fuel Oil: 26,76 | Y.K. Fuel Oil: 23,04 | Gaz: 29,67
+ESENDERE | K.Benzin 95: 53,22 | Gaz Yağı: 41,14 | Motorin: 55,11 | Motorin 2: 55,11 | Kalorifer Yakıtı: 31,79 | Fuel Oil: 26,76 | Y.K. Fuel Oil: 23,04 | Gaz: 29,67
+SEMDINLI | K.Benzin 95: 53,21 | Gaz Yağı: 41,13 | Motorin: 55,10 | Motorin 2: 55,10 | Kalorifer Yakıtı: 31,78 | Fuel Oil: 26,75 | Y.K. Fuel Oil: 23,03 | Gaz: 29,67
+YUKSEKOVA | K.Benzin 95: 53,20 | Gaz Yağı: 41,12 | Motorin: 55,09 | Motorin 2: 55,09 | Kalorifer Yakıtı: 31,77 | Fuel Oil: 26,74 | Y.K. Fuel Oil: 23,02 | Gaz: 29,67

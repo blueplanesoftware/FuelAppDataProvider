@@ -1,0 +1,6 @@
+GUMUSHANE | K.Benzin 95: 52,56 | Gaz Yağı: 41,01 | Motorin: 54,41 | Motorin 2: 54,41 | Kalorifer Yakıtı: 31,56 | Fuel Oil: 26,53 | Y.K. Fuel Oil: 22,90 | Gaz: 29,43
+KELKIT | K.Benzin 95: 52,58 | Gaz Yağı: 41,03 | Motorin: 54,43 | Motorin 2: 54,43 | Kalorifer Yakıtı: 31,58 | Fuel Oil: 26,55 | Y.K. Fuel Oil: 22,92 | Gaz: 29,43
+KOSE | K.Benzin 95: 52,57 | Gaz Yağı: 41,02 | Motorin: 54,42 | Motorin 2: 54,42 | Kalorifer Yakıtı: 31,57 | Fuel Oil: 26,54 | Y.K. Fuel Oil: 22,91 | Gaz: 29,43
+KURTUN | K.Benzin 95: 52,56 | Gaz Yağı: 41,01 | Motorin: 54,41 | Motorin 2: 54,41 | Kalorifer Yakıtı: 31,56 | Fuel Oil: 26,53 | Y.K. Fuel Oil: 22,90 | Gaz: 29,43
+SIRAN | K.Benzin 95: 52,59 | Gaz Yağı: 41,04 | Motorin: 54,44 | Motorin 2: 54,44 | Kalorifer Yakıtı: 31,59 | Fuel Oil: 26,56 | Y.K. Fuel Oil: 22,93 | Gaz: 29,43
+TORUL | K.Benzin 95: 52,56 | Gaz Yağı: 41,01 | Motorin: 54,41 | Motorin 2: 54,41 | Kalorifer Yakıtı: 31,56 | Fuel Oil: 26,53 | Y.K. Fuel Oil: 22,90 | Gaz: 29,43

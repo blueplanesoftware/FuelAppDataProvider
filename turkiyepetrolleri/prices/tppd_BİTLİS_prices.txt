@@ -1,0 +1,7 @@
+BITLIS | K.Benzin 95: 53,16 | Gaz Yağı: 41,08 | Motorin: 55,06 | Motorin 2: 55,06 | Kalorifer Yakıtı: 31,73 | Fuel Oil: 26,70 | Y.K. Fuel Oil: 22,97 | Gaz: 29,03
+ADILCEVAZ | K.Benzin 95: 53,19 | Gaz Yağı: 41,11 | Motorin: 55,09 | Motorin 2: 55,09 | Kalorifer Yakıtı: 31,76 | Fuel Oil: 26,73 | Y.K. Fuel Oil: 23,00 | Gaz: 29,03
+AHLAT | K.Benzin 95: 53,18 | Gaz Yağı: 41,10 | Motorin: 55,08 | Motorin 2: 55,08 | Kalorifer Yakıtı: 31,75 | Fuel Oil: 26,72 | Y.K. Fuel Oil: 22,99 | Gaz: 29,03
+GUROYMAK | K.Benzin 95: 53,17 | Gaz Yağı: 41,09 | Motorin: 55,07 | Motorin 2: 55,07 | Kalorifer Yakıtı: 31,74 | Fuel Oil: 26,71 | Y.K. Fuel Oil: 22,98 | Gaz: 29,03
+HIZAN | K.Benzin 95: 53,18 | Gaz Yağı: 41,10 | Motorin: 55,08 | Motorin 2: 55,08 | Kalorifer Yakıtı: 31,75 | Fuel Oil: 26,72 | Y.K. Fuel Oil: 22,99 | Gaz: 29,03
+MUTKI | K.Benzin 95: 53,17 | Gaz Yağı: 41,09 | Motorin: 55,07 | Motorin 2: 55,07 | Kalorifer Yakıtı: 31,74 | Fuel Oil: 26,71 | Y.K. Fuel Oil: 22,98 | Gaz: 29,03
+TATVAN | K.Benzin 95: 53,17 | Gaz Yağı: 41,09 | Motorin: 55,07 | Motorin 2: 55,07 | Kalorifer Yakıtı: 31,74 | Fuel Oil: 26,71 | Y.K. Fuel Oil: 22,98 | Gaz: 29,03

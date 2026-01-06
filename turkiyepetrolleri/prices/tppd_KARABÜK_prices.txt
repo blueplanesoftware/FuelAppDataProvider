@@ -1,0 +1,6 @@
+KARABUK | K.Benzin 95: 52,12 | Gaz Yağı: 40,94 | Motorin: 53,82 | Motorin 2: 53,82 | Kalorifer Yakıtı: 31,45 | Fuel Oil: 26,42 | Y.K. Fuel Oil: 22,84 | Gaz: 28,44
+EFLANI | K.Benzin 95: 52,13 | Gaz Yağı: 40,95 | Motorin: 53,83 | Motorin 2: 53,83 | Kalorifer Yakıtı: 31,46 | Fuel Oil: 26,43 | Y.K. Fuel Oil: 22,85 | Gaz: 28,44
+ESKIPAZAR | K.Benzin 95: 52,11 | Gaz Yağı: 40,93 | Motorin: 53,81 | Motorin 2: 53,81 | Kalorifer Yakıtı: 31,44 | Fuel Oil: 26,41 | Y.K. Fuel Oil: 22,83 | Gaz: 28,44
+OVACIK | K.Benzin 95: 52,12 | Gaz Yağı: 40,94 | Motorin: 53,82 | Motorin 2: 53,82 | Kalorifer Yakıtı: 31,45 | Fuel Oil: 26,42 | Y.K. Fuel Oil: 22,84 | Gaz: 28,44
+SAFRANBOLU | K.Benzin 95: 52,12 | Gaz Yağı: 40,94 | Motorin: 53,82 | Motorin 2: 53,82 | Kalorifer Yakıtı: 31,45 | Fuel Oil: 26,42 | Y.K. Fuel Oil: 22,84 | Gaz: 28,44
+YENICE | K.Benzin 95: 52,12 | Gaz Yağı: 40,94 | Motorin: 53,82 | Motorin 2: 53,82 | Kalorifer Yakıtı: 31,45 | Fuel Oil: 26,42 | Y.K. Fuel Oil: 22,84 | Gaz: 28,44
