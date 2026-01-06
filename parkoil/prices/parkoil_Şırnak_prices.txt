@@ -1,0 +1,9 @@
+Şırnak
+Şırnak | Benzin: 55.52 | Motorin: 57.06
+Merkez | Benzin: 55.52 | Motorin: 57.06
+Beytüşşebap | Benzin: 55.52 | Motorin: 57.06
+Cizre | Benzin: 55.52 | Motorin: 57.06
+Güçlükonak | Benzin: 55.52 | Motorin: 57.06
+İdil | Benzin: 55.52 | Motorin: 57.06
+Silopi | Benzin: 55.52 | Motorin: 57.06
+Uludere | Benzin: 55.52 | Motorin: 57.06

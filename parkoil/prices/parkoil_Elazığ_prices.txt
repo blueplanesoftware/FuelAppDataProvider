@@ -1,0 +1,13 @@
+Elazığ
+Elazığ | Benzin: 55.52 | Motorin: 57.06
+Merkez | Benzin: 55.52 | Motorin: 57.06
+Ağın | Benzin: 55.52 | Motorin: 57.06
+Alacakaya | Benzin: 55.52 | Motorin: 57.06
+Arıcak | Benzin: 55.52 | Motorin: 57.06
+Baskil | Benzin: 55.52 | Motorin: 57.06
+Karakoçan | Benzin: 55.52 | Motorin: 57.06
+Keban | Benzin: 55.52 | Motorin: 57.06
+Kovancılar | Benzin: 55.52 | Motorin: 57.06
+Maden | Benzin: 55.52 | Motorin: 57.06
+Palu | Benzin: 55.52 | Motorin: 57.06
+Sivrice | Benzin: 55.52 | Motorin: 57.06

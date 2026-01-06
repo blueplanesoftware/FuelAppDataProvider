@@ -1,0 +1,14 @@
+Rize
+Rize | Benzin: 54.86 | Motorin: 56.34
+Merkez | Benzin: 54.86 | Motorin: 56.34
+Ardeşen | Benzin: 54.86 | Motorin: 56.34
+Çamlıhemşin | Benzin: 54.86 | Motorin: 56.34
+Çayeli | Benzin: 54.86 | Motorin: 56.34
+Derepazarı | Benzin: 54.86 | Motorin: 56.34
+Fındıklı | Benzin: 54.86 | Motorin: 56.34
+Güneysu | Benzin: 54.86 | Motorin: 56.34
+Hemşin | Benzin: 54.86 | Motorin: 56.34
+İkizdere | Benzin: 54.86 | Motorin: 56.34
+İyidere | Benzin: 54.86 | Motorin: 56.34
+Kalkandere | Benzin: 54.86 | Motorin: 56.34
+Pazar | Benzin: 54.86 | Motorin: 56.34

@@ -7,6 +7,10 @@ from shell import save_city_prices_txt, save_all_cities_prices_txt
 import shell
 from opet import save_city_prices_txt as opet_save_city_prices_txt, save_all_cities_prices_txt as opet_save_all_cities_prices_txt
 import opet
+from parkoil import save_city_prices_txt as parkoil_save_city_prices_txt, save_all_cities_prices_txt as parkoil_save_all_cities_prices_txt
+import parkoil
+from rpet import save_city_prices_txt as rpet_save_city_prices_txt, save_all_cities_prices_txt as rpet_save_all_cities_prices_txt
+import rpet
 
 def run_opet():
 	parser = argparse.ArgumentParser()
@@ -53,6 +57,40 @@ def run_shell():
 		fp = save_city_prices_txt(args.city, output_dir, debug=args.debug)
 		print(f"Kaydedildi: {fp}")
 
+def run_parkoil():
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector")
+	group = parser.add_mutually_exclusive_group()
+	group.add_argument("--city", default="Adana", help="Tek şehir fiyat txt kaydet (varsayılan: Adana)")
+	group.add_argument("--all", action="store_true", help="Tüm şehirlerin fiyat txt dosyalarını kaydet")
+	args = parser.parse_args()
+	output_dir = Path(parkoil.__file__).parent / "prices"
+	if args.all:
+		saved = parkoil_save_all_cities_prices_txt(output_dir, debug=args.debug)
+		print(f"{len(saved)} dosya yazıldı -> {output_dir}")
+		if not saved:
+			print("Uyarı: Dosya yazılamadı. Seçici veya tablo bulunamamış olabilir.")
+	else:
+		fp = parkoil_save_city_prices_txt(args.city, output_dir, debug=args.debug)
+		print(f"Kaydedildi: {fp}")
+
+def run_rpet():
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector")
+	group = parser.add_mutually_exclusive_group()
+	group.add_argument("--city", default="ADANA", help="Tek şehir fiyat txt kaydet (varsayılan: ADANA)")
+	group.add_argument("--all", action="store_true", help="Tüm şehirlerin fiyat txt dosyalarını kaydet")
+	args = parser.parse_args()
+	output_dir = Path(rpet.__file__).parent / "prices"
+	if args.all:
+		saved = rpet_save_all_cities_prices_txt(output_dir, debug=args.debug)
+		print(f"{len(saved)} dosya yazıldı -> {output_dir}")
+		if not saved:
+			print("Uyarı: Dosya yazılamadı. Tablo bulunamamış olabilir.")
+	else:
+		fp = rpet_save_city_prices_txt(args.city, output_dir, debug=args.debug)
+		print(f"Kaydedildi: {fp}")
+
 
 if __name__ == "__main__":
-	run_petrolofisi()
+	run_rpet()

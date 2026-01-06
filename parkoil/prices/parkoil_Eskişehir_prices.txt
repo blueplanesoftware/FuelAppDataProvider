@@ -1,0 +1,16 @@
+Eskişehir
+Eskişehir | Benzin: 54.31 | Motorin: 55.98
+Alpu | Benzin: 54.31 | Motorin: 55.98
+Beylikova | Benzin: 54.31 | Motorin: 55.98
+Çifteler | Benzin: 54.31 | Motorin: 55.98
+Günyüzü | Benzin: 54.31 | Motorin: 55.98
+Han | Benzin: 54.31 | Motorin: 55.98
+İnönü | Benzin: 54.31 | Motorin: 55.98
+Mahmudiye | Benzin: 54.31 | Motorin: 55.98
+Mihalgazi | Benzin: 54.31 | Motorin: 55.98
+Mihalıççık | Benzin: 54.31 | Motorin: 55.98
+Odunpazarı | Benzin: 54.31 | Motorin: 55.98
+Sarıcakaya | Benzin: 54.31 | Motorin: 55.98
+Seyitgazi | Benzin: 54.31 | Motorin: 55.98
+Sivrihisar | Benzin: 54.31 | Motorin: 55.98
+Tepebaşı | Benzin: 54.31 | Motorin: 55.98

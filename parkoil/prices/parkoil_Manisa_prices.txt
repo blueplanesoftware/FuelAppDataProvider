@@ -1,0 +1,19 @@
+Manisa
+Manisa | Benzin: 54.37 | Motorin: 55.83
+Ahmetli | Benzin: 54.37 | Motorin: 55.83
+Akhisar | Benzin: 54.37 | Motorin: 55.83
+Alaşehir | Benzin: 54.37 | Motorin: 55.83
+Demirci | Benzin: 54.37 | Motorin: 55.83
+Gölmarmara | Benzin: 54.37 | Motorin: 55.83
+Gördes | Benzin: 54.37 | Motorin: 55.83
+Kırkağaç | Benzin: 54.37 | Motorin: 55.83
+Köprübaşı | Benzin: 54.37 | Motorin: 55.83
+Kula | Benzin: 54.37 | Motorin: 55.83
+Salihli | Benzin: 54.37 | Motorin: 55.83
+Sarıgöl | Benzin: 54.37 | Motorin: 55.83
+Saruhanlı | Benzin: 54.37 | Motorin: 55.83
+Selendi | Benzin: 54.37 | Motorin: 55.83
+Soma | Benzin: 54.37 | Motorin: 55.83
+Şehzadeler | Benzin: 54.37 | Motorin: 55.83
+Turgutlu | Benzin: 54.37 | Motorin: 55.83
+Yunusemre | Benzin: 54.37 | Motorin: 55.83

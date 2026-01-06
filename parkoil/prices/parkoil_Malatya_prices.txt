@@ -1,0 +1,15 @@
+Malatya
+Malatya | Benzin: 55.31 | Motorin: 56.82
+Kale | Benzin: 55.31 | Motorin: 56.82
+Akçadağ | Benzin: 55.31 | Motorin: 56.82
+Arapgir | Benzin: 55.31 | Motorin: 56.82
+Arguvan | Benzin: 55.31 | Motorin: 56.82
+Battalgazi | Benzin: 55.31 | Motorin: 56.82
+Darende | Benzin: 55.31 | Motorin: 56.82
+Doğanşehir | Benzin: 55.31 | Motorin: 56.82
+Doğanyol | Benzin: 55.31 | Motorin: 56.82
+Hekimhan | Benzin: 55.31 | Motorin: 56.82
+Kuluncak | Benzin: 55.31 | Motorin: 56.82
+Pütürge | Benzin: 55.31 | Motorin: 56.82
+Yazıhan | Benzin: 55.31 | Motorin: 56.82
+Yeşilyurt | Benzin: 55.31 | Motorin: 56.82

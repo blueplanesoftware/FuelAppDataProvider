@@ -1,0 +1,11 @@
+Adıyaman
+Adıyaman | Benzin: 55.30 | Motorin: 56.81
+Besni | Benzin: 55.30 | Motorin: 56.81
+Çelikhan | Benzin: 55.30 | Motorin: 56.81
+Gerger | Benzin: 55.30 | Motorin: 56.81
+Gölbaşı | Benzin: 55.30 | Motorin: 56.81
+Kahta | Benzin: 55.30 | Motorin: 56.81
+Merkez | Benzin: 55.30 | Motorin: 56.81
+Samsat | Benzin: 55.30 | Motorin: 56.81
+Sincik | Benzin: 55.30 | Motorin: 56.81
+Tut | Benzin: 55.30 | Motorin: 56.81

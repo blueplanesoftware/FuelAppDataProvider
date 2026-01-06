@@ -1,0 +1,18 @@
+Kayseri
+Kayseri | Benzin: 55.14 | Motorin: 56.63
+Pınarbaşı | Benzin: 55.14 | Motorin: 56.63
+Akkışla | Benzin: 55.14 | Motorin: 56.63
+Bünyan | Benzin: 55.14 | Motorin: 56.63
+Develi | Benzin: 55.14 | Motorin: 56.63
+Felahiye | Benzin: 55.14 | Motorin: 56.63
+Hacılar | Benzin: 55.14 | Motorin: 56.63
+İncesu | Benzin: 55.14 | Motorin: 56.63
+Kocasinan | Benzin: 55.14 | Motorin: 56.63
+Melikgazi | Benzin: 55.14 | Motorin: 56.63
+Özvatan | Benzin: 55.14 | Motorin: 56.63
+Sarıoğlan | Benzin: 55.14 | Motorin: 56.63
+Sarız | Benzin: 55.14 | Motorin: 56.63
+Talas | Benzin: 55.14 | Motorin: 56.63
+Tomarza | Benzin: 55.14 | Motorin: 56.63
+Yahyalı | Benzin: 55.14 | Motorin: 56.63
+Yeşilhisar | Benzin: 55.14 | Motorin: 56.63

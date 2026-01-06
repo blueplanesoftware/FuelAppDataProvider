@@ -1,0 +1,16 @@
+Yozgat
+Yozgat | Benzin: 54.66 | Motorin: 56.11
+Merkez | Benzin: 54.66 | Motorin: 56.11
+Aydıncık | Benzin: 54.66 | Motorin: 56.11
+Akdağmadeni | Benzin: 54.66 | Motorin: 56.11
+Boğazlıyan | Benzin: 54.66 | Motorin: 56.11
+Çandır | Benzin: 54.66 | Motorin: 56.11
+Çayıralan | Benzin: 54.66 | Motorin: 56.11
+Çekerek | Benzin: 54.66 | Motorin: 56.11
+Kadışehri | Benzin: 54.66 | Motorin: 56.11
+Saraykent | Benzin: 54.66 | Motorin: 56.11
+Sarıkaya | Benzin: 54.66 | Motorin: 56.11
+Sorgun | Benzin: 54.66 | Motorin: 56.11
+Şefaatli | Benzin: 54.66 | Motorin: 56.11
+Yenifakılı | Benzin: 54.66 | Motorin: 56.11
+Yerköy | Benzin: 54.66 | Motorin: 56.11

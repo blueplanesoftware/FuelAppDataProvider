@@ -1,0 +1,22 @@
+Erzurum
+Erzurum | Benzin: 55.16 | Motorin: 56.64
+Aşkale | Benzin: 55.16 | Motorin: 56.64
+Aziziye | Benzin: 55.16 | Motorin: 56.64
+Çat | Benzin: 55.16 | Motorin: 56.64
+Hınıs | Benzin: 55.16 | Motorin: 56.64
+Horasan | Benzin: 55.16 | Motorin: 56.64
+İspir | Benzin: 55.16 | Motorin: 56.64
+Karaçoban | Benzin: 55.16 | Motorin: 56.64
+Karayazı | Benzin: 55.16 | Motorin: 56.64
+Köprüköy | Benzin: 55.16 | Motorin: 56.64
+Narman | Benzin: 55.16 | Motorin: 56.64
+Oltu | Benzin: 55.16 | Motorin: 56.64
+Olur | Benzin: 55.16 | Motorin: 56.64
+Palandöken | Benzin: 55.16 | Motorin: 56.64
+Pasinler | Benzin: 55.16 | Motorin: 56.64
+Pazaryolu | Benzin: 55.16 | Motorin: 56.64
+Şenkaya | Benzin: 55.16 | Motorin: 56.64
+Tekman | Benzin: 55.16 | Motorin: 56.64
+Tortum | Benzin: 55.16 | Motorin: 56.64
+Uzundere | Benzin: 55.16 | Motorin: 56.64
+Yakutiye | Benzin: 55.16 | Motorin: 56.64

@@ -1,0 +1,12 @@
+Mardin
+Mardin | Benzin: 55.47 | Motorin: 57.01
+Artuklu | Benzin: 55.47 | Motorin: 57.01
+Dargeçit | Benzin: 55.47 | Motorin: 57.01
+Derik | Benzin: 55.47 | Motorin: 57.01
+Kızıltepe | Benzin: 55.47 | Motorin: 57.01
+Mazıdağı | Benzin: 55.47 | Motorin: 57.01
+Midyat | Benzin: 55.47 | Motorin: 57.01
+Nusaybin | Benzin: 55.47 | Motorin: 57.01
+Ömerli | Benzin: 55.47 | Motorin: 57.01
+Savur | Benzin: 55.47 | Motorin: 57.01
+Yeşilli | Benzin: 55.47 | Motorin: 57.01

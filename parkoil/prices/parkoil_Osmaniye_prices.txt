@@ -1,0 +1,9 @@
+Osmaniye
+Osmaniye | Benzin: 54.84 | Motorin: 56.35
+Merkez | Benzin: 54.84 | Motorin: 56.35
+Bahçe | Benzin: 54.84 | Motorin: 56.35
+Düziçi | Benzin: 54.84 | Motorin: 56.35
+Hasanbeyli | Benzin: 54.84 | Motorin: 56.35
+Kadirli | Benzin: 54.84 | Motorin: 56.35
+Sumbas | Benzin: 54.84 | Motorin: 56.35
+Toprakkale | Benzin: 54.84 | Motorin: 56.35

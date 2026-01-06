@@ -1,0 +1,10 @@
+Zonguldak
+Zonguldak | Benzin: 54.28 | Motorin: 55.55
+Merkez | Benzin: 54.28 | Motorin: 55.55
+Ereğli | Benzin: 54.28 | Motorin: 55.55
+Alaplı | Benzin: 54.28 | Motorin: 55.55
+Çaycuma | Benzin: 54.28 | Motorin: 55.55
+Devrek | Benzin: 54.28 | Motorin: 55.55
+Gökçebey | Benzin: 54.28 | Motorin: 55.55
+Kilimli | Benzin: 54.28 | Motorin: 55.55
+Kozlu | Benzin: 54.28 | Motorin: 55.55

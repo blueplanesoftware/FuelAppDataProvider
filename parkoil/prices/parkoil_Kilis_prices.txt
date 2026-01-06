@@ -1,0 +1,6 @@
+Kilis
+Kilis | Benzin: 54.85 | Motorin: 56.36
+Merkez | Benzin: 54.85 | Motorin: 56.36
+Elbeyli | Benzin: 54.85 | Motorin: 56.36
+Musabeyli | Benzin: 54.85 | Motorin: 56.36
+Polateli | Benzin: 54.85 | Motorin: 56.36

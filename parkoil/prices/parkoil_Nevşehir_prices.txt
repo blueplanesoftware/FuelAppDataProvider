@@ -1,0 +1,10 @@
+Nevşehir
+Nevşehir | Benzin: 55.04 | Motorin: 56.53
+Merkez | Benzin: 55.04 | Motorin: 56.53
+Acıgöl | Benzin: 55.04 | Motorin: 56.53
+Avanos | Benzin: 55.04 | Motorin: 56.53
+Derinkuyu | Benzin: 55.04 | Motorin: 56.53
+Gülşehir | Benzin: 55.04 | Motorin: 56.53
+Hacıbektaş | Benzin: 55.04 | Motorin: 56.53
+Kozaklı | Benzin: 55.04 | Motorin: 56.53
+Ürgüp | Benzin: 55.04 | Motorin: 56.53
