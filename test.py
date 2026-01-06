@@ -93,6 +93,7 @@ def run_rpet():
 	else:
 		fp = rpet_save_city_prices_txt(args.city, output_dir, debug=args.debug)
 		print(f"Kaydedildi: {fp}")
+		
 def run_turkiyepetrolleri():
 	parser = argparse.ArgumentParser()
 	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector (PWDEBUG=1 önerilir)")
@@ -102,4 +103,4 @@ def run_turkiyepetrolleri():
 	tppd_fetch_all_cities_prices(output_dir, debug=args.debug)
 
 if __name__ == "__main__":
-	run_rpet()
+	run_turkiyepetrolleri()
