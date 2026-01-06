@@ -1,0 +1,19 @@
+Bursa
+Bursa | Benzin: 54.11 | Motorin: 55.38
+Büyükorhan | Benzin: 54.11 | Motorin: 55.38
+Gemlik | Benzin: 54.11 | Motorin: 55.38
+Gürsu | Benzin: 54.11 | Motorin: 55.38
+Harmancık | Benzin: 54.11 | Motorin: 55.38
+İnegöl | Benzin: 54.11 | Motorin: 55.38
+İznik | Benzin: 54.11 | Motorin: 55.38
+Karacabey | Benzin: 54.11 | Motorin: 55.38
+Keles | Benzin: 54.11 | Motorin: 55.38
+Kestel | Benzin: 54.11 | Motorin: 55.38
+Mudanya | Benzin: 54.11 | Motorin: 55.38
+Mustafakemalpaşa | Benzin: 54.11 | Motorin: 55.38
+Nilüfer | Benzin: 54.11 | Motorin: 55.38
+Orhaneli | Benzin: 54.11 | Motorin: 55.38
+Orhangazi | Benzin: 54.11 | Motorin: 55.38
+Osmangazi | Benzin: 54.11 | Motorin: 55.38
+Yenişehir | Benzin: 54.11 | Motorin: 55.38
+Yıldırım | Benzin: 54.11 | Motorin: 55.38

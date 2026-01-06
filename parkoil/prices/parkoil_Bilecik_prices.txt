@@ -1,0 +1,10 @@
+Bilecik
+Bilecik | Benzin: 53.97 | Motorin: 55.24
+Merkez | Benzin: 53.97 | Motorin: 55.24
+Yenipazar | Benzin: 53.97 | Motorin: 55.24
+Bozüyük | Benzin: 53.97 | Motorin: 55.24
+Gölpazarı | Benzin: 53.97 | Motorin: 55.24
+İnhisar | Benzin: 53.97 | Motorin: 55.24
+Osmaneli | Benzin: 53.97 | Motorin: 55.24
+Pazaryeri | Benzin: 53.97 | Motorin: 55.24
+Söğüt | Benzin: 53.97 | Motorin: 55.24

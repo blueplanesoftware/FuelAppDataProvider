@@ -1,0 +1,13 @@
+Tekirdağ
+Tekirdağ | Benzin: 53.77 | Motorin: 55.27
+Çerkezköy | Benzin: 53.77 | Motorin: 55.27
+Çorlu | Benzin: 53.77 | Motorin: 55.27
+Ergene | Benzin: 53.77 | Motorin: 55.27
+Hayrabolu | Benzin: 53.77 | Motorin: 55.27
+Kapaklı | Benzin: 53.77 | Motorin: 55.27
+Malkara | Benzin: 53.77 | Motorin: 55.27
+Marmaraereğlisi | Benzin: 53.77 | Motorin: 55.27
+Muratlı | Benzin: 53.77 | Motorin: 55.27
+Saray | Benzin: 53.77 | Motorin: 55.27
+Süleymanpaşa | Benzin: 53.77 | Motorin: 55.27
+Şarköy | Benzin: 53.77 | Motorin: 55.27

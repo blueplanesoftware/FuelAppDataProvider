@@ -1,0 +1,11 @@
+Gaziantep
+Gaziantep | Benzin: 55.10 | Motorin: 56.61
+Araban | Benzin: 55.10 | Motorin: 56.61
+İslahiye | Benzin: 55.10 | Motorin: 56.61
+Karkamış | Benzin: 55.10 | Motorin: 56.61
+Nizip | Benzin: 55.10 | Motorin: 56.61
+Nurdağı | Benzin: 55.10 | Motorin: 56.61
+Oğuzeli | Benzin: 55.10 | Motorin: 56.61
+Şahinbey | Benzin: 55.10 | Motorin: 56.61
+Şehitkamil | Benzin: 55.10 | Motorin: 56.61
+Yavuzeli | Benzin: 55.10 | Motorin: 56.61

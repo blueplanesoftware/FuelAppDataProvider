@@ -1,0 +1,9 @@
+Siirt
+Siirt | Benzin: 55.46 | Motorin: 57.00
+Merkez | Benzin: 55.46 | Motorin: 57.00
+Baykan | Benzin: 55.46 | Motorin: 57.00
+Eruh | Benzin: 55.46 | Motorin: 57.00
+Kurtalan | Benzin: 55.46 | Motorin: 57.00
+Pervari | Benzin: 55.46 | Motorin: 57.00
+Şirvan | Benzin: 55.46 | Motorin: 57.00
+Tillo | Benzin: 55.46 | Motorin: 57.00

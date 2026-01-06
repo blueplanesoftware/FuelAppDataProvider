@@ -1,0 +1,18 @@
+Sakarya
+Sakarya | Benzin: 53.76 | Motorin: 55.03
+Adapazarı | Benzin: 53.76 | Motorin: 55.03
+Akyazı | Benzin: 53.76 | Motorin: 55.03
+Arifiye | Benzin: 53.76 | Motorin: 55.03
+Erenler | Benzin: 53.76 | Motorin: 55.03
+Ferizli | Benzin: 53.76 | Motorin: 55.03
+Geyve | Benzin: 53.76 | Motorin: 55.03
+Hendek | Benzin: 53.76 | Motorin: 55.03
+Karapürçek | Benzin: 53.76 | Motorin: 55.03
+Karasu | Benzin: 53.76 | Motorin: 55.03
+Kaynarca | Benzin: 53.76 | Motorin: 55.03
+Kocaali | Benzin: 53.76 | Motorin: 55.03
+Pamukova | Benzin: 53.76 | Motorin: 55.03
+Sapanca | Benzin: 53.76 | Motorin: 55.03
+Serdivan | Benzin: 53.76 | Motorin: 55.03
+Söğütlü | Benzin: 53.76 | Motorin: 55.03
+Taraklı | Benzin: 53.76 | Motorin: 55.03

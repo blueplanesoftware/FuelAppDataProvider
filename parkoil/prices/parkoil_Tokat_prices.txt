@@ -1,0 +1,14 @@
+Tokat
+Tokat | Benzin: 54.77 | Motorin: 56.23
+Merkez | Benzin: 54.77 | Motorin: 56.23
+Yeşilyurt | Benzin: 54.77 | Motorin: 56.23
+Pazar | Benzin: 54.77 | Motorin: 56.23
+Almus | Benzin: 54.77 | Motorin: 56.23
+Artova | Benzin: 54.77 | Motorin: 56.23
+Başçiftlik | Benzin: 54.77 | Motorin: 56.23
+Erbaa | Benzin: 54.77 | Motorin: 56.23
+Niksar | Benzin: 54.77 | Motorin: 56.23
+Reşadiye | Benzin: 54.77 | Motorin: 56.23
+Sulusaray | Benzin: 54.77 | Motorin: 56.23
+Turhal | Benzin: 54.77 | Motorin: 56.23
+Zile | Benzin: 54.77 | Motorin: 56.23

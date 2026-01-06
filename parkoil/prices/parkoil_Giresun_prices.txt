@@ -1,0 +1,18 @@
+Giresun
+Giresun | Benzin: 54.92 | Motorin: 56.40
+Merkez | Benzin: 54.92 | Motorin: 56.40
+Alucra | Benzin: 54.92 | Motorin: 56.40
+Bulancak | Benzin: 54.92 | Motorin: 56.40
+Çamoluk | Benzin: 54.92 | Motorin: 56.40
+Çanakçı | Benzin: 54.92 | Motorin: 56.40
+Dereli | Benzin: 54.92 | Motorin: 56.40
+Doğankent | Benzin: 54.92 | Motorin: 56.40
+Espiye | Benzin: 54.92 | Motorin: 56.40
+Eynesil | Benzin: 54.92 | Motorin: 56.40
+Görele | Benzin: 54.92 | Motorin: 56.40
+Güce | Benzin: 54.92 | Motorin: 56.40
+Keşap | Benzin: 54.92 | Motorin: 56.40
+Piraziz | Benzin: 54.92 | Motorin: 56.40
+Şebinkarahisar | Benzin: 54.92 | Motorin: 56.40
+Tirebolu | Benzin: 54.92 | Motorin: 56.40
+Yağlıdere | Benzin: 54.92 | Motorin: 56.40

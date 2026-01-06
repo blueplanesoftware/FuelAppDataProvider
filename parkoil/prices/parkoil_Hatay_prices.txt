@@ -1,0 +1,17 @@
+Hatay
+Hatay | Benzin: 54.83 | Motorin: 56.34
+Altınözü | Benzin: 54.83 | Motorin: 56.34
+Antakya | Benzin: 54.83 | Motorin: 56.34
+Arsuz | Benzin: 54.83 | Motorin: 56.34
+Belen | Benzin: 54.83 | Motorin: 56.34
+Defne | Benzin: 54.83 | Motorin: 56.34
+Dörtyol | Benzin: 54.83 | Motorin: 56.34
+Erzin | Benzin: 54.83 | Motorin: 56.34
+Hassa | Benzin: 54.83 | Motorin: 56.34
+İskenderun | Benzin: 54.83 | Motorin: 56.34
+Kırıkhan | Benzin: 54.83 | Motorin: 56.34
+Kumlu | Benzin: 54.83 | Motorin: 56.34
+Payas | Benzin: 54.83 | Motorin: 56.34
+Reyhanlı | Benzin: 54.83 | Motorin: 56.34
+Samandağ | Benzin: 54.83 | Motorin: 56.34
+Yayladağı | Benzin: 54.83 | Motorin: 56.34

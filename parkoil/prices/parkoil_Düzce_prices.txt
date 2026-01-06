@@ -1,0 +1,10 @@
+Düzce
+Düzce | Benzin: 53.92 | Motorin: 55.19
+Merkez | Benzin: 53.92 | Motorin: 55.19
+Akçakoca | Benzin: 53.92 | Motorin: 55.19
+Cumayeri | Benzin: 53.92 | Motorin: 55.19
+Çilimli | Benzin: 53.92 | Motorin: 55.19
+Gölyaka | Benzin: 53.92 | Motorin: 55.19
+Gümüşova | Benzin: 53.92 | Motorin: 55.19
+Kaynaşlı | Benzin: 53.92 | Motorin: 55.19
+Yığılca | Benzin: 53.92 | Motorin: 55.19

@@ -1,0 +1,21 @@
+Ordu
+Ordu | Benzin: 54.72 | Motorin: 56.18
+Akkuş | Benzin: 54.72 | Motorin: 56.18
+Altınordu | Benzin: 54.72 | Motorin: 56.18
+Aybastı | Benzin: 54.72 | Motorin: 56.18
+Çamaş | Benzin: 54.72 | Motorin: 56.18
+Çatalpınar | Benzin: 54.72 | Motorin: 56.18
+Çaybaşı | Benzin: 54.72 | Motorin: 56.18
+Fatsa | Benzin: 54.72 | Motorin: 56.18
+Gölköy | Benzin: 54.72 | Motorin: 56.18
+Gülyalı | Benzin: 54.72 | Motorin: 56.18
+Gürgentepe | Benzin: 54.72 | Motorin: 56.18
+İkizce | Benzin: 54.72 | Motorin: 56.18
+Kabadüz | Benzin: 54.72 | Motorin: 56.18
+Kabataş | Benzin: 54.72 | Motorin: 56.18
+Korgan | Benzin: 54.72 | Motorin: 56.18
+Kumru | Benzin: 54.72 | Motorin: 56.18
+Mesudiye | Benzin: 54.72 | Motorin: 56.18
+Perşembe | Benzin: 54.72 | Motorin: 56.18
+Ulubey | Benzin: 54.72 | Motorin: 56.18
+Ünye | Benzin: 54.72 | Motorin: 56.18

@@ -1,0 +1,19 @@
+Aydın
+Aydın | Benzin: 54.56 | Motorin: 56.02
+Bozdoğan | Benzin: 54.56 | Motorin: 56.02
+Buharkent | Benzin: 54.56 | Motorin: 56.02
+Çine | Benzin: 54.56 | Motorin: 56.02
+Didim | Benzin: 54.56 | Motorin: 56.02
+Efeler | Benzin: 54.56 | Motorin: 56.02
+Germencik | Benzin: 54.56 | Motorin: 56.02
+İncirliova | Benzin: 54.56 | Motorin: 56.02
+Karacasu | Benzin: 54.56 | Motorin: 56.02
+Karpuzlu | Benzin: 54.56 | Motorin: 56.02
+Koçarlı | Benzin: 54.56 | Motorin: 56.02
+Köşk | Benzin: 54.56 | Motorin: 56.02
+Kuşadası | Benzin: 54.56 | Motorin: 56.02
+Kuyucak | Benzin: 54.56 | Motorin: 56.02
+Nazilli | Benzin: 54.56 | Motorin: 56.02
+Söke | Benzin: 54.56 | Motorin: 56.02
+Sultanhisar | Benzin: 54.56 | Motorin: 56.02
+Yenipazar | Benzin: 54.56 | Motorin: 56.02

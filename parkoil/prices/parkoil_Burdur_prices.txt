@@ -1,0 +1,13 @@
+Burdur
+Burdur | Benzin: 55.06 | Motorin: 56.65
+Merkez | Benzin: 55.06 | Motorin: 56.65
+Kemer | Benzin: 55.06 | Motorin: 56.65
+Ağlasun | Benzin: 55.06 | Motorin: 56.65
+Altınyayla | Benzin: 55.06 | Motorin: 56.65
+Bucak | Benzin: 55.06 | Motorin: 56.65
+Çavdır | Benzin: 55.06 | Motorin: 56.65
+Çeltikçi | Benzin: 55.06 | Motorin: 56.65
+Gölhisar | Benzin: 55.06 | Motorin: 56.65
+Karamanlı | Benzin: 55.06 | Motorin: 56.65
+Tefenni | Benzin: 55.06 | Motorin: 56.65
+Yeşilova | Benzin: 55.06 | Motorin: 56.65

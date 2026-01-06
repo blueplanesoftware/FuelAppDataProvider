@@ -1,0 +1,15 @@
+Van
+Van | Benzin: 55.49 | Motorin: 56.97
+Edremit | Benzin: 55.49 | Motorin: 56.97
+Saray | Benzin: 55.49 | Motorin: 56.97
+Bahçesaray | Benzin: 55.49 | Motorin: 56.97
+Başkale | Benzin: 55.49 | Motorin: 56.97
+Çaldıran | Benzin: 55.49 | Motorin: 56.97
+Çatak | Benzin: 55.49 | Motorin: 56.97
+Erciş | Benzin: 55.49 | Motorin: 56.97
+Gevaş | Benzin: 55.49 | Motorin: 56.97
+Gürpınar | Benzin: 55.49 | Motorin: 56.97
+İpekyolu | Benzin: 55.49 | Motorin: 56.97
+Muradiye | Benzin: 55.49 | Motorin: 56.97
+Özalp | Benzin: 55.49 | Motorin: 56.97
+Tuşba | Benzin: 55.49 | Motorin: 56.97

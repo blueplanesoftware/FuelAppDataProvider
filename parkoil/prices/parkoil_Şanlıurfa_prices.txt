@@ -1,0 +1,15 @@
+Şanlıurfa
+Şanlıurfa | Benzin: 55.29 | Motorin: 56.80
+Akçakale | Benzin: 55.29 | Motorin: 56.80
+Birecik | Benzin: 55.29 | Motorin: 56.80
+Bozova | Benzin: 55.29 | Motorin: 56.80
+Ceylanpınar | Benzin: 55.29 | Motorin: 56.80
+Eyyübiye | Benzin: 55.29 | Motorin: 56.80
+Halfeti | Benzin: 55.29 | Motorin: 56.80
+Haliliye | Benzin: 55.29 | Motorin: 56.80
+Harran | Benzin: 55.29 | Motorin: 56.80
+Hilvan | Benzin: 55.29 | Motorin: 56.80
+Karaköprü | Benzin: 55.29 | Motorin: 56.80
+Siverek | Benzin: 55.29 | Motorin: 56.80
+Suruç | Benzin: 55.29 | Motorin: 56.80
+Viranşehir | Benzin: 55.29 | Motorin: 56.80

@@ -1,0 +1,42 @@
+İstanbul
+İstanbul (Avrupa) | Benzin: 53.15 | Motorin: 54.46
+İstanbul (Anadolu) | Benzin: 52.94 | Motorin: 54.25
+Adalar | Benzin: 52.94 | Motorin: 54.25
+Arnavutköy | Benzin: 52.94 | Motorin: 54.25
+Ataşehir | Benzin: 52.94 | Motorin: 54.25
+Avcılar | Benzin: 52.94 | Motorin: 54.25
+Bağcılar | Benzin: 52.94 | Motorin: 54.25
+Bahçelievler | Benzin: 52.94 | Motorin: 54.25
+Bakırköy | Benzin: 52.94 | Motorin: 54.25
+Başakşehir | Benzin: 52.94 | Motorin: 54.25
+Bayrampaşa | Benzin: 52.94 | Motorin: 54.25
+Beşiktaş | Benzin: 52.94 | Motorin: 54.25
+Beykoz | Benzin: 52.94 | Motorin: 54.25
+Beylikdüzü | Benzin: 52.94 | Motorin: 54.25
+Beyoğlu | Benzin: 52.94 | Motorin: 54.25
+Büyükçekmece | Benzin: 52.94 | Motorin: 54.25
+Çatalca | Benzin: 52.94 | Motorin: 54.25
+Çekmeköy | Benzin: 52.94 | Motorin: 54.25
+Esenler | Benzin: 52.94 | Motorin: 54.25
+Esenyurt | Benzin: 52.94 | Motorin: 54.25
+Eyüpsultan | Benzin: 52.94 | Motorin: 54.25
+Fatih | Benzin: 52.94 | Motorin: 54.25
+Gaziosmanpaşa | Benzin: 52.94 | Motorin: 54.25
+Güngören | Benzin: 52.94 | Motorin: 54.25
+Kadıköy | Benzin: 52.94 | Motorin: 54.25
+Kağıthane | Benzin: 52.94 | Motorin: 54.25
+Kartal | Benzin: 52.94 | Motorin: 54.25
+Küçükçekmece | Benzin: 52.94 | Motorin: 54.25
+Maltepe | Benzin: 52.94 | Motorin: 54.25
+Pendik | Benzin: 52.94 | Motorin: 54.25
+Sancaktepe | Benzin: 52.94 | Motorin: 54.25
+Sarıyer | Benzin: 52.94 | Motorin: 54.25
+Silivri | Benzin: 52.94 | Motorin: 54.25
+Sultanbeyli | Benzin: 52.94 | Motorin: 54.25
+Sultangazi | Benzin: 52.94 | Motorin: 54.25
+Şile | Benzin: 52.94 | Motorin: 54.25
+Şişli | Benzin: 52.94 | Motorin: 54.25
+Tuzla | Benzin: 52.94 | Motorin: 54.25
+Ümraniye | Benzin: 52.94 | Motorin: 54.25
+Üsküdar | Benzin: 52.94 | Motorin: 54.25
+Zeytinburnu | Benzin: 52.94 | Motorin: 54.25
