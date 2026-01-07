@@ -1,0 +1,9 @@
+Kırklareli
+Vize | Motorin: 55,58 | Kurşunsuz 95: 54,06 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Babaeski | Motorin: 55,59 | Kurşunsuz 95: 54,06 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Demirköy | Motorin: 55,59 | Kurşunsuz 95: 54,10 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Kofcaz | Motorin: 55,59 | Kurşunsuz 95: 54,11 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Lüleburgaz | Motorin: 55,58 | Kurşunsuz 95: 54,06 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Pehlivanköy | Motorin: 55,59 | Kurşunsuz 95: 54,10 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Pınarhisar | Motorin: 55,59 | Kurşunsuz 95: 54,06 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Vize | Motorin: 55,58 | Kurşunsuz 95: 54,06 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31

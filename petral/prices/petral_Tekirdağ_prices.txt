@@ -1,0 +1,12 @@
+Tekirdağ
+Çerkezköy | Motorin: 55,19 | Kurşunsuz 95: 53,67 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Çorlu | Motorin: 55,19 | Kurşunsuz 95: 53,67 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Ergene | Motorin: 55,19 | Kurşunsuz 95: 53,67 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Hayrabolu | Motorin: 55,19 | Kurşunsuz 95: 53,68 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Kapaklı | Motorin: 55,19 | Kurşunsuz 95: 53,67 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Malkara | Motorin: 55,20 | Kurşunsuz 95: 53,68 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Marmaraereğl | Motorin: 55,18 | Kurşunsuz 95: 53,67 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Muratlı | Motorin: 55,19 | Kurşunsuz 95: 53,68 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Saray | Motorin: 55,19 | Kurşunsuz 95: 53,68 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Süleymanpaşa | Motorin: 55,19 | Kurşunsuz 95: 53,67 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Şarköy | Motorin: 55,20 | Kurşunsuz 95: 53,68 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30

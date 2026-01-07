@@ -1,0 +1,14 @@
+Çorum
+Alaca | Motorin: 56,03 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,34
+Bayat | Motorin: 56,04 | Kurşunsuz 95: 54,56 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,34
+Boğazkale | Motorin: 56,03 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,34
+Dodurga | Motorin: 56,04 | Kurşunsuz 95: 54,56 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,34
+İskilip | Motorin: 56,04 | Kurşunsuz 95: 54,56 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,34
+Kargı | Motorin: 56,05 | Kurşunsuz 95: 54,56 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,34
+Laçin | Motorin: 56,04 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,34
+Mecitözü | Motorin: 56,04 | Kurşunsuz 95: 54,56 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,34
+Oğuzlar | Motorin: 56,04 | Kurşunsuz 95: 54,56 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,34
+Ortaköy | Motorin: 56,04 | Kurşunsuz 95: 54,56 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,34
+Osmancık | Motorin: 56,04 | Kurşunsuz 95: 54,56 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,34
+Sungurlu | Motorin: 56,03 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,34
+Uğurludağ | Motorin: 56,04 | Kurşunsuz 95: 54,56 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,34

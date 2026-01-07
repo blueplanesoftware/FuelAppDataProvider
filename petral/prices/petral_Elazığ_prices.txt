@@ -1,0 +1,11 @@
+Elazığ
+Ağın | Motorin: 56,90 | Kurşunsuz 95: 55,36 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,38
+Alacakaya | Motorin: 56,91 | Kurşunsuz 95: 55,34 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,38
+Arıcak | Motorin: 56,91 | Kurşunsuz 95: 55,36 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,38
+Baskil | Motorin: 56,90 | Kurşunsuz 95: 55,35 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,38
+Karakoçan | Motorin: 56,91 | Kurşunsuz 95: 55,36 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,38
+Keban | Motorin: 56,90 | Kurşunsuz 95: 55,35 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,38
+Kovancılar | Motorin: 56,93 | Kurşunsuz 95: 55,38 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,38
+Maden | Motorin: 56,90 | Kurşunsuz 95: 55,36 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,38
+Palu | Motorin: 56,91 | Kurşunsuz 95: 55,36 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,38
+Sivrice | Motorin: 56,90 | Kurşunsuz 95: 55,37 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,38

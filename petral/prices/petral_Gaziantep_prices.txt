@@ -1,0 +1,10 @@
+Gaziantep
+Araban | Motorin: 56,42 | Kurşunsuz 95: 54,96 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+İslahiye | Motorin: 56,41 | Kurşunsuz 95: 54,92 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Karkamış | Motorin: 56,43 | Kurşunsuz 95: 54,93 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Nizip | Motorin: 56,42 | Kurşunsuz 95: 54,94 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Nurdağı | Motorin: 56,41 | Kurşunsuz 95: 54,92 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Oğuzeli | Motorin: 56,42 | Kurşunsuz 95: 54,94 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Şahinbey | Motorin: 56,42 | Kurşunsuz 95: 54,93 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Şehitkamil | Motorin: 56,42 | Kurşunsuz 95: 54,93 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Yavuzeli | Motorin: 56,42 | Kurşunsuz 95: 54,94 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33

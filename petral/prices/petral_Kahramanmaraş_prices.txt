@@ -1,0 +1,11 @@
+Kahramanmaraş
+Andırın | Motorin: 56,45 | Kurşunsuz 95: 54,91 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Afşin | Motorin: 56,47 | Kurşunsuz 95: 54,93 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Türkoğlu | Motorin: 56,45 | Kurşunsuz 95: 54,91 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Pazarcık | Motorin: 56,45 | Kurşunsuz 95: 54,91 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Nurhak | Motorin: 56,48 | Kurşunsuz 95: 54,94 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Göksun | Motorin: 56,46 | Kurşunsuz 95: 54,92 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Elbistan | Motorin: 56,47 | Kurşunsuz 95: 54,93 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Çağlayanceri | Motorin: 56,47 | Kurşunsuz 95: 54,93 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Andırın | Motorin: 56,45 | Kurşunsuz 95: 54,91 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Afşin | Motorin: 56,47 | Kurşunsuz 95: 54,93 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33

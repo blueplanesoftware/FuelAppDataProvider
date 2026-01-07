@@ -1,0 +1,13 @@
+Şanlıurfa
+Hilvan | Motorin: 56,64 | Kurşunsuz 95: 55,12 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Haliliye | Motorin: 56,63 | Kurşunsuz 95: 55,11 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Harran | Motorin: 56,64 | Kurşunsuz 95: 55,12 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Halfeti | Motorin: 56,63 | Kurşunsuz 95: 55,11 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Eyyübiye | Motorin: 56,63 | Kurşunsuz 95: 55,11 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Ceylanpınar | Motorin: 56,65 | Kurşunsuz 95: 55,13 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Bozova | Motorin: 56,64 | Kurşunsuz 95: 55,12 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Birecik | Motorin: 56,62 | Kurşunsuz 95: 55,10 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Akçakale | Motorin: 56,64 | Kurşunsuz 95: 55,12 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Bozova | Motorin: 56,64 | Kurşunsuz 95: 55,12 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Birecik | Motorin: 56,62 | Kurşunsuz 95: 55,10 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Akçakale | Motorin: 56,64 | Kurşunsuz 95: 55,12 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36

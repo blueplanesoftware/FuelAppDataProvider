@@ -1,0 +1,9 @@
+Kırıkkale
+Yahşiyan | Motorin: 55,70 | Kurşunsuz 95: 54,21 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Sulakyurt | Motorin: 55,71 | Kurşunsuz 95: 54,24 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Keskin | Motorin: 55,70 | Kurşunsuz 95: 54,21 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Balışeyh | Motorin: 55,71 | Kurşunsuz 95: 54,22 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Bahşili | Motorin: 55,70 | Kurşunsuz 95: 54,21 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Karakeçili | Motorin: 55,71 | Kurşunsuz 95: 54,21 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Delice | Motorin: 55,71 | Kurşunsuz 95: 54,22 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Çelebi | Motorin: 55,71 | Kurşunsuz 95: 54,22 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35

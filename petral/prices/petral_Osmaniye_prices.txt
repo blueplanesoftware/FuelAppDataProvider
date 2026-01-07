@@ -1,0 +1,7 @@
+Osmaniye
+Bahçe | Motorin: 56,18 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Düziçi | Motorin: 56,18 | Kurşunsuz 95: 54,65 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Hasanbeyli | Motorin: 56,18 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Kadirli | Motorin: 56,19 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Sumbas | Motorin: 56,19 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Toprakkale | Motorin: 56,18 | Kurşunsuz 95: 54,65 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31

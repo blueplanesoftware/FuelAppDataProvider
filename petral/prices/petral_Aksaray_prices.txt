@@ -1,0 +1,8 @@
+Aksaray
+Güzelyurt | Motorin: 56,36 | Kurşunsuz 95: 54,86 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37
+Gülağaç | Motorin: 56,36 | Kurşunsuz 95: 54,87 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37
+Sultanhanı | Motorin: 56,37 | Kurşunsuz 95: 54,87 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37
+Sarıyahşi | Motorin: 56,37 | Kurşunsuz 95: 54,87 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37
+Ortaköy | Motorin: 56,37 | Kurşunsuz 95: 54,87 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37
+Eskil | Motorin: 56,37 | Kurşunsuz 95: 54,87 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37
+Ağaçören | Motorin: 56,37 | Kurşunsuz 95: 54,87 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37

@@ -1,0 +1,16 @@
+Kocaeli
+Gölcük | Motorin: 54,72 | Kurşunsuz 95: 53,41 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,28
+Hereke | Motorin: 54,71 | Kurşunsuz 95: 53,40 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,28
+İzmit | Motorin: 54,71 | Kurşunsuz 95: 53,40 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,28
+Kartepe | Motorin: 54,71 | Kurşunsuz 95: 53,40 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,28
+Körfez | Motorin: 54,71 | Kurşunsuz 95: 53,40 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,28
+Köseköy | Motorin: 54,72 | Kurşunsuz 95: 53,41 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,28
+Gebze | Motorin: 54,72 | Kurşunsuz 95: 53,42 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,28
+Gölcük | Motorin: 54,72 | Kurşunsuz 95: 53,41 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,28
+Hereke | Motorin: 54,71 | Kurşunsuz 95: 53,40 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,28
+İzmit | Motorin: 54,71 | Kurşunsuz 95: 53,40 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,28
+Kandıra | Motorin: 54,72 | Kurşunsuz 95: 53,41 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,28
+Karamürsel | Motorin: 54,72 | Kurşunsuz 95: 53,41 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,28
+Kartepe | Motorin: 54,71 | Kurşunsuz 95: 53,40 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,28
+Körfez | Motorin: 54,71 | Kurşunsuz 95: 53,40 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,28
+Köseköy | Motorin: 54,72 | Kurşunsuz 95: 53,41 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,28

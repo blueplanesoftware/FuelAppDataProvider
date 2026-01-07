@@ -1,0 +1,10 @@
+Mardin
+Derik | Motorin: 56,78 | Kurşunsuz 95: 55,24 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,39
+Dargeçit | Motorin: 56,79 | Kurşunsuz 95: 55,25 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,39
+Artuklu | Motorin: 56,78 | Kurşunsuz 95: 55,24 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,39
+Kızıltepe | Motorin: 56,78 | Kurşunsuz 95: 55,24 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,39
+Derik | Motorin: 56,78 | Kurşunsuz 95: 55,24 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,39
+Yeşilli | Motorin: 56,78 | Kurşunsuz 95: 55,24 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,39
+Savur | Motorin: 56,78 | Kurşunsuz 95: 55,24 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,39
+Dargeçit | Motorin: 56,79 | Kurşunsuz 95: 55,25 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,39
+Artuklu | Motorin: 56,78 | Kurşunsuz 95: 55,24 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,39

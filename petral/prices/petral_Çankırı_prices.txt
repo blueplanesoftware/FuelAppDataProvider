@@ -1,0 +1,12 @@
+Çankırı
+Atkaracalar | Motorin: 55,82 | Kurşunsuz 95: 54,32 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,34
+Bayramören | Motorin: 55,82 | Kurşunsuz 95: 54,32 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,34
+Çerkeş | Motorin: 55,82 | Kurşunsuz 95: 54,32 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,34
+Eldivan | Motorin: 55,81 | Kurşunsuz 95: 54,31 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,34
+Ilgaz | Motorin: 55,82 | Kurşunsuz 95: 54,32 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,34
+Kızılırmak | Motorin: 55,81 | Kurşunsuz 95: 54,31 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,34
+Korgun | Motorin: 55,81 | Kurşunsuz 95: 54,31 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,34
+Kurşunlu | Motorin: 55,82 | Kurşunsuz 95: 54,32 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,34
+Orta | Motorin: 55,82 | Kurşunsuz 95: 54,32 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,34
+Şabanözü | Motorin: 55,81 | Kurşunsuz 95: 54,31 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,34
+Yapraklı | Motorin: 55,81 | Kurşunsuz 95: 54,31 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,34

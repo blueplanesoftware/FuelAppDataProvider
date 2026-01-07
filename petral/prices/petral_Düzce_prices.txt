@@ -1,0 +1,8 @@
+Düzce
+Akçakoca | Motorin: 55,18 | Kurşunsuz 95: 53,88 | Kalorifer Yakıtı: 33,28 | Fuel Oil: 28,30
+Cumayeri | Motorin: 55,17 | Kurşunsuz 95: 53,87 | Kalorifer Yakıtı: 33,28 | Fuel Oil: 28,30
+Çilimli | Motorin: 55,18 | Kurşunsuz 95: 53,88 | Kalorifer Yakıtı: 33,28 | Fuel Oil: 28,30
+Gölyaka | Motorin: 55,18 | Kurşunsuz 95: 53,88 | Kalorifer Yakıtı: 33,28 | Fuel Oil: 28,30
+Gümüşova | Motorin: 55,17 | Kurşunsuz 95: 53,87 | Kalorifer Yakıtı: 33,28 | Fuel Oil: 28,30
+Kaynaşlı | Motorin: 55,18 | Kurşunsuz 95: 53,88 | Kalorifer Yakıtı: 33,28 | Fuel Oil: 28,30
+Yığılca | Motorin: 55,18 | Kurşunsuz 95: 53,88 | Kalorifer Yakıtı: 33,28 | Fuel Oil: 28,30

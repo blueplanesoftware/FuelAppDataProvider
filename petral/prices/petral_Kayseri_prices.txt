@@ -1,0 +1,18 @@
+Kayseri
+Yeşilhisar | Motorin: 56,46 | Kurşunsuz 95: 54,95 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,38
+Kocasinan | Motorin: 56,47 | Kurşunsuz 95: 54,96 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,38
+Melikgazi | Motorin: 56,47 | Kurşunsuz 95: 54,96 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,38
+Özvatan | Motorin: 56,48 | Kurşunsuz 95: 54,97 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,38
+Pınarbaşı | Motorin: 56,47 | Kurşunsuz 95: 54,96 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,38
+Sarıoğlan | Motorin: 56,48 | Kurşunsuz 95: 54,97 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,38
+Sarız | Motorin: 56,47 | Kurşunsuz 95: 54,96 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,38
+Talas | Motorin: 56,47 | Kurşunsuz 95: 54,96 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,38
+Tomarza | Motorin: 56,47 | Kurşunsuz 95: 54,96 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,38
+Yahyalı | Motorin: 56,46 | Kurşunsuz 95: 54,96 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,38
+Yeşilhisar | Motorin: 56,46 | Kurşunsuz 95: 54,95 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,38
+Sarıoğlan | Motorin: 56,48 | Kurşunsuz 95: 54,97 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,38
+Sarız | Motorin: 56,47 | Kurşunsuz 95: 54,96 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,38
+Talas | Motorin: 56,47 | Kurşunsuz 95: 54,96 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,38
+Tomarza | Motorin: 56,47 | Kurşunsuz 95: 54,96 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,38
+Yahyalı | Motorin: 56,46 | Kurşunsuz 95: 54,96 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,38
+Yeşilhisar | Motorin: 56,46 | Kurşunsuz 95: 54,95 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,38

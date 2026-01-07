@@ -1,0 +1,10 @@
+Artvin
+Şavşat | Motorin: 56,35 | Kurşunsuz 95: 54,86 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Arhavi | Motorin: 56,33 | Kurşunsuz 95: 54,84 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Ardanuç | Motorin: 56,37 | Kurşunsuz 95: 54,86 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Borçka | Motorin: 56,34 | Kurşunsuz 95: 54,85 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Çakmakkaya | Motorin: 56,34 | Kurşunsuz 95: 54,85 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Hopa | Motorin: 56,33 | Kurşunsuz 95: 54,84 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Murgul | Motorin: 56,34 | Kurşunsuz 95: 54,85 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Şavşat | Motorin: 56,35 | Kurşunsuz 95: 54,86 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Yusufeli | Motorin: 56,35 | Kurşunsuz 95: 54,86 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35

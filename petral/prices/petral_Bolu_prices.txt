@@ -1,0 +1,9 @@
+Bolu
+Dörtdivan | Motorin: 55,34 | Kurşunsuz 95: 54,05 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Gerede | Motorin: 55,34 | Kurşunsuz 95: 54,05 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Mengen | Motorin: 55,34 | Kurşunsuz 95: 54,05 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Mudurnu | Motorin: 55,33 | Kurşunsuz 95: 54,04 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Seben | Motorin: 55,34 | Kurşunsuz 95: 54,05 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Yeniçaga | Motorin: 55,34 | Kurşunsuz 95: 54,05 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Seben | Motorin: 55,34 | Kurşunsuz 95: 54,05 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Yeniçaga | Motorin: 55,34 | Kurşunsuz 95: 54,05 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30

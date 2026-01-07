@@ -1,0 +1,17 @@
+Sakarya
+Adapazarı | Motorin: 55,01 | Kurşunsuz 95: 53,72 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,29
+Akyazı | Motorin: 55,01 | Kurşunsuz 95: 53,72 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,29
+Arifiye | Motorin: 55,01 | Kurşunsuz 95: 53,72 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,29
+Erenler | Motorin: 55,01 | Kurşunsuz 95: 53,72 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,29
+Ferizli | Motorin: 55,01 | Kurşunsuz 95: 53,72 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,29
+Geyve | Motorin: 55,02 | Kurşunsuz 95: 53,73 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,29
+Hendek | Motorin: 55,01 | Kurşunsuz 95: 53,72 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,29
+Karapürçek | Motorin: 55,01 | Kurşunsuz 95: 53,72 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,29
+Karasu | Motorin: 55,02 | Kurşunsuz 95: 53,73 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,29
+Kaynarca | Motorin: 55,01 | Kurşunsuz 95: 53,72 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,29
+Kocaali | Motorin: 55,02 | Kurşunsuz 95: 53,73 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,29
+Pamukova | Motorin: 55,02 | Kurşunsuz 95: 53,73 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,29
+Serdivan | Motorin: 55,01 | Kurşunsuz 95: 53,72 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,29
+Sapanca | Motorin: 55,01 | Kurşunsuz 95: 53,72 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,29
+Söğütlü | Motorin: 55,01 | Kurşunsuz 95: 53,72 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,29
+Taraklı | Motorin: 55,02 | Kurşunsuz 95: 53,73 | Kalorifer Yakıtı: 33,27 | Fuel Oil: 28,29

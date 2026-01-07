@@ -1,0 +1,9 @@
+Edirne
+Enez | Motorin: 55,62 | Kurşunsuz 95: 54,08 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,32
+Havsa | Motorin: 55,61 | Kurşunsuz 95: 54,08 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,32
+İpsala | Motorin: 55,61 | Kurşunsuz 95: 54,08 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,32
+Keşan | Motorin: 55,61 | Kurşunsuz 95: 54,08 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,32
+Lalapaşa | Motorin: 55,62 | Kurşunsuz 95: 54,08 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,32
+Meriç | Motorin: 55,62 | Kurşunsuz 95: 54,08 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,32
+Süloğlu | Motorin: 55,61 | Kurşunsuz 95: 54,08 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,32
+Uzunköprü | Motorin: 55,61 | Kurşunsuz 95: 54,08 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,32

@@ -1,0 +1,25 @@
+Ankara
+Akyurt | Motorin: 55,40 | Kurşunsuz 95: 53,90 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Altındağ | Motorin: 55,40 | Kurşunsuz 95: 53,90 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Ayaş | Motorin: 55,42 | Kurşunsuz 95: 53,91 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Kahramankaza | Motorin: 55,41 | Kurşunsuz 95: 53,91 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Kalecik | Motorin: 55,40 | Kurşunsuz 95: 53,90 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Haymana | Motorin: 55,41 | Kurşunsuz 95: 53,91 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Güdül | Motorin: 55,43 | Kurşunsuz 95: 53,92 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Akyurt | Motorin: 55,40 | Kurşunsuz 95: 53,90 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Evren | Motorin: 55,42 | Kurşunsuz 95: 53,92 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Etimesgut | Motorin: 55,41 | Kurşunsuz 95: 53,90 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Ayaş | Motorin: 55,42 | Kurşunsuz 95: 53,91 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Altındağ | Motorin: 55,40 | Kurşunsuz 95: 53,90 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Gölbaşı | Motorin: 55,40 | Kurşunsuz 95: 53,90 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Evren | Motorin: 55,42 | Kurşunsuz 95: 53,92 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Etimesgut | Motorin: 55,41 | Kurşunsuz 95: 53,90 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Çubuk | Motorin: 55,41 | Kurşunsuz 95: 53,91 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Çankaya | Motorin: 55,40 | Kurşunsuz 95: 53,90 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Çamlıdere | Motorin: 55,43 | Kurşunsuz 95: 53,92 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Beypazarı | Motorin: 55,43 | Kurşunsuz 95: 53,92 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Bala | Motorin: 55,40 | Kurşunsuz 95: 53,91 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Ayaş | Motorin: 55,42 | Kurşunsuz 95: 53,91 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Altındağ | Motorin: 55,40 | Kurşunsuz 95: 53,90 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Şereflikoçhi | Motorin: 55,41 | Kurşunsuz 95: 53,92 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Yenimahalle | Motorin: 55,41 | Kurşunsuz 95: 53,90 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36

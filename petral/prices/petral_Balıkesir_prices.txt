@@ -1,0 +1,21 @@
+Balıkesir
+Ayvalık | Motorin: 56,05 | Kurşunsuz 95: 54,53 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Altıeylül | Motorin: 56,05 | Kurşunsuz 95: 54,53 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Balya | Motorin: 56,06 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Bandırma | Motorin: 56,08 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Bigadiç | Motorin: 56,06 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Burhaniye | Motorin: 56,05 | Kurşunsuz 95: 54,54 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Dursunbey | Motorin: 56,07 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Edremit | Motorin: 56,06 | Kurşunsuz 95: 54,54 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Erdek | Motorin: 56,08 | Kurşunsuz 95: 54,56 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Gömeç | Motorin: 56,05 | Kurşunsuz 95: 54,53 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Gönen | Motorin: 56,07 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Havran | Motorin: 56,06 | Kurşunsuz 95: 54,54 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+İvrindi | Motorin: 56,06 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Kepsut | Motorin: 56,07 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Karesi | Motorin: 56,06 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Manyas | Motorin: 56,07 | Kurşunsuz 95: 54,56 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Marmaraadası | Motorin: 56,08 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Savaştepe | Motorin: 56,05 | Kurşunsuz 95: 54,54 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Sındırgı | Motorin: 56,06 | Kurşunsuz 95: 54,54 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Susurluk | Motorin: 56,06 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30

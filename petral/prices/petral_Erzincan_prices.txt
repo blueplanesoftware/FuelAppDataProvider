@@ -1,0 +1,9 @@
+Erzincan
+Çayırlı | Motorin: 56,47 | Kurşunsuz 95: 54,96 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+İliç | Motorin: 56,50 | Kurşunsuz 95: 54,98 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Kemah | Motorin: 56,47 | Kurşunsuz 95: 54,96 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Kemaliye | Motorin: 56,49 | Kurşunsuz 95: 54,97 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Otlukbeli | Motorin: 56,48 | Kurşunsuz 95: 54,96 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Refahiye | Motorin: 56,45 | Kurşunsuz 95: 54,95 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Tercan | Motorin: 56,47 | Kurşunsuz 95: 54,97 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Üzümlü | Motorin: 56,47 | Kurşunsuz 95: 54,96 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35

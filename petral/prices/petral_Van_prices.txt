@@ -1,0 +1,14 @@
+Van
+Bahçesaray | Motorin: 56,81 | Kurşunsuz 95: 55,33 | Kalorifer Yakıtı: 33,43 | Fuel Oil: 28,45
+Başkale | Motorin: 56,83 | Kurşunsuz 95: 55,34 | Kalorifer Yakıtı: 33,43 | Fuel Oil: 28,45
+Çaldıran | Motorin: 56,82 | Kurşunsuz 95: 55,34 | Kalorifer Yakıtı: 33,43 | Fuel Oil: 28,45
+Çatak | Motorin: 56,81 | Kurşunsuz 95: 55,34 | Kalorifer Yakıtı: 33,43 | Fuel Oil: 28,45
+Edremit | Motorin: 56,81 | Kurşunsuz 95: 55,33 | Kalorifer Yakıtı: 33,43 | Fuel Oil: 28,45
+Erciş | Motorin: 56,81 | Kurşunsuz 95: 55,34 | Kalorifer Yakıtı: 33,43 | Fuel Oil: 28,45
+Gevaş | Motorin: 56,81 | Kurşunsuz 95: 55,33 | Kalorifer Yakıtı: 33,43 | Fuel Oil: 28,45
+Gürpınar | Motorin: 56,81 | Kurşunsuz 95: 55,33 | Kalorifer Yakıtı: 33,43 | Fuel Oil: 28,45
+İpekyolu | Motorin: 56,82 | Kurşunsuz 95: 55,34 | Kalorifer Yakıtı: 33,43 | Fuel Oil: 28,45
+Muradiye | Motorin: 56,82 | Kurşunsuz 95: 55,34 | Kalorifer Yakıtı: 33,43 | Fuel Oil: 28,45
+Özalp | Motorin: 56,83 | Kurşunsuz 95: 55,34 | Kalorifer Yakıtı: 33,43 | Fuel Oil: 28,45
+Saray | Motorin: 56,82 | Kurşunsuz 95: 55,34 | Kalorifer Yakıtı: 33,43 | Fuel Oil: 28,45
+Tuşba | Motorin: 56,82 | Kurşunsuz 95: 55,34 | Kalorifer Yakıtı: 33,43 | Fuel Oil: 28,45

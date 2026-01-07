@@ -1,0 +1,18 @@
+Samsun
+Alaçam | Motorin: 56,04 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Atakum | Motorin: 56,03 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Asarcık | Motorin: 56,03 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Ayvacık | Motorin: 56,03 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Bafra | Motorin: 56,03 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Canik | Motorin: 56,03 | Kurşunsuz 95: 54,54 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Çarşamba | Motorin: 56,03 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Havza | Motorin: 56,04 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+İlkadım | Motorin: 56,03 | Kurşunsuz 95: 54,54 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Kavak | Motorin: 56,03 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Ladik | Motorin: 56,04 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Ondokuzmayıs | Motorin: 56,03 | Kurşunsuz 95: 54,54 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Salıpazarı | Motorin: 56,03 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Tekkeköy | Motorin: 56,03 | Kurşunsuz 95: 54,54 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Terme | Motorin: 56,04 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Vezirköprü | Motorin: 56,04 | Kurşunsuz 95: 54,56 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Yakakent | Motorin: 56,04 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31

@@ -1,0 +1,7 @@
+Amasya
+Suluova | Motorin: 56,04 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,33
+Suluova | Motorin: 56,04 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,33
+Merzifon | Motorin: 56,04 | Kurşunsuz 95: 54,54 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,33
+Hamamözü | Motorin: 56,03 | Kurşunsuz 95: 54,54 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,33
+Gümüşhacıköy | Motorin: 56,04 | Kurşunsuz 95: 54,54 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,33
+Göynücek | Motorin: 56,04 | Kurşunsuz 95: 54,55 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,33

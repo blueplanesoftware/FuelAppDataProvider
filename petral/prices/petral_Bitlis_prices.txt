@@ -1,0 +1,7 @@
+Bitlis
+Ahlat | Motorin: 56,93 | Kurşunsuz 95: 55,35 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42
+Adilcevaz | Motorin: 56,93 | Kurşunsuz 95: 55,36 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42
+Güroymak | Motorin: 56,93 | Kurşunsuz 95: 55,38 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42
+Hizan | Motorin: 56,93 | Kurşunsuz 95: 55,38 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42
+Mutkı | Motorin: 56,93 | Kurşunsuz 95: 55,36 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42
+Tatvan | Motorin: 56,93 | Kurşunsuz 95: 55,35 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42

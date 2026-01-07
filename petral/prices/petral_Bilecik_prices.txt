@@ -1,0 +1,8 @@
+Bilecik
+Bozüyük | Motorin: 55,22 | Kurşunsuz 95: 53,93 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Gölpazarı | Motorin: 55,21 | Kurşunsuz 95: 53,92 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+İnhisar | Motorin: 55,22 | Kurşunsuz 95: 53,93 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Osmaneli | Motorin: 55,21 | Kurşunsuz 95: 53,92 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Pazaryeri | Motorin: 55,22 | Kurşunsuz 95: 53,93 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Söğüt | Motorin: 55,22 | Kurşunsuz 95: 53,92 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Yenipazar | Motorin: 55,22 | Kurşunsuz 95: 53,93 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30

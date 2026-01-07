@@ -1,0 +1,5 @@
+Karabük
+Ovacık | Motorin: 55,60 | Kurşunsuz 95: 54,29 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Eskipazar | Motorin: 55,60 | Kurşunsuz 95: 54,28 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Yenice | Motorin: 55,60 | Kurşunsuz 95: 54,29 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Safranbolu | Motorin: 55,60 | Kurşunsuz 95: 54,30 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33

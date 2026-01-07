@@ -1,0 +1,9 @@
+Bingöl
+Kiğı | Motorin: 56,84 | Kurşunsuz 95: 55,26 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41
+Yedisu | Motorin: 56,85 | Kurşunsuz 95: 55,28 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41
+Genç | Motorin: 56,83 | Kurşunsuz 95: 55,27 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41
+Karlıova | Motorin: 56,84 | Kurşunsuz 95: 55,26 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41
+Kiğı | Motorin: 56,84 | Kurşunsuz 95: 55,26 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41
+Solhan | Motorin: 56,84 | Kurşunsuz 95: 55,26 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41
+Yayladere | Motorin: 56,84 | Kurşunsuz 95: 55,28 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41
+Yedisu | Motorin: 56,85 | Kurşunsuz 95: 55,28 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41

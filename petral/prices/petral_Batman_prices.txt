@@ -1,0 +1,6 @@
+Batman
+Sason | Motorin: 56,77 | Kurşunsuz 95: 55,24 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41
+Kozluk | Motorin: 56,77 | Kurşunsuz 95: 55,24 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41
+Hasankeyf | Motorin: 56,77 | Kurşunsuz 95: 55,23 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41
+Gercüş | Motorin: 56,78 | Kurşunsuz 95: 55,24 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41
+Beşiri | Motorin: 56,77 | Kurşunsuz 95: 55,23 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41

@@ -1,0 +1,8 @@
+Tunceli
+Çemişgezek | Motorin: 56,79 | Kurşunsuz 95: 55,26 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41
+Hozat | Motorin: 56,79 | Kurşunsuz 95: 55,26 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41
+Mazgirt | Motorin: 56,80 | Kurşunsuz 95: 55,25 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41
+Nazimiye | Motorin: 56,80 | Kurşunsuz 95: 55,25 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41
+Ovacık | Motorin: 56,81 | Kurşunsuz 95: 55,26 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41
+Pertek | Motorin: 56,78 | Kurşunsuz 95: 55,25 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41
+Pülümür | Motorin: 56,78 | Kurşunsuz 95: 55,25 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,41

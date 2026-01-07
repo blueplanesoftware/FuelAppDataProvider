@@ -1,0 +1,4 @@
+Kilis
+Elbeyli | Motorin: 56,20 | Kurşunsuz 95: 54,67 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Musabeyli | Motorin: 56,19 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Polateli | Motorin: 56,19 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33

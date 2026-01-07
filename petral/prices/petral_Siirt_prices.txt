@@ -1,0 +1,8 @@
+Siirt
+Aydınlar | Motorin: 56,81 | Kurşunsuz 95: 55,27 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42
+Baykan | Motorin: 56,81 | Kurşunsuz 95: 55,27 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42
+Pervari | Motorin: 56,82 | Kurşunsuz 95: 55,28 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42
+Şirvan | Motorin: 56,81 | Kurşunsuz 95: 55,27 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42
+Tillo | Motorin: 56,81 | Kurşunsuz 95: 55,27 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42
+Şirvan | Motorin: 56,81 | Kurşunsuz 95: 55,27 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42
+Tillo | Motorin: 56,81 | Kurşunsuz 95: 55,27 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42

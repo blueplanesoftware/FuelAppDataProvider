@@ -1,0 +1,19 @@
+Bursa
+İnegöl | Motorin: 55,35 | Kurşunsuz 95: 54,05 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30
+İznik | Motorin: 55,34 | Kurşunsuz 95: 54,04 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30
+Mudanya | Motorin: 55,34 | Kurşunsuz 95: 54,04 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30
+Nilüfer | Motorin: 55,35 | Kurşunsuz 95: 54,04 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30
+Orhaneli | Motorin: 55,36 | Kurşunsuz 95: 54,05 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30
+Orhangazi | Motorin: 55,33 | Kurşunsuz 95: 54,05 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30
+Osmangazi | Motorin: 55,35 | Kurşunsuz 95: 54,04 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30
+Karacabey | Motorin: 55,36 | Kurşunsuz 95: 54,05 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30
+Keles | Motorin: 55,35 | Kurşunsuz 95: 54,05 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30
+Kestel | Motorin: 55,35 | Kurşunsuz 95: 54,04 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30
+M.Kemalpaşa | Motorin: 55,36 | Kurşunsuz 95: 54,05 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30
+Mudanya | Motorin: 55,34 | Kurşunsuz 95: 54,04 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30
+Nilüfer | Motorin: 55,35 | Kurşunsuz 95: 54,04 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30
+Orhaneli | Motorin: 55,36 | Kurşunsuz 95: 54,05 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30
+Orhangazi | Motorin: 55,33 | Kurşunsuz 95: 54,05 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30
+Osmangazi | Motorin: 55,35 | Kurşunsuz 95: 54,04 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30
+Yenişehir | Motorin: 55,35 | Kurşunsuz 95: 54,04 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30
+Yıldırım | Motorin: 55,35 | Kurşunsuz 95: 54,04 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,30

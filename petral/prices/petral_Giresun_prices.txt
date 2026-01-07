@@ -1,0 +1,16 @@
+Giresun
+Alucra | Motorin: 56,29 | Kurşunsuz 95: 54,78 | Kalorifer Yakıtı: 33,48 | Fuel Oil: 28,55
+Bulancak | Motorin: 56,28 | Kurşunsuz 95: 54,77 | Kalorifer Yakıtı: 33,48 | Fuel Oil: 28,55
+Çamoluk | Motorin: 56,29 | Kurşunsuz 95: 54,78 | Kalorifer Yakıtı: 33,48 | Fuel Oil: 28,55
+Çanakçı | Motorin: 56,27 | Kurşunsuz 95: 54,77 | Kalorifer Yakıtı: 33,48 | Fuel Oil: 28,55
+Dereli | Motorin: 56,28 | Kurşunsuz 95: 54,77 | Kalorifer Yakıtı: 33,48 | Fuel Oil: 28,55
+Doğankent | Motorin: 56,28 | Kurşunsuz 95: 54,77 | Kalorifer Yakıtı: 33,48 | Fuel Oil: 28,55
+Espiye | Motorin: 56,27 | Kurşunsuz 95: 54,77 | Kalorifer Yakıtı: 33,48 | Fuel Oil: 28,55
+Eynesil | Motorin: 56,27 | Kurşunsuz 95: 54,76 | Kalorifer Yakıtı: 33,48 | Fuel Oil: 28,55
+Görele | Motorin: 56,27 | Kurşunsuz 95: 54,76 | Kalorifer Yakıtı: 33,48 | Fuel Oil: 28,55
+Güce | Motorin: 56,27 | Kurşunsuz 95: 54,77 | Kalorifer Yakıtı: 33,48 | Fuel Oil: 28,55
+Keşap | Motorin: 56,28 | Kurşunsuz 95: 54,77 | Kalorifer Yakıtı: 33,48 | Fuel Oil: 28,55
+Piraziz | Motorin: 56,28 | Kurşunsuz 95: 54,78 | Kalorifer Yakıtı: 33,48 | Fuel Oil: 28,55
+Şebinkarahis | Motorin: 56,33 | Kurşunsuz 95: 54,79 | Kalorifer Yakıtı: 33,48 | Fuel Oil: 28,55
+Tirebolu | Motorin: 56,27 | Kurşunsuz 95: 54,77 | Kalorifer Yakıtı: 33,48 | Fuel Oil: 28,55
+Yağlıdere | Motorin: 56,28 | Kurşunsuz 95: 54,77 | Kalorifer Yakıtı: 33,48 | Fuel Oil: 28,55

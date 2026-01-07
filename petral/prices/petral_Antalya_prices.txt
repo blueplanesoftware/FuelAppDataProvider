@@ -1,0 +1,22 @@
+Antalya
+Demre | Motorin: 56,77 | Kurşunsuz 95: 55,19 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Döşemealtı | Motorin: 56,76 | Kurşunsuz 95: 55,18 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+İbradı | Motorin: 56,78 | Kurşunsuz 95: 55,19 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Kale | Motorin: 56,77 | Kurşunsuz 95: 55,18 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Kaş | Motorin: 56,78 | Kurşunsuz 95: 55,21 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Kemer | Motorin: 56,76 | Kurşunsuz 95: 55,18 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Kepez | Motorin: 56,75 | Kurşunsuz 95: 55,17 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Korkuteli | Motorin: 56,76 | Kurşunsuz 95: 55,18 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Kale | Motorin: 56,77 | Kurşunsuz 95: 55,18 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Kaş | Motorin: 56,78 | Kurşunsuz 95: 55,21 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Kemer | Motorin: 56,76 | Kurşunsuz 95: 55,18 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Kepez | Motorin: 56,75 | Kurşunsuz 95: 55,17 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Korkuteli | Motorin: 56,76 | Kurşunsuz 95: 55,18 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Konyaaltı | Motorin: 56,75 | Kurşunsuz 95: 55,17 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Kumluca | Motorin: 56,76 | Kurşunsuz 95: 55,19 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Manavgat | Motorin: 56,76 | Kurşunsuz 95: 55,19 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Muratpaşa | Motorin: 56,75 | Kurşunsuz 95: 55,17 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Serik | Motorin: 56,78 | Kurşunsuz 95: 55,20 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Manavgat | Motorin: 56,76 | Kurşunsuz 95: 55,19 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Muratpaşa | Motorin: 56,75 | Kurşunsuz 95: 55,17 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30
+Serik | Motorin: 56,78 | Kurşunsuz 95: 55,20 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,30

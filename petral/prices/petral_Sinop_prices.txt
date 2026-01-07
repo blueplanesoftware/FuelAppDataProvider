@@ -1,0 +1,9 @@
+Sinop
+Ayancık | Motorin: 56,10 | Kurşunsuz 95: 54,61 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Boyabat | Motorin: 56,10 | Kurşunsuz 95: 54,61 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Dikmen | Motorin: 56,08 | Kurşunsuz 95: 54,59 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Durağan | Motorin: 56,09 | Kurşunsuz 95: 54,60 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Gerze | Motorin: 56,08 | Kurşunsuz 95: 54,60 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Saraydüzü | Motorin: 56,09 | Kurşunsuz 95: 54,61 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Turkeli | Motorin: 56,10 | Kurşunsuz 95: 54,61 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Turkeli | Motorin: 56,10 | Kurşunsuz 95: 54,61 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31

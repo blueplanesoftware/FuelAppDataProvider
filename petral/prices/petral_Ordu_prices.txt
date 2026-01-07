@@ -1,0 +1,20 @@
+Ordu
+Akkuş | Motorin: 56,04 | Kurşunsuz 95: 54,56 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Aybastı | Motorin: 56,04 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Altınordu | Motorin: 56,04 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Çamaş | Motorin: 56,03 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Çatalpınar | Motorin: 56,03 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Çaybaşı | Motorin: 56,03 | Kurşunsuz 95: 54,56 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Fatsa | Motorin: 56,03 | Kurşunsuz 95: 54,56 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Gölköy | Motorin: 56,04 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Gülyalı | Motorin: 56,04 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Gürgentepe | Motorin: 56,04 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+İkizce | Motorin: 56,03 | Kurşunsuz 95: 54,56 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Kabadüz | Motorin: 56,04 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Kabataş | Motorin: 56,04 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Korgan | Motorin: 56,03 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Kumru | Motorin: 56,03 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Mesudiye | Motorin: 56,04 | Kurşunsuz 95: 54,58 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Perşembe | Motorin: 56,04 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Ulubey | Motorin: 56,04 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33
+Ünye | Motorin: 56,04 | Kurşunsuz 95: 54,57 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,33

@@ -1,0 +1,16 @@
+Mersin
+Erdemli | Motorin: 56,29 | Kurşunsuz 95: 54,79 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,34
+Gülnar | Motorin: 56,29 | Kurşunsuz 95: 54,80 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,34
+Mezitli | Motorin: 56,29 | Kurşunsuz 95: 54,79 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,34
+Anamur | Motorin: 56,33 | Kurşunsuz 95: 54,82 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,34
+Bozyazı | Motorin: 56,33 | Kurşunsuz 95: 54,81 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,34
+Çamlıyayla | Motorin: 56,29 | Kurşunsuz 95: 54,79 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,34
+Erdemli | Motorin: 56,29 | Kurşunsuz 95: 54,79 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,34
+Gülnar | Motorin: 56,29 | Kurşunsuz 95: 54,80 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,34
+Mezitli | Motorin: 56,29 | Kurşunsuz 95: 54,79 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,34
+Mut | Motorin: 56,30 | Kurşunsuz 95: 54,80 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,34
+Silifke | Motorin: 56,29 | Kurşunsuz 95: 54,79 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,34
+Tarsus | Motorin: 56,28 | Kurşunsuz 95: 54,79 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,34
+Toroslar | Motorin: 56,28 | Kurşunsuz 95: 54,78 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,34
+Yenice | Motorin: 56,28 | Kurşunsuz 95: 54,79 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,34
+Yenişehir | Motorin: 56,28 | Kurşunsuz 95: 54,79 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,34

@@ -1,0 +1,13 @@
+Malatya
+Darende | Motorin: 56,66 | Kurşunsuz 95: 55,13 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37
+Battalgazi | Motorin: 56,66 | Kurşunsuz 95: 55,13 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37
+Arguvan | Motorin: 56,66 | Kurşunsuz 95: 55,14 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37
+Arapgir | Motorin: 56,67 | Kurşunsuz 95: 55,15 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37
+Akçadağ | Motorin: 56,65 | Kurşunsuz 95: 55,13 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37
+Yeşilyurt | Motorin: 56,66 | Kurşunsuz 95: 55,13 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37
+Yazıhan | Motorin: 56,66 | Kurşunsuz 95: 55,14 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37
+Pötürge | Motorin: 56,66 | Kurşunsuz 95: 55,14 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37
+Battalgazi | Motorin: 56,66 | Kurşunsuz 95: 55,13 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37
+Arguvan | Motorin: 56,66 | Kurşunsuz 95: 55,14 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37
+Arapgir | Motorin: 56,67 | Kurşunsuz 95: 55,15 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37
+Akçadağ | Motorin: 56,65 | Kurşunsuz 95: 55,13 | Kalorifer Yakıtı: 33,35 | Fuel Oil: 28,37

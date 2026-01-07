@@ -1,0 +1,14 @@
+Nevşehir
+Acıgöl | Motorin: 56,39 | Kurşunsuz 95: 54,86 | Kalorifer Yakıtı: 33,47 | Fuel Oil: 28,37
+Avanos | Motorin: 56,39 | Kurşunsuz 95: 54,86 | Kalorifer Yakıtı: 33,47 | Fuel Oil: 28,37
+Derinkuyu | Motorin: 56,38 | Kurşunsuz 95: 54,85 | Kalorifer Yakıtı: 33,47 | Fuel Oil: 28,37
+Gülşehir | Motorin: 56,39 | Kurşunsuz 95: 54,86 | Kalorifer Yakıtı: 33,47 | Fuel Oil: 28,37
+Hacıbektaş | Motorin: 56,39 | Kurşunsuz 95: 54,86 | Kalorifer Yakıtı: 33,47 | Fuel Oil: 28,37
+Kozaklı | Motorin: 56,40 | Kurşunsuz 95: 54,87 | Kalorifer Yakıtı: 33,47 | Fuel Oil: 28,37
+Ürgüp | Motorin: 56,39 | Kurşunsuz 95: 54,87 | Kalorifer Yakıtı: 33,47 | Fuel Oil: 28,37
+Niğde | Motorin: 56,29 | Kurşunsuz 95: 54,78 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Altunhisar | Motorin: 56,29 | Kurşunsuz 95: 54,78 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Bor | Motorin: 56,29 | Kurşunsuz 95: 54,78 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Çamardı | Motorin: 56,29 | Kurşunsuz 95: 54,77 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Çiftlik | Motorin: 56,30 | Kurşunsuz 95: 54,78 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36
+Ulukışla | Motorin: 56,29 | Kurşunsuz 95: 54,77 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,36

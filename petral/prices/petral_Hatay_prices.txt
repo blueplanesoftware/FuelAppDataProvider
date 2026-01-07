@@ -1,0 +1,16 @@
+Hatay
+Altınözü | Motorin: 56,18 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Antakya | Motorin: 56,18 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Arsuz | Motorin: 56,18 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Belen | Motorin: 56,17 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Dörtyol | Motorin: 56,17 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Defne | Motorin: 56,18 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Erzin | Motorin: 56,18 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Hassa | Motorin: 56,18 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+İskenderun | Motorin: 56,17 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Kırıkhan | Motorin: 56,18 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Kumlu | Motorin: 56,18 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Payas | Motorin: 56,17 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Reyhanlı | Motorin: 56,18 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Samandağ | Motorin: 56,18 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 28,31
+Yayladağı | Motorin: 56,18 | Kurşunsuz 95: 54,66 | Kalorifer Yakıtı: 33,30 | Fuel Oil: 33,95

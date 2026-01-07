@@ -1,0 +1,15 @@
+Yozgat
+Akdağmadeni | Motorin: 56,11 | Kurşunsuz 95: 54,61 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Aydıncık | Motorin: 56,10 | Kurşunsuz 95: 54,60 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Boğazlıyan | Motorin: 56,10 | Kurşunsuz 95: 54,60 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Çandır | Motorin: 56,11 | Kurşunsuz 95: 54,61 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Çayıralan | Motorin: 56,11 | Kurşunsuz 95: 54,61 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Çekerek | Motorin: 56,10 | Kurşunsuz 95: 54,60 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Kadışehri | Motorin: 56,11 | Kurşunsuz 95: 54,61 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Saraykent | Motorin: 56,10 | Kurşunsuz 95: 54,60 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Saraykent | Motorin: 56,10 | Kurşunsuz 95: 54,60 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Sarıkaya | Motorin: 56,11 | Kurşunsuz 95: 54,70 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Sorgun | Motorin: 56,10 | Kurşunsuz 95: 54,60 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Şefaatli | Motorin: 56,10 | Kurşunsuz 95: 54,60 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Yenifakılı | Motorin: 56,10 | Kurşunsuz 95: 54,60 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35
+Yerköy | Motorin: 56,09 | Kurşunsuz 95: 54,59 | Kalorifer Yakıtı: 33,33 | Fuel Oil: 28,35

@@ -18,6 +18,8 @@ from rpet import save_city_prices_txt as rpet_save_city_prices_txt, save_all_cit
 import rpet
 from hpyco import save_city_prices_txt as hpyco_save_city_prices_txt, save_all_cities_prices_txt as hpyco_save_all_cities_prices_txt
 import hpyco
+from petral import save_city_prices_txt as petral_save_city_prices_txt, save_all_cities_prices_txt as petral_save_all_cities_prices_txt
+import petral
 
 def run_opet():
 	parser = argparse.ArgumentParser()
@@ -115,6 +117,24 @@ def run_hpyco():
 		fp = hpyco_save_city_prices_txt(args.city, output_dir, debug=args.debug)
 		print(f"Kaydedildi: {fp}")
 
+def run_petral():
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector")
+	group = parser.add_mutually_exclusive_group()
+	group.add_argument("--city", help="Tek şehir fiyat txt kaydet")
+	group.add_argument("--all", action="store_true", help="Tüm şehirlerin fiyat txt dosyalarını kaydet (pagination ile)")
+	args = parser.parse_args()
+	output_dir = Path(petral.__file__).parent / "prices"
+	if args.all:
+		saved = petral_save_all_cities_prices_txt(output_dir, debug=args.debug)
+		print(f"{len(saved)} dosya yazıldı -> {output_dir}")
+		if not saved:
+			print("Uyarı: Dosya yazılamadı. API yanıtı boş olabilir.")
+	else:
+		if not args.city:
+			raise SystemExit("Lütfen --city ile bir şehir adı verin veya --all kullanın.")
+		fp = petral_save_city_prices_txt(args.city, output_dir, debug=args.debug)
+		print(f"Kaydedildi: {fp}")
 def run_turkiyepetrolleri():
 	parser = argparse.ArgumentParser()
 	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector (PWDEBUG=1 önerilir)")
@@ -135,4 +155,4 @@ def run_aytemiz():
 		print("Uyarı: Dosya yazılamadı. Seçici veya tablo bulunamamış olabilir.")
 
 if __name__ == "__main__":
-	run_hpyco()
+	run_petral()

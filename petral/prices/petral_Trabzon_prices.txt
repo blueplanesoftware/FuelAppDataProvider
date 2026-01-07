@@ -1,0 +1,19 @@
+Trabzon
+Akçaabat | Motorin: 56,19 | Kurşunsuz 95: 54,70 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Araklı | Motorin: 56,19 | Kurşunsuz 95: 54,71 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Arsin | Motorin: 56,19 | Kurşunsuz 95: 54,70 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Beşikdüzü | Motorin: 56,20 | Kurşunsuz 95: 54,70 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Çarşıbaşı | Motorin: 56,19 | Kurşunsuz 95: 54,70 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Çaykara | Motorin: 56,20 | Kurşunsuz 95: 54,71 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Dernekpazarı | Motorin: 56,20 | Kurşunsuz 95: 54,70 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Düzköy | Motorin: 56,19 | Kurşunsuz 95: 54,70 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Hayrat | Motorin: 56,20 | Kurşunsuz 95: 54,70 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Köprübaşı | Motorin: 56,19 | Kurşunsuz 95: 54,70 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Maçka | Motorin: 56,19 | Kurşunsuz 95: 54,70 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Of | Motorin: 56,19 | Kurşunsuz 95: 54,72 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Ortahisar | Motorin: 56,19 | Kurşunsuz 95: 54,70 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Sürmene | Motorin: 56,19 | Kurşunsuz 95: 54,70 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Şalpazarı | Motorin: 56,20 | Kurşunsuz 95: 54,70 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Tonya | Motorin: 56,20 | Kurşunsuz 95: 54,70 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Vakfıkebir | Motorin: 56,20 | Kurşunsuz 95: 54,70 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31
+Yomra | Motorin: 56,19 | Kurşunsuz 95: 54,70 | Kalorifer Yakıtı: 33,29 | Fuel Oil: 28,31

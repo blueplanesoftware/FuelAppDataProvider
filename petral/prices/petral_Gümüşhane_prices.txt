@@ -1,0 +1,6 @@
+Gümüşhane
+Kelkit | Motorin: 56,23 | Kurşunsuz 95: 54,74 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,33
+Köse | Motorin: 56,23 | Kurşunsuz 95: 54,73 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,33
+Kürtün | Motorin: 56,22 | Kurşunsuz 95: 54,73 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,33
+Şiran | Motorin: 56,24 | Kurşunsuz 95: 54,75 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,33
+Torul | Motorin: 56,22 | Kurşunsuz 95: 54,73 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,33

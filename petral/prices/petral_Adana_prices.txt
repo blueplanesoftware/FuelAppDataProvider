@@ -1,0 +1,15 @@
+Adana
+Aladağ | Motorin: 56,31 | Kurşunsuz 95: 54,80 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Ceyhan | Motorin: 56,30 | Kurşunsuz 95: 54,80 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Çukurova | Motorin: 56,29 | Kurşunsuz 95: 54,80 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Feke | Motorin: 56,31 | Kurşunsuz 95: 54,81 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+İmamoğlu | Motorin: 56,29 | Kurşunsuz 95: 54,80 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Karaisalı | Motorin: 56,30 | Kurşunsuz 95: 54,80 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Karataş | Motorin: 56,30 | Kurşunsuz 95: 54,80 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Kozan | Motorin: 56,30 | Kurşunsuz 95: 54,80 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Pozantı | Motorin: 56,30 | Kurşunsuz 95: 54,80 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Karaisalı | Motorin: 56,30 | Kurşunsuz 95: 54,80 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+İmamoğlu | Motorin: 56,29 | Kurşunsuz 95: 54,80 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Feke | Motorin: 56,31 | Kurşunsuz 95: 54,81 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Çukurova | Motorin: 56,29 | Kurşunsuz 95: 54,80 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Ceyhan | Motorin: 56,30 | Kurşunsuz 95: 54,80 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33

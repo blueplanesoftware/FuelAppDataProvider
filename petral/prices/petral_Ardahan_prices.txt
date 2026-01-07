@@ -1,0 +1,6 @@
+Ardahan
+Damal | Motorin: 56,54 | Kurşunsuz 95: 55,02 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,37
+Çıldır | Motorin: 56,54 | Kurşunsuz 95: 55,02 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,37
+Hanak | Motorin: 56,54 | Kurşunsuz 95: 55,02 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,37
+Göle | Motorin: 56,54 | Kurşunsuz 95: 55,02 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,37
+Posof | Motorin: 56,55 | Kurşunsuz 95: 55,03 | Kalorifer Yakıtı: 33,34 | Fuel Oil: 28,37

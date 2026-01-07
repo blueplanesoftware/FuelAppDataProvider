@@ -1,0 +1,8 @@
+Adıyaman
+Besni | Motorin: 56,65 | Kurşunsuz 95: 55,13 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,36
+Çelikhan | Motorin: 56,66 | Kurşunsuz 95: 55,14 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,36
+Gerger | Motorin: 56,67 | Kurşunsuz 95: 55,15 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,36
+Kahta | Motorin: 56,66 | Kurşunsuz 95: 55,14 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,36
+Gölbaşı | Motorin: 56,65 | Kurşunsuz 95: 55,13 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,36
+Çelikhan | Motorin: 56,66 | Kurşunsuz 95: 55,14 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,36
+Besni | Motorin: 56,65 | Kurşunsuz 95: 55,13 | Kalorifer Yakıtı: 33,36 | Fuel Oil: 28,36

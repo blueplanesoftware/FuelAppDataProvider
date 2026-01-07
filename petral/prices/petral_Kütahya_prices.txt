@@ -1,0 +1,13 @@
+Kütahya
+Altıntaş | Motorin: 56,22 | Kurşunsuz 95: 54,89 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,32
+Aslanapa | Motorin: 56,22 | Kurşunsuz 95: 54,89 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,32
+Çavdarhisar | Motorin: 56,23 | Kurşunsuz 95: 54,89 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,32
+Domaniç | Motorin: 56,21 | Kurşunsuz 95: 54,88 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,32
+Dumlupınar | Motorin: 56,23 | Kurşunsuz 95: 54,89 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,32
+Emet | Motorin: 56,22 | Kurşunsuz 95: 54,89 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,32
+Gediz | Motorin: 56,26 | Kurşunsuz 95: 54,91 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,32
+Hisarcık | Motorin: 56,22 | Kurşunsuz 95: 54,89 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,32
+Pazarlar | Motorin: 56,22 | Kurşunsuz 95: 54,89 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,32
+Simav | Motorin: 56,26 | Kurşunsuz 95: 54,91 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,32
+Şaphane | Motorin: 56,22 | Kurşunsuz 95: 54,89 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,32
+Tavşanlı | Motorin: 56,22 | Kurşunsuz 95: 54,88 | Kalorifer Yakıtı: 33,31 | Fuel Oil: 28,32

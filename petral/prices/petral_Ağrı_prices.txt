@@ -1,0 +1,7 @@
+Ağrı
+Diyadin | Motorin: 56,79 | Kurşunsuz 95: 55,31 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,39
+Doğubeyazıt | Motorin: 56,80 | Kurşunsuz 95: 55,30 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,39
+Eleşkirt | Motorin: 56,78 | Kurşunsuz 95: 55,29 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,39
+Hamur | Motorin: 56,79 | Kurşunsuz 95: 55,31 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,39
+Patnos | Motorin: 56,80 | Kurşunsuz 95: 55,30 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,39
+Taşlıçay | Motorin: 56,79 | Kurşunsuz 95: 55,31 | Kalorifer Yakıtı: 33,39 | Fuel Oil: 28,39

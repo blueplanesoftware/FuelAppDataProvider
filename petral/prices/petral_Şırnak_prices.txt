@@ -1,0 +1,7 @@
+Şırnak
+Cizre | Motorin: 56,87 | Kurşunsuz 95: 55,32 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42
+Beytüşşebap | Motorin: 56,89 | Kurşunsuz 95: 55,33 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42
+Uludere | Motorin: 56,88 | Kurşunsuz 95: 55,33 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42
+Silopi | Motorin: 56,87 | Kurşunsuz 95: 55,32 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42
+İdil | Motorin: 56,86 | Kurşunsuz 95: 55,31 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42
+Güçlükonak | Motorin: 56,87 | Kurşunsuz 95: 55,32 | Kalorifer Yakıtı: 33,40 | Fuel Oil: 28,42

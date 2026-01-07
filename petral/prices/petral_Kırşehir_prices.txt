@@ -1,0 +1,8 @@
+Kırşehir
+Boztepe | Motorin: 55,76 | Kurşunsuz 95: 54,25 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,38
+Çiçekdağı | Motorin: 55,76 | Kurşunsuz 95: 54,25 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,38
+Mucur | Motorin: 55,76 | Kurşunsuz 95: 54,26 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,38
+Boztepe | Motorin: 55,76 | Kurşunsuz 95: 54,25 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,38
+Çiçekdağı | Motorin: 55,76 | Kurşunsuz 95: 54,25 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,38
+Kaman | Motorin: 55,75 | Kurşunsuz 95: 54,24 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,38
+Mucur | Motorin: 55,76 | Kurşunsuz 95: 54,26 | Kalorifer Yakıtı: 33,37 | Fuel Oil: 28,38

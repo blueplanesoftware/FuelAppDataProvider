@@ -1,0 +1,17 @@
+Manisa
+Ahmetli | Motorin: 55,82 | Kurşunsuz 95: 54,33 | Kalorifer Yakıtı: 33,26 | Fuel Oil: 28,28
+Demirci | Motorin: 55,84 | Kurşunsuz 95: 54,34 | Kalorifer Yakıtı: 33,26 | Fuel Oil: 28,28
+Alaşehir | Motorin: 55,83 | Kurşunsuz 95: 54,33 | Kalorifer Yakıtı: 33,26 | Fuel Oil: 28,28
+Akhisar | Motorin: 55,82 | Kurşunsuz 95: 54,33 | Kalorifer Yakıtı: 33,26 | Fuel Oil: 28,28
+Ahmetli | Motorin: 55,82 | Kurşunsuz 95: 54,33 | Kalorifer Yakıtı: 33,26 | Fuel Oil: 28,28
+Sarıgöl | Motorin: 55,83 | Kurşunsuz 95: 54,34 | Kalorifer Yakıtı: 33,26 | Fuel Oil: 28,28
+Salihli | Motorin: 55,82 | Kurşunsuz 95: 54,33 | Kalorifer Yakıtı: 33,26 | Fuel Oil: 28,28
+Kula | Motorin: 55,83 | Kurşunsuz 95: 54,33 | Kalorifer Yakıtı: 33,26 | Fuel Oil: 28,28
+Köprübaşı | Motorin: 55,83 | Kurşunsuz 95: 54,33 | Kalorifer Yakıtı: 33,26 | Fuel Oil: 28,28
+Kırkağaç | Motorin: 55,82 | Kurşunsuz 95: 54,33 | Kalorifer Yakıtı: 33,26 | Fuel Oil: 28,28
+Akhisar | Motorin: 55,82 | Kurşunsuz 95: 54,33 | Kalorifer Yakıtı: 33,26 | Fuel Oil: 28,28
+Alaşehir | Motorin: 55,83 | Kurşunsuz 95: 54,33 | Kalorifer Yakıtı: 33,26 | Fuel Oil: 28,28
+Demirci | Motorin: 55,84 | Kurşunsuz 95: 54,34 | Kalorifer Yakıtı: 33,26 | Fuel Oil: 28,28
+Gölmarmara | Motorin: 55,82 | Kurşunsuz 95: 54,33 | Kalorifer Yakıtı: 33,26 | Fuel Oil: 28,28
+Gördes | Motorin: 55,83 | Kurşunsuz 95: 54,33 | Kalorifer Yakıtı: 33,26 | Fuel Oil: 28,28
+Kırkağaç | Motorin: 55,82 | Kurşunsuz 95: 54,33 | Kalorifer Yakıtı: 33,26 | Fuel Oil: 28,28

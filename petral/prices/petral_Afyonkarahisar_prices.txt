@@ -1,0 +1,17 @@
+Afyonkarahisar
+Basmakçı | Motorin: 56,62 | Kurşunsuz 95: 55,01 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Bayat | Motorin: 56,64 | Kurşunsuz 95: 55,01 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Bolvadin | Motorin: 56,63 | Kurşunsuz 95: 55,01 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Çay | Motorin: 56,63 | Kurşunsuz 95: 55,01 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Hocalar | Motorin: 56,62 | Kurşunsuz 95: 55,00 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Evciler | Motorin: 56,63 | Kurşunsuz 95: 55,01 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Emirdağ | Motorin: 56,62 | Kurşunsuz 95: 55,01 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Dinar | Motorin: 56,64 | Kurşunsuz 95: 55,01 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Çobanlar | Motorin: 56,63 | Kurşunsuz 95: 55,01 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Çay | Motorin: 56,63 | Kurşunsuz 95: 55,01 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Bolvadin | Motorin: 56,63 | Kurşunsuz 95: 55,01 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Bayat | Motorin: 56,64 | Kurşunsuz 95: 55,01 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Basmakçı | Motorin: 56,62 | Kurşunsuz 95: 55,01 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Dazkırı | Motorin: 56,62 | Kurşunsuz 95: 55,00 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Dinar | Motorin: 56,64 | Kurşunsuz 95: 55,01 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33
+Evciler | Motorin: 56,63 | Kurşunsuz 95: 55,01 | Kalorifer Yakıtı: 33,32 | Fuel Oil: 28,33

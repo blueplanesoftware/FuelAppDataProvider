@@ -1,0 +1,6 @@
+Muş
+Bulanık | Motorin: 56,83 | Kurşunsuz 95: 55,28 | Kalorifer Yakıtı: 33,41 | Fuel Oil: 28,45
+Hasköy | Motorin: 56,82 | Kurşunsuz 95: 55,27 | Kalorifer Yakıtı: 33,41 | Fuel Oil: 28,45
+Korkut | Motorin: 56,82 | Kurşunsuz 95: 55,27 | Kalorifer Yakıtı: 33,41 | Fuel Oil: 28,45
+Malazgirt | Motorin: 56,83 | Kurşunsuz 95: 55,28 | Kalorifer Yakıtı: 33,41 | Fuel Oil: 28,45
+Varto | Motorin: 56,82 | Kurşunsuz 95: 55,27 | Kalorifer Yakıtı: 33,41 | Fuel Oil: 28,45
