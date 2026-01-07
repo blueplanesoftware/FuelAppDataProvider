@@ -12,6 +12,8 @@ from turkiyepetrolleri import save_city_prices_txt as tppd_save_city_prices_txt,
 import turkiyepetrolleri
 from aytemiz.scraper import save_all_cities_prices_txt
 import aytemiz
+from moil.scraper import save_all_cities_prices_txt as moil_save_all_cities_prices_txt
+import moil
 from parkoil import save_city_prices_txt as parkoil_save_city_prices_txt, save_all_cities_prices_txt as parkoil_save_all_cities_prices_txt
 import parkoil
 from rpet import save_city_prices_txt as rpet_save_city_prices_txt, save_all_cities_prices_txt as rpet_save_all_cities_prices_txt
@@ -154,5 +156,21 @@ def run_aytemiz():
 	if not saved:
 		print("Uyarı: Dosya yazılamadı. Seçici veya tablo bulunamamış olabilir.")
 
+
+def run_moil():
+	"""
+	Tüm şehirler için Moil pompa fiyatlarını çekip txt dosyalarına yazar.
+	Çıktılar: moil/moil_<ŞEHİR>_prices.txt
+	"""
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector (PWDEBUG=1 önerilir)")
+	args = parser.parse_args()
+
+	output_dir = Path(moil.__file__).parent / "prices"
+	saved = moil_save_all_cities_prices_txt(output_dir, debug=args.debug)
+	print(f"{len(saved)} dosya yazıldı -> {output_dir}")
+	if not saved:
+		print("Uyarı: Dosya yazılamadı. Seçici veya tablo / şehir seçimi bulunamamış olabilir.")
+
 if __name__ == "__main__":
-	run_petral()
+	run_moil()
