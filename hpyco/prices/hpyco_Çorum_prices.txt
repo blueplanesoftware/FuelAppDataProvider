@@ -1,0 +1,14 @@
+Çorum
+Alaca | Benzin: 54,56 | Motorin: 56,06
+Bayat | Benzin: 54,56 | Motorin: 56,06
+Boğazkale | Benzin: 54,55 | Motorin: 56,05
+Dodurga | Benzin: 54,56 | Motorin: 56,06
+İskilip | Benzin: 54,56 | Motorin: 56,06
+Kargı | Benzin: 54,57 | Motorin: 56,07
+Laçin | Benzin: 54,56 | Motorin: 56,06
+Mecitözü | Benzin: 54,56 | Motorin: 56,06
+Oğuzlar | Benzin: 54,57 | Motorin: 56,07
+Ortaköy | Benzin: 54,56 | Motorin: 56,06
+Osmancık | Benzin: 54,56 | Motorin: 56,06
+Sungurlu | Benzin: 54,55 | Motorin: 56,05
+Uğurludağ | Benzin: 54,56 | Motorin: 56,06

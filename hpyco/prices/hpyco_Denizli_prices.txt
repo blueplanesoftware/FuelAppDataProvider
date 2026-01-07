@@ -1,0 +1,19 @@
+Denizli
+Acıpayam | Benzin: 54,70 | Motorin: 56,28
+Akköy | Benzin: 54,68 | Motorin: 56,26
+Babadağ | Benzin: 54,69 | Motorin: 56,27
+Baklan | Benzin: 54,70 | Motorin: 56,28
+Bekilli | Benzin: 54,70 | Motorin: 56,28
+Beyağaç | Benzin: 54,70 | Motorin: 56,28
+Bozkurt | Benzin: 54,70 | Motorin: 56,28
+Buldan | Benzin: 54,68 | Motorin: 56,26
+Çal | Benzin: 54,69 | Motorin: 56,27
+Çameli | Benzin: 54,70 | Motorin: 56,28
+Çardak | Benzin: 54,70 | Motorin: 56,28
+Çivril | Benzin: 54,70 | Motorin: 56,28
+Güney | Benzin: 54,69 | Motorin: 56,27
+Honaz | Benzin: 54,70 | Motorin: 56,28
+Kale | Benzin: 54,70 | Motorin: 56,28
+Sarayköy | Benzin: 54,69 | Motorin: 56,27
+Serinhisar | Benzin: 54,70 | Motorin: 56,28
+Tavas | Benzin: 54,70 | Motorin: 56,28

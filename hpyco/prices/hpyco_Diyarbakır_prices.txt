@@ -1,0 +1,18 @@
+Diyarbakır
+Bağlar | Benzin: 55,26 | Motorin: 56,83
+Bismil | Benzin: 55,23 | Motorin: 56,80
+Çermik | Benzin: 55,25 | Motorin: 56,82
+Çınar | Benzin: 55,22 | Motorin: 56,79
+Çüngüş | Benzin: 55,23 | Motorin: 56,80
+Dicle | Benzin: 55,22 | Motorin: 56,79
+Eğil | Benzin: 55,23 | Motorin: 56,80
+Ergani | Benzin: 55,23 | Motorin: 56,80
+Hani | Benzin: 55,23 | Motorin: 56,80
+Hazro | Benzin: 55,23 | Motorin: 56,80
+Kayapınar | Benzin: 55,25 | Motorin: 56,82
+Kocaköy | Benzin: 55,23 | Motorin: 56,80
+Kulp | Benzin: 55,24 | Motorin: 56,81
+Lice | Benzin: 55,23 | Motorin: 56,80
+Silvan | Benzin: 55,23 | Motorin: 56,80
+Sur | Benzin: 55,22 | Motorin: 56,79
+Yenişehir | Benzin: 55,25 | Motorin: 56,82

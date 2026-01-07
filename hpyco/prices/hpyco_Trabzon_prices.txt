@@ -1,0 +1,19 @@
+Trabzon
+Akçaabat | Benzin: 54,82 | Motorin: 56,29
+Araklı | Benzin: 54,83 | Motorin: 56,30
+Arsin | Benzin: 54,82 | Motorin: 56,29
+Beşikdüzü | Benzin: 54,83 | Motorin: 56,30
+Çarşıbaşı | Benzin: 54,82 | Motorin: 56,29
+Çaykara | Benzin: 54,84 | Motorin: 56,31
+Dernekpazarı | Benzin: 54,85 | Motorin: 56,32
+Düzköy | Benzin: 54,83 | Motorin: 56,30
+Hayrat | Benzin: 54,84 | Motorin: 56,31
+Köprübaşı | Benzin: 54,83 | Motorin: 56,30
+Maçka | Benzin: 54,83 | Motorin: 56,30
+Of | Benzin: 54,84 | Motorin: 56,31
+Ortahisar | Benzin: 54,82 | Motorin: 56,29
+Sürmene | Benzin: 54,83 | Motorin: 56,30
+Şalpazarı | Benzin: 54,85 | Motorin: 56,32
+Tonya | Benzin: 54,83 | Motorin: 56,30
+Vakfıkebir | Benzin: 54,82 | Motorin: 56,29
+Yomra | Benzin: 54,82 | Motorin: 56,29

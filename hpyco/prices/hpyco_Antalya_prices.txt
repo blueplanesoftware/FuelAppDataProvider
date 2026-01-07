@@ -1,0 +1,20 @@
+Antalya
+Akseki | Benzin: 55,20 | Motorin: 56,82
+Aksu | Benzin: 55,18 | Motorin: 56,80
+Alanya | Benzin: 55,19 | Motorin: 56,81
+Demre | Benzin: 55,19 | Motorin: 56,81
+Döşemealtı | Benzin: 55,18 | Motorin: 56,80
+Elmalı | Benzin: 55,19 | Motorin: 56,81
+Finike | Benzin: 55,19 | Motorin: 56,81
+Gazipaşa | Benzin: 55,21 | Motorin: 56,83
+Gündoğmuş | Benzin: 55,19 | Motorin: 56,81
+İbradı | Benzin: 55,20 | Motorin: 56,82
+Kaş | Benzin: 55,21 | Motorin: 56,83
+Kemer | Benzin: 55,18 | Motorin: 56,80
+Kepez | Benzin: 55,17 | Motorin: 56,79
+Konyaaltı | Benzin: 55,17 | Motorin: 56,79
+Korkuteli | Benzin: 55,18 | Motorin: 56,80
+Kumluca | Benzin: 55,19 | Motorin: 56,81
+Manavgat | Benzin: 55,19 | Motorin: 56,81
+Muratpaşa | Benzin: 55,17 | Motorin: 56,79
+Serik | Benzin: 55,18 | Motorin: 56,80

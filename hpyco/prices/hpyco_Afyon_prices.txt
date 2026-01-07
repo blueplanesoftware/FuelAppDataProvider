@@ -1,0 +1,18 @@
+Afyon
+Başmakçı | Benzin: 54,99 | Motorin: 56,65
+Bayat | Benzin: 55,01 | Motorin: 56,67
+Bolvadin | Benzin: 55,01 | Motorin: 56,67
+Çay | Benzin: 55,02 | Motorin: 56,68
+Çobanlar | Benzin: 55,02 | Motorin: 56,68
+Dazkırı | Benzin: 55,01 | Motorin: 56,67
+Dinar | Benzin: 55,02 | Motorin: 56,68
+Emirdağ | Benzin: 55,01 | Motorin: 56,67
+Evciler | Benzin: 55,00 | Motorin: 56,66
+Hocalar | Benzin: 55,00 | Motorin: 56,66
+İhsaniye | Benzin: 55,01 | Motorin: 56,67
+İscehisar | Benzin: 55,02 | Motorin: 56,68
+Kızılören | Benzin: 55,00 | Motorin: 56,66
+Sandıklı | Benzin: 55,01 | Motorin: 56,67
+Sinanpaşa | Benzin: 55,00 | Motorin: 56,66
+Sultandağı | Benzin: 55,03 | Motorin: 56,69
+Şuhut | Benzin: 55,01 | Motorin: 56,67

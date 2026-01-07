@@ -1,0 +1,18 @@
+Manisa
+Ahmetli | Benzin: 54,33 | Motorin: 55,84
+Akhisar | Benzin: 54,32 | Motorin: 55,83
+Alaşehir | Benzin: 54,33 | Motorin: 55,84
+Demirci | Benzin: 54,35 | Motorin: 55,86
+Gölmarmara | Benzin: 54,33 | Motorin: 55,84
+Gördes | Benzin: 54,33 | Motorin: 55,84
+Kırkağaç | Benzin: 54,32 | Motorin: 55,83
+Köprübaşı | Benzin: 54,34 | Motorin: 55,85
+Kula | Benzin: 54,34 | Motorin: 55,85
+Salihli | Benzin: 54,33 | Motorin: 55,84
+Sarıgöl | Benzin: 54,34 | Motorin: 55,85
+Saruhanlı | Benzin: 54,32 | Motorin: 55,83
+Selendi | Benzin: 54,35 | Motorin: 55,86
+Soma | Benzin: 54,32 | Motorin: 55,83
+Şehzadeler | Benzin: 54,32 | Motorin: 55,83
+Turgutlu | Benzin: 54,33 | Motorin: 55,84
+Yunusemre | Benzin: 43,67 | Motorin: 43,69

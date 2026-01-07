@@ -16,6 +16,8 @@ from parkoil import save_city_prices_txt as parkoil_save_city_prices_txt, save_a
 import parkoil
 from rpet import save_city_prices_txt as rpet_save_city_prices_txt, save_all_cities_prices_txt as rpet_save_all_cities_prices_txt
 import rpet
+from hpyco import save_city_prices_txt as hpyco_save_city_prices_txt, save_all_cities_prices_txt as hpyco_save_all_cities_prices_txt
+import hpyco
 
 def run_opet():
 	parser = argparse.ArgumentParser()
@@ -96,6 +98,23 @@ def run_rpet():
 		fp = rpet_save_city_prices_txt(args.city, output_dir, debug=args.debug)
 		print(f"Kaydedildi: {fp}")
 		
+def run_hpyco():
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector")
+	group = parser.add_mutually_exclusive_group()
+	group.add_argument("--city", default="Adana", help="Tek şehir fiyat txt kaydet (varsayılan: Adana)")
+	group.add_argument("--all", action="store_true", help="Tüm şehirlerin fiyat txt dosyalarını kaydet")
+	args = parser.parse_args()
+	output_dir = Path(hpyco.__file__).parent / "prices"
+	if args.all:
+		saved = hpyco_save_all_cities_prices_txt(output_dir, debug=args.debug)
+		print(f"{len(saved)} dosya yazıldı -> {output_dir}")
+		if not saved:
+			print("Uyarı: Dosya yazılamadı. Seçici veya sonuç tablosu bulunamamış olabilir.")
+	else:
+		fp = hpyco_save_city_prices_txt(args.city, output_dir, debug=args.debug)
+		print(f"Kaydedildi: {fp}")
+
 def run_turkiyepetrolleri():
 	parser = argparse.ArgumentParser()
 	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector (PWDEBUG=1 önerilir)")
@@ -116,4 +135,4 @@ def run_aytemiz():
 		print("Uyarı: Dosya yazılamadı. Seçici veya tablo bulunamamış olabilir.")
 
 if __name__ == "__main__":
-	run_aytemiz()
+	run_hpyco()

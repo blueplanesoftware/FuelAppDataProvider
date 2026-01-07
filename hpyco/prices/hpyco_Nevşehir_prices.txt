@@ -1,0 +1,8 @@
+Nevşehir
+Acıgöl | Benzin: 54,99 | Motorin: 56,47
+Avanos | Benzin: 54,99 | Motorin: 56,47
+Derinkuyu | Benzin: 54,99 | Motorin: 56,47
+Gülşehir | Benzin: 54,98 | Motorin: 56,46
+Hacıbektaş | Benzin: 54,98 | Motorin: 56,46
+Kozaklı | Benzin: 54,99 | Motorin: 56,47
+Ürgüp | Benzin: 54,99 | Motorin: 56,47

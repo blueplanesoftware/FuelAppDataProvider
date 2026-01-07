@@ -1,0 +1,9 @@
+Erzincan
+Çayırlı | Benzin: 55,08 | Motorin: 56,56
+İliç | Benzin: 55,10 | Motorin: 56,58
+Kemah | Benzin: 55,09 | Motorin: 56,57
+Kemaliye | Benzin: 55,10 | Motorin: 56,58
+Otlukbeli | Benzin: 55,08 | Motorin: 56,56
+Refahiye | Benzin: 55,08 | Motorin: 56,56
+Tercan | Benzin: 55,08 | Motorin: 56,56
+Üzümlü | Benzin: 55,09 | Motorin: 56,57

@@ -1,0 +1,21 @@
+Balıkesir
+Altıeylül | Benzin: 54,55 | Motorin: 56,08
+Ayvalık | Benzin: 54,53 | Motorin: 56,06
+Balya | Benzin: 54,56 | Motorin: 56,09
+Bandırma | Benzin: 54,57 | Motorin: 56,10
+Bigadiç | Benzin: 54,56 | Motorin: 56,09
+Burhaniye | Benzin: 54,54 | Motorin: 56,07
+Dursunbey | Benzin: 54,57 | Motorin: 56,10
+Edremit | Benzin: 54,54 | Motorin: 56,07
+Erdek | Benzin: 54,57 | Motorin: 56,10
+Gömeç | Benzin: 54,53 | Motorin: 56,06
+Gönen | Benzin: 54,57 | Motorin: 56,10
+Havran | Benzin: 54,54 | Motorin: 56,07
+İvrindi | Benzin: 54,54 | Motorin: 56,07
+Karesi | Benzin: 54,55 | Motorin: 56,08
+Kepsut | Benzin: 54,56 | Motorin: 56,09
+Manyas | Benzin: 54,57 | Motorin: 56,10
+Marmara | Benzin: 54,58 | Motorin: 56,11
+Savaştepe | Benzin: 54,54 | Motorin: 56,07
+Sındırgı | Benzin: 54,55 | Motorin: 56,08
+Susurluk | Benzin: 54,57 | Motorin: 56,10

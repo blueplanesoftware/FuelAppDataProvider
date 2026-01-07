@@ -1,0 +1,12 @@
+Çanakkale
+Ayvacık | Benzin: 54,60 | Motorin: 56,11
+Bayramiç | Benzin: 54,60 | Motorin: 56,11
+Biga | Benzin: 54,61 | Motorin: 56,12
+Bozcaada | Benzin: 54,83 | Motorin: 56,34
+Çan | Benzin: 54,60 | Motorin: 56,11
+Eceabat | Benzin: 54,62 | Motorin: 56,13
+Ezine | Benzin: 54,60 | Motorin: 56,11
+Gelibolu | Benzin: 54,60 | Motorin: 56,11
+Gökçeada | Benzin: 54,83 | Motorin: 56,34
+Lapseki | Benzin: 54,63 | Motorin: 56,14
+Yenice | Benzin: 54,60 | Motorin: 56,11

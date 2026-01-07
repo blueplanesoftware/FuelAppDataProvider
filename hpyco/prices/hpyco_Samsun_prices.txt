@@ -1,0 +1,18 @@
+Samsun
+Alaçam | Benzin: 54,69 | Motorin: 56,16
+Asarcık | Benzin: 54,68 | Motorin: 56,15
+Atakum | Benzin: 54,67 | Motorin: 56,14
+Ayvacık | Benzin: 54,69 | Motorin: 56,16
+Bafra | Benzin: 54,69 | Motorin: 56,16
+Canik | Benzin: 54,66 | Motorin: 56,13
+Çarşamba | Benzin: 54,68 | Motorin: 56,15
+Havza | Benzin: 54,69 | Motorin: 56,16
+İlkadım | Benzin: 54,66 | Motorin: 56,13
+Kavak | Benzin: 54,68 | Motorin: 56,15
+Ladik | Benzin: 54,68 | Motorin: 56,15
+Ondokuzmayıs | Benzin: 54,67 | Motorin: 56,14
+Salıpazarı | Benzin: 54,68 | Motorin: 56,15
+Tekkeköy | Benzin: 54,67 | Motorin: 56,14
+Terme | Benzin: 54,68 | Motorin: 56,15
+Vezirköprü | Benzin: 54,70 | Motorin: 56,17
+Yakakent | Benzin: 54,69 | Motorin: 56,16

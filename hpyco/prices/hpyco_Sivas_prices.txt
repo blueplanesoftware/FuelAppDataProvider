@@ -1,0 +1,17 @@
+Sivas
+Akıncılar | Benzin: 55,34 | Motorin: 56,91
+Altınyayla | Benzin: 55,32 | Motorin: 56,89
+Divriği | Benzin: 55,35 | Motorin: 56,92
+Doğanşar | Benzin: 55,34 | Motorin: 56,91
+Gemerek | Benzin: 55,31 | Motorin: 56,88
+Gölova | Benzin: 55,35 | Motorin: 56,92
+Gürün | Benzin: 55,33 | Motorin: 56,90
+Hafik | Benzin: 55,32 | Motorin: 56,89
+İmranlı | Benzin: 55,34 | Motorin: 56,91
+Kangal | Benzin: 55,34 | Motorin: 56,91
+Koyulhisar | Benzin: 55,31 | Motorin: 56,88
+Suşehri | Benzin: 55,31 | Motorin: 56,88
+Şarkışla | Benzin: 55,32 | Motorin: 56,89
+Ulaş | Benzin: 55,32 | Motorin: 56,89
+Yıldızeli | Benzin: 55,31 | Motorin: 56,88
+Zara | Benzin: 55,33 | Motorin: 56,90

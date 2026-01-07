@@ -1,0 +1,17 @@
+Kayseri
+Akkışla | Benzin: 55,10 | Motorin: 56,62
+Bünyan | Benzin: 55,10 | Motorin: 56,62
+Develi | Benzin: 55,10 | Motorin: 56,62
+Felahiye | Benzin: 55,10 | Motorin: 56,62
+Hacılar | Benzin: 55,09 | Motorin: 56,61
+İncesu | Benzin: 55,09 | Motorin: 56,61
+Kocasinan | Benzin: 55,11 | Motorin: 56,63
+Melikgazi | Benzin: 55,10 | Motorin: 56,62
+Özvatan | Benzin: 55,10 | Motorin: 56,62
+Pınarbaşı | Benzin: 55,11 | Motorin: 56,63
+Sarıoğlan | Benzin: 55,11 | Motorin: 56,63
+Sarız | Benzin: 55,11 | Motorin: 56,63
+Talas | Benzin: 55,09 | Motorin: 56,61
+Tomarza | Benzin: 55,11 | Motorin: 56,63
+Yahyalı | Benzin: 55,19 | Motorin: 56,71
+Yeşilhisar | Benzin: 55,10 | Motorin: 56,62

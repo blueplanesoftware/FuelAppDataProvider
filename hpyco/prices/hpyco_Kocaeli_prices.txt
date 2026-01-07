@@ -1,0 +1,13 @@
+Kocaeli
+Başiskele | Benzin: 53,45 | Motorin: 54,74
+Çayırova | Benzin: 53,45 | Motorin: 54,74
+Darıca | Benzin: 53,45 | Motorin: 54,74
+Derince | Benzin: 53,44 | Motorin: 54,73
+Dilovası | Benzin: 53,45 | Motorin: 54,74
+Gebze | Benzin: 53,45 | Motorin: 54,74
+Gölcük | Benzin: 53,45 | Motorin: 54,74
+İzmit | Benzin: 42,98 | Motorin: 42,82
+Kandıra | Benzin: 53,45 | Motorin: 54,74
+Karamürsel | Benzin: 53,45 | Motorin: 54,74
+Kartepe | Benzin: 53,45 | Motorin: 54,74
+Körfez | Benzin: 53,44 | Motorin: 54,73

@@ -1,0 +1,8 @@
+Kırklareli
+Babaeski | Benzin: 54,29 | Motorin: 55,81
+Demirköy | Benzin: 54,30 | Motorin: 55,82
+Kofçaz | Benzin: 54,30 | Motorin: 55,82
+Lüleburgaz | Benzin: 54,28 | Motorin: 55,80
+Pehlivanköy | Benzin: 54,30 | Motorin: 55,82
+Pınarhisar | Benzin: 54,29 | Motorin: 55,81
+Vize | Benzin: 54,29 | Motorin: 55,81

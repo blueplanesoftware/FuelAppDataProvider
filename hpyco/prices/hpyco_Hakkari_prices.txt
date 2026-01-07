@@ -1,0 +1,5 @@
+Hakkari
+Çukurca | Benzin: 55,37 | Motorin: 56,96
+Derecik | Benzin: 43,82 | Motorin: 43,71
+Şemdinli | Benzin: 55,38 | Motorin: 56,97
+Yüksekova | Benzin: 55,35 | Motorin: 56,94

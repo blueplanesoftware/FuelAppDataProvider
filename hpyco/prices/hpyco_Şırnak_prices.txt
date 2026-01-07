@@ -1,0 +1,7 @@
+Şırnak
+Beytüşşebap | Benzin: 55,10 | Motorin: 56,64
+Cizre | Benzin: 55,09 | Motorin: 56,63
+Güçlükonak | Benzin: 55,09 | Motorin: 56,63
+İdil | Benzin: 55,10 | Motorin: 56,64
+Silopi | Benzin: 55,11 | Motorin: 56,65
+Uludere | Benzin: 55,09 | Motorin: 56,63

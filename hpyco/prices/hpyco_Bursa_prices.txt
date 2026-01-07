@@ -1,0 +1,18 @@
+Bursa
+Büyükorhan | Benzin: 54,09 | Motorin: 55,38
+Gemlik | Benzin: 54,07 | Motorin: 55,36
+Gürsu | Benzin: 54,08 | Motorin: 55,37
+Harmancık | Benzin: 54,08 | Motorin: 55,37
+İnegöl | Benzin: 54,08 | Motorin: 55,37
+İznik | Benzin: 54,08 | Motorin: 55,37
+Karacabey | Benzin: 54,09 | Motorin: 55,38
+Keles | Benzin: 54,09 | Motorin: 55,38
+Kestel | Benzin: 54,08 | Motorin: 55,37
+Mudanya | Benzin: 54,08 | Motorin: 55,37
+Mustafakemalpaşa | Benzin: 54,18 | Motorin: 55,47
+Nilüfer | Benzin: 54,08 | Motorin: 55,37
+Orhaneli | Benzin: 54,08 | Motorin: 55,37
+Orhangazi | Benzin: 54,08 | Motorin: 55,37
+Osmangazi | Benzin: 54,07 | Motorin: 55,36
+Yenişehir | Benzin: 54,08 | Motorin: 55,37
+Yıldırım | Benzin: 54,08 | Motorin: 55,37

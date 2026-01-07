@@ -1,0 +1,18 @@
+Aydın
+Bozdoğan | Benzin: 54,48 | Motorin: 56,01
+Buharkent | Benzin: 54,48 | Motorin: 56,01
+Çine | Benzin: 54,47 | Motorin: 56,00
+Didim | Benzin: 54,47 | Motorin: 56,00
+Efeler | Benzin: 54,46 | Motorin: 55,99
+Germencik | Benzin: 54,46 | Motorin: 55,99
+İncirliova | Benzin: 54,46 | Motorin: 55,99
+Karacasu | Benzin: 54,48 | Motorin: 56,01
+Karpuzlu | Benzin: 54,47 | Motorin: 56,00
+Koçarlı | Benzin: 54,46 | Motorin: 55,99
+Köşk | Benzin: 54,47 | Motorin: 56,00
+Kuşadası | Benzin: 54,46 | Motorin: 55,99
+Kuyucak | Benzin: 54,48 | Motorin: 56,01
+Nazilli | Benzin: 54,47 | Motorin: 56,00
+Söke | Benzin: 54,47 | Motorin: 56,00
+Sultanhisar | Benzin: 54,47 | Motorin: 56,00
+Yenipazar | Benzin: 54,47 | Motorin: 56,00

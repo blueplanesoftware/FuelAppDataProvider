@@ -1,0 +1,12 @@
+Tokat
+Almus | Benzin: 54,61 | Motorin: 56,12
+Artova | Benzin: 54,61 | Motorin: 56,12
+Başçiftlik | Benzin: 54,58 | Motorin: 56,09
+Erbaa | Benzin: 54,58 | Motorin: 56,09
+Niksar | Benzin: 54,58 | Motorin: 56,09
+Pazar | Benzin: 54,60 | Motorin: 56,11
+Reşadiye | Benzin: 54,60 | Motorin: 56,11
+Sulusaray | Benzin: 54,59 | Motorin: 56,10
+Turhal | Benzin: 54,59 | Motorin: 56,10
+Yeşilyurt | Benzin: 54,62 | Motorin: 56,13
+Zile | Benzin: 54,60 | Motorin: 56,11

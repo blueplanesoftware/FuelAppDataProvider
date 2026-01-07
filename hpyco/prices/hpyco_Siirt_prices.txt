@@ -1,0 +1,7 @@
+Siirt
+Aydınlar | Benzin: 54,60 | Motorin: 56,11
+Baykan | Benzin: 54,60 | Motorin: 56,11
+Eruh | Benzin: 54,62 | Motorin: 56,13
+Kurtalan | Benzin: 54,60 | Motorin: 56,11
+Pervari | Benzin: 54,62 | Motorin: 56,13
+Şirvan | Benzin: 54,61 | Motorin: 56,12

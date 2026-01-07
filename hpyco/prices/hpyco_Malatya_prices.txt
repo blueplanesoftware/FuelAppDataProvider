@@ -1,0 +1,14 @@
+Malatya
+Akçadağ | Benzin: 55,27 | Motorin: 56,80
+Arapgir | Benzin: 55,28 | Motorin: 56,81
+Arguvan | Benzin: 55,27 | Motorin: 56,80
+Battalgazi | Benzin: 55,27 | Motorin: 56,80
+Darende | Benzin: 55,26 | Motorin: 56,79
+Doğanşehir | Benzin: 55,26 | Motorin: 56,79
+Doğanyol | Benzin: 55,27 | Motorin: 56,80
+Hekimhan | Benzin: 55,27 | Motorin: 56,80
+Kale | Benzin: 55,28 | Motorin: 56,81
+Kuluncak | Benzin: 55,27 | Motorin: 56,80
+Pütürge | Benzin: 55,27 | Motorin: 56,80
+Yazıhan | Benzin: 55,27 | Motorin: 56,80
+Yeşilyurt | Benzin: 55,26 | Motorin: 56,79

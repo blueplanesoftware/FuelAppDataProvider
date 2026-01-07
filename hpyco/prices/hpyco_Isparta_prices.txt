@@ -1,0 +1,13 @@
+Isparta
+Aksu | Benzin: 55,01 | Motorin: 56,69
+Atabey | Benzin: 55,01 | Motorin: 56,69
+Eğirdir | Benzin: 55,01 | Motorin: 56,69
+Gelendost | Benzin: 55,03 | Motorin: 56,71
+Gönen | Benzin: 55,01 | Motorin: 56,69
+Keçiborlu | Benzin: 55,02 | Motorin: 56,70
+Senirkent | Benzin: 55,04 | Motorin: 56,72
+Sütçüler | Benzin: 55,02 | Motorin: 56,70
+Şarkikaraağaç | Benzin: 55,04 | Motorin: 56,72
+Uluborlu | Benzin: 55,03 | Motorin: 56,71
+Yalvaç | Benzin: 55,04 | Motorin: 56,72
+Yenişarbademli | Benzin: 55,04 | Motorin: 56,72

@@ -1,0 +1,6 @@
+Karabük
+Eflani | Benzin: 54,34 | Motorin: 55,63
+Eskipazar | Benzin: 54,32 | Motorin: 55,61
+Ovacık | Benzin: 54,33 | Motorin: 55,62
+Safranbolu | Benzin: 54,33 | Motorin: 55,62
+Yenice | Benzin: 54,33 | Motorin: 55,62

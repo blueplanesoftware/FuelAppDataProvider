@@ -1,0 +1,9 @@
+Sinop
+Ayancık | Benzin: 55,06 | Motorin: 56,52
+Boyabat | Benzin: 55,04 | Motorin: 56,50
+Dikmen | Benzin: 55,03 | Motorin: 56,49
+Durağan | Benzin: 55,03 | Motorin: 56,49
+Erfelek | Benzin: 55,03 | Motorin: 56,49
+Gerze | Benzin: 55,03 | Motorin: 56,49
+Saraydüzü | Benzin: 55,04 | Motorin: 56,50
+Türkeli | Benzin: 55,05 | Motorin: 56,51

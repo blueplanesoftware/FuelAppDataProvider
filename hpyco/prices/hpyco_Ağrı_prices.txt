@@ -1,0 +1,8 @@
+Ağrı
+Diyadin | Benzin: 55,42 | Motorin: 56,91
+Doğubayazıt | Benzin: 55,43 | Motorin: 56,92
+Eleşkirt | Benzin: 55,39 | Motorin: 56,88
+Hamur | Benzin: 55,41 | Motorin: 56,90
+Patnos | Benzin: 55,42 | Motorin: 56,91
+Taşlıçay | Benzin: 55,41 | Motorin: 56,90
+Tutak | Benzin: 55,40 | Motorin: 56,89

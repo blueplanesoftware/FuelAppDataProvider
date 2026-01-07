@@ -1,0 +1,13 @@
+Kütahya
+Altıntaş | Benzin: 54,92 | Motorin: 56,24
+Aslanapa | Benzin: 54,92 | Motorin: 56,24
+Çavdarhisar | Benzin: 54,92 | Motorin: 56,24
+Domaniç | Benzin: 54,92 | Motorin: 56,24
+Dumlupınar | Benzin: 54,93 | Motorin: 56,25
+Emet | Benzin: 54,93 | Motorin: 56,25
+Gediz | Benzin: 54,92 | Motorin: 56,24
+Hisarcık | Benzin: 54,93 | Motorin: 56,25
+Pazarlar | Benzin: 54,92 | Motorin: 56,24
+Simav | Benzin: 54,92 | Motorin: 56,24
+Şaphane | Benzin: 54,91 | Motorin: 56,23
+Tavşanlı | Benzin: 54,91 | Motorin: 56,23

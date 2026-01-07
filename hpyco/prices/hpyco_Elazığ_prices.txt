@@ -1,0 +1,11 @@
+Elazığ
+Ağın | Benzin: 55,34 | Motorin: 57,04
+Alacakaya | Benzin: 55,35 | Motorin: 57,05
+Arıcak | Benzin: 55,36 | Motorin: 57,06
+Baskil | Benzin: 55,33 | Motorin: 57,03
+Karakoçan | Benzin: 55,36 | Motorin: 57,06
+Keban | Benzin: 55,33 | Motorin: 57,03
+Kovancılar | Benzin: 55,35 | Motorin: 57,05
+Maden | Benzin: 55,35 | Motorin: 57,05
+Palu | Benzin: 55,36 | Motorin: 57,06
+Sivrice | Benzin: 55,34 | Motorin: 57,04

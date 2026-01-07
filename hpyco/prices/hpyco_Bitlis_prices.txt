@@ -1,0 +1,7 @@
+Bitlis
+Adilcevaz | Benzin: 55,36 | Motorin: 56,96
+Ahlat | Benzin: 55,36 | Motorin: 56,96
+Güroymak | Benzin: 55,35 | Motorin: 56,95
+Hizan | Benzin: 55,35 | Motorin: 56,95
+Mutki | Benzin: 55,34 | Motorin: 56,94
+Tatvan | Benzin: 55,36 | Motorin: 56,96

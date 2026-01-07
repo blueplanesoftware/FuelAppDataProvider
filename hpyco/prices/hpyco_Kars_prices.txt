@@ -1,0 +1,8 @@
+Kars
+Akyaka | Benzin: 55,16 | Motorin: 56,64
+Arpaçay | Benzin: 55,15 | Motorin: 56,63
+Digor | Benzin: 55,15 | Motorin: 56,63
+Kağızman | Benzin: 55,14 | Motorin: 56,62
+Sarıkamış | Benzin: 55,14 | Motorin: 56,62
+Selim | Benzin: 55,14 | Motorin: 56,62
+Susuz | Benzin: 55,15 | Motorin: 56,63

@@ -1,0 +1,12 @@
+Maraş
+Afşin | Benzin: 55,06 | Motorin: 56,61
+Andırın | Benzin: 55,04 | Motorin: 56,59
+Çağlayancerit | Benzin: 55,04 | Motorin: 56,59
+Dulkadiroğlu | Benzin: 55,04 | Motorin: 56,59
+Ekinözü | Benzin: 55,05 | Motorin: 56,60
+Elbistan | Benzin: 55,06 | Motorin: 56,61
+Göksun | Benzin: 55,04 | Motorin: 56,59
+Nurhak | Benzin: 55,06 | Motorin: 56,61
+Onikişubat | Benzin: 55,04 | Motorin: 56,59
+Pazarcık | Benzin: 55,04 | Motorin: 56,59
+Türkoğlu | Benzin: 55,04 | Motorin: 56,59

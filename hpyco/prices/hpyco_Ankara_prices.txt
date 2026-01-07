@@ -1,0 +1,26 @@
+Ankara
+Akyurt | Benzin: 53,90 | Motorin: 55,42
+Altındağ | Benzin: 53,90 | Motorin: 55,42
+Ayaş | Benzin: 53,90 | Motorin: 55,42
+Bala | Benzin: 53,91 | Motorin: 55,43
+Beypazarı | Benzin: 53,93 | Motorin: 55,45
+Çamlıdere | Benzin: 53,93 | Motorin: 55,45
+Çankaya | Benzin: 53,90 | Motorin: 55,42
+Çubuk | Benzin: 53,92 | Motorin: 55,44
+Elmadağ | Benzin: 53,90 | Motorin: 55,42
+Etimesgut | Benzin: 53,91 | Motorin: 55,43
+Evren | Benzin: 53,92 | Motorin: 55,44
+Gölbaşı | Benzin: 53,91 | Motorin: 55,43
+Güdül | Benzin: 53,93 | Motorin: 55,45
+Haymana | Benzin: 53,91 | Motorin: 55,43
+Kalecik | Benzin: 53,90 | Motorin: 55,42
+Kazan | Benzin: 53,90 | Motorin: 55,42
+Keçiören | Benzin: 53,90 | Motorin: 55,42
+Kızılcahamam | Benzin: 53,92 | Motorin: 55,44
+Mamak | Benzin: 53,90 | Motorin: 55,42
+Nallıhan | Benzin: 53,93 | Motorin: 55,45
+Polatlı | Benzin: 53,93 | Motorin: 55,45
+Pursaklar | Benzin: 53,90 | Motorin: 55,42
+Sincan | Benzin: 53,90 | Motorin: 55,42
+Şereflikoçhisar | Benzin: 53,92 | Motorin: 55,44
+Yenimahalle | Benzin: 53,90 | Motorin: 55,42

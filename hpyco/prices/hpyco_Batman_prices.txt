@@ -1,0 +1,6 @@
+Batman
+Beşiri | Benzin: 55,23 | Motorin: 56,79
+Gercüş | Benzin: 55,25 | Motorin: 56,81
+Hasankeyf | Benzin: 55,23 | Motorin: 56,79
+Kozluk | Benzin: 55,24 | Motorin: 56,80
+Sason | Benzin: 55,24 | Motorin: 56,80

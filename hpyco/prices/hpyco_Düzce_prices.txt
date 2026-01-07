@@ -1,0 +1,8 @@
+Düzce
+Akçakoca | Benzin: 53,92 | Motorin: 55,14
+Cumayeri | Benzin: 53,92 | Motorin: 55,14
+Çilimli | Benzin: 53,91 | Motorin: 55,13
+Gölyaka | Benzin: 53,91 | Motorin: 55,13
+Gümüşova | Benzin: 53,91 | Motorin: 55,13
+Kaynaşlı | Benzin: 53,92 | Motorin: 55,14
+Yığılca | Benzin: 53,92 | Motorin: 55,14

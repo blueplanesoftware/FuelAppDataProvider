@@ -1,0 +1,9 @@
+Kırıkkale
+Bahşili | Benzin: 54,07 | Motorin: 55,61
+Balışeyh | Benzin: 54,07 | Motorin: 55,61
+Çelebi | Benzin: 54,09 | Motorin: 55,63
+Delice | Benzin: 54,09 | Motorin: 55,63
+Karakeçili | Benzin: 54,09 | Motorin: 55,63
+Keskin | Benzin: 54,08 | Motorin: 55,62
+Sulakyurt | Benzin: 54,08 | Motorin: 55,62
+Yahşihan | Benzin: 54,07 | Motorin: 55,61

@@ -1,0 +1,14 @@
+Mersin
+Akdeniz | Benzin: 54,91 | Motorin: 56,40
+Anamur | Benzin: 54,93 | Motorin: 56,42
+Aydıncık | Benzin: 54,92 | Motorin: 56,41
+Bozyazı | Benzin: 54,93 | Motorin: 56,42
+Çamlıyayla | Benzin: 54,92 | Motorin: 56,41
+Erdemli | Benzin: 54,91 | Motorin: 56,40
+Gülnar | Benzin: 54,92 | Motorin: 56,41
+Mezitli | Benzin: 54,91 | Motorin: 56,40
+Mut | Benzin: 54,93 | Motorin: 56,42
+Silifke | Benzin: 54,92 | Motorin: 56,41
+Tarsus | Benzin: 54,91 | Motorin: 56,40
+Toroslar | Benzin: 54,91 | Motorin: 56,40
+Yenişehir | Benzin: 54,91 | Motorin: 56,40

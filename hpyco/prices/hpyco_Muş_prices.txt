@@ -1,0 +1,6 @@
+Muş
+Bulanık | Benzin: 55,26 | Motorin: 56,84
+Hasköy | Benzin: 55,25 | Motorin: 56,83
+Korkut | Benzin: 55,25 | Motorin: 56,83
+Malazgirt | Benzin: 55,26 | Motorin: 56,84
+Varto | Benzin: 55,28 | Motorin: 56,86

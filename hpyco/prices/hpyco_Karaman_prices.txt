@@ -1,0 +1,6 @@
+Karaman
+Ayrancı | Benzin: 54,97 | Motorin: 56,50
+Başyayla | Benzin: 54,98 | Motorin: 56,51
+Ermenek | Benzin: 54,97 | Motorin: 56,50
+Kazımkarabekir | Benzin: 54,98 | Motorin: 56,51
+Sarıveliler | Benzin: 54,98 | Motorin: 56,51

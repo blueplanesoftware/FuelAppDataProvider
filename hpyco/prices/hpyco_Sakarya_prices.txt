@@ -1,0 +1,17 @@
+Sakarya
+Akyazı | Benzin: 53,77 | Motorin: 55,04
+Arifiye | Benzin: 53,76 | Motorin: 55,03
+Erenler | Benzin: 53,76 | Motorin: 55,03
+Ferizli | Benzin: 53,77 | Motorin: 55,04
+Geyve | Benzin: 53,77 | Motorin: 55,04
+Hendek | Benzin: 53,77 | Motorin: 55,04
+Karapürçek | Benzin: 53,77 | Motorin: 55,04
+Karasu | Benzin: 53,78 | Motorin: 55,05
+Kaynarca | Benzin: 53,78 | Motorin: 55,05
+Kocaali | Benzin: 53,78 | Motorin: 55,05
+Merkez | Benzin: 54,98 | Motorin: 55,64
+Pamukova | Benzin: 53,77 | Motorin: 55,04
+Sapanca | Benzin: 53,76 | Motorin: 55,03
+Serdivan | Benzin: 53,76 | Motorin: 55,03
+Söğütlü | Benzin: 53,77 | Motorin: 55,04
+Taraklı | Benzin: 53,76 | Motorin: 55,03

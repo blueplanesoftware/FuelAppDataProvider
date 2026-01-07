@@ -1,0 +1,12 @@
+Rize
+Ardeşen | Benzin: 54,84 | Motorin: 56,31
+Çamlıhemşin | Benzin: 54,84 | Motorin: 56,31
+Çayeli | Benzin: 54,83 | Motorin: 56,30
+Derepazarı | Benzin: 54,83 | Motorin: 56,30
+Fındıklı | Benzin: 54,84 | Motorin: 56,31
+Güneysu | Benzin: 54,83 | Motorin: 56,30
+Hemşin | Benzin: 54,84 | Motorin: 56,31
+İkizdere | Benzin: 54,83 | Motorin: 56,30
+İyidere | Benzin: 54,83 | Motorin: 56,30
+Kalkandere | Benzin: 54,83 | Motorin: 56,30
+Pazar | Benzin: 54,83 | Motorin: 56,30

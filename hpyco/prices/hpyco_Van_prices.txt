@@ -1,0 +1,12 @@
+Van
+Bahçesaray | Benzin: 55,33 | Motorin: 56,83
+Başkale | Benzin: 55,35 | Motorin: 56,85
+Çaldıran | Benzin: 55,34 | Motorin: 56,84
+Çatak | Benzin: 55,34 | Motorin: 56,84
+Edremit | Benzin: 55,34 | Motorin: 56,84
+Erciş | Benzin: 55,36 | Motorin: 56,86
+Gevaş | Benzin: 55,34 | Motorin: 56,84
+Gürpınar | Benzin: 55,34 | Motorin: 56,84
+Muradiye | Benzin: 55,36 | Motorin: 56,86
+Özalp | Benzin: 55,34 | Motorin: 56,84
+Saray | Benzin: 55,35 | Motorin: 56,85

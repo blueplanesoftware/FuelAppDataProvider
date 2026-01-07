@@ -1,0 +1,14 @@
+Muğla
+Bodrum | Benzin: 54,73 | Motorin: 56,27
+Dalaman | Benzin: 54,75 | Motorin: 56,29
+Datça | Benzin: 54,74 | Motorin: 56,28
+Fethiye | Benzin: 54,78 | Motorin: 56,32
+Kavaklıdere | Benzin: 54,72 | Motorin: 56,26
+Köyceğiz | Benzin: 54,73 | Motorin: 56,27
+Marmaris | Benzin: 54,73 | Motorin: 56,27
+Menteşe | Benzin: 54,72 | Motorin: 56,26
+Milas | Benzin: 54,72 | Motorin: 56,26
+Ortaca | Benzin: 54,74 | Motorin: 56,28
+Seydikemer | Benzin: 54,93 | Motorin: 56,47
+Ula | Benzin: 54,72 | Motorin: 56,26
+Yatağan | Benzin: 54,72 | Motorin: 56,26

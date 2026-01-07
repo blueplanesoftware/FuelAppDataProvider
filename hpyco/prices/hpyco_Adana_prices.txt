@@ -1,0 +1,16 @@
+Adana
+Aladağ | Benzin: 54,94 | Motorin: 56,45
+Ceyhan | Benzin: 54,92 | Motorin: 56,43
+Çukurova | Benzin: 54,92 | Motorin: 56,43
+Feke | Benzin: 54,95 | Motorin: 56,46
+İmamoğlu | Benzin: 54,94 | Motorin: 56,45
+Karaisalı | Benzin: 54,92 | Motorin: 56,43
+Karataş | Benzin: 54,92 | Motorin: 56,43
+Kozan | Benzin: 54,94 | Motorin: 56,45
+Pozantı | Benzin: 54,93 | Motorin: 56,44
+Saimbeyli | Benzin: 54,94 | Motorin: 56,45
+Sarıçam | Benzin: 54,93 | Motorin: 56,44
+Seyhan | Benzin: 54,92 | Motorin: 56,43
+Tufanbeyli | Benzin: 54,95 | Motorin: 56,46
+Yumurtalık | Benzin: 54,94 | Motorin: 56,45
+Yüreğir | Benzin: 54,92 | Motorin: 56,43

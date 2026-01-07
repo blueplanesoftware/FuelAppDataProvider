@@ -1,0 +1,20 @@
+Kastamonu
+Abana | Benzin: 54,70 | Motorin: 56,16
+Ağlı | Benzin: 54,69 | Motorin: 56,15
+Araç | Benzin: 54,70 | Motorin: 56,16
+Azdavay | Benzin: 54,70 | Motorin: 56,16
+Bozkurt | Benzin: 54,70 | Motorin: 56,16
+Cide | Benzin: 54,70 | Motorin: 56,16
+Çatalzeytin | Benzin: 54,70 | Motorin: 56,16
+Daday | Benzin: 54,69 | Motorin: 56,15
+Devrekani | Benzin: 54,69 | Motorin: 56,15
+Doğanyurt | Benzin: 54,70 | Motorin: 56,16
+Hanönü | Benzin: 54,70 | Motorin: 56,16
+İhsangazi | Benzin: 54,69 | Motorin: 56,15
+İnebolu | Benzin: 54,70 | Motorin: 56,16
+Küre | Benzin: 54,69 | Motorin: 56,15
+Pınarbaşı | Benzin: 54,70 | Motorin: 56,16
+Seydiler | Benzin: 54,69 | Motorin: 56,15
+Şenpazar | Benzin: 54,70 | Motorin: 56,16
+Taşköprü | Benzin: 54,70 | Motorin: 56,16
+Tosya | Benzin: 54,69 | Motorin: 56,15
