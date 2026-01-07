@@ -1,0 +1,7 @@
+MERKEZ | K.Benzin 95 Oktan: 55.43 | Motorin: 57.07 | Motorin Excellium: 57.07 | Gazyağı: 53.31 | Kalorifer Yakıtı: 38.98 | Fuel Oil: 33.98 | Yüksek Kükürtlü Fuel Oil: 31.58 | Otogaz: 0
+BEYTÜŞŞEBAP | K.Benzin 95 Oktan: 55.43 | Motorin: 57.07 | Motorin Excellium: 57.07 | Gazyağı: 53.31 | Kalorifer Yakıtı: 38.98 | Fuel Oil: 33.98 | Yüksek Kükürtlü Fuel Oil: 31.58 | Otogaz: 
+CİZRE | K.Benzin 95 Oktan: 55.43 | Motorin: 57.07 | Motorin Excellium: 57.07 | Gazyağı: 53.31 | Kalorifer Yakıtı: 38.98 | Fuel Oil: 33.98 | Yüksek Kükürtlü Fuel Oil: 31.58 | Otogaz: 
+GÜÇLÜKONAK | K.Benzin 95 Oktan: 55.43 | Motorin: 57.07 | Motorin Excellium: 57.07 | Gazyağı: 53.31 | Kalorifer Yakıtı: 38.98 | Fuel Oil: 33.98 | Yüksek Kükürtlü Fuel Oil: 31.58 | Otogaz: 
+İDİL | K.Benzin 95 Oktan: 55.43 | Motorin: 57.07 | Motorin Excellium: 57.07 | Gazyağı: 53.31 | Kalorifer Yakıtı: 38.98 | Fuel Oil: 33.98 | Yüksek Kükürtlü Fuel Oil: 31.58 | Otogaz: 
+SİLOPİ | K.Benzin 95 Oktan: 55.43 | Motorin: 57.07 | Motorin Excellium: 57.07 | Gazyağı: 53.31 | Kalorifer Yakıtı: 38.98 | Fuel Oil: 33.98 | Yüksek Kükürtlü Fuel Oil: 31.58 | Otogaz: 
+ULUDERE | K.Benzin 95 Oktan: 55.43 | Motorin: 57.07 | Motorin Excellium: 57.07 | Gazyağı: 53.31 | Kalorifer Yakıtı: 38.98 | Fuel Oil: 33.98 | Yüksek Kükürtlü Fuel Oil: 31.58 | Otogaz: 
