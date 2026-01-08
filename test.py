@@ -24,6 +24,10 @@ from total.scraper import save_all_cities_prices_txt as total_save_all_cities_pr
 import total
 from kadoil.scraper import save_all_cities_prices_txt as kadoil_save_all_cities_prices_txt
 import kadoil
+from lukoil.scraper import save_all_cities_prices_txt as lukoil_save_all_cities_prices_txt
+import lukoil
+from aygaz.scraper import save_all_cities_prices_txt as aygaz_save_all_cities_prices_txt
+import aygaz
 
 def run_opet():
 	parser = argparse.ArgumentParser()
@@ -186,5 +190,36 @@ def run_kadoil():
 	if not saved:
 		print("Uyarı: Dosya yazılamadı. Seçici veya tablo / şehir seçimi bulunamamış olabilir.")
 
+def run_lukoil():
+	"""
+	Tüm şehirler için Lukoil pompa fiyatlarını çekip txt dosyalarına yazar.
+	Çıktılar: lukoil/lukoil_<ŞEHİR>_prices.txt
+	"""
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector (PWDEBUG=1 önerilir)")
+	args = parser.parse_args()
+
+	output_dir = Path(lukoil.__file__).parent / "prices"
+	saved = lukoil_save_all_cities_prices_txt(output_dir, debug=args.debug)
+	print(f"{len(saved)} dosya yazıldı -> {output_dir}")
+	if not saved:
+		print("Uyarı: Dosya yazılamadı. Seçici veya tablo / şehir seçimi bulunamamış olabilir.")
+
+def run_aygaz():
+	"""
+	Tüm şehirler için Aygaz Otogaz fiyatlarını çekip txt dosyalarına yazar.
+	Çıktılar: aygaz/aygaz_<ŞEHİR>_prices.txt
+	İstanbul (Anadolu) ve İstanbul (Avrupa) birleştirilir: aygaz_ISTANBUL_prices.txt
+	"""
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector (PWDEBUG=1 önerilir)")
+	args = parser.parse_args()
+
+	output_dir = Path(aygaz.__file__).parent / "prices"
+	saved = aygaz_save_all_cities_prices_txt(output_dir, debug=args.debug)
+	print(f"{len(saved)} dosya yazıldı -> {output_dir}")
+	if not saved:
+		print("Uyarı: Dosya yazılamadı. Şehir linkleri veya fiyat bulunamamış olabilir.")
+
 if __name__ == "__main__":
-	run_total()
+	run_aygaz()
