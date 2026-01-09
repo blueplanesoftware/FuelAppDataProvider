@@ -30,6 +30,8 @@ from milangaz.scraper import save_all_cities_prices_txt as milangaz_save_all_cit
 import milangaz
 from ipragaz.scraper import save_all_cities_prices_txt as ipragaz_save_all_cities_prices_txt
 import ipragaz
+from sunpet.scraper import save_all_cities_prices_txt as sunpet_save_all_cities_prices_txt
+import sunpet
 
 def run_opet():
 	parser = argparse.ArgumentParser()
@@ -248,5 +250,20 @@ def run_ipragaz():
 	if not saved:
 		print("Uyarı: Dosya yazılamadı. Seçici veya fiyat bulunamamış olabilir.")
 
+def run_sunpet():
+	"""
+	Tüm şehirler için Sunpet akaryakıt fiyatlarını çekip txt dosyalarına yazar.
+	Çıktılar: sunpet/sunpet_<ŞEHİR>_prices.txt
+	"""
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector (PWDEBUG=1 önerilir)")
+	args = parser.parse_args()
+
+	output_dir = Path(sunpet.__file__).parent / "prices"
+	saved = sunpet_save_all_cities_prices_txt(output_dir, debug=args.debug)
+	print(f"{len(saved)} dosya yazıldı -> {output_dir}")
+	if not saved:
+		print("Uyarı: Dosya yazılamadı. Seçici veya fiyat bulunamamış olabilir.")
+
 if __name__ == "__main__":
-	run_ipragaz()
+	run_sunpet()
