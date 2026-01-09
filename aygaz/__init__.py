@@ -7,4 +7,3 @@ __all__ = [
     "save_all_cities_prices_txt",
     "AygazPriceRow",
 ]
-
