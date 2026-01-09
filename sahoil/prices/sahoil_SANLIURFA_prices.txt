@@ -1,0 +1,15 @@
+SANLIURFA
+MERKEZ | Benzin: 54.17 ₺ | Motorin: 55.95 ₺
+AKÇAKALE | Benzin: 54.17 ₺ | Motorin: 55.95 ₺
+BIRECIK | Benzin: 54.17 ₺ | Motorin: 55.95 ₺
+BOZOVA | Benzin: 54.17 ₺ | Motorin: 55.95 ₺
+CEYLANPINAR | Benzin: 54.17 ₺ | Motorin: 55.95 ₺
+EYYÜBİYE | Benzin: 54.17 ₺ | Motorin: 55.95 ₺
+HALİLİYE | Benzin: 54.17 ₺ | Motorin: 55.95 ₺
+HALFETI | Benzin: 54.17 ₺ | Motorin: 55.95 ₺
+HARRAN | Benzin: 54.17 ₺ | Motorin: 55.95 ₺
+HILVAN | Benzin: 54.17 ₺ | Motorin: 55.95 ₺
+KARAKÖPRÜ | Benzin: 54.17 ₺ | Motorin: 55.95 ₺
+SIVEREK | Benzin: 54.17 ₺ | Motorin: 55.95 ₺
+SURUÇ | Benzin: 54.17 ₺ | Motorin: 55.95 ₺
+VIRANSEHIR | Benzin: 54.17 ₺ | Motorin: 55.95 ₺

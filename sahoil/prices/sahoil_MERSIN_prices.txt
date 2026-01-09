@@ -1,0 +1,15 @@
+MERSIN
+MERKEZ | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+AKDENİZ | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+ANAMUR | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+AYDINCIK | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+ÇAMLIYAYLA | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+BOZYAZI | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+ERDEMLI | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+GÜLNAR | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+MEZITLI | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+MUT | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+SILIFKE | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+TARSUS | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+TOROSLAR | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+YENISEHIR | Benzin: 53.84 ₺ | Motorin: 55.60 ₺

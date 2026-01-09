@@ -1,0 +1,13 @@
+CANKIRI
+MERKEZ | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+ATKARACALAR | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+ÇERKES | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+BAYRAMÖREN | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+ELDIVAN | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+ILGAZ | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+KIZILIRMAK | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+KORGUN | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+KURSUNLU | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+ORTA | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+SABANÖZÜ | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+YAPRAKLI | Benzin: 53.35 ₺ | Motorin: 55.11 ₺

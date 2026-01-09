@@ -1,0 +1,20 @@
+TRABZON
+MERKEZ | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+AKÇAABAT | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+ARAKLI | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+ARSIN | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+ÇARSIBASI | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+ÇAYKARA | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+BESIKDÜZÜ | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+DÜZKÖY | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+DERNEKPAZARI | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+HAYRAT | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+KÖPRÜBAŞI | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+MAÇKA | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+OF | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+ORTAHİSAR | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+SALPAZARI | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+SÜRMENE | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+TONYA | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+VAKFIKEBIR | Benzin: 53.74 ₺ | Motorin: 55.50 ₺
+YOMRA | Benzin: 53.74 ₺ | Motorin: 55.50 ₺

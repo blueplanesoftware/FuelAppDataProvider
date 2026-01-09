@@ -40,6 +40,8 @@ from petral import save_city_prices_txt as petral_save_city_prices_txt, save_all
 import petral
 from qplus import save_city_prices_txt as qplus_save_city_prices_txt, save_all_cities_prices_txt as qplus_save_all_cities_prices_txt
 import qplus
+from sahoil import save_city_prices_txt as sahoil_save_city_prices_txt, save_all_cities_prices_txt as sahoil_save_all_cities_prices_txt
+import sahoil
 
 def run_opet():
 	parser = argparse.ArgumentParser()
@@ -288,6 +290,22 @@ def run_qplus():
 		fp = qplus_save_city_prices_txt(args.city, output_dir, debug=args.debug)
 		print(f"Kaydedildi: {fp}")
 
+def run_sahoil():
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector")
+	group = parser.add_mutually_exclusive_group()
+	group.add_argument("--city", default="ADANA", help="Tek şehir fiyat txt kaydet (varsayılan: ADANA)")
+	group.add_argument("--all", action="store_true", help="Tüm şehirlerin fiyat txt dosyalarını kaydet")
+	args = parser.parse_args()
+	output_dir = Path(sahoil.__file__).parent / "prices"
+	if args.all:
+		saved = sahoil_save_all_cities_prices_txt(output_dir, debug=args.debug)
+		print(f"{len(saved)} dosya yazıldı -> {output_dir}")
+		if not saved:
+			print("Uyarı: Dosya yazılamadı. Seçici veya tablo bulunamamış olabilir.")
+	else:
+		fp = sahoil_save_city_prices_txt(args.city, output_dir, debug=args.debug)
+		print(f"Kaydedildi: {fp}")
 def run_ipragaz():
 	"""
 	Tüm şehirler için Ipragaz fiyatlarını çekip txt dosyalarına yazar.
@@ -319,4 +337,4 @@ def run_sunpet():
 		print("Uyarı: Dosya yazılamadı. Seçici veya fiyat bulunamamış olabilir.")
 
 if __name__ == "__main__":
-	run_qplus()
+	run_sahoil()

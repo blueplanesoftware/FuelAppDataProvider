@@ -1,0 +1,19 @@
+MANISA
+MERKEZ | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+AHMETLI | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+AKHISAR | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+ALASEHIR | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+ŞEHZADELER | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+DEMIRCI | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+GÖLMARMARA | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+GÖRDES | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+KÖPRÜBAŞI | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+KIRKAGAÇ | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+KULA | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+SALIHLI | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+SARIGÖL | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+SARUHANLI | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+SELENDI | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+SOMA | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+TURGUTLU | Benzin: 53.35 ₺ | Motorin: 55.11 ₺
+YUNUSEMRE | Benzin: 53.35 ₺ | Motorin: 55.11 ₺

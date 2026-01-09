@@ -1,0 +1,18 @@
+SAKARYA
+MERKEZ | Benzin: 52.74 ₺ | Motorin: 54.30 ₺
+ADAPAZARI | Benzin: 52.74 ₺ | Motorin: 54.30 ₺
+AKYAZI | Benzin: 52.74 ₺ | Motorin: 54.30 ₺
+ARIFIYE | Benzin: 52.74 ₺ | Motorin: 54.30 ₺
+ERENLER | Benzin: 52.74 ₺ | Motorin: 54.30 ₺
+FERIZLI | Benzin: 52.74 ₺ | Motorin: 54.30 ₺
+GEYVE | Benzin: 52.74 ₺ | Motorin: 54.30 ₺
+HENDEK | Benzin: 52.74 ₺ | Motorin: 54.30 ₺
+KARAPÜRÇEK | Benzin: 52.74 ₺ | Motorin: 54.30 ₺
+KARASU | Benzin: 52.74 ₺ | Motorin: 54.30 ₺
+KAYNARCA | Benzin: 52.74 ₺ | Motorin: 54.30 ₺
+KOCAALI | Benzin: 52.74 ₺ | Motorin: 54.30 ₺
+PAMUKOVA | Benzin: 52.74 ₺ | Motorin: 54.30 ₺
+SAPANCA | Benzin: 52.74 ₺ | Motorin: 54.30 ₺
+SÖĞÜTLÜ | Benzin: 52.74 ₺ | Motorin: 54.30 ₺
+SERDİVAN | Benzin: 52.74 ₺ | Motorin: 54.30 ₺
+TARAKLI | Benzin: 52.74 ₺ | Motorin: 54.30 ₺

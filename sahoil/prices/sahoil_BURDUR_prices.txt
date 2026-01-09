@@ -1,0 +1,12 @@
+BURDUR
+MERKEZ | Benzin: 54.04 ₺ | Motorin: 55.89 ₺
+AGLASUN | Benzin: 54.04 ₺ | Motorin: 55.89 ₺
+ALTINYAYLA | Benzin: 54.04 ₺ | Motorin: 55.89 ₺
+ÇAVDIR | Benzin: 54.04 ₺ | Motorin: 55.89 ₺
+ÇELTİKÇİ | Benzin: 54.04 ₺ | Motorin: 55.89 ₺
+BUCAK | Benzin: 54.04 ₺ | Motorin: 55.89 ₺
+GÖLHISAR | Benzin: 54.04 ₺ | Motorin: 55.89 ₺
+KARAMANLI | Benzin: 54.04 ₺ | Motorin: 55.89 ₺
+KEMER | Benzin: 54.04 ₺ | Motorin: 55.89 ₺
+TEFENNI | Benzin: 54.04 ₺ | Motorin: 55.89 ₺
+YESILOVA | Benzin: 54.04 ₺ | Motorin: 55.89 ₺

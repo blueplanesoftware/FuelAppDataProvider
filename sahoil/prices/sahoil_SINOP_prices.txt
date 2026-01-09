@@ -1,0 +1,10 @@
+SINOP
+MERKEZ | Benzin: 53.65 ₺ | Motorin: 55.40 ₺
+AYANCIK | Benzin: 53.65 ₺ | Motorin: 55.40 ₺
+BOYABAT | Benzin: 53.65 ₺ | Motorin: 55.40 ₺
+DIKMEN | Benzin: 53.65 ₺ | Motorin: 55.40 ₺
+DURAGAN | Benzin: 53.65 ₺ | Motorin: 55.40 ₺
+ERFELEK | Benzin: 53.65 ₺ | Motorin: 55.40 ₺
+GERZE | Benzin: 53.65 ₺ | Motorin: 55.40 ₺
+SARAYDÜZÜ | Benzin: 53.65 ₺ | Motorin: 55.40 ₺
+TÜRKELI | Benzin: 53.65 ₺ | Motorin: 55.40 ₺

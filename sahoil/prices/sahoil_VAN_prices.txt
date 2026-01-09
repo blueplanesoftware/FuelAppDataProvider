@@ -1,0 +1,15 @@
+VAN
+MERKEZ | Benzin: 54.35 ₺ | Motorin: 56.11 ₺
+İPEKYOLU | Benzin: 54.35 ₺ | Motorin: 56.11 ₺
+ÖZALP | Benzin: 54.35 ₺ | Motorin: 56.11 ₺
+ÇALDIRAN | Benzin: 54.35 ₺ | Motorin: 56.11 ₺
+ÇATAK | Benzin: 54.35 ₺ | Motorin: 56.11 ₺
+BAHÇESARAY | Benzin: 54.35 ₺ | Motorin: 56.11 ₺
+BASKALE | Benzin: 54.35 ₺ | Motorin: 56.11 ₺
+EDREMIT | Benzin: 54.35 ₺ | Motorin: 56.11 ₺
+ERCIS | Benzin: 54.35 ₺ | Motorin: 56.11 ₺
+GÜRPINAR | Benzin: 54.35 ₺ | Motorin: 56.11 ₺
+GEVAS | Benzin: 54.35 ₺ | Motorin: 56.11 ₺
+MURADIYE | Benzin: 54.35 ₺ | Motorin: 56.11 ₺
+SARAY | Benzin: 54.35 ₺ | Motorin: 56.11 ₺
+TUŞBA | Benzin: 54.35 ₺ | Motorin: 56.11 ₺

@@ -1,0 +1,15 @@
+YOZGAT
+MERKEZ | Benzin: 53.64 ₺ | Motorin: 55.40 ₺
+AKDAGMADENI | Benzin: 53.64 ₺ | Motorin: 55.40 ₺
+AYDINCIK | Benzin: 53.64 ₺ | Motorin: 55.40 ₺
+ÇANDIR | Benzin: 53.64 ₺ | Motorin: 55.40 ₺
+ÇAYIRALAN | Benzin: 53.64 ₺ | Motorin: 55.40 ₺
+ÇEKEREK | Benzin: 53.64 ₺ | Motorin: 55.40 ₺
+BOGAZLIYAN | Benzin: 53.64 ₺ | Motorin: 55.40 ₺
+KADISEHRI | Benzin: 53.64 ₺ | Motorin: 55.40 ₺
+SARAYKENT | Benzin: 53.64 ₺ | Motorin: 55.40 ₺
+SARIKAYA | Benzin: 53.64 ₺ | Motorin: 55.40 ₺
+SEFAATLI | Benzin: 53.64 ₺ | Motorin: 55.40 ₺
+SORGUN | Benzin: 53.64 ₺ | Motorin: 55.40 ₺
+YENIFAKILI | Benzin: 53.64 ₺ | Motorin: 55.40 ₺
+YERKÖY | Benzin: 53.64 ₺ | Motorin: 55.40 ₺

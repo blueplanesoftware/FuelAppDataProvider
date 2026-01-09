@@ -1,0 +1,18 @@
+KAYSERI
+MERKEZ | Benzin: 54.02 ₺ | Motorin: 55.78 ₺
+AKKISLA | Benzin: 54.02 ₺ | Motorin: 55.78 ₺
+ÖZVATAN | Benzin: 54.02 ₺ | Motorin: 55.78 ₺
+BÜNYAN | Benzin: 54.02 ₺ | Motorin: 55.78 ₺
+DEVELI | Benzin: 54.02 ₺ | Motorin: 55.78 ₺
+FELAHIYE | Benzin: 54.02 ₺ | Motorin: 55.78 ₺
+HACILAR | Benzin: 54.02 ₺ | Motorin: 55.78 ₺
+INCESU | Benzin: 54.02 ₺ | Motorin: 55.78 ₺
+KOCASINAN | Benzin: 54.02 ₺ | Motorin: 55.78 ₺
+MELIKGAZI | Benzin: 54.02 ₺ | Motorin: 55.78 ₺
+PINARBASI | Benzin: 54.02 ₺ | Motorin: 55.78 ₺
+SARIOGLAN | Benzin: 54.02 ₺ | Motorin: 55.78 ₺
+SARIZ | Benzin: 54.02 ₺ | Motorin: 55.78 ₺
+TALAS | Benzin: 54.02 ₺ | Motorin: 55.78 ₺
+TOMARZA | Benzin: 54.02 ₺ | Motorin: 55.78 ₺
+YAHYALI | Benzin: 54.02 ₺ | Motorin: 55.78 ₺
+YESILHISAR | Benzin: 54.02 ₺ | Motorin: 55.78 ₺

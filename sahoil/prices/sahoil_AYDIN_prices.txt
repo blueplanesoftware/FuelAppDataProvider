@@ -1,0 +1,19 @@
+AYDIN
+MERKEZ | Benzin: 53.49 ₺ | Motorin: 55.25 ₺
+ÇINE | Benzin: 53.49 ₺ | Motorin: 55.25 ₺
+BOZDOGAN | Benzin: 53.49 ₺ | Motorin: 55.25 ₺
+BUHARKENT | Benzin: 53.49 ₺ | Motorin: 55.25 ₺
+DİDİM | Benzin: 53.49 ₺ | Motorin: 55.25 ₺
+EFELER | Benzin: 53.49 ₺ | Motorin: 55.25 ₺
+GERMENCIK | Benzin: 53.49 ₺ | Motorin: 55.25 ₺
+INCIRLIOVA | Benzin: 53.49 ₺ | Motorin: 55.25 ₺
+KARACASU | Benzin: 53.49 ₺ | Motorin: 55.25 ₺
+KARPUZLU | Benzin: 53.49 ₺ | Motorin: 55.25 ₺
+KÖSK | Benzin: 53.49 ₺ | Motorin: 55.25 ₺
+KOÇARLI | Benzin: 53.49 ₺ | Motorin: 55.25 ₺
+KUSADASI | Benzin: 53.49 ₺ | Motorin: 55.25 ₺
+KUYUCAK | Benzin: 53.49 ₺ | Motorin: 55.25 ₺
+NAZILLI | Benzin: 53.49 ₺ | Motorin: 55.25 ₺
+SÖKE | Benzin: 53.49 ₺ | Motorin: 55.25 ₺
+SULTANHISAR | Benzin: 53.49 ₺ | Motorin: 55.25 ₺
+YENIPAZAR | Benzin: 53.49 ₺ | Motorin: 55.25 ₺

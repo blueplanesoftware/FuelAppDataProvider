@@ -1,0 +1,19 @@
+BURSA
+MERKEZ | Benzin: 53.09 ₺ | Motorin: 54.65 ₺
+BÜYÜKORHAN | Benzin: 53.09 ₺ | Motorin: 54.65 ₺
+GÜRSU | Benzin: 53.09 ₺ | Motorin: 54.65 ₺
+GEMLIK | Benzin: 53.09 ₺ | Motorin: 54.65 ₺
+HARMANCIK | Benzin: 53.09 ₺ | Motorin: 54.65 ₺
+INEGÖL | Benzin: 53.09 ₺ | Motorin: 54.65 ₺
+IZNIK | Benzin: 53.09 ₺ | Motorin: 54.65 ₺
+KARACABEY | Benzin: 53.09 ₺ | Motorin: 54.65 ₺
+KELES | Benzin: 53.09 ₺ | Motorin: 54.65 ₺
+KESTEL | Benzin: 53.09 ₺ | Motorin: 54.65 ₺
+MUDANYA | Benzin: 53.09 ₺ | Motorin: 54.65 ₺
+MUSTAFAKEMALPASA | Benzin: 53.09 ₺ | Motorin: 54.65 ₺
+NILÜFER | Benzin: 53.09 ₺ | Motorin: 54.65 ₺
+ORHANELI | Benzin: 53.09 ₺ | Motorin: 54.65 ₺
+ORHANGAZI | Benzin: 53.09 ₺ | Motorin: 54.65 ₺
+OSMANGAZI | Benzin: 53.09 ₺ | Motorin: 54.65 ₺
+YENISEHIR | Benzin: 53.09 ₺ | Motorin: 54.65 ₺
+YILDIRIM | Benzin: 53.09 ₺ | Motorin: 54.65 ₺

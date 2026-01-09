@@ -1,0 +1,22 @@
+BALIKESIR
+MERKEZ | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+ALTIEYLÜL | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+AYVALIK | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+BALYA | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+BANDIRMA | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+BIGADIÇ | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+BURHANIYE | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+DURSUNBEY | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+EDREMIT | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+ERDEK | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+GÖMEÇ | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+GÖNEN | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+HAVRAN | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+IVRINDI | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+KARESİ | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+KEPSUT | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+MANYAS | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+MARMARA | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+SAVASTEPE | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+SINDIRGI | Benzin: 53.65 ₺ | Motorin: 55.41 ₺
+SUSURLUK | Benzin: 53.65 ₺ | Motorin: 55.41 ₺

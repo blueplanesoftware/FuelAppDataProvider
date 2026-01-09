@@ -1,0 +1,10 @@
+KIRIKKALE
+MERKEZ | Benzin: 53.24 ₺ | Motorin: 55.00 ₺
+ÇELEBI | Benzin: 53.24 ₺ | Motorin: 55.00 ₺
+BAHSILI | Benzin: 53.24 ₺ | Motorin: 55.00 ₺
+BALISEYH | Benzin: 53.24 ₺ | Motorin: 55.00 ₺
+DELICE | Benzin: 53.24 ₺ | Motorin: 55.00 ₺
+KARAKEÇILI | Benzin: 53.24 ₺ | Motorin: 55.00 ₺
+KESKIN | Benzin: 53.24 ₺ | Motorin: 55.00 ₺
+SULAKYURT | Benzin: 53.24 ₺ | Motorin: 55.00 ₺
+YAHSIHAN | Benzin: 53.24 ₺ | Motorin: 55.00 ₺

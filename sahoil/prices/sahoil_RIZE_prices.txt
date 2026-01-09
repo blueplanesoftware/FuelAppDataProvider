@@ -1,0 +1,13 @@
+RIZE
+MERKEZ | Benzin: 53.75 ₺ | Motorin: 55.51 ₺
+ARDESEN | Benzin: 53.75 ₺ | Motorin: 55.51 ₺
+ÇAMLIHEMSIN | Benzin: 53.75 ₺ | Motorin: 55.51 ₺
+ÇAYELI | Benzin: 53.75 ₺ | Motorin: 55.51 ₺
+DEREPAZARI | Benzin: 53.75 ₺ | Motorin: 55.51 ₺
+FINDIKLI | Benzin: 53.75 ₺ | Motorin: 55.51 ₺
+GÜNEYSU | Benzin: 53.75 ₺ | Motorin: 55.51 ₺
+HEMSIN (Ortaköy) | Benzin: 53.75 ₺ | Motorin: 55.51 ₺
+IKIZDERE | Benzin: 53.75 ₺ | Motorin: 55.51 ₺
+IYIDERE | Benzin: 53.75 ₺ | Motorin: 55.51 ₺
+KALKANDERE | Benzin: 53.75 ₺ | Motorin: 55.51 ₺
+PAZAR | Benzin: 53.75 ₺ | Motorin: 55.51 ₺

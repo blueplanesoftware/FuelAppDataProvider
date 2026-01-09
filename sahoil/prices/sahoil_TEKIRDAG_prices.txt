@@ -1,0 +1,13 @@
+TEKIRDAG
+MERKEZ | Benzin: 52.70 ₺ | Motorin: 54.48 ₺
+ÇERKEZKÖY | Benzin: 52.70 ₺ | Motorin: 54.48 ₺
+ÇORLU | Benzin: 52.70 ₺ | Motorin: 54.48 ₺
+ERGENE | Benzin: 52.70 ₺ | Motorin: 54.48 ₺
+HAYRABOLU | Benzin: 52.70 ₺ | Motorin: 54.48 ₺
+KAPAKLI | Benzin: 52.70 ₺ | Motorin: 54.48 ₺
+MALKARA | Benzin: 52.70 ₺ | Motorin: 54.48 ₺
+MARMARAEREGLISI | Benzin: 52.70 ₺ | Motorin: 54.48 ₺
+MURATLI | Benzin: 52.70 ₺ | Motorin: 54.48 ₺
+SARAY | Benzin: 52.70 ₺ | Motorin: 54.48 ₺
+SARKÖY | Benzin: 52.70 ₺ | Motorin: 54.48 ₺
+SÜLEYMANPAŞA | Benzin: 52.70 ₺ | Motorin: 54.48 ₺

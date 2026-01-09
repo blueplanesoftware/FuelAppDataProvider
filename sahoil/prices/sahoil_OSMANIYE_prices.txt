@@ -1,0 +1,8 @@
+OSMANIYE
+MERKEZ | Benzin: 53.71 ₺ | Motorin: 55.49 ₺
+BAHÇE | Benzin: 53.71 ₺ | Motorin: 55.49 ₺
+DÜZİÇİ | Benzin: 53.71 ₺ | Motorin: 55.49 ₺
+HASANBEYLI | Benzin: 53.71 ₺ | Motorin: 55.49 ₺
+KADIRLI | Benzin: 53.71 ₺ | Motorin: 55.49 ₺
+SUMBAS | Benzin: 53.71 ₺ | Motorin: 55.49 ₺
+TOPRAKKALE | Benzin: 53.71 ₺ | Motorin: 55.49 ₺

@@ -1,0 +1,18 @@
+SIVAS
+MERKEZ | Benzin: 53.94 ₺ | Motorin: 55.70 ₺
+AKINCILAR | Benzin: 53.94 ₺ | Motorin: 55.70 ₺
+ALTINYAYLA | Benzin: 53.94 ₺ | Motorin: 55.70 ₺
+DIVRIGI | Benzin: 53.94 ₺ | Motorin: 55.70 ₺
+DOGANSAR | Benzin: 53.94 ₺ | Motorin: 55.70 ₺
+GÜRÜN | Benzin: 53.94 ₺ | Motorin: 55.70 ₺
+GÖLOVA | Benzin: 53.94 ₺ | Motorin: 55.70 ₺
+GEMEREK | Benzin: 53.94 ₺ | Motorin: 55.70 ₺
+HAFIK | Benzin: 53.94 ₺ | Motorin: 55.70 ₺
+IMRANLI | Benzin: 53.94 ₺ | Motorin: 55.70 ₺
+KANGAL | Benzin: 53.94 ₺ | Motorin: 55.70 ₺
+KOYULHISAR | Benzin: 53.94 ₺ | Motorin: 55.70 ₺
+SARKISLA | Benzin: 53.94 ₺ | Motorin: 55.70 ₺
+SUSEHRI | Benzin: 53.94 ₺ | Motorin: 55.70 ₺
+ULAS | Benzin: 53.94 ₺ | Motorin: 55.70 ₺
+YILDIZELI | Benzin: 53.94 ₺ | Motorin: 55.70 ₺
+ZARA | Benzin: 53.94 ₺ | Motorin: 55.70 ₺
