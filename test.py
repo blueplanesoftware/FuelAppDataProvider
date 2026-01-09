@@ -20,8 +20,12 @@ from rpet import save_city_prices_txt as rpet_save_city_prices_txt, save_all_cit
 import rpet
 from hpyco import save_city_prices_txt as hpyco_save_city_prices_txt, save_all_cities_prices_txt as hpyco_save_all_cities_prices_txt
 import hpyco
-from total.scraper import save_all_cities_prices_txt as total_save_all_cities_prices_txt
-import total
+try:
+	from total.scraper import save_all_cities_prices_txt as total_save_all_cities_prices_txt
+	import total
+except Exception:
+	total_save_all_cities_prices_txt = None
+	total = None
 from kadoil.scraper import save_all_cities_prices_txt as kadoil_save_all_cities_prices_txt
 import kadoil
 from lukoil.scraper import save_all_cities_prices_txt as lukoil_save_all_cities_prices_txt
@@ -32,6 +36,10 @@ from ipragaz.scraper import save_all_cities_prices_txt as ipragaz_save_all_citie
 import ipragaz
 from sunpet.scraper import save_all_cities_prices_txt as sunpet_save_all_cities_prices_txt
 import sunpet
+from petral import save_city_prices_txt as petral_save_city_prices_txt, save_all_cities_prices_txt as petral_save_all_cities_prices_txt
+import petral
+from qplus import save_city_prices_txt as qplus_save_city_prices_txt, save_all_cities_prices_txt as qplus_save_all_cities_prices_txt
+import qplus
 
 def run_opet():
 	parser = argparse.ArgumentParser()
@@ -173,8 +181,15 @@ def run_total():
 	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector (PWDEBUG=1 önerilir)")
 	args = parser.parse_args()
 
-	output_dir = Path(total.__file__).parent / "prices"
-	saved = total_save_all_cities_prices_txt(output_dir, debug=args.debug)
+	if total is None or total_save_all_cities_prices_txt is None:
+		# Lazy import fallback
+		from total.scraper import save_all_cities_prices_txt as total_save_all_cities_prices_txt_local
+		import total as total_local
+		output_dir = Path(total_local.__file__).parent / "prices"
+		saved = total_save_all_cities_prices_txt_local(output_dir, debug=args.debug)
+	else:
+		output_dir = Path(total.__file__).parent / "prices"
+		saved = total_save_all_cities_prices_txt(output_dir, debug=args.debug)
 	print(f"{len(saved)} dosya yazıldı -> {output_dir}")
 	if not saved:
 		print("Uyarı: Dosya yazılamadı. Seçici veya tablo / şehir seçimi bulunamamış olabilir.")
@@ -235,6 +250,44 @@ def run_milangaz():
 	if not saved:
 		print("Uyarı: Dosya yazılamadı. Seçici veya fiyat bulunamamış olabilir.")
 
+def run_petral():
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector")
+	group = parser.add_mutually_exclusive_group()
+	group.add_argument("--city", help="Tek şehir fiyat txt kaydet")
+	group.add_argument("--all", action="store_true", help="Tüm şehirlerin fiyat txt dosyalarını kaydet (pagination ile)")
+	args = parser.parse_args()
+	output_dir = Path(petral.__file__).parent / "prices"
+	if args.all:
+		saved = petral_save_all_cities_prices_txt(output_dir, debug=args.debug)
+		print(f"{len(saved)} dosya yazıldı -> {output_dir}")
+		if not saved:
+			print("Uyarı: Dosya yazılamadı. API yanıtı boş olabilir.")
+	else:
+		if not args.city:
+			raise SystemExit("Lütfen --city ile bir şehir adı verin veya --all kullanın.")
+		fp = petral_save_city_prices_txt(args.city, output_dir, debug=args.debug)
+		print(f"Kaydedildi: {fp}")
+
+def run_qplus():
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector")
+	group = parser.add_mutually_exclusive_group()
+	group.add_argument("--city", help="Tek şehir fiyat txt kaydet")
+	group.add_argument("--all", action="store_true", help="Tüm şehirlerin fiyat txt dosyalarını kaydet")
+	args = parser.parse_args()
+	output_dir = Path(qplus.__file__).parent / "prices"
+	if args.all:
+		saved = qplus_save_all_cities_prices_txt(output_dir, debug=args.debug)
+		print(f"{len(saved)} dosya yazıldı -> {output_dir}")
+		if not saved:
+			print("Uyarı: Dosya yazılamadı. Seçici veya tablo bulunamamış olabilir.")
+	else:
+		if not args.city:
+			raise SystemExit("Lütfen --city ile bir şehir adı verin veya --all kullanın.")
+		fp = qplus_save_city_prices_txt(args.city, output_dir, debug=args.debug)
+		print(f"Kaydedildi: {fp}")
+
 def run_ipragaz():
 	"""
 	Tüm şehirler için Ipragaz fiyatlarını çekip txt dosyalarına yazar.
@@ -266,4 +319,4 @@ def run_sunpet():
 		print("Uyarı: Dosya yazılamadı. Seçici veya fiyat bulunamamış olabilir.")
 
 if __name__ == "__main__":
-	run_sunpet()
+	run_qplus()
