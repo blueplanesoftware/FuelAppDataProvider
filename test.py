@@ -26,8 +26,10 @@ from kadoil.scraper import save_all_cities_prices_txt as kadoil_save_all_cities_
 import kadoil
 from lukoil.scraper import save_all_cities_prices_txt as lukoil_save_all_cities_prices_txt
 import lukoil
-from aygaz.scraper import save_all_cities_prices_txt as aygaz_save_all_cities_prices_txt
-import aygaz
+from milangaz.scraper import save_all_cities_prices_txt as milangaz_save_all_cities_prices_txt
+import milangaz
+from ipragaz.scraper import save_all_cities_prices_txt as ipragaz_save_all_cities_prices_txt
+import ipragaz
 
 def run_opet():
 	parser = argparse.ArgumentParser()
@@ -207,19 +209,44 @@ def run_lukoil():
 
 def run_aygaz():
 	"""
-	Tüm şehirler için Aygaz Otogaz fiyatlarını çekip txt dosyalarına yazar.
-	Çıktılar: aygaz/aygaz_<ŞEHİR>_prices.txt
-	İstanbul (Anadolu) ve İstanbul (Avrupa) birleştirilir: aygaz_ISTANBUL_prices.txt
+	Bu fonksiyon artık kullanılmıyor (Aygaz scraper silindi).
+	Eski çağrılar bozulmasın diye yerinde bırakıldı.
+	"""
+	parser = argparse.ArgumentParser()
+	parser.parse_args()
+	print("Aygaz scraper kaldırıldı. Lütfen Milangaz veya diğer markaları kullanın.")
+
+
+def run_milangaz():
+	"""
+	Tüm şehirler için Milangaz Otogaz fiyatlarını çekip txt dosyalarına yazar.
+	Çıktılar: milangaz/milangaz_<ŞEHİR>_prices.txt
+	İstanbul (Anadolu) ve İstanbul (Avrupa) birleştirilir: milangaz_ISTANBUL_prices.txt
 	"""
 	parser = argparse.ArgumentParser()
 	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector (PWDEBUG=1 önerilir)")
 	args = parser.parse_args()
 
-	output_dir = Path(aygaz.__file__).parent / "prices"
-	saved = aygaz_save_all_cities_prices_txt(output_dir, debug=args.debug)
+	output_dir = Path(milangaz.__file__).parent / "prices"
+	saved = milangaz_save_all_cities_prices_txt(output_dir, debug=args.debug)
 	print(f"{len(saved)} dosya yazıldı -> {output_dir}")
 	if not saved:
-		print("Uyarı: Dosya yazılamadı. Şehir linkleri veya fiyat bulunamamış olabilir.")
+		print("Uyarı: Dosya yazılamadı. Seçici veya fiyat bulunamamış olabilir.")
+
+def run_ipragaz():
+	"""
+	Tüm şehirler için Ipragaz fiyatlarını çekip txt dosyalarına yazar.
+	Çıktılar: ipragaz/ipragaz_<ŞEHİR>_prices.txt
+	"""
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector (PWDEBUG=1 önerilir)")
+	args = parser.parse_args()
+
+	output_dir = Path(ipragaz.__file__).parent / "prices"
+	saved = ipragaz_save_all_cities_prices_txt(output_dir, debug=args.debug)
+	print(f"{len(saved)} dosya yazıldı -> {output_dir}")
+	if not saved:
+		print("Uyarı: Dosya yazılamadı. Seçici veya fiyat bulunamamış olabilir.")
 
 if __name__ == "__main__":
-	run_aygaz()
+	run_ipragaz()
