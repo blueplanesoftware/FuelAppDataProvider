@@ -306,6 +306,35 @@ def run_sahoil():
 	else:
 		fp = sahoil_save_city_prices_txt(args.city, output_dir, debug=args.debug)
 		print(f"Kaydedildi: {fp}")
+
+def run_7kita():
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector")
+	group = parser.add_mutually_exclusive_group()
+	group.add_argument("--city", help="Tek şehir fiyat txt kaydet")
+	group.add_argument("--all", action="store_true", help="Tüm şehirlerin fiyat txt dosyalarını kaydet")
+	args = parser.parse_args()
+	# Dinamik modül yükleyici (paket adı sayıyla başladığı için doğrudan import edilemez)
+	import importlib.util, sys
+	pkg_dir = Path(__file__).parent / "7kita"
+	scraper_path = pkg_dir / "scraper.py"
+	spec = importlib.util.spec_from_file_location("sevenkita_scraper", str(scraper_path))
+	if spec is None or spec.loader is None:
+		raise SystemExit("7kita scraper yüklenemedi.")
+	sevenkita = importlib.util.module_from_spec(spec)
+	sys.modules["sevenkita_scraper"] = sevenkita
+	spec.loader.exec_module(sevenkita)
+	output_dir = pkg_dir / "prices"
+	if args.all:
+		saved = sevenkita.save_all_cities_prices_txt(output_dir, debug=args.debug)
+		print(f"{len(saved)} dosya yazıldı -> {output_dir}")
+		if not saved:
+			print("Uyarı: Dosya yazılamadı. Tablo bulunamamış olabilir.")
+	else:
+		if not args.city:
+			raise SystemExit("Lütfen --city ile bir şehir adı verin veya --all kullanın.")
+		fp = sevenkita.save_city_prices_txt(args.city, output_dir, debug=args.debug)
+		print(f"Kaydedildi: {fp}")
 def run_ipragaz():
 	"""
 	Tüm şehirler için Ipragaz fiyatlarını çekip txt dosyalarına yazar.
@@ -337,4 +366,4 @@ def run_sunpet():
 		print("Uyarı: Dosya yazılamadı. Seçici veya fiyat bulunamamış olabilir.")
 
 if __name__ == "__main__":
-	run_sahoil()
+	run_7kita()
