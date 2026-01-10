@@ -1,0 +1,6 @@
+ALTINOVA: Motorin: 54.26, Motorin Performans +: 54.26, 95 Oktan Kurşunsuz: 53.81, Fuel Oil 4: 30.78, Fuel Oil 3: 26.39, Fuel Oil 6(Yüksek kükürt): 23.79
+ARMUTLU: Motorin: 54.26, Motorin Performans +: 54.26, 95 Oktan Kurşunsuz: 53.81, Fuel Oil 4: 30.78, Fuel Oil 3: 26.39, Fuel Oil 6(Yüksek kükürt): 23.79
+CIFTLIKKOY: Motorin: 54.26, Motorin Performans +: 54.26, 95 Oktan Kurşunsuz: 53.81, Fuel Oil 4: 30.84, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+CINARCIK: Motorin: 54.26, Motorin Performans +: 54.26, 95 Oktan Kurşunsuz: 53.81, Fuel Oil 4: 30.83, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+TERMAL: Motorin: 54.26, Motorin Performans +: 54.26, 95 Oktan Kurşunsuz: 53.81, Fuel Oil 4: 30.84, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+YALOVA: Motorin: 54.26, Motorin Performans +: 54.26, 95 Oktan Kurşunsuz: 53.81, Fuel Oil 4: 30.78, Fuel Oil 3: 26.39, Fuel Oil 6(Yüksek kükürt): 23.79

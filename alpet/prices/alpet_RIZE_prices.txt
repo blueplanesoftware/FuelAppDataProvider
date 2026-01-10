@@ -1,0 +1,12 @@
+ARDESEN: Motorin: 55.46, Motorin Performans +: 55.46, 95 Oktan Kurşunsuz: 54.81, Fuel Oil 4: 30.86, Fuel Oil 3: 26.41, Fuel Oil 6(Yüksek kükürt): 23.81
+CAMLIHEMSIN: Motorin: 55.46, Motorin Performans +: 55.46, 95 Oktan Kurşunsuz: 54.81, Fuel Oil 4: 30.86, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+CAYELI: Motorin: 55.46, Motorin Performans +: 55.46, 95 Oktan Kurşunsuz: 54.81, Fuel Oil 4: 30.86, Fuel Oil 3: 26.41, Fuel Oil 6(Yüksek kükürt): 23.81
+DEREPAZARI: Motorin: 55.46, Motorin Performans +: 55.46, 95 Oktan Kurşunsuz: 54.81, Fuel Oil 4: 30.86, Fuel Oil 3: 26.41, Fuel Oil 6(Yüksek kükürt): 23.81
+FINDIKLI: Motorin: 55.46, Motorin Performans +: 55.46, 95 Oktan Kurşunsuz: 54.81, Fuel Oil 4: 30.86, Fuel Oil 3: 26.41, Fuel Oil 6(Yüksek kükürt): 23.81
+GUNEYSU: Motorin: 55.46, Motorin Performans +: 55.46, 95 Oktan Kurşunsuz: 54.81, Fuel Oil 4: 30.86, Fuel Oil 3: 26.41, Fuel Oil 6(Yüksek kükürt): 23.81
+HEMSIN: Motorin: 55.46, Motorin Performans +: 55.46, 95 Oktan Kurşunsuz: 54.81, Fuel Oil 4: 30.86, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+IKIZDERE: Motorin: 55.46, Motorin Performans +: 55.46, 95 Oktan Kurşunsuz: 54.81, Fuel Oil 4: 30.78, Fuel Oil 3: 26.39, Fuel Oil 6(Yüksek kükürt): 23.79
+IYIDERE: Motorin: 55.46, Motorin Performans +: 55.46, 95 Oktan Kurşunsuz: 54.81, Fuel Oil 4: 30.78, Fuel Oil 3: 26.40, Fuel Oil 6(Yüksek kükürt): 23.80
+KALKANDERE: Motorin: 55.46, Motorin Performans +: 55.46, 95 Oktan Kurşunsuz: 54.81, Fuel Oil 4: 30.86, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+PAZAR: Motorin: 55.46, Motorin Performans +: 55.46, 95 Oktan Kurşunsuz: 54.81, Fuel Oil 4: 30.86, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+RIZE: Motorin: 55.46, Motorin Performans +: 55.46, 95 Oktan Kurşunsuz: 54.81, Fuel Oil 4: 30.86, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82

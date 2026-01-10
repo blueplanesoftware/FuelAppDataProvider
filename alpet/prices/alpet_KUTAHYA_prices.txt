@@ -1,0 +1,13 @@
+ALTINTAS: Motorin: 55.50, Motorin Performans +: 55.50, 95 Oktan Kurşunsuz: 54.96, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+ASLANAPA: Motorin: 55.50, Motorin Performans +: 55.50, 95 Oktan Kurşunsuz: 54.96, Fuel Oil 4: 30.79, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+CAVDARHISAR: Motorin: 55.50, Motorin Performans +: 55.50, 95 Oktan Kurşunsuz: 54.96, Fuel Oil 4: 30.80, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+DOMANIC: Motorin: 55.50, Motorin Performans +: 55.50, 95 Oktan Kurşunsuz: 54.96, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+DUMLUPINAR: Motorin: 55.50, Motorin Performans +: 55.50, 95 Oktan Kurşunsuz: 54.96, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+EMET: Motorin: 55.50, Motorin Performans +: 55.50, 95 Oktan Kurşunsuz: 54.96, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+GEDIZ: Motorin: 55.50, Motorin Performans +: 55.50, 95 Oktan Kurşunsuz: 54.96, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+HISARCIK: Motorin: 55.50, Motorin Performans +: 55.50, 95 Oktan Kurşunsuz: 54.96, Fuel Oil 4: 30.79, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+KUTAHYA: Motorin: 55.50, Motorin Performans +: 55.50, 95 Oktan Kurşunsuz: 54.96, Fuel Oil 4: 30.80, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+PAZARLAR: Motorin: 55.50, Motorin Performans +: 55.50, 95 Oktan Kurşunsuz: 54.96, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+SAPHANE: Motorin: 55.50, Motorin Performans +: 55.50, 95 Oktan Kurşunsuz: 54.96, Fuel Oil 4: 30.88, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+SIMAV: Motorin: 55.50, Motorin Performans +: 55.50, 95 Oktan Kurşunsuz: 54.96, Fuel Oil 4: 30.79, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+TAVSANLI: Motorin: 55.50, Motorin Performans +: 55.50, 95 Oktan Kurşunsuz: 54.96, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83

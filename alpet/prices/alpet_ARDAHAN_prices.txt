@@ -1,0 +1,6 @@
+ARDAHAN: Motorin: 55.77, Motorin Performans +: 55.77, 95 Oktan Kurşunsuz: 55.12, Fuel Oil 4: 30.91, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+CILDIR: Motorin: 55.77, Motorin Performans +: 55.77, 95 Oktan Kurşunsuz: 55.12, Fuel Oil 4: 30.88, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+DAMAL: Motorin: 55.77, Motorin Performans +: 55.77, 95 Oktan Kurşunsuz: 55.12, Fuel Oil 4: 30.90, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+GOLE: Motorin: 55.77, Motorin Performans +: 55.77, 95 Oktan Kurşunsuz: 55.12, Fuel Oil 4: 30.91, Fuel Oil 3: 26.46, Fuel Oil 6(Yüksek kükürt): 23.86
+HANAK: Motorin: 55.77, Motorin Performans +: 55.77, 95 Oktan Kurşunsuz: 55.12, Fuel Oil 4: 30.90, Fuel Oil 3: 26.46, Fuel Oil 6(Yüksek kükürt): 23.86
+POSOF: Motorin: 55.77, Motorin Performans +: 55.77, 95 Oktan Kurşunsuz: 55.12, Fuel Oil 4: 30.91, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87

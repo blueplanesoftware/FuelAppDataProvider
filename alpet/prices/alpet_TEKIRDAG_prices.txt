@@ -1,0 +1,12 @@
+CERKEZKOY: Motorin: 54.43, Motorin Performans +: 54.43, 95 Oktan Kurşunsuz: 53.76, Fuel Oil 4: 30.80, Fuel Oil 3: 26.46, Fuel Oil 6(Yüksek kükürt): 23.86
+CORLU: Motorin: 54.43, Motorin Performans +: 54.43, 95 Oktan Kurşunsuz: 53.76, Fuel Oil 4: 30.84, Fuel Oil 3: 26.40, Fuel Oil 6(Yüksek kükürt): 23.80
+ERGENE: Motorin: 54.43, Motorin Performans +: 54.43, 95 Oktan Kurşunsuz: 53.76, Fuel Oil 4: 30.80, Fuel Oil 3: 26.46, Fuel Oil 6(Yüksek kükürt): 23.86
+HAYRABOLU: Motorin: 54.43, Motorin Performans +: 54.43, 95 Oktan Kurşunsuz: 53.76, Fuel Oil 4: 30.80, Fuel Oil 3: 26.55, Fuel Oil 6(Yüksek kükürt): 23.95
+KAPAKLI: Motorin: 54.43, Motorin Performans +: 54.43, 95 Oktan Kurşunsuz: 53.76, Fuel Oil 4: 30.80, Fuel Oil 3: 26.55, Fuel Oil 6(Yüksek kükürt): 23.95
+MALKARA: Motorin: 54.43, Motorin Performans +: 54.43, 95 Oktan Kurşunsuz: 53.76, Fuel Oil 4: 30.79, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+MARMARAEREGLI: Motorin: 54.43, Motorin Performans +: 54.43, 95 Oktan Kurşunsuz: 53.76, Fuel Oil 4: 30.79, Fuel Oil 3: 26.45, Fuel Oil 6(Yüksek kükürt): 23.85
+MURATLI: Motorin: 54.43, Motorin Performans +: 54.43, 95 Oktan Kurşunsuz: 53.76, Fuel Oil 4: 30.79, Fuel Oil 3: 26.45, Fuel Oil 6(Yüksek kükürt): 23.85
+SARAY: Motorin: 54.43, Motorin Performans +: 54.43, 95 Oktan Kurşunsuz: 53.76, Fuel Oil 4: 30.79, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+SARKOY: Motorin: 54.43, Motorin Performans +: 54.43, 95 Oktan Kurşunsuz: 53.76, Fuel Oil 4: 30.84, Fuel Oil 3: 26.40, Fuel Oil 6(Yüksek kükürt): 23.80
+SULEYMANPASA: Motorin: 54.43, Motorin Performans +: 54.43, 95 Oktan Kurşunsuz: 53.76, Fuel Oil 4: 30.79, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+TEKIRDAG: Motorin: 54.43, Motorin Performans +: 54.43, 95 Oktan Kurşunsuz: 53.76, Fuel Oil 4: 30.79, Fuel Oil 3: 26.45, Fuel Oil 6(Yüksek kükürt): 23.85

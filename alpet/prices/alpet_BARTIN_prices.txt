@@ -1,0 +1,4 @@
+AMASRA: Motorin: 54.81, Motorin Performans +: 54.81, 95 Oktan Kurşunsuz: 54.36, Fuel Oil 4: 30.81, Fuel Oil 3: 26.36, Fuel Oil 6(Yüksek kükürt): 23.76
+BARTIN: Motorin: 54.81, Motorin Performans +: 54.81, 95 Oktan Kurşunsuz: 54.36, Fuel Oil 4: 30.81, Fuel Oil 3: 26.36, Fuel Oil 6(Yüksek kükürt): 23.76
+KURUCASILE: Motorin: 54.81, Motorin Performans +: 54.81, 95 Oktan Kurşunsuz: 54.36, Fuel Oil 4: 30.81, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+ULUS: Motorin: 54.81, Motorin Performans +: 54.81, 95 Oktan Kurşunsuz: 54.36, Fuel Oil 4: 30.92, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91

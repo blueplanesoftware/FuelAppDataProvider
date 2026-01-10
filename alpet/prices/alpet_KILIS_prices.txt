@@ -1,0 +1,4 @@
+ELBEYLI: Motorin: 55.46, Motorin Performans +: 55.46, 95 Oktan Kurşunsuz: 54.80, Fuel Oil 4: 30.88, Fuel Oil 3: 26.48, Fuel Oil 6(Yüksek kükürt): 23.88
+KILIS: Motorin: 55.46, Motorin Performans +: 55.46, 95 Oktan Kurşunsuz: 54.80, Fuel Oil 4: 30.88, Fuel Oil 3: 26.48, Fuel Oil 6(Yüksek kükürt): 23.88
+MUSABEYLI: Motorin: 55.46, Motorin Performans +: 55.46, 95 Oktan Kurşunsuz: 54.80, Fuel Oil 4: 30.88, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+POLATELI: Motorin: 55.46, Motorin Performans +: 55.46, 95 Oktan Kurşunsuz: 54.80, Fuel Oil 4: 30.87, Fuel Oil 3: 26.54, Fuel Oil 6(Yüksek kükürt): 23.94

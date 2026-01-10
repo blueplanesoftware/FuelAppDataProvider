@@ -1,0 +1,15 @@
+AKDENIZ: Motorin: 55.56, Motorin Performans +: 55.56, 95 Oktan Kurşunsuz: 54.90, Fuel Oil 4: 30.85, Fuel Oil 3: 26.54, Fuel Oil 6(Yüksek kükürt): 23.94
+ANAMUR: Motorin: 55.56, Motorin Performans +: 55.56, 95 Oktan Kurşunsuz: 54.90, Fuel Oil 4: 30.85, Fuel Oil 3: 26.53, Fuel Oil 6(Yüksek kükürt): 23.93
+AYDINCIK: Motorin: 55.56, Motorin Performans +: 55.56, 95 Oktan Kurşunsuz: 54.90, Fuel Oil 4: 30.85, Fuel Oil 3: 26.53, Fuel Oil 6(Yüksek kükürt): 23.93
+BOZYAZI: Motorin: 55.56, Motorin Performans +: 55.56, 95 Oktan Kurşunsuz: 54.90, Fuel Oil 4: 30.86, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91
+CAMLIYAYLA: Motorin: 55.56, Motorin Performans +: 55.56, 95 Oktan Kurşunsuz: 54.90, Fuel Oil 4: 30.80, Fuel Oil 3: 26.33, Fuel Oil 6(Yüksek kükürt): 23.73
+ERDEMLI: Motorin: 55.56, Motorin Performans +: 55.56, 95 Oktan Kurşunsuz: 54.90, Fuel Oil 4: 30.85, Fuel Oil 3: 26.52, Fuel Oil 6(Yüksek kükürt): 23.92
+GULNAR: Motorin: 55.56, Motorin Performans +: 55.56, 95 Oktan Kurşunsuz: 54.90, Fuel Oil 4: 30.85, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+MERSIN: Motorin: 55.56, Motorin Performans +: 55.56, 95 Oktan Kurşunsuz: 54.90, Fuel Oil 4: 30.86, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+MEZITLI: Motorin: 55.56, Motorin Performans +: 55.56, 95 Oktan Kurşunsuz: 54.90, Fuel Oil 4: 30.85, Fuel Oil 3: 26.53, Fuel Oil 6(Yüksek kükürt): 23.93
+MUT: Motorin: 55.56, Motorin Performans +: 55.56, 95 Oktan Kurşunsuz: 54.90, Fuel Oil 4: 30.85, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91
+SILIFKE: Motorin: 55.56, Motorin Performans +: 55.56, 95 Oktan Kurşunsuz: 54.90, Fuel Oil 4: 30.85, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+TARSUS: Motorin: 55.56, Motorin Performans +: 55.56, 95 Oktan Kurşunsuz: 54.90, Fuel Oil 4: 30.86, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+TOROSLAR: Motorin: 55.56, Motorin Performans +: 55.56, 95 Oktan Kurşunsuz: 54.90, Fuel Oil 4: 30.86, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+YENICE: Motorin: 55.56, Motorin Performans +: 55.56, 95 Oktan Kurşunsuz: 54.90, Fuel Oil 4: 30.86, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+YENISEHIR: Motorin: 55.56, Motorin Performans +: 55.56, 95 Oktan Kurşunsuz: 54.90, Fuel Oil 4: 30.85, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91

@@ -1,0 +1,5 @@
+CUKURCA: Motorin: 56.22, Motorin Performans +: 56.22, 95 Oktan Kurşunsuz: 55.52, Fuel Oil 4: 31.10, Fuel Oil 3: 26.73, Fuel Oil 6(Yüksek kükürt): 24.13
+ESENDERE: Motorin: 56.22, Motorin Performans +: 56.22, 95 Oktan Kurşunsuz: 55.52, Fuel Oil 4: 31.10, Fuel Oil 3: 26.73, Fuel Oil 6(Yüksek kükürt): 24.13
+HAKKARI: Motorin: 56.22, Motorin Performans +: 56.22, 95 Oktan Kurşunsuz: 55.52, Fuel Oil 4: 31.09, Fuel Oil 3: 26.73, Fuel Oil 6(Yüksek kükürt): 24.13
+SEMDINLI: Motorin: 56.22, Motorin Performans +: 56.22, 95 Oktan Kurşunsuz: 55.52, Fuel Oil 4: 30.87, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+YUKSEKOVA: Motorin: 56.22, Motorin Performans +: 56.22, 95 Oktan Kurşunsuz: 55.52, Fuel Oil 4: 31.09, Fuel Oil 3: 26.73, Fuel Oil 6(Yüksek kükürt): 24.13

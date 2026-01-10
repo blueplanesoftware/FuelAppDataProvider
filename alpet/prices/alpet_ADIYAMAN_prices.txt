@@ -1,0 +1,9 @@
+ADIYAMAN: Motorin: 55.91, Motorin Performans +: 55.91, 95 Oktan Kurşunsuz: 55.25, Fuel Oil 4: 30.88, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91
+BESNI: Motorin: 55.91, Motorin Performans +: 55.91, 95 Oktan Kurşunsuz: 55.25, Fuel Oil 4: 30.87, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91
+CELIKHAN: Motorin: 55.91, Motorin Performans +: 55.91, 95 Oktan Kurşunsuz: 55.25, Fuel Oil 4: 30.88, Fuel Oil 3: 26.52, Fuel Oil 6(Yüksek kükürt): 23.92
+GERGER: Motorin: 55.91, Motorin Performans +: 55.91, 95 Oktan Kurşunsuz: 55.25, Fuel Oil 4: 30.89, Fuel Oil 3: 26.53, Fuel Oil 6(Yüksek kükürt): 23.93
+GOLBASI: Motorin: 55.91, Motorin Performans +: 55.91, 95 Oktan Kurşunsuz: 55.25, Fuel Oil 4: 30.87, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+KAHTA: Motorin: 55.91, Motorin Performans +: 55.91, 95 Oktan Kurşunsuz: 55.25, Fuel Oil 4: 30.88, Fuel Oil 3: 26.52, Fuel Oil 6(Yüksek kükürt): 23.92
+SAMSAT: Motorin: 55.91, Motorin Performans +: 55.91, 95 Oktan Kurşunsuz: 55.25, Fuel Oil 4: 30.88, Fuel Oil 3: 26.52, Fuel Oil 6(Yüksek kükürt): 23.92
+SINCIK: Motorin: 55.91, Motorin Performans +: 55.91, 95 Oktan Kurşunsuz: 55.25, Fuel Oil 4: 30.88, Fuel Oil 3: 26.52, Fuel Oil 6(Yüksek kükürt): 23.92
+TUT: Motorin: 55.91, Motorin Performans +: 55.91, 95 Oktan Kurşunsuz: 55.25, Fuel Oil 4: 30.87, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91

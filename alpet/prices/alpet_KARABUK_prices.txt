@@ -1,0 +1,6 @@
+EFLANI: Motorin: 54.83, Motorin Performans +: 54.83, 95 Oktan Kurşunsuz: 54.38, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+ESKIPAZAR: Motorin: 54.83, Motorin Performans +: 54.83, 95 Oktan Kurşunsuz: 54.38, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+KARABUK: Motorin: 54.83, Motorin Performans +: 54.83, 95 Oktan Kurşunsuz: 54.38, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+OVACIK: Motorin: 54.83, Motorin Performans +: 54.83, 95 Oktan Kurşunsuz: 54.38, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+SAFRANBOLU: Motorin: 54.83, Motorin Performans +: 54.83, 95 Oktan Kurşunsuz: 54.38, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+YENICE: Motorin: 54.83, Motorin Performans +: 54.83, 95 Oktan Kurşunsuz: 54.38, Fuel Oil 4: 30.84, Fuel Oil 3: 26.53, Fuel Oil 6(Yüksek kükürt): 23.93

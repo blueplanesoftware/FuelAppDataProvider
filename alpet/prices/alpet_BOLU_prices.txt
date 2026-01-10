@@ -1,0 +1,9 @@
+BOLU: Motorin: 54.56, Motorin Performans +: 54.56, 95 Oktan Kurşunsuz: 54.11, Fuel Oil 4: 30.79, Fuel Oil 3: 26.40, Fuel Oil 6(Yüksek kükürt): 23.80
+DORTDIVAN: Motorin: 54.56, Motorin Performans +: 54.56, 95 Oktan Kurşunsuz: 54.11, Fuel Oil 4: 30.79, Fuel Oil 3: 26.40, Fuel Oil 6(Yüksek kükürt): 23.80
+GEREDE: Motorin: 54.56, Motorin Performans +: 54.56, 95 Oktan Kurşunsuz: 54.11, Fuel Oil 4: 30.78, Fuel Oil 3: 26.40, Fuel Oil 6(Yüksek kükürt): 23.80
+GOYNUK: Motorin: 54.56, Motorin Performans +: 54.56, 95 Oktan Kurşunsuz: 54.11, Fuel Oil 4: 30.79, Fuel Oil 3: 26.41, Fuel Oil 6(Yüksek kükürt): 23.81
+KIBRISCIK: Motorin: 54.56, Motorin Performans +: 54.56, 95 Oktan Kurşunsuz: 54.11, Fuel Oil 4: 30.79, Fuel Oil 3: 26.41, Fuel Oil 6(Yüksek kükürt): 23.81
+MENGEN: Motorin: 54.56, Motorin Performans +: 54.56, 95 Oktan Kurşunsuz: 54.11, Fuel Oil 4: 30.79, Fuel Oil 3: 26.41, Fuel Oil 6(Yüksek kükürt): 23.81
+MUDURNU: Motorin: 54.56, Motorin Performans +: 54.56, 95 Oktan Kurşunsuz: 54.11, Fuel Oil 4: 30.79, Fuel Oil 3: 26.40, Fuel Oil 6(Yüksek kükürt): 23.80
+SEBEN: Motorin: 54.56, Motorin Performans +: 54.56, 95 Oktan Kurşunsuz: 54.11, Fuel Oil 4: 30.79, Fuel Oil 3: 26.40, Fuel Oil 6(Yüksek kükürt): 23.80
+YENICAGA: Motorin: 54.56, Motorin Performans +: 54.56, 95 Oktan Kurşunsuz: 54.11, Fuel Oil 4: 30.81, Fuel Oil 3: 26.37, Fuel Oil 6(Yüksek kükürt): 23.77

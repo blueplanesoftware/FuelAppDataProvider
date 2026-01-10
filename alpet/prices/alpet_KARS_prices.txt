@@ -1,0 +1,8 @@
+AKYAKA: Motorin: 55.78, Motorin Performans +: 55.78, 95 Oktan Kurşunsuz: 55.13, Fuel Oil 4: 30.85, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+ARPACAY: Motorin: 55.78, Motorin Performans +: 55.78, 95 Oktan Kurşunsuz: 55.13, Fuel Oil 4: 30.85, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+DIGOR: Motorin: 55.78, Motorin Performans +: 55.78, 95 Oktan Kurşunsuz: 55.13, Fuel Oil 4: 30.90, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+KAGIZMAN: Motorin: 55.78, Motorin Performans +: 55.78, 95 Oktan Kurşunsuz: 55.13, Fuel Oil 4: 30.90, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+KARS: Motorin: 55.78, Motorin Performans +: 55.78, 95 Oktan Kurşunsuz: 55.13, Fuel Oil 4: 30.90, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+SARIKAMIS: Motorin: 55.78, Motorin Performans +: 55.78, 95 Oktan Kurşunsuz: 55.13, Fuel Oil 4: 30.90, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+SELIM: Motorin: 55.78, Motorin Performans +: 55.78, 95 Oktan Kurşunsuz: 55.13, Fuel Oil 4: 30.90, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+SUSUZ: Motorin: 55.78, Motorin Performans +: 55.78, 95 Oktan Kurşunsuz: 55.13, Fuel Oil 4: 30.82, Fuel Oil 3: 26.46, Fuel Oil 6(Yüksek kükürt): 23.86

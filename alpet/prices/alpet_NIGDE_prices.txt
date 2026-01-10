@@ -1,0 +1,6 @@
+ALTUNHISAR: Motorin: 55.58, Motorin Performans +: 55.58, 95 Oktan Kurşunsuz: 54.92, Fuel Oil 4: 30.84, Fuel Oil 3: 26.48, Fuel Oil 6(Yüksek kükürt): 23.88
+BOR: Motorin: 55.58, Motorin Performans +: 55.58, 95 Oktan Kurşunsuz: 54.92, Fuel Oil 4: 30.84, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+CAMARDI: Motorin: 55.58, Motorin Performans +: 55.58, 95 Oktan Kurşunsuz: 54.92, Fuel Oil 4: 30.84, Fuel Oil 3: 26.41, Fuel Oil 6(Yüksek kükürt): 23.81
+CIFTLIK: Motorin: 55.58, Motorin Performans +: 55.58, 95 Oktan Kurşunsuz: 54.92, Fuel Oil 4: 30.85, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+NIGDE: Motorin: 55.58, Motorin Performans +: 55.58, 95 Oktan Kurşunsuz: 54.92, Fuel Oil 4: 30.84, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+ULUKISLA: Motorin: 55.58, Motorin Performans +: 55.58, 95 Oktan Kurşunsuz: 54.92, Fuel Oil 4: 30.83, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89

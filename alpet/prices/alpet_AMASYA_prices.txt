@@ -1,0 +1,7 @@
+AMASYA: Motorin: 55.29, Motorin Performans +: 55.29, 95 Oktan Kurşunsuz: 54.65, Fuel Oil 4: 30.82, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+GOYNUCEK: Motorin: 55.29, Motorin Performans +: 55.29, 95 Oktan Kurşunsuz: 54.65, Fuel Oil 4: 30.82, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+GUMUSHACIKOY: Motorin: 55.29, Motorin Performans +: 55.29, 95 Oktan Kurşunsuz: 54.65, Fuel Oil 4: 30.82, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+HAMAMOZU: Motorin: 55.29, Motorin Performans +: 55.29, 95 Oktan Kurşunsuz: 54.65, Fuel Oil 4: 30.82, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+MERZIFON: Motorin: 55.29, Motorin Performans +: 55.29, 95 Oktan Kurşunsuz: 54.65, Fuel Oil 4: 30.83, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+SULUOVA: Motorin: 55.29, Motorin Performans +: 55.29, 95 Oktan Kurşunsuz: 54.65, Fuel Oil 4: 30.83, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+TASOVA: Motorin: 55.29, Motorin Performans +: 55.29, 95 Oktan Kurşunsuz: 54.65, Fuel Oil 4: 30.81, Fuel Oil 3: 26.35, Fuel Oil 6(Yüksek kükürt): 23.75

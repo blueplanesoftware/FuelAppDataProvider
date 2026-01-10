@@ -1,0 +1,7 @@
+BAHCE: Motorin: 55.45, Motorin Performans +: 55.45, 95 Oktan Kurşunsuz: 54.79, Fuel Oil 4: 30.87, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+DUZICI: Motorin: 55.45, Motorin Performans +: 55.45, 95 Oktan Kurşunsuz: 54.79, Fuel Oil 4: 30.86, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+HASANBEYLI: Motorin: 55.45, Motorin Performans +: 55.45, 95 Oktan Kurşunsuz: 54.79, Fuel Oil 4: 30.86, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+KADIRLI: Motorin: 55.45, Motorin Performans +: 55.45, 95 Oktan Kurşunsuz: 54.79, Fuel Oil 4: 30.86, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+OSMANIYE: Motorin: 55.45, Motorin Performans +: 55.45, 95 Oktan Kurşunsuz: 54.79, Fuel Oil 4: 30.86, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+SUMBAS: Motorin: 55.45, Motorin Performans +: 55.45, 95 Oktan Kurşunsuz: 54.79, Fuel Oil 4: 30.86, Fuel Oil 3: 26.41, Fuel Oil 6(Yüksek kükürt): 23.81
+TOPRAKKALE: Motorin: 55.45, Motorin Performans +: 55.45, 95 Oktan Kurşunsuz: 54.79, Fuel Oil 4: 30.86, Fuel Oil 3: 26.41, Fuel Oil 6(Yüksek kükürt): 23.81

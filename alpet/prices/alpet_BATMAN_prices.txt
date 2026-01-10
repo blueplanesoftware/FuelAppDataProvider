@@ -1,0 +1,6 @@
+BATMAN: Motorin: 56.04, Motorin Performans +: 56.04, 95 Oktan Kurşunsuz: 55.34, Fuel Oil 4: 30.91, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91
+BESIRI: Motorin: 56.04, Motorin Performans +: 56.04, 95 Oktan Kurşunsuz: 55.34, Fuel Oil 4: 30.92, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91
+GERCUS: Motorin: 56.04, Motorin Performans +: 56.04, 95 Oktan Kurşunsuz: 55.34, Fuel Oil 4: 30.92, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91
+HASANKEYF: Motorin: 56.04, Motorin Performans +: 56.04, 95 Oktan Kurşunsuz: 55.34, Fuel Oil 4: 30.91, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91
+KOZLUK: Motorin: 56.04, Motorin Performans +: 56.04, 95 Oktan Kurşunsuz: 55.34, Fuel Oil 4: 30.91, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+SASON: Motorin: 56.04, Motorin Performans +: 56.04, 95 Oktan Kurşunsuz: 55.34, Fuel Oil 4: 30.91, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91

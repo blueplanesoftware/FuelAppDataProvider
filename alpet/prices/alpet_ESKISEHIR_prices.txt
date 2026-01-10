@@ -1,0 +1,16 @@
+ALPU: Motorin: 54.79, Motorin Performans +: 54.79, 95 Oktan Kurşunsuz: 54.34, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+BEYLIKOVA: Motorin: 54.79, Motorin Performans +: 54.79, 95 Oktan Kurşunsuz: 54.34, Fuel Oil 4: 30.81, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+CIFTELER: Motorin: 54.79, Motorin Performans +: 54.79, 95 Oktan Kurşunsuz: 54.34, Fuel Oil 4: 30.79, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+ESKISEHIR: Motorin: 54.79, Motorin Performans +: 54.79, 95 Oktan Kurşunsuz: 54.34, Fuel Oil 4: 30.79, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+GUNYUZU: Motorin: 54.79, Motorin Performans +: 54.79, 95 Oktan Kurşunsuz: 54.34, Fuel Oil 4: 30.80, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+HAN: Motorin: 54.79, Motorin Performans +: 54.79, 95 Oktan Kurşunsuz: 54.34, Fuel Oil 4: 30.80, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+INONU: Motorin: 54.79, Motorin Performans +: 54.79, 95 Oktan Kurşunsuz: 54.34, Fuel Oil 4: 30.88, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+KIRKA: Motorin: 54.79, Motorin Performans +: 54.79, 95 Oktan Kurşunsuz: 54.34, Fuel Oil 4: 30.80, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+MAHMUDIYE: Motorin: 54.79, Motorin Performans +: 54.79, 95 Oktan Kurşunsuz: 54.34, Fuel Oil 4: 30.79, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+MIHALGAZI: Motorin: 54.79, Motorin Performans +: 54.79, 95 Oktan Kurşunsuz: 54.34, Fuel Oil 4: 30.80, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+MIHALICCIK: Motorin: 54.79, Motorin Performans +: 54.79, 95 Oktan Kurşunsuz: 54.34, Fuel Oil 4: 30.79, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+ODUNPAZARI: Motorin: 54.79, Motorin Performans +: 54.79, 95 Oktan Kurşunsuz: 54.34, Fuel Oil 4: 30.79, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+SARICAKAYA: Motorin: 54.79, Motorin Performans +: 54.79, 95 Oktan Kurşunsuz: 54.34, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+SEYITGAZI: Motorin: 54.79, Motorin Performans +: 54.79, 95 Oktan Kurşunsuz: 54.34, Fuel Oil 4: 30.80, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+SIVRIHISAR: Motorin: 54.79, Motorin Performans +: 54.79, 95 Oktan Kurşunsuz: 54.34, Fuel Oil 4: 30.79, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+TEPEBASI: Motorin: 54.79, Motorin Performans +: 54.79, 95 Oktan Kurşunsuz: 54.34, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83

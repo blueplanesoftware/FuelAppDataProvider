@@ -1,0 +1,9 @@
+BAHSILI: Motorin: 54.96, Motorin Performans +: 54.96, 95 Oktan Kurşunsuz: 54.30, Fuel Oil 4: 30.82, Fuel Oil 3: 26.38, Fuel Oil 6(Yüksek kükürt): 23.78
+BALISEYH: Motorin: 54.96, Motorin Performans +: 54.96, 95 Oktan Kurşunsuz: 54.30, Fuel Oil 4: 30.82, Fuel Oil 3: 26.39, Fuel Oil 6(Yüksek kükürt): 23.79
+CELEBI: Motorin: 54.96, Motorin Performans +: 54.96, 95 Oktan Kurşunsuz: 54.30, Fuel Oil 4: 30.80, Fuel Oil 3: 26.45, Fuel Oil 6(Yüksek kükürt): 23.85
+DELICE: Motorin: 54.96, Motorin Performans +: 54.96, 95 Oktan Kurşunsuz: 54.30, Fuel Oil 4: 30.82, Fuel Oil 3: 26.39, Fuel Oil 6(Yüksek kükürt): 23.79
+KARAKECILI: Motorin: 54.96, Motorin Performans +: 54.96, 95 Oktan Kurşunsuz: 54.30, Fuel Oil 4: 30.82, Fuel Oil 3: 26.38, Fuel Oil 6(Yüksek kükürt): 23.78
+KESKIN: Motorin: 54.96, Motorin Performans +: 54.96, 95 Oktan Kurşunsuz: 54.30, Fuel Oil 4: 30.81, Fuel Oil 3: 26.38, Fuel Oil 6(Yüksek kükürt): 23.78
+KIRIKKALE: Motorin: 54.96, Motorin Performans +: 54.96, 95 Oktan Kurşunsuz: 54.30, Fuel Oil 4: 30.82, Fuel Oil 3: 26.39, Fuel Oil 6(Yüksek kükürt): 23.79
+SULAKYURT: Motorin: 54.96, Motorin Performans +: 54.96, 95 Oktan Kurşunsuz: 54.30, Fuel Oil 4: 30.82, Fuel Oil 3: 26.39, Fuel Oil 6(Yüksek kükürt): 23.79
+YAHSIYAN: Motorin: 54.96, Motorin Performans +: 54.96, 95 Oktan Kurşunsuz: 54.30, Fuel Oil 4: 30.81, Fuel Oil 3: 26.38, Fuel Oil 6(Yüksek kükürt): 23.78

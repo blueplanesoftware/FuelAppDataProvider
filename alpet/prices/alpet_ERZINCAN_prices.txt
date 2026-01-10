@@ -1,0 +1,9 @@
+CAYIRLI: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.87, Fuel Oil 3: 26.60, Fuel Oil 6(Yüksek kükürt): 24.00
+ERZINCAN: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.88, Fuel Oil 3: 26.64, Fuel Oil 6(Yüksek kükürt): 24.04
+ILIC: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+KEMAH: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.87, Fuel Oil 3: 26.54, Fuel Oil 6(Yüksek kükürt): 23.94
+KEMALIYE: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.88, Fuel Oil 3: 26.45, Fuel Oil 6(Yüksek kükürt): 23.85
+OTLUKBELI: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.86, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+REFAHIYE: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.88, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+TERCAN: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.87, Fuel Oil 3: 26.63, Fuel Oil 6(Yüksek kükürt): 24.03
+UZUMLU: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.87, Fuel Oil 3: 26.45, Fuel Oil 6(Yüksek kükürt): 23.85

@@ -1,0 +1,9 @@
+EDIRNE: Motorin: 54.85, Motorin Performans +: 54.85, 95 Oktan Kurşunsuz: 54.18, Fuel Oil 4: 30.81, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+ENEZ: Motorin: 54.85, Motorin Performans +: 54.85, 95 Oktan Kurşunsuz: 54.18, Fuel Oil 4: 30.80, Fuel Oil 3: 26.46, Fuel Oil 6(Yüksek kükürt): 23.86
+HAVSA: Motorin: 54.85, Motorin Performans +: 54.85, 95 Oktan Kurşunsuz: 54.18, Fuel Oil 4: 30.80, Fuel Oil 3: 26.46, Fuel Oil 6(Yüksek kükürt): 23.86
+IPSALA: Motorin: 54.85, Motorin Performans +: 54.85, 95 Oktan Kurşunsuz: 54.18, Fuel Oil 4: 30.80, Fuel Oil 3: 26.54, Fuel Oil 6(Yüksek kükürt): 23.94
+KESAN: Motorin: 54.85, Motorin Performans +: 54.85, 95 Oktan Kurşunsuz: 54.18, Fuel Oil 4: 30.80, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+LALAPASA: Motorin: 54.85, Motorin Performans +: 54.85, 95 Oktan Kurşunsuz: 54.18, Fuel Oil 4: 30.80, Fuel Oil 3: 26.46, Fuel Oil 6(Yüksek kükürt): 23.86
+MERIC: Motorin: 54.85, Motorin Performans +: 54.85, 95 Oktan Kurşunsuz: 54.18, Fuel Oil 4: 30.80, Fuel Oil 3: 26.46, Fuel Oil 6(Yüksek kükürt): 23.86
+SULOGLU: Motorin: 54.85, Motorin Performans +: 54.85, 95 Oktan Kurşunsuz: 54.18, Fuel Oil 4: 30.80, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+UZUNKOPRU: Motorin: 54.85, Motorin Performans +: 54.85, 95 Oktan Kurşunsuz: 54.18, Fuel Oil 4: 30.80, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87

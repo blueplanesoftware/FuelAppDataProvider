@@ -1,0 +1,8 @@
+AYDINLAR: Motorin: 56.09, Motorin Performans +: 56.09, 95 Oktan Kurşunsuz: 55.39, Fuel Oil 4: 30.92, Fuel Oil 3: 26.52, Fuel Oil 6(Yüksek kükürt): 23.92
+BAYKAN: Motorin: 56.09, Motorin Performans +: 56.09, 95 Oktan Kurşunsuz: 55.39, Fuel Oil 4: 30.92, Fuel Oil 3: 26.52, Fuel Oil 6(Yüksek kükürt): 23.92
+ERUH: Motorin: 56.09, Motorin Performans +: 56.09, 95 Oktan Kurşunsuz: 55.39, Fuel Oil 4: 30.92, Fuel Oil 3: 26.52, Fuel Oil 6(Yüksek kükürt): 23.92
+KURTALAN: Motorin: 56.09, Motorin Performans +: 56.09, 95 Oktan Kurşunsuz: 55.39, Fuel Oil 4: 30.92, Fuel Oil 3: 26.52, Fuel Oil 6(Yüksek kükürt): 23.92
+PERVARI: Motorin: 56.09, Motorin Performans +: 56.09, 95 Oktan Kurşunsuz: 55.39, Fuel Oil 4: 30.92, Fuel Oil 3: 26.52, Fuel Oil 6(Yüksek kükürt): 23.92
+SIIRT: Motorin: 56.09, Motorin Performans +: 56.09, 95 Oktan Kurşunsuz: 55.39, Fuel Oil 4: 30.92, Fuel Oil 3: 26.52, Fuel Oil 6(Yüksek kükürt): 23.92
+SIRVAN: Motorin: 56.09, Motorin Performans +: 56.09, 95 Oktan Kurşunsuz: 55.39, Fuel Oil 4: 30.80, Fuel Oil 3: 26.46, Fuel Oil 6(Yüksek kükürt): 23.86
+TILLO: Motorin: 56.09, Motorin Performans +: 56.09, 95 Oktan Kurşunsuz: 55.39, Fuel Oil 4: 30.79, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84

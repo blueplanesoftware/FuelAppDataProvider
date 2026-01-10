@@ -1,0 +1,8 @@
+BABAESKI: Motorin: 54.82, Motorin Performans +: 54.82, 95 Oktan Kurşunsuz: 54.15, Fuel Oil 4: 30.80, Fuel Oil 3: 26.45, Fuel Oil 6(Yüksek kükürt): 23.85
+DEMIRKOY: Motorin: 54.82, Motorin Performans +: 54.82, 95 Oktan Kurşunsuz: 54.15, Fuel Oil 4: 30.80, Fuel Oil 3: 26.45, Fuel Oil 6(Yüksek kükürt): 23.85
+KIRKLARELI: Motorin: 54.82, Motorin Performans +: 54.82, 95 Oktan Kurşunsuz: 54.15, Fuel Oil 4: 30.80, Fuel Oil 3: 26.46, Fuel Oil 6(Yüksek kükürt): 23.86
+KOFCAZ: Motorin: 54.82, Motorin Performans +: 54.82, 95 Oktan Kurşunsuz: 54.15, Fuel Oil 4: 30.80, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+LULEBURGAZ: Motorin: 54.82, Motorin Performans +: 54.82, 95 Oktan Kurşunsuz: 54.15, Fuel Oil 4: 30.80, Fuel Oil 3: 26.46, Fuel Oil 6(Yüksek kükürt): 23.86
+PEHLIVANKOY: Motorin: 54.82, Motorin Performans +: 54.82, 95 Oktan Kurşunsuz: 54.15, Fuel Oil 4: 30.80, Fuel Oil 3: 26.46, Fuel Oil 6(Yüksek kükürt): 23.86
+PINARHISAR: Motorin: 54.82, Motorin Performans +: 54.82, 95 Oktan Kurşunsuz: 54.15, Fuel Oil 4: 30.79, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+VIZE: Motorin: 54.82, Motorin Performans +: 54.82, 95 Oktan Kurşunsuz: 54.15, Fuel Oil 4: 30.82, Fuel Oil 3: 26.34, Fuel Oil 6(Yüksek kükürt): 23.74

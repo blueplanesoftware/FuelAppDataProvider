@@ -1,0 +1,7 @@
+AGACOREN: Motorin: 55.65, Motorin Performans +: 55.65, 95 Oktan Kurşunsuz: 54.99, Fuel Oil 4: 30.83, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+AKSARAY: Motorin: 55.65, Motorin Performans +: 55.65, 95 Oktan Kurşunsuz: 54.99, Fuel Oil 4: 30.83, Fuel Oil 3: 26.46, Fuel Oil 6(Yüksek kükürt): 23.86
+ESKIL: Motorin: 55.65, Motorin Performans +: 55.65, 95 Oktan Kurşunsuz: 54.99, Fuel Oil 4: 30.83, Fuel Oil 3: 26.46, Fuel Oil 6(Yüksek kükürt): 23.86
+GULAGAC: Motorin: 55.65, Motorin Performans +: 55.65, 95 Oktan Kurşunsuz: 54.99, Fuel Oil 4: 30.83, Fuel Oil 3: 26.46, Fuel Oil 6(Yüksek kükürt): 23.86
+GUZELYURT: Motorin: 55.65, Motorin Performans +: 55.65, 95 Oktan Kurşunsuz: 54.99, Fuel Oil 4: 30.83, Fuel Oil 3: 26.46, Fuel Oil 6(Yüksek kükürt): 23.86
+ORTAKOY: Motorin: 55.65, Motorin Performans +: 55.65, 95 Oktan Kurşunsuz: 54.99, Fuel Oil 4: 30.82, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+SARIYAGSI: Motorin: 55.65, Motorin Performans +: 55.65, 95 Oktan Kurşunsuz: 54.99, Fuel Oil 4: 30.83, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83

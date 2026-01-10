@@ -1,0 +1,8 @@
+CEMISKEZEK: Motorin: 56.15, Motorin Performans +: 56.15, 95 Oktan Kurşunsuz: 55.45, Fuel Oil 4: 30.79, Fuel Oil 3: 26.34, Fuel Oil 6(Yüksek kükürt): 23.74
+HOZAT: Motorin: 56.15, Motorin Performans +: 56.15, 95 Oktan Kurşunsuz: 55.45, Fuel Oil 4: 30.88, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91
+MAZGIRT: Motorin: 56.15, Motorin Performans +: 56.15, 95 Oktan Kurşunsuz: 55.45, Fuel Oil 4: 30.88, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91
+NAZIMIYE: Motorin: 56.15, Motorin Performans +: 56.15, 95 Oktan Kurşunsuz: 55.45, Fuel Oil 4: 30.88, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91
+OVACIK: Motorin: 56.15, Motorin Performans +: 56.15, 95 Oktan Kurşunsuz: 55.45, Fuel Oil 4: 30.88, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91
+PERTEK: Motorin: 56.15, Motorin Performans +: 56.15, 95 Oktan Kurşunsuz: 55.45, Fuel Oil 4: 30.88, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91
+PULUMUR: Motorin: 56.15, Motorin Performans +: 56.15, 95 Oktan Kurşunsuz: 55.45, Fuel Oil 4: 30.80, Fuel Oil 3: 26.35, Fuel Oil 6(Yüksek kükürt): 23.75
+TUNCELI: Motorin: 56.15, Motorin Performans +: 56.15, 95 Oktan Kurşunsuz: 55.45, Fuel Oil 4: 30.88, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91

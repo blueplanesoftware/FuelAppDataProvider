@@ -1,0 +1,8 @@
+ACIGOL: Motorin: 55.63, Motorin Performans +: 55.63, 95 Oktan Kurşunsuz: 54.97, Fuel Oil 4: 30.83, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+AVANOS: Motorin: 55.63, Motorin Performans +: 55.63, 95 Oktan Kurşunsuz: 54.97, Fuel Oil 4: 30.84, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+DERINKUYU: Motorin: 55.63, Motorin Performans +: 55.63, 95 Oktan Kurşunsuz: 54.97, Fuel Oil 4: 30.83, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+GULSEHIR: Motorin: 55.63, Motorin Performans +: 55.63, 95 Oktan Kurşunsuz: 54.97, Fuel Oil 4: 30.83, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+HACIBEKTAS: Motorin: 55.63, Motorin Performans +: 55.63, 95 Oktan Kurşunsuz: 54.97, Fuel Oil 4: 30.83, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+KOZAKLI: Motorin: 55.63, Motorin Performans +: 55.63, 95 Oktan Kurşunsuz: 54.97, Fuel Oil 4: 30.84, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+NEVSEHIR: Motorin: 55.63, Motorin Performans +: 55.63, 95 Oktan Kurşunsuz: 54.97, Fuel Oil 4: 30.84, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+URGUP: Motorin: 55.63, Motorin Performans +: 55.63, 95 Oktan Kurşunsuz: 54.97, Fuel Oil 4: 30.84, Fuel Oil 3: 26.48, Fuel Oil 6(Yüksek kükürt): 23.88

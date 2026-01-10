@@ -1,0 +1,10 @@
+ARABAN: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.05, Fuel Oil 4: 30.88, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+GAZIANTEP: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.05, Fuel Oil 4: 30.87, Fuel Oil 3: 26.48, Fuel Oil 6(Yüksek kükürt): 23.88
+ISLAHIYE: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.05, Fuel Oil 4: 30.88, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+KARGAMIS: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.05, Fuel Oil 4: 30.88, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+NIZIP: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.05, Fuel Oil 4: 30.88, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+NURDAGI: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.05, Fuel Oil 4: 30.88, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+OGUZELI: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.05, Fuel Oil 4: 30.88, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+SAHINBEY: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.05, Fuel Oil 4: 30.88, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+SEHITKAMIL: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.05, Fuel Oil 4: 30.87, Fuel Oil 3: 26.45, Fuel Oil 6(Yüksek kükürt): 23.85
+YAVUZELI: Motorin: 55.71, Motorin Performans +: 55.71, 95 Oktan Kurşunsuz: 55.05, Fuel Oil 4: 30.87, Fuel Oil 3: 26.48, Fuel Oil 6(Yüksek kükürt): 23.88

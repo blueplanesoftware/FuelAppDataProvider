@@ -1,0 +1,12 @@
+AFSIN: Motorin: 55.72, Motorin Performans +: 55.72, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.86, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+ANDIRIN: Motorin: 55.72, Motorin Performans +: 55.72, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.86, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87
+CAGLAYANCERIT: Motorin: 55.72, Motorin Performans +: 55.72, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.81, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+DULKADIROGLU: Motorin: 55.72, Motorin Performans +: 55.72, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.86, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+EKINOZU: Motorin: 55.72, Motorin Performans +: 55.72, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.86, Fuel Oil 3: 26.50, Fuel Oil 6(Yüksek kükürt): 23.90
+ELBISTAN: Motorin: 55.72, Motorin Performans +: 55.72, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.86, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+GOKSUN: Motorin: 55.72, Motorin Performans +: 55.72, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.86, Fuel Oil 3: 26.48, Fuel Oil 6(Yüksek kükürt): 23.88
+K.MARAS: Motorin: 55.72, Motorin Performans +: 55.72, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.88, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+NURHAK: Motorin: 55.72, Motorin Performans +: 55.72, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.86, Fuel Oil 3: 26.48, Fuel Oil 6(Yüksek kükürt): 23.88
+ONIKISUBAT: Motorin: 55.72, Motorin Performans +: 55.72, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.88, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+PAZARCIK: Motorin: 55.72, Motorin Performans +: 55.72, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.87, Fuel Oil 3: 26.48, Fuel Oil 6(Yüksek kükürt): 23.88
+TURKOGLU: Motorin: 55.72, Motorin Performans +: 55.72, 95 Oktan Kurşunsuz: 55.06, Fuel Oil 4: 30.87, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89

@@ -1,0 +1,6 @@
+BANAZ: Motorin: 55.51, Motorin Performans +: 55.51, 95 Oktan Kurşunsuz: 54.86, Fuel Oil 4: 30.80, Fuel Oil 3: 26.35, Fuel Oil 6(Yüksek kükürt): 23.75
+ESME: Motorin: 55.51, Motorin Performans +: 55.51, 95 Oktan Kurşunsuz: 54.86, Fuel Oil 4: 30.80, Fuel Oil 3: 26.41, Fuel Oil 6(Yüksek kükürt): 23.81
+KARAHANLI: Motorin: 55.51, Motorin Performans +: 55.51, 95 Oktan Kurşunsuz: 54.86, Fuel Oil 4: 30.80, Fuel Oil 3: 26.35, Fuel Oil 6(Yüksek kükürt): 23.75
+SIVASLI: Motorin: 55.51, Motorin Performans +: 55.51, 95 Oktan Kurşunsuz: 54.86, Fuel Oil 4: 30.92, Fuel Oil 3: 26.34, Fuel Oil 6(Yüksek kükürt): 23.74
+ULUBEY: Motorin: 55.51, Motorin Performans +: 55.51, 95 Oktan Kurşunsuz: 54.86, Fuel Oil 4: 30.92, Fuel Oil 3: 26.57, Fuel Oil 6(Yüksek kükürt): 23.97
+USAK: Motorin: 55.51, Motorin Performans +: 55.51, 95 Oktan Kurşunsuz: 54.86, Fuel Oil 4: 30.80, Fuel Oil 3: 26.34, Fuel Oil 6(Yüksek kükürt): 23.74

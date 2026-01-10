@@ -1,0 +1,8 @@
+AGRI: Motorin: 56.09, Motorin Performans +: 56.09, 95 Oktan Kurşunsuz: 55.44, Fuel Oil 4: 30.91, Fuel Oil 3: 26.34, Fuel Oil 6(Yüksek kükürt): 23.74
+DIYADIN: Motorin: 56.09, Motorin Performans +: 56.09, 95 Oktan Kurşunsuz: 55.44, Fuel Oil 4: 30.91, Fuel Oil 3: 26.34, Fuel Oil 6(Yüksek kükürt): 23.74
+DOGUBEYAZIT: Motorin: 56.09, Motorin Performans +: 56.09, 95 Oktan Kurşunsuz: 55.44, Fuel Oil 4: 30.91, Fuel Oil 3: 26.34, Fuel Oil 6(Yüksek kükürt): 23.74
+ELESKIRT: Motorin: 56.09, Motorin Performans +: 56.09, 95 Oktan Kurşunsuz: 55.44, Fuel Oil 4: 30.91, Fuel Oil 3: 26.34, Fuel Oil 6(Yüksek kükürt): 23.74
+HAMUR: Motorin: 56.09, Motorin Performans +: 56.09, 95 Oktan Kurşunsuz: 55.44, Fuel Oil 4: 30.91, Fuel Oil 3: 26.34, Fuel Oil 6(Yüksek kükürt): 23.74
+PATNOS: Motorin: 56.09, Motorin Performans +: 56.09, 95 Oktan Kurşunsuz: 55.44, Fuel Oil 4: 30.91, Fuel Oil 3: 26.34, Fuel Oil 6(Yüksek kükürt): 23.74
+TASLICAY: Motorin: 56.09, Motorin Performans +: 56.09, 95 Oktan Kurşunsuz: 55.44, Fuel Oil 4: 30.91, Fuel Oil 3: 26.34, Fuel Oil 6(Yüksek kükürt): 23.74
+TUTAK: Motorin: 56.09, Motorin Performans +: 56.09, 95 Oktan Kurşunsuz: 55.44, Fuel Oil 4: 30.79, Fuel Oil 3: 26.40, Fuel Oil 6(Yüksek kükürt): 23.80

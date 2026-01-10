@@ -1,0 +1,12 @@
+AYVACIK: Motorin: 55.34, Motorin Performans +: 55.34, 95 Oktan Kurşunsuz: 54.69, Fuel Oil 4: 30.80, Fuel Oil 3: 26.29, Fuel Oil 6(Yüksek kükürt): 23.69
+BAYRAMIC: Motorin: 55.34, Motorin Performans +: 55.34, 95 Oktan Kurşunsuz: 54.69, Fuel Oil 4: 30.80, Fuel Oil 3: 26.29, Fuel Oil 6(Yüksek kükürt): 23.69
+BIGA: Motorin: 55.34, Motorin Performans +: 55.34, 95 Oktan Kurşunsuz: 54.69, Fuel Oil 4: 30.80, Fuel Oil 3: 26.28, Fuel Oil 6(Yüksek kükürt): 23.68
+BOZCAADA: Motorin: 56.38, Motorin Performans +: 56.38, 95 Oktan Kurşunsuz: 55.66, Fuel Oil 4: 30.79, Fuel Oil 3: 26.27, Fuel Oil 6(Yüksek kükürt): 23.67
+CAN: Motorin: 55.34, Motorin Performans +: 55.34, 95 Oktan Kurşunsuz: 54.69, Fuel Oil 4: 30.81, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+CANAKKALE: Motorin: 55.34, Motorin Performans +: 55.34, 95 Oktan Kurşunsuz: 54.69, Fuel Oil 4: 30.79, Fuel Oil 3: 26.28, Fuel Oil 6(Yüksek kükürt): 23.68
+ECEABAT: Motorin: 55.39, Motorin Performans +: 55.39, 95 Oktan Kurşunsuz: 54.74, Fuel Oil 4: 30.92, Fuel Oil 3: 26.34, Fuel Oil 6(Yüksek kükürt): 23.74
+EZINE: Motorin: 55.34, Motorin Performans +: 55.34, 95 Oktan Kurşunsuz: 54.69, Fuel Oil 4: 30.92, Fuel Oil 3: 26.34, Fuel Oil 6(Yüksek kükürt): 23.74
+GELIBOLU: Motorin: 55.39, Motorin Performans +: 55.39, 95 Oktan Kurşunsuz: 54.74, Fuel Oil 4: 30.80, Fuel Oil 3: 26.28, Fuel Oil 6(Yüksek kükürt): 23.68
+GOKCEADA: Motorin: 56.74, Motorin Performans +: 56.74, 95 Oktan Kurşunsuz: 56.02, Fuel Oil 4: 30.79, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+LAPSEKI: Motorin: 55.34, Motorin Performans +: 55.34, 95 Oktan Kurşunsuz: 54.69, Fuel Oil 4: 30.79, Fuel Oil 3: 26.28, Fuel Oil 6(Yüksek kükürt): 23.68
+YENICE: Motorin: 55.34, Motorin Performans +: 55.34, 95 Oktan Kurşunsuz: 54.69, Fuel Oil 4: 30.80, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82

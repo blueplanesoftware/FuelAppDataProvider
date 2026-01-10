@@ -1,0 +1,7 @@
+AKCAKENT: Motorin: 54.99, Motorin Performans +: 54.99, 95 Oktan Kurşunsuz: 54.33, Fuel Oil 4: 30.82, Fuel Oil 3: 26.35, Fuel Oil 6(Yüksek kükürt): 23.75
+AKPINAR: Motorin: 54.99, Motorin Performans +: 54.99, 95 Oktan Kurşunsuz: 54.33, Fuel Oil 4: 30.82, Fuel Oil 3: 26.36, Fuel Oil 6(Yüksek kükürt): 23.76
+BOZTEPE: Motorin: 54.99, Motorin Performans +: 54.99, 95 Oktan Kurşunsuz: 54.33, Fuel Oil 4: 30.82, Fuel Oil 3: 26.34, Fuel Oil 6(Yüksek kükürt): 23.74
+CICEKDAGI: Motorin: 54.99, Motorin Performans +: 54.99, 95 Oktan Kurşunsuz: 54.33, Fuel Oil 4: 30.77, Fuel Oil 3: 26.26, Fuel Oil 6(Yüksek kükürt): 23.66
+KAMAN: Motorin: 54.99, Motorin Performans +: 54.99, 95 Oktan Kurşunsuz: 54.33, Fuel Oil 4: 30.82, Fuel Oil 3: 26.40, Fuel Oil 6(Yüksek kükürt): 23.80
+KIRSEHIR: Motorin: 54.99, Motorin Performans +: 54.99, 95 Oktan Kurşunsuz: 54.33, Fuel Oil 4: 30.83, Fuel Oil 3: 26.35, Fuel Oil 6(Yüksek kükürt): 23.75
+MUCUR: Motorin: 54.99, Motorin Performans +: 54.99, 95 Oktan Kurşunsuz: 54.33, Fuel Oil 4: 30.83, Fuel Oil 3: 26.35, Fuel Oil 6(Yüksek kükürt): 23.75

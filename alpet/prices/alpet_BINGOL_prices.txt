@@ -1,0 +1,8 @@
+ADAKLI: Motorin: 56.15, Motorin Performans +: 56.15, 95 Oktan Kurşunsuz: 55.45, Fuel Oil 4: 30.79, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+BINGOL: Motorin: 56.15, Motorin Performans +: 56.15, 95 Oktan Kurşunsuz: 55.45, Fuel Oil 4: 30.90, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91
+GENC: Motorin: 56.15, Motorin Performans +: 56.15, 95 Oktan Kurşunsuz: 55.45, Fuel Oil 4: 30.91, Fuel Oil 3: 26.52, Fuel Oil 6(Yüksek kükürt): 23.92
+KARLIOVA: Motorin: 56.15, Motorin Performans +: 56.15, 95 Oktan Kurşunsuz: 55.45, Fuel Oil 4: 30.91, Fuel Oil 3: 26.52, Fuel Oil 6(Yüksek kükürt): 23.92
+KIGI: Motorin: 56.15, Motorin Performans +: 56.15, 95 Oktan Kurşunsuz: 55.45, Fuel Oil 4: 30.90, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91
+SOLHAN: Motorin: 56.15, Motorin Performans +: 56.15, 95 Oktan Kurşunsuz: 55.45, Fuel Oil 4: 30.90, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91
+YAYLADERE: Motorin: 56.15, Motorin Performans +: 56.15, 95 Oktan Kurşunsuz: 55.45, Fuel Oil 4: 30.90, Fuel Oil 3: 26.51, Fuel Oil 6(Yüksek kükürt): 23.91
+YEDISU: Motorin: 56.15, Motorin Performans +: 56.15, 95 Oktan Kurşunsuz: 55.45, Fuel Oil 4: 30.93, Fuel Oil 3: 26.55, Fuel Oil 6(Yüksek kükürt): 23.95

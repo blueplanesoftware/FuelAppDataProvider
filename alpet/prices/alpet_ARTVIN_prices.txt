@@ -1,0 +1,9 @@
+ARDANUC: Motorin: 55.58, Motorin Performans +: 55.58, 95 Oktan Kurşunsuz: 54.93, Fuel Oil 4: 30.88, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+ARHAVI: Motorin: 55.58, Motorin Performans +: 55.58, 95 Oktan Kurşunsuz: 54.93, Fuel Oil 4: 30.88, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+ARTVIN: Motorin: 55.58, Motorin Performans +: 55.58, 95 Oktan Kurşunsuz: 54.93, Fuel Oil 4: 30.88, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+BORCKA: Motorin: 55.58, Motorin Performans +: 55.58, 95 Oktan Kurşunsuz: 54.93, Fuel Oil 4: 30.88, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+CAKMAKKAYA: Motorin: 55.58, Motorin Performans +: 55.58, 95 Oktan Kurşunsuz: 54.93, Fuel Oil 4: 30.88, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+HOPA: Motorin: 55.58, Motorin Performans +: 55.58, 95 Oktan Kurşunsuz: 54.93, Fuel Oil 4: 30.88, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+MURGUL: Motorin: 55.58, Motorin Performans +: 55.58, 95 Oktan Kurşunsuz: 54.93, Fuel Oil 4: 30.88, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84
+SAVSAT: Motorin: 55.58, Motorin Performans +: 55.58, 95 Oktan Kurşunsuz: 54.93, Fuel Oil 4: 30.79, Fuel Oil 3: 26.41, Fuel Oil 6(Yüksek kükürt): 23.81
+YUSUFELI: Motorin: 55.58, Motorin Performans +: 55.58, 95 Oktan Kurşunsuz: 54.93, Fuel Oil 4: 30.88, Fuel Oil 3: 26.44, Fuel Oil 6(Yüksek kükürt): 23.84

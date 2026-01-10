@@ -1,0 +1,8 @@
+ALAPLI: Motorin: 54.76, Motorin Performans +: 54.76, 95 Oktan Kurşunsuz: 54.31, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+CAYCUMA: Motorin: 54.76, Motorin Performans +: 54.76, 95 Oktan Kurşunsuz: 54.31, Fuel Oil 4: 30.92, Fuel Oil 3: 26.34, Fuel Oil 6(Yüksek kükürt): 23.74
+DEVREK: Motorin: 54.76, Motorin Performans +: 54.76, 95 Oktan Kurşunsuz: 54.31, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+GOKCEBEY: Motorin: 54.76, Motorin Performans +: 54.76, 95 Oktan Kurşunsuz: 54.31, Fuel Oil 4: 30.79, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+KARAD.EREGLI: Motorin: 54.76, Motorin Performans +: 54.76, 95 Oktan Kurşunsuz: 54.31, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+KILIMLI: Motorin: 54.76, Motorin Performans +: 54.76, 95 Oktan Kurşunsuz: 54.31, Fuel Oil 4: 30.79, Fuel Oil 3: 26.27, Fuel Oil 6(Yüksek kükürt): 23.67
+KOZLU: Motorin: 54.76, Motorin Performans +: 54.76, 95 Oktan Kurşunsuz: 54.31, Fuel Oil 4: 30.80, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+ZONGULDAK: Motorin: 54.76, Motorin Performans +: 54.76, 95 Oktan Kurşunsuz: 54.31, Fuel Oil 4: 30.79, Fuel Oil 3: 26.27, Fuel Oil 6(Yüksek kükürt): 23.67

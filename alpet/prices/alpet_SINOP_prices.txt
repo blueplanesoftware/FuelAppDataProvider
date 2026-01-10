@@ -1,0 +1,9 @@
+AYANCIK: Motorin: 55.34, Motorin Performans +: 55.34, 95 Oktan Kurşunsuz: 54.70, Fuel Oil 4: 30.82, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+BOYABAT: Motorin: 55.34, Motorin Performans +: 55.34, 95 Oktan Kurşunsuz: 54.70, Fuel Oil 4: 30.83, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+DIKMEN: Motorin: 55.34, Motorin Performans +: 55.34, 95 Oktan Kurşunsuz: 54.70, Fuel Oil 4: 30.83, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+DURAGAN: Motorin: 55.34, Motorin Performans +: 55.34, 95 Oktan Kurşunsuz: 54.70, Fuel Oil 4: 30.83, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+ERFELEK: Motorin: 55.34, Motorin Performans +: 55.34, 95 Oktan Kurşunsuz: 54.70, Fuel Oil 4: 30.82, Fuel Oil 3: 26.43, Fuel Oil 6(Yüksek kükürt): 23.83
+GERZE: Motorin: 55.34, Motorin Performans +: 55.34, 95 Oktan Kurşunsuz: 54.70, Fuel Oil 4: 30.82, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+SARAYDUZU: Motorin: 55.34, Motorin Performans +: 55.34, 95 Oktan Kurşunsuz: 54.70, Fuel Oil 4: 30.85, Fuel Oil 3: 26.49, Fuel Oil 6(Yüksek kükürt): 23.89
+SINOP: Motorin: 55.34, Motorin Performans +: 55.34, 95 Oktan Kurşunsuz: 54.70, Fuel Oil 4: 30.82, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+TURKELI: Motorin: 55.34, Motorin Performans +: 55.34, 95 Oktan Kurşunsuz: 54.70, Fuel Oil 4: 30.85, Fuel Oil 3: 26.47, Fuel Oil 6(Yüksek kükürt): 23.87

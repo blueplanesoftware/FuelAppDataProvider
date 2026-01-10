@@ -1,0 +1,8 @@
+BILECIK: Motorin: 54.45, Motorin Performans +: 54.45, 95 Oktan Kurşunsuz: 54.00, Fuel Oil 4: 30.78, Fuel Oil 3: 26.40, Fuel Oil 6(Yüksek kükürt): 23.80
+BOZUYUK: Motorin: 54.45, Motorin Performans +: 54.45, 95 Oktan Kurşunsuz: 54.00, Fuel Oil 4: 30.79, Fuel Oil 3: 26.41, Fuel Oil 6(Yüksek kükürt): 23.81
+GOLPAZARI: Motorin: 54.45, Motorin Performans +: 54.45, 95 Oktan Kurşunsuz: 54.00, Fuel Oil 4: 30.79, Fuel Oil 3: 26.40, Fuel Oil 6(Yüksek kükürt): 23.80
+INHISAR: Motorin: 54.45, Motorin Performans +: 54.45, 95 Oktan Kurşunsuz: 54.00, Fuel Oil 4: 30.79, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+OSMANELI: Motorin: 54.45, Motorin Performans +: 54.45, 95 Oktan Kurşunsuz: 54.00, Fuel Oil 4: 30.79, Fuel Oil 3: 26.41, Fuel Oil 6(Yüksek kükürt): 23.81
+PAZARYERI: Motorin: 54.45, Motorin Performans +: 54.45, 95 Oktan Kurşunsuz: 54.00, Fuel Oil 4: 30.79, Fuel Oil 3: 26.41, Fuel Oil 6(Yüksek kükürt): 23.81
+SOGUT: Motorin: 54.45, Motorin Performans +: 54.45, 95 Oktan Kurşunsuz: 54.00, Fuel Oil 4: 30.79, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
+YENIPAZAR: Motorin: 54.45, Motorin Performans +: 54.45, 95 Oktan Kurşunsuz: 54.00, Fuel Oil 4: 30.79, Fuel Oil 3: 26.42, Fuel Oil 6(Yüksek kükürt): 23.82
