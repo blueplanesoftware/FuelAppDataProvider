@@ -1,0 +1,14 @@
+ISPARTA
+MERKEZ | Benzin: 54.07 ₺ | Motorin: 55.92 ₺
+AKSU | Benzin: 54.07 ₺ | Motorin: 55.92 ₺
+ATABEY | Benzin: 54.07 ₺ | Motorin: 55.92 ₺
+EGIRDIR | Benzin: 54.07 ₺ | Motorin: 55.92 ₺
+GÖNEN | Benzin: 54.07 ₺ | Motorin: 55.92 ₺
+GELENDOST | Benzin: 54.07 ₺ | Motorin: 55.92 ₺
+KEÇIBORLU | Benzin: 54.07 ₺ | Motorin: 55.92 ₺
+SARKIKARAAGAÇ | Benzin: 54.07 ₺ | Motorin: 55.92 ₺
+SÜTÇÜLER | Benzin: 54.07 ₺ | Motorin: 55.92 ₺
+SENIRKENT | Benzin: 54.07 ₺ | Motorin: 55.92 ₺
+ULUBORLU | Benzin: 54.07 ₺ | Motorin: 55.92 ₺
+YALVAÇ | Benzin: 54.07 ₺ | Motorin: 55.92 ₺
+YENISARBADEMLI | Benzin: 54.07 ₺ | Motorin: 55.92 ₺

@@ -1,0 +1,22 @@
+ERZURUM
+MERKEZ | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+ASKALE | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+AZİZİYE | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+ÇAT | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+HINIS | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+HORASAN | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+ISPIR | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+KARAÇOBAN | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+KARAYAZI | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+KÖPRÜKÖY | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+NARMAN | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+OLTU | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+OLUR | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+PALANDÖKEN | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+PASINLER | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+PAZARYOLU | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+SENKAYA | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+TEKMAN | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+TORTUM | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+UZUNDERE | Benzin: 54.07 ₺ | Motorin: 55.83 ₺
+YAKUTİYE | Benzin: 54.07 ₺ | Motorin: 55.83 ₺

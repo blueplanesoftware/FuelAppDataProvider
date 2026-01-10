@@ -1,0 +1,11 @@
+GAZIANTEP
+MERKEZ | Benzin: 53.98 ₺ | Motorin: 55.76 ₺
+ARABAN | Benzin: 53.98 ₺ | Motorin: 55.76 ₺
+ISLAHIYE | Benzin: 53.98 ₺ | Motorin: 55.76 ₺
+KARKAMIS | Benzin: 53.98 ₺ | Motorin: 55.76 ₺
+NIZIP | Benzin: 53.98 ₺ | Motorin: 55.76 ₺
+NURDAG | Benzin: 53.98 ₺ | Motorin: 55.76 ₺
+OGUZELI | Benzin: 53.98 ₺ | Motorin: 55.76 ₺
+SAHINBEY | Benzin: 53.98 ₺ | Motorin: 55.76 ₺
+SEHITKAMIL | Benzin: 53.98 ₺ | Motorin: 55.76 ₺
+YAVUZELI | Benzin: 53.98 ₺ | Motorin: 55.76 ₺

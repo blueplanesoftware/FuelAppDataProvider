@@ -1,0 +1,19 @@
+SAMSUN
+MERKEZ | Benzin: 53.58 ₺ | Motorin: 55.33 ₺
+ALAÇAM | Benzin: 53.58 ₺ | Motorin: 55.33 ₺
+ASARCIK | Benzin: 53.58 ₺ | Motorin: 55.33 ₺
+ATAKUM | Benzin: 53.58 ₺ | Motorin: 55.33 ₺
+AYVACIK | Benzin: 53.58 ₺ | Motorin: 55.33 ₺
+İLKADIM | Benzin: 53.58 ₺ | Motorin: 55.33 ₺
+ÇARSAMBA | Benzin: 53.58 ₺ | Motorin: 55.33 ₺
+BAFRA | Benzin: 53.58 ₺ | Motorin: 55.33 ₺
+CANİK | Benzin: 53.58 ₺ | Motorin: 55.33 ₺
+HAVZA | Benzin: 53.58 ₺ | Motorin: 55.33 ₺
+KAVAK | Benzin: 53.58 ₺ | Motorin: 55.33 ₺
+LADIK | Benzin: 53.58 ₺ | Motorin: 55.33 ₺
+ONDOKUZMAYIS | Benzin: 53.58 ₺ | Motorin: 55.33 ₺
+SALIPAZARI | Benzin: 53.58 ₺ | Motorin: 55.33 ₺
+TEKKEKÖY | Benzin: 53.58 ₺ | Motorin: 55.33 ₺
+TERME | Benzin: 53.58 ₺ | Motorin: 55.33 ₺
+VEZIRKÖPRÜ | Benzin: 53.58 ₺ | Motorin: 55.33 ₺
+YAKAKENT | Benzin: 53.58 ₺ | Motorin: 55.33 ₺

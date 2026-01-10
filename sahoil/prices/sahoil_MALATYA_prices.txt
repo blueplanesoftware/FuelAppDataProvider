@@ -1,0 +1,15 @@
+MALATYA
+MERKEZ | Benzin: 54.18 ₺ | Motorin: 55.96 ₺
+AKÇADAG | Benzin: 54.18 ₺ | Motorin: 55.96 ₺
+ARAPGIR | Benzin: 54.18 ₺ | Motorin: 55.96 ₺
+ARGUVAN | Benzin: 54.18 ₺ | Motorin: 55.96 ₺
+BATTALGAZI | Benzin: 54.18 ₺ | Motorin: 55.96 ₺
+DARENDE | Benzin: 54.18 ₺ | Motorin: 55.96 ₺
+DOGANSEHIR | Benzin: 54.18 ₺ | Motorin: 55.96 ₺
+DOGANYOL | Benzin: 54.18 ₺ | Motorin: 55.96 ₺
+HEKIMHAN | Benzin: 54.18 ₺ | Motorin: 55.96 ₺
+KALE | Benzin: 54.18 ₺ | Motorin: 55.96 ₺
+KULUNCAK | Benzin: 54.18 ₺ | Motorin: 55.96 ₺
+PÖTÜRGE | Benzin: 54.18 ₺ | Motorin: 55.96 ₺
+YAZIHAN | Benzin: 54.18 ₺ | Motorin: 55.96 ₺
+YESILYURT | Benzin: 54.18 ₺ | Motorin: 55.96 ₺

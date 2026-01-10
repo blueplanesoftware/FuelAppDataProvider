@@ -1,0 +1,13 @@
+CANAKKALE
+MERKEZ | Benzin: 55.12 ₺ | Motorin: 56.88 ₺
+AYVACIK | Benzin: 55.12 ₺ | Motorin: 56.88 ₺
+ÇAN | Benzin: 55.12 ₺ | Motorin: 56.88 ₺
+BAYRAMIÇ | Benzin: 55.12 ₺ | Motorin: 56.88 ₺
+BIGA | Benzin: 55.12 ₺ | Motorin: 56.88 ₺
+BOZCAADA | Benzin: 55.12 ₺ | Motorin: 56.88 ₺
+ECEABAT | Benzin: 55.12 ₺ | Motorin: 56.88 ₺
+EZINE | Benzin: 55.12 ₺ | Motorin: 56.88 ₺
+GÖKÇEADA | Benzin: 55.12 ₺ | Motorin: 56.88 ₺
+GELIBOLU | Benzin: 55.12 ₺ | Motorin: 56.88 ₺
+LAPSEKI | Benzin: 55.12 ₺ | Motorin: 56.88 ₺
+YENICE | Benzin: 55.12 ₺ | Motorin: 56.88 ₺

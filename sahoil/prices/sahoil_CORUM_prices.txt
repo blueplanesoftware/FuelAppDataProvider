@@ -1,0 +1,15 @@
+CORUM
+MERKEZ | Benzin: 53.59 ₺ | Motorin: 55.35 ₺
+ALACA | Benzin: 53.59 ₺ | Motorin: 55.35 ₺
+BAYAT | Benzin: 53.59 ₺ | Motorin: 55.35 ₺
+BOGAZKALE | Benzin: 53.59 ₺ | Motorin: 55.35 ₺
+DODURGA | Benzin: 53.59 ₺ | Motorin: 55.35 ₺
+ISKILIP | Benzin: 53.59 ₺ | Motorin: 55.35 ₺
+KARGI | Benzin: 53.59 ₺ | Motorin: 55.35 ₺
+LAÇIN | Benzin: 53.59 ₺ | Motorin: 55.35 ₺
+MECITÖZÜ | Benzin: 53.59 ₺ | Motorin: 55.35 ₺
+OGUZLAR | Benzin: 53.59 ₺ | Motorin: 55.35 ₺
+ORTAKÖY | Benzin: 53.59 ₺ | Motorin: 55.35 ₺
+OSMANCIK | Benzin: 53.59 ₺ | Motorin: 55.35 ₺
+SUNGURLU | Benzin: 53.59 ₺ | Motorin: 55.35 ₺
+UGURLUDAG | Benzin: 53.59 ₺ | Motorin: 55.35 ₺

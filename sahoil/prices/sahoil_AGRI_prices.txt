@@ -1,0 +1,9 @@
+AGRI
+MERKEZ | Benzin: 54.33 ₺ | Motorin: 56.09 ₺
+DIYADIN | Benzin: 54.33 ₺ | Motorin: 56.09 ₺
+DOGUBAYAZIT | Benzin: 54.33 ₺ | Motorin: 56.09 ₺
+ELESKIRT | Benzin: 54.33 ₺ | Motorin: 56.09 ₺
+HAMUR | Benzin: 54.33 ₺ | Motorin: 56.09 ₺
+PATNOS | Benzin: 54.33 ₺ | Motorin: 56.09 ₺
+TASLIÇAY | Benzin: 54.33 ₺ | Motorin: 56.09 ₺
+TUTAK | Benzin: 54.33 ₺ | Motorin: 56.09 ₺

@@ -1,0 +1,19 @@
+AFYON
+MERKEZ | Benzin: 54.08 ₺ | Motorin: 55.93 ₺
+ÇAY | Benzin: 54.08 ₺ | Motorin: 55.93 ₺
+ÇOBANLAR | Benzin: 54.08 ₺ | Motorin: 55.93 ₺
+BASMAKÇI | Benzin: 54.08 ₺ | Motorin: 55.93 ₺
+BAYAT | Benzin: 54.08 ₺ | Motorin: 55.93 ₺
+BOLVADIN | Benzin: 54.08 ₺ | Motorin: 55.93 ₺
+DAZKIRI | Benzin: 54.08 ₺ | Motorin: 55.93 ₺
+DINAR | Benzin: 54.08 ₺ | Motorin: 55.93 ₺
+EMIRDAG | Benzin: 54.08 ₺ | Motorin: 55.93 ₺
+EVCILER | Benzin: 54.08 ₺ | Motorin: 55.93 ₺
+HOCALAR | Benzin: 54.08 ₺ | Motorin: 55.93 ₺
+IHSANIYE | Benzin: 54.08 ₺ | Motorin: 55.93 ₺
+ISCEHISAR | Benzin: 54.08 ₺ | Motorin: 55.93 ₺
+KIZILÖREN | Benzin: 54.08 ₺ | Motorin: 55.93 ₺
+SANDIKLI | Benzin: 54.08 ₺ | Motorin: 55.93 ₺
+SİNANPAŞA | Benzin: 54.08 ₺ | Motorin: 55.93 ₺
+SUHUT | Benzin: 54.08 ₺ | Motorin: 55.93 ₺
+SULTANDAGI | Benzin: 54.08 ₺ | Motorin: 55.93 ₺

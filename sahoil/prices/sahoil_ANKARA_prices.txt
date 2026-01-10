@@ -1,0 +1,27 @@
+ANKARA
+MERKEZ | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+AKYURT | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+ALTINDAG | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+AYAS | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+ŞEREFLİKOÇHİSAR | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+ÇAMLIDERE | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+ÇANKAYA | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+ÇUBUK | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+BALA | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+BEYPAZARI | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+ELMADAG | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+ETIMESGUT | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+EVREN | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+GÜDÜL | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+GÖLBAŞI | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+HAYMANA | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+KALECIK | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+KAZAN | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+KEÇİÖREN | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+KIZILCAHAMAM | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+MAMAK | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+NALLIHAN | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+POLATLI | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+PURSAKLAR | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+SINCAN | Benzin: 52.94 ₺ | Motorin: 54.70 ₺
+YENIMAHALLE | Benzin: 52.94 ₺ | Motorin: 54.70 ₺

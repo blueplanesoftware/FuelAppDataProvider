@@ -1,0 +1,13 @@
+TOKAT
+MERKEZ | Benzin: 53.66 ₺ | Motorin: 55.41 ₺
+ALMUS | Benzin: 53.66 ₺ | Motorin: 55.41 ₺
+ARTOVA | Benzin: 53.66 ₺ | Motorin: 55.41 ₺
+BASÇIFTLIK | Benzin: 53.66 ₺ | Motorin: 55.41 ₺
+ERBAA | Benzin: 53.66 ₺ | Motorin: 55.41 ₺
+NIKSAR | Benzin: 53.66 ₺ | Motorin: 55.41 ₺
+PAZAR | Benzin: 53.66 ₺ | Motorin: 55.41 ₺
+RESADIYE | Benzin: 53.66 ₺ | Motorin: 55.41 ₺
+SULUSARAY | Benzin: 53.66 ₺ | Motorin: 55.41 ₺
+TURHAL | Benzin: 53.66 ₺ | Motorin: 55.41 ₺
+YESILYURT | Benzin: 53.66 ₺ | Motorin: 55.41 ₺
+ZILE | Benzin: 53.66 ₺ | Motorin: 55.41 ₺

@@ -1,0 +1,10 @@
+BOLU
+MERKEZ | Benzin: 53.08 ₺ | Motorin: 54.64 ₺
+DÖRTDIVAN | Benzin: 53.08 ₺ | Motorin: 54.64 ₺
+GÖYNÜK | Benzin: 53.08 ₺ | Motorin: 54.64 ₺
+GEREDE | Benzin: 53.08 ₺ | Motorin: 54.64 ₺
+KIBRISCIK | Benzin: 53.08 ₺ | Motorin: 54.64 ₺
+MENGEN | Benzin: 53.08 ₺ | Motorin: 54.64 ₺
+MUDURNU | Benzin: 53.08 ₺ | Motorin: 54.64 ₺
+SEBEN | Benzin: 53.08 ₺ | Motorin: 54.64 ₺
+YENIÇAGA | Benzin: 53.08 ₺ | Motorin: 54.64 ₺

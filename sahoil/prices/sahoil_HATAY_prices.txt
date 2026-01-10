@@ -1,0 +1,17 @@
+HATAY
+MERKEZ | Benzin: 53.70 ₺ | Motorin: 55.48 ₺
+ALTINÖZÜ | Benzin: 53.70 ₺ | Motorin: 55.48 ₺
+ANTAKYA | Benzin: 53.70 ₺ | Motorin: 55.48 ₺
+ARSUZ | Benzin: 53.70 ₺ | Motorin: 55.48 ₺
+BELEN | Benzin: 53.70 ₺ | Motorin: 55.48 ₺
+DÖRTYOL | Benzin: 53.70 ₺ | Motorin: 55.48 ₺
+DEFNE | Benzin: 53.70 ₺ | Motorin: 55.48 ₺
+ERZIN | Benzin: 53.70 ₺ | Motorin: 55.48 ₺
+HASSA | Benzin: 53.70 ₺ | Motorin: 55.48 ₺
+ISKENDERUN | Benzin: 53.70 ₺ | Motorin: 55.48 ₺
+KIRIKHAN | Benzin: 53.70 ₺ | Motorin: 55.48 ₺
+KUMLU | Benzin: 53.70 ₺ | Motorin: 55.48 ₺
+PAYAS | Benzin: 53.70 ₺ | Motorin: 55.48 ₺
+REYHANLI | Benzin: 53.70 ₺ | Motorin: 55.48 ₺
+SAMANDAG | Benzin: 53.70 ₺ | Motorin: 55.48 ₺
+YAYLADAGI | Benzin: 53.70 ₺ | Motorin: 55.48 ₺

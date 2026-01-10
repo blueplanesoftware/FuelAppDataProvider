@@ -1,0 +1,9 @@
+KARS
+MERKEZ | Benzin: 54.09 ₺ | Motorin: 55.85 ₺
+AKYAKA | Benzin: 54.09 ₺ | Motorin: 55.85 ₺
+ARPAÇAY | Benzin: 54.09 ₺ | Motorin: 55.85 ₺
+DIGOR | Benzin: 54.09 ₺ | Motorin: 55.85 ₺
+KAGIZMAN | Benzin: 54.09 ₺ | Motorin: 55.85 ₺
+SARIKAMIS | Benzin: 54.09 ₺ | Motorin: 55.85 ₺
+SELIM | Benzin: 54.09 ₺ | Motorin: 55.85 ₺
+SUSUZ | Benzin: 54.09 ₺ | Motorin: 55.85 ₺

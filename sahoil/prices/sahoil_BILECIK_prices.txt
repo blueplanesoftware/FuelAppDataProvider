@@ -1,0 +1,9 @@
+BILECIK
+MERKEZ | Benzin: 52.97 ₺ | Motorin: 54.53 ₺
+BOZÜYÜK | Benzin: 52.97 ₺ | Motorin: 54.53 ₺
+GÖLPAZARI | Benzin: 52.97 ₺ | Motorin: 54.53 ₺
+INHISAR | Benzin: 52.97 ₺ | Motorin: 54.53 ₺
+OSMANELI | Benzin: 52.97 ₺ | Motorin: 54.53 ₺
+PAZARYERI | Benzin: 52.97 ₺ | Motorin: 54.53 ₺
+SÖĞÜT | Benzin: 52.97 ₺ | Motorin: 54.53 ₺
+YENIPAZAR | Benzin: 52.97 ₺ | Motorin: 54.53 ₺

@@ -1,0 +1,15 @@
+MUGLA
+MERKEZ | Benzin: 54.01 ₺ | Motorin: 55.77 ₺
+BODRUM | Benzin: 54.01 ₺ | Motorin: 55.77 ₺
+DALAMAN | Benzin: 54.01 ₺ | Motorin: 55.77 ₺
+DATÇA | Benzin: 54.01 ₺ | Motorin: 55.77 ₺
+FETHIYE | Benzin: 54.01 ₺ | Motorin: 55.77 ₺
+KAVAKLIDERE | Benzin: 54.01 ₺ | Motorin: 55.77 ₺
+KÖYCEGIZ | Benzin: 54.01 ₺ | Motorin: 55.77 ₺
+MARMARIS | Benzin: 54.01 ₺ | Motorin: 55.77 ₺
+MENTEŞE | Benzin: 54.01 ₺ | Motorin: 55.77 ₺
+MILAS | Benzin: 54.01 ₺ | Motorin: 55.77 ₺
+ORTACA | Benzin: 54.01 ₺ | Motorin: 55.77 ₺
+SEYDIKEMER | Benzin: 54.01 ₺ | Motorin: 55.77 ₺
+ULA | Benzin: 54.01 ₺ | Motorin: 55.77 ₺
+YATAGAN | Benzin: 54.01 ₺ | Motorin: 55.77 ₺

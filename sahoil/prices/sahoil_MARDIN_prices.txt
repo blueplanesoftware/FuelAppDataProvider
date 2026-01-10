@@ -1,0 +1,12 @@
+MARDIN
+MERKEZ | Benzin: 54.26 ₺ | Motorin: 56.07 ₺
+ARTUKLU | Benzin: 54.26 ₺ | Motorin: 56.07 ₺
+ÖMERLI | Benzin: 54.26 ₺ | Motorin: 56.07 ₺
+DARGEÇIT | Benzin: 54.26 ₺ | Motorin: 56.07 ₺
+DERIK | Benzin: 54.26 ₺ | Motorin: 56.07 ₺
+KIZILTEPE | Benzin: 54.26 ₺ | Motorin: 56.07 ₺
+MAZIDAGI | Benzin: 54.26 ₺ | Motorin: 56.07 ₺
+MIDYAT | Benzin: 54.26 ₺ | Motorin: 56.07 ₺
+NUSAYBIN | Benzin: 54.26 ₺ | Motorin: 56.07 ₺
+SAVUR | Benzin: 54.26 ₺ | Motorin: 56.07 ₺
+YESILLI | Benzin: 54.26 ₺ | Motorin: 56.07 ₺

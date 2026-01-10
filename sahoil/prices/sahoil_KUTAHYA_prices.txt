@@ -1,0 +1,14 @@
+KUTAHYA
+MERKEZ | Benzin: 53.95 ₺ | Motorin: 55.55 ₺
+ALTINTAS | Benzin: 53.95 ₺ | Motorin: 55.55 ₺
+ASLANAPA | Benzin: 53.95 ₺ | Motorin: 55.55 ₺
+ÇAVDARHISAR | Benzin: 53.95 ₺ | Motorin: 55.55 ₺
+DOMANIÇ | Benzin: 53.95 ₺ | Motorin: 55.55 ₺
+DUMLUPINAR | Benzin: 53.95 ₺ | Motorin: 55.55 ₺
+EMET | Benzin: 53.95 ₺ | Motorin: 55.55 ₺
+GEDIZ | Benzin: 53.95 ₺ | Motorin: 55.55 ₺
+HISARCIK | Benzin: 53.95 ₺ | Motorin: 55.55 ₺
+PAZARLAR | Benzin: 53.95 ₺ | Motorin: 55.55 ₺
+SAPHANE | Benzin: 53.95 ₺ | Motorin: 55.55 ₺
+SIMAV | Benzin: 53.95 ₺ | Motorin: 55.55 ₺
+TAVSANLI | Benzin: 53.95 ₺ | Motorin: 55.55 ₺

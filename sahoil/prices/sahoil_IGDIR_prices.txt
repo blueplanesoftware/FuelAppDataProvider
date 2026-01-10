@@ -1,0 +1,5 @@
+IGDIR
+MERKEZ | Benzin: 54.33 ₺ | Motorin: 56.09 ₺
+ARALIK | Benzin: 54.33 ₺ | Motorin: 56.09 ₺
+KARAKOYUNLU | Benzin: 54.33 ₺ | Motorin: 56.09 ₺
+TUZLUCA | Benzin: 54.33 ₺ | Motorin: 56.09 ₺

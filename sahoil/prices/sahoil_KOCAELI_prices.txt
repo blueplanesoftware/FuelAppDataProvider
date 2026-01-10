@@ -1,0 +1,14 @@
+KOCAELI
+MERKEZ | Benzin: 52.44 ₺ | Motorin: 54.00 ₺
+İZMİT | Benzin: 52.44 ₺ | Motorin: 54.00 ₺
+ÇAYIROVA | Benzin: 52.44 ₺ | Motorin: 54.00 ₺
+BAŞİSKELE | Benzin: 52.44 ₺ | Motorin: 54.00 ₺
+DARICA | Benzin: 52.44 ₺ | Motorin: 54.00 ₺
+DİLOVASI | Benzin: 52.44 ₺ | Motorin: 54.00 ₺
+DERINCE | Benzin: 52.44 ₺ | Motorin: 54.00 ₺
+GÖLCÜK | Benzin: 52.44 ₺ | Motorin: 54.00 ₺
+GEBZE | Benzin: 52.44 ₺ | Motorin: 54.00 ₺
+KANDIRA | Benzin: 52.44 ₺ | Motorin: 54.00 ₺
+KARAMÜRSEL | Benzin: 52.44 ₺ | Motorin: 54.00 ₺
+KARTEPE | Benzin: 52.44 ₺ | Motorin: 54.00 ₺
+KÖRFEZ | Benzin: 52.44 ₺ | Motorin: 54.00 ₺

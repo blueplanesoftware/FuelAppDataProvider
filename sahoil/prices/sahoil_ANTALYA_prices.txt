@@ -1,0 +1,21 @@
+ANTALYA
+MERKEZ | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+AKSEKI | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+AKSU | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+ALANYA | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+DÖŞEMEALTI | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+DEMRE | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+ELMALI | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+FINIKE | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+GAZIPASA | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+GÜNDOĞMUŞ | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+IBRADI | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+KAS | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+KEMER | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+KEPEZ | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+KONYAALTI | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+KORKUTELI | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+KUMLUCA | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+MANAVGAT | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+MURATPAŞA | Benzin: 54.20 ₺ | Motorin: 56.04 ₺
+SERIK | Benzin: 54.20 ₺ | Motorin: 56.04 ₺

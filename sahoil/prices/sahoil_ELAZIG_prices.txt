@@ -1,0 +1,12 @@
+ELAZIG
+MERKEZ | Benzin: 54.40 ₺ | Motorin: 56.21 ₺
+AGIN | Benzin: 54.40 ₺ | Motorin: 56.21 ₺
+ALACAKAYA | Benzin: 54.40 ₺ | Motorin: 56.21 ₺
+ARICAK | Benzin: 54.40 ₺ | Motorin: 56.21 ₺
+BASKIL | Benzin: 54.40 ₺ | Motorin: 56.21 ₺
+KARAKOÇAN | Benzin: 54.40 ₺ | Motorin: 56.21 ₺
+KEBAN | Benzin: 54.40 ₺ | Motorin: 56.21 ₺
+KOVANCILAR | Benzin: 54.40 ₺ | Motorin: 56.21 ₺
+MADEN | Benzin: 54.40 ₺ | Motorin: 56.21 ₺
+PALU | Benzin: 54.40 ₺ | Motorin: 56.21 ₺
+SIVRICE | Benzin: 54.40 ₺ | Motorin: 56.21 ₺

@@ -1,0 +1,21 @@
+KASTAMONU
+MERKEZ | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+ABANA | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+AGLI | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+ARAÇ | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+AZDAVAY | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+ÇATALZEYTIN | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+BOZKURT | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+CIDE | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+DADAY | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+DEVREKANI | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+DOGANYURT | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+HANÖNÜ | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+IHSANGAZI | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+INEBOLU | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+KÜRE | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+PINARBASI | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+SENPAZARI | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+SEYDILER | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+TASKÖPRÜ | Benzin: 53.68 ₺ | Motorin: 55.44 ₺
+TOSYA | Benzin: 53.68 ₺ | Motorin: 55.44 ₺

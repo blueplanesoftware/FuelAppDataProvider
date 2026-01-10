@@ -1,0 +1,9 @@
+DUZCE
+MERKEZ | Benzin: 52.90 ₺ | Motorin: 54.46 ₺
+AKÇAKOCA | Benzin: 52.90 ₺ | Motorin: 54.46 ₺
+ÇILIMLI | Benzin: 52.90 ₺ | Motorin: 54.46 ₺
+CUMAYERI | Benzin: 52.90 ₺ | Motorin: 54.46 ₺
+GÜMÜŞOVA | Benzin: 52.90 ₺ | Motorin: 54.46 ₺
+GÖLYAKA | Benzin: 52.90 ₺ | Motorin: 54.46 ₺
+KAYNASLI | Benzin: 52.90 ₺ | Motorin: 54.46 ₺
+YIGILCA | Benzin: 52.90 ₺ | Motorin: 54.46 ₺

@@ -1,0 +1,8 @@
+SIIRT
+MERKEZ | Benzin: 54.29 ₺ | Motorin: 56.10 ₺
+BAYKAN | Benzin: 54.29 ₺ | Motorin: 56.10 ₺
+ERUH | Benzin: 54.29 ₺ | Motorin: 56.10 ₺
+KURTALAN | Benzin: 54.29 ₺ | Motorin: 56.10 ₺
+PERVARI | Benzin: 54.29 ₺ | Motorin: 56.10 ₺
+SIRVAN | Benzin: 54.29 ₺ | Motorin: 56.10 ₺
+TİLLO | Benzin: 54.29 ₺ | Motorin: 56.10 ₺

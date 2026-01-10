@@ -1,0 +1,21 @@
+ORDU
+MERKEZ | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+AKKUS | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+ALTINORDU | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+AYBASTI | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+ÜNYE | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+ÇAMAS | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+ÇATALPINAR | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+ÇAYBASI | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+FATSA | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+GÜLKÖY | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+GÜLYALI | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+GÜRGENTEPE | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+IKIZCE | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+KABADÜZ | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+KABATAS | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+KORGAN | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+KUMRU | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+MESUDIYE | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+PERSEMBE | Benzin: 53.61 ₺ | Motorin: 55.36 ₺
+ULUBEY | Benzin: 53.61 ₺ | Motorin: 55.36 ₺

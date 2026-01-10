@@ -1,0 +1,8 @@
+SIRNAK
+MERKEZ | Benzin: 54.39 ₺ | Motorin: 56.20 ₺
+BEYTÜSSEBAP | Benzin: 54.39 ₺ | Motorin: 56.20 ₺
+CIZRE | Benzin: 54.39 ₺ | Motorin: 56.20 ₺
+GÜÇLÜKONAK | Benzin: 54.39 ₺ | Motorin: 56.20 ₺
+IDIL | Benzin: 54.39 ₺ | Motorin: 56.20 ₺
+SILOPI | Benzin: 54.39 ₺ | Motorin: 56.20 ₺
+ULUDERE | Benzin: 54.39 ₺ | Motorin: 56.20 ₺

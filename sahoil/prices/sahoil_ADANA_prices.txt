@@ -1,0 +1,17 @@
+ADANA
+MERKEZ | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+ALADAG | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+İMAMOĞLU | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+ÇUKUROVA | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+CEYHAN | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+FEKE | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+KARAISALI | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+KARATAS | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+KOZAN | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+POZANTI | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+SAIMBEYLI | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+SARICAM | Benzin: 53.83 ₺ | Motorin: 55.59 ₺
+SEYHAN | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+TUFANBEYLI | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+YÜREĞİR | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
+YUMURTALIK | Benzin: 53.84 ₺ | Motorin: 55.60 ₺
