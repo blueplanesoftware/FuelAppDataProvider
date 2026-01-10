@@ -1,0 +1,4 @@
+AMASRA: Kurşunsuz Benzin 95: 54.40, Motorin: 55.82, Gazyağı: 42.36, Fuel Oil: 26.37, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.82
+KURUCAŞİLE: Kurşunsuz Benzin 95: 54.40, Motorin: 55.83, Gazyağı: 42.37, Fuel Oil: 26.37, Yuksek Kukurtlu Fuel Oil: 22.57, Kalorifer Yakıtı: 30.82
+MERKEZ: Kurşunsuz Benzin 95: 54.39, Motorin: 55.81, Gazyağı: 42.36, Fuel Oil: 26.44, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.82
+ULUS: Kurşunsuz Benzin 95: 54.41, Motorin: 55.83, Gazyağı: 42.36, Fuel Oil: 26.37, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.82

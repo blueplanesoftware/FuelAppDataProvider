@@ -1,0 +1,7 @@
+GÖYNÜCEK: Kurşunsuz Benzin 95: 54.68, Motorin: 56.26, Gazyağı: 42.37, Fuel Oil: 26.44, Yuksek Kukurtlu Fuel Oil: 22.55, Kalorifer Yakıtı: 30.84
+GÜMÜŞHACIKÖY: Kurşunsuz Benzin 95: 54.68, Motorin: 56.26, Gazyağı: 42.38, Fuel Oil: 26.44, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.83
+HAMAMÖZÜ: Kurşunsuz Benzin 95: 54.68, Motorin: 56.27, Gazyağı: 42.37, Fuel Oil: 26.43, Yuksek Kukurtlu Fuel Oil: 22.55, Kalorifer Yakıtı: 30.83
+MERKEZ: Kurşunsuz Benzin 95: 54.67, Motorin: 56.26, Gazyağı: 42.37, Fuel Oil: 26.44, Yuksek Kukurtlu Fuel Oil: 22.55, Kalorifer Yakıtı: 30.83
+MERZİFON: Kurşunsuz Benzin 95: 54.67, Motorin: 56.26, Gazyağı: 42.37, Fuel Oil: 26.44, Yuksek Kukurtlu Fuel Oil: 22.55, Kalorifer Yakıtı: 30.83
+SULUOVA: Kurşunsuz Benzin 95: 54.67, Motorin: 56.26, Gazyağı: 42.38, Fuel Oil: 26.44, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.84
+TAŞOVA: Kurşunsuz Benzin 95: 54.68, Motorin: 56.27, Gazyağı: 42.38, Fuel Oil: 26.45, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.84

@@ -1,0 +1,6 @@
+ALTUNHİSAR: Kurşunsuz Benzin 95: 54.91, Motorin: 56.51, Gazyağı: 42.38, Fuel Oil: 26.49, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.85
+BOR: Kurşunsuz Benzin 95: 54.90, Motorin: 56.51, Gazyağı: 42.38, Fuel Oil: 26.49, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.85
+ÇAMARDI: Kurşunsuz Benzin 95: 54.91, Motorin: 56.50, Gazyağı: 42.38, Fuel Oil: 26.48, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.85
+ÇİFTLİK: Kurşunsuz Benzin 95: 54.91, Motorin: 56.51, Gazyağı: 42.38, Fuel Oil: 26.50, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.84
+MERKEZ: Kurşunsuz Benzin 95: 54.90, Motorin: 56.51, Gazyağı: 42.38, Fuel Oil: 26.49, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.85
+ULUKIŞLA: Kurşunsuz Benzin 95: 54.89, Motorin: 56.49, Gazyağı: 42.38, Fuel Oil: 26.48, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.85

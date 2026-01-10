@@ -1,0 +1,15 @@
+BAŞİSKELE: Kurşunsuz Benzin 95: 53.53, Motorin: 54.94, Gazyağı: 42.32, Fuel Oil: 26.27, Yuksek Kukurtlu Fuel Oil: 22.57, Kalorifer Yakıtı: 30.78
+ÇAYIROVA: Kurşunsuz Benzin 95: 53.53, Motorin: 54.94, Gazyağı: 42.33, Fuel Oil: 26.27, Yuksek Kukurtlu Fuel Oil: 22.58, Kalorifer Yakıtı: 30.78
+DARICA: Kurşunsuz Benzin 95: 53.53, Motorin: 54.94, Gazyağı: 42.33, Fuel Oil: 26.27, Yuksek Kukurtlu Fuel Oil: 22.58, Kalorifer Yakıtı: 30.78
+DERİNCE: Kurşunsuz Benzin 95: 53.52, Motorin: 54.93, Gazyağı: 42.32, Fuel Oil: 26.26, Yuksek Kukurtlu Fuel Oil: 22.57, Kalorifer Yakıtı: 30.78
+DİLOVASI: Kurşunsuz Benzin 95: 53.53, Motorin: 54.94, Gazyağı: 42.33, Fuel Oil: 26.27, Yuksek Kukurtlu Fuel Oil: 22.58, Kalorifer Yakıtı: 30.78
+GEBZE: Kurşunsuz Benzin 95: 53.53, Motorin: 54.94, Gazyağı: 42.33, Fuel Oil: 26.27, Yuksek Kukurtlu Fuel Oil: 22.58, Kalorifer Yakıtı: 30.78
+GÖLCÜK: Kurşunsuz Benzin 95: 53.53, Motorin: 54.94, Gazyağı: 42.32, Fuel Oil: 26.26, Yuksek Kukurtlu Fuel Oil: 22.57, Kalorifer Yakıtı: 30.78
+HEREKE: Kurşunsuz Benzin 95: 53.52, Motorin: 54.93, Gazyağı: 42.32, Fuel Oil: 26.26, Yuksek Kukurtlu Fuel Oil: 22.57, Kalorifer Yakıtı: 30.78
+İZMİT: Kurşunsuz Benzin 95: 53.52, Motorin: 54.93, Gazyağı: 42.32, Fuel Oil: 26.26, Yuksek Kukurtlu Fuel Oil: 22.57, Kalorifer Yakıtı: 30.78
+KANDIRA: Kurşunsuz Benzin 95: 53.53, Motorin: 54.94, Gazyağı: 42.32, Fuel Oil: 26.27, Yuksek Kukurtlu Fuel Oil: 22.57, Kalorifer Yakıtı: 30.79
+KARAMÜRSEL: Kurşunsuz Benzin 95: 53.53, Motorin: 54.94, Gazyağı: 42.33, Fuel Oil: 26.27, Yuksek Kukurtlu Fuel Oil: 22.58, Kalorifer Yakıtı: 30.79
+KARTEPE: Kurşunsuz Benzin 95: 53.53, Motorin: 54.94, Gazyağı: 42.32, Fuel Oil: 26.27, Yuksek Kukurtlu Fuel Oil: 22.57, Kalorifer Yakıtı: 30.78
+KÖRFEZ: Kurşunsuz Benzin 95: 53.52, Motorin: 54.93, Gazyağı: 42.32, Fuel Oil: 26.26, Yuksek Kukurtlu Fuel Oil: 22.57, Kalorifer Yakıtı: 30.78
+KÖSEKÖY: Kurşunsuz Benzin 95: 53.52, Motorin: 54.93, Gazyağı: 42.32, Fuel Oil: 26.26, Yuksek Kukurtlu Fuel Oil: 22.57, Kalorifer Yakıtı: 30.78
+MERKEZ: Kurşunsuz Benzin 95: 53.52, Motorin: 54.93, Gazyağı: 42.32, Fuel Oil: 26.39, Yuksek Kukurtlu Fuel Oil: 22.57, Kalorifer Yakıtı: 30.78

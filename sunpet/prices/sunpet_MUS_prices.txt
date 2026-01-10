@@ -1,0 +1,5 @@
+BULANIK: Kurşunsuz Benzin 95: 55.39, Motorin: 57.07, Gazyağı: 42.46, Fuel Oil: 26.59, Yuksek Kukurtlu Fuel Oil: 22.63, Kalorifer Yakıtı: 30.91
+KORKUT: Kurşunsuz Benzin 95: 55.39, Motorin: 57.06, Gazyağı: 42.46, Fuel Oil: 26.59, Yuksek Kukurtlu Fuel Oil: 22.63, Kalorifer Yakıtı: 30.91
+MALAZGİRT: Kurşunsuz Benzin 95: 55.40, Motorin: 57.07, Gazyağı: 42.46, Fuel Oil: 26.59, Yuksek Kukurtlu Fuel Oil: 22.63, Kalorifer Yakıtı: 30.91
+MERKEZ: Kurşunsuz Benzin 95: 55.39, Motorin: 57.06, Gazyağı: 42.46, Fuel Oil: 26.59, Yuksek Kukurtlu Fuel Oil: 22.63, Kalorifer Yakıtı: 30.91
+VARTO: Kurşunsuz Benzin 95: 55.40, Motorin: 57.07, Gazyağı: 42.45, Fuel Oil: 26.60, Yuksek Kukurtlu Fuel Oil: 22.62, Kalorifer Yakıtı: 30.90

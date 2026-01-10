@@ -1,0 +1,6 @@
+ALTINOVA: Kurşunsuz Benzin 95: 53.79, Motorin: 55.20, Gazyağı: 42.34, Fuel Oil: 26.39, Yuksek Kukurtlu Fuel Oil: 22.58, Kalorifer Yakıtı: 30.78
+ARMUTLU: Kurşunsuz Benzin 95: 53.80, Motorin: 55.21, Gazyağı: 42.35, Fuel Oil: 26.40, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.79
+ÇİFTLİKKÖY: Kurşunsuz Benzin 95: 53.80, Motorin: 55.21, Gazyağı: 42.34, Fuel Oil: 26.39, Yuksek Kukurtlu Fuel Oil: 22.58, Kalorifer Yakıtı: 30.79
+ÇINARCIK: Kurşunsuz Benzin 95: 53.79, Motorin: 55.20, Gazyağı: 42.34, Fuel Oil: 26.40, Yuksek Kukurtlu Fuel Oil: 22.58, Kalorifer Yakıtı: 30.79
+MERKEZ: Kurşunsuz Benzin 95: 53.80, Motorin: 55.21, Gazyağı: 42.34, Fuel Oil: 26.40, Yuksek Kukurtlu Fuel Oil: 22.58, Kalorifer Yakıtı: 30.79
+TERMAL: Kurşunsuz Benzin 95: 53.79, Motorin: 55.20, Gazyağı: 42.34, Fuel Oil: 26.40, Yuksek Kukurtlu Fuel Oil: 22.58, Kalorifer Yakıtı: 30.79

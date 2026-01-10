@@ -1,0 +1,6 @@
+EFLANİ: Kurşunsuz Benzin 95: 54.42, Motorin: 55.84, Gazyağı: 42.36, Fuel Oil: 26.45, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.82
+ESKİPAZAR: Kurşunsuz Benzin 95: 54.40, Motorin: 55.81, Gazyağı: 42.35, Fuel Oil: 26.44, Yuksek Kukurtlu Fuel Oil: 22.55, Kalorifer Yakıtı: 30.81
+MERKEZ: Kurşunsuz Benzin 95: 54.41, Motorin: 55.82, Gazyağı: 42.35, Fuel Oil: 26.44, Yuksek Kukurtlu Fuel Oil: 22.55, Kalorifer Yakıtı: 30.81
+OVACIK: Kurşunsuz Benzin 95: 54.41, Motorin: 55.82, Gazyağı: 42.35, Fuel Oil: 26.44, Yuksek Kukurtlu Fuel Oil: 22.55, Kalorifer Yakıtı: 30.81
+SAFRANBOLU: Kurşunsuz Benzin 95: 54.41, Motorin: 55.83, Gazyağı: 42.35, Fuel Oil: 26.44, Yuksek Kukurtlu Fuel Oil: 22.55, Kalorifer Yakıtı: 30.81
+YENİCE: Kurşunsuz Benzin 95: 54.41, Motorin: 55.82, Gazyağı: 42.36, Fuel Oil: 26.44, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.81

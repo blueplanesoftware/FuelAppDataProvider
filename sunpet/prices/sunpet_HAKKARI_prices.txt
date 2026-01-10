@@ -1,0 +1,4 @@
+ÇUKURCA: Kurşunsuz Benzin 95: 55.52, Motorin: 57.19, Fuel Oil: 26.74, Kalorifer Yakıtı: 31.10
+MERKEZ: Kurşunsuz Benzin 95: 55.47, Motorin: 57.14, Gazyağı: 42.51, Fuel Oil: 26.74, Yuksek Kukurtlu Fuel Oil: 22.81, Kalorifer Yakıtı: 31.10
+ŞEMDİNLİ: Kurşunsuz Benzin 95: 55.52, Motorin: 57.19, Fuel Oil: 26.74, Kalorifer Yakıtı: 31.11
+YÜKSEKOVA: Kurşunsuz Benzin 95: 55.47, Motorin: 57.14, Fuel Oil: 26.74, Kalorifer Yakıtı: 31.10

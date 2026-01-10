@@ -1,0 +1,14 @@
+AKÇADAĞ: Kurşunsuz Benzin 95: 55.25, Motorin: 56.87, Gazyağı: 42.40, Fuel Oil: 26.52, Yuksek Kukurtlu Fuel Oil: 22.58, Kalorifer Yakıtı: 30.88
+ARAPGİR: Kurşunsuz Benzin 95: 55.26, Motorin: 56.89, Gazyağı: 42.41, Fuel Oil: 26.55, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.88
+ARGUVAN: Kurşunsuz Benzin 95: 55.26, Motorin: 56.88, Gazyağı: 42.41, Fuel Oil: 26.53, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.88
+BATTALGAZİ: Kurşunsuz Benzin 95: 55.25, Motorin: 56.87, Gazyağı: 42.41, Fuel Oil: 26.52, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.88
+DARENDE: Kurşunsuz Benzin 95: 55.25, Motorin: 56.87, Gazyağı: 42.40, Fuel Oil: 26.52, Yuksek Kukurtlu Fuel Oil: 22.58, Kalorifer Yakıtı: 30.87
+DOĞANŞEHİR: Kurşunsuz Benzin 95: 55.23, Motorin: 56.86, Gazyağı: 42.41, Fuel Oil: 26.51, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.88
+DOĞANYOL: Kurşunsuz Benzin 95: 55.26, Motorin: 56.88, Gazyağı: 42.41, Fuel Oil: 26.54, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.89
+HEKİMHAN: Kurşunsuz Benzin 95: 55.26, Motorin: 56.88, Gazyağı: 42.41, Fuel Oil: 26.53, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.88
+KALE: Kurşunsuz Benzin 95: 55.25, Motorin: 56.88, Gazyağı: 42.41, Fuel Oil: 26.53, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.89
+KULUNCAK: Kurşunsuz Benzin 95: 55.25, Motorin: 56.88, Gazyağı: 42.40, Fuel Oil: 26.53, Yuksek Kukurtlu Fuel Oil: 22.58, Kalorifer Yakıtı: 30.87
+MERKEZ: Kurşunsuz Benzin 95: 55.25, Motorin: 56.87, Gazyağı: 42.41, Fuel Oil: 26.53, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.88
+PÜTÜRGE: Kurşunsuz Benzin 95: 55.26, Motorin: 56.88, Gazyağı: 42.41, Fuel Oil: 26.53, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.89
+YAZIHAN: Kurşunsuz Benzin 95: 55.24, Motorin: 56.86, Gazyağı: 42.41, Fuel Oil: 26.53, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.88
+YEŞİLYURT: Kurşunsuz Benzin 95: 55.25, Motorin: 56.87, Gazyağı: 42.41, Fuel Oil: 26.52, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.88

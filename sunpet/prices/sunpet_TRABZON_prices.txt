@@ -1,0 +1,16 @@
+AKÇAABAT: Kurşunsuz Benzin 95: 54.82, Motorin: 56.41, Fuel Oil: 26.42
+ARAKLI: Kurşunsuz Benzin 95: 54.83, Motorin: 56.43, Fuel Oil: 26.42
+ARSİN: Kurşunsuz Benzin 95: 54.82, Motorin: 56.41, Fuel Oil: 26.42
+BEŞİKDÜZÜ: Kurşunsuz Benzin 95: 54.82, Motorin: 56.41, Fuel Oil: 26.42
+ÇARŞIBAŞI: Kurşunsuz Benzin 95: 54.82, Motorin: 56.41, Fuel Oil: 26.42
+ÇAYKARA: Kurşunsuz Benzin 95: 54.83, Motorin: 56.42, Fuel Oil: 26.42
+DÜZKÖY: Kurşunsuz Benzin 95: 54.82, Motorin: 56.41, Fuel Oil: 26.42
+MAÇKA: Kurşunsuz Benzin 95: 54.83, Motorin: 56.42, Fuel Oil: 26.42
+MERKEZ: Kurşunsuz Benzin 95: 54.82, Motorin: 56.41, Gazyağı: 42.42, Fuel Oil: 26.42, Yuksek Kukurtlu Fuel Oil: 22.60, Kalorifer Yakıtı: 30.88
+OF: Kurşunsuz Benzin 95: 54.84, Motorin: 56.44, Fuel Oil: 26.43
+ORTAHİSAR: Kurşunsuz Benzin 95: 54.82, Motorin: 56.41, Fuel Oil: 26.42
+ŞALPAZARI: Kurşunsuz Benzin 95: 54.82, Motorin: 56.41, Fuel Oil: 26.43
+SÜRMENE: Kurşunsuz Benzin 95: 54.84, Motorin: 56.44, Fuel Oil: 26.42
+TONYA: Kurşunsuz Benzin 95: 54.82, Motorin: 56.42, Fuel Oil: 26.42
+VAKFIKEBİR: Kurşunsuz Benzin 95: 54.82, Motorin: 56.41, Fuel Oil: 26.42
+YOMRA: Kurşunsuz Benzin 95: 54.82, Motorin: 56.42, Fuel Oil: 26.42

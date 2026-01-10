@@ -1,0 +1,7 @@
+BAHÇE: Kurşunsuz Benzin 95: 54.77, Motorin: 56.40, Gazyağı: 42.41, Fuel Oil: 26.48, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.88
+DÜZİÇİ: Kurşunsuz Benzin 95: 54.77, Motorin: 56.40, Gazyağı: 42.41, Fuel Oil: 26.48, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.88
+HASANBEYLİ: Kurşunsuz Benzin 95: 54.77, Motorin: 56.40, Gazyağı: 42.41, Fuel Oil: 26.48, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.88
+KADİRLİ: Kurşunsuz Benzin 95: 54.78, Motorin: 56.40, Gazyağı: 42.41, Fuel Oil: 26.48, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.87
+MERKEZ: Kurşunsuz Benzin 95: 54.77, Motorin: 56.40, Gazyağı: 42.41, Fuel Oil: 26.48, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.87
+SUMBAS: Kurşunsuz Benzin 95: 54.77, Motorin: 56.40, Gazyağı: 42.41, Fuel Oil: 26.48, Yuksek Kukurtlu Fuel Oil: 22.59, Kalorifer Yakıtı: 30.87
+TOPRAKKALE: Kurşunsuz Benzin 95: 54.77, Motorin: 56.39, Gazyağı: 42.40, Fuel Oil: 26.48, Yuksek Kukurtlu Fuel Oil: 22.58, Kalorifer Yakıtı: 30.87

@@ -1,0 +1,12 @@
+ALMUS: Kurşunsuz Benzin 95: 54.73, Motorin: 56.32, Gazyağı: 42.38, Fuel Oil: 26.41, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.85
+ARTOVA: Kurşunsuz Benzin 95: 54.73, Motorin: 56.32, Gazyağı: 42.38, Fuel Oil: 26.41, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.85
+BAŞÇİFTLİK: Kurşunsuz Benzin 95: 54.73, Motorin: 56.32, Gazyağı: 42.39, Fuel Oil: 26.42, Yuksek Kukurtlu Fuel Oil: 22.57, Kalorifer Yakıtı: 30.85
+ERBAA: Kurşunsuz Benzin 95: 54.72, Motorin: 56.31, Gazyağı: 42.38, Fuel Oil: 26.41, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.85
+MERKEZ: Kurşunsuz Benzin 95: 54.72, Motorin: 56.31, Gazyağı: 42.38, Fuel Oil: 26.45, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.85
+NİKSAR: Kurşunsuz Benzin 95: 54.73, Motorin: 56.32, Gazyağı: 42.39, Fuel Oil: 26.42, Yuksek Kukurtlu Fuel Oil: 22.57, Kalorifer Yakıtı: 30.85
+PAZAR: Kurşunsuz Benzin 95: 54.72, Motorin: 56.31, Gazyağı: 42.38, Fuel Oil: 26.40, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.85
+REŞADİYE: Kurşunsuz Benzin 95: 54.73, Motorin: 56.32, Gazyağı: 42.39, Fuel Oil: 26.42, Yuksek Kukurtlu Fuel Oil: 22.57, Kalorifer Yakıtı: 30.85
+SULUSARAY: Kurşunsuz Benzin 95: 54.73, Motorin: 56.32, Gazyağı: 42.38, Fuel Oil: 26.42, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.85
+TURHAL: Kurşunsuz Benzin 95: 54.72, Motorin: 56.31, Gazyağı: 42.38, Fuel Oil: 26.45, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.85
+YEŞİLYURT: Kurşunsuz Benzin 95: 54.73, Motorin: 56.32, Gazyağı: 42.38, Fuel Oil: 26.42, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.85
+ZİLE: Kurşunsuz Benzin 95: 54.72, Motorin: 56.30, Gazyağı: 42.38, Fuel Oil: 26.40, Yuksek Kukurtlu Fuel Oil: 22.56, Kalorifer Yakıtı: 30.85

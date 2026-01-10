@@ -1,0 +1,5 @@
+DİGOR: Kurşunsuz Benzin 95: 55.15, Motorin: 56.75, Gazyağı: 42.48, Fuel Oil: 26.50, Yuksek Kukurtlu Fuel Oil: 22.63, Kalorifer Yakıtı: 30.91
+KAĞIZMAN: Kurşunsuz Benzin 95: 55.15, Motorin: 56.75, Gazyağı: 42.48, Fuel Oil: 26.50, Yuksek Kukurtlu Fuel Oil: 22.63, Kalorifer Yakıtı: 30.91
+MERKEZ: Kurşunsuz Benzin 95: 55.14, Motorin: 56.74, Gazyağı: 42.48, Fuel Oil: 26.49, Yuksek Kukurtlu Fuel Oil: 22.63, Kalorifer Yakıtı: 30.91
+SARIKAMIŞ: Kurşunsuz Benzin 95: 55.15, Motorin: 56.75, Gazyağı: 42.48, Fuel Oil: 26.50, Yuksek Kukurtlu Fuel Oil: 22.63, Kalorifer Yakıtı: 30.91
+SELİM: Kurşunsuz Benzin 95: 55.15, Motorin: 56.75, Gazyağı: 42.48, Fuel Oil: 26.50, Yuksek Kukurtlu Fuel Oil: 22.63, Kalorifer Yakıtı: 30.91

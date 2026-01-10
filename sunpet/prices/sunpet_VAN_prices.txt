@@ -1,0 +1,10 @@
+BAŞKALE: Kurşunsuz Benzin 95: 55.48, Motorin: 57.06, Fuel Oil: 26.58
+EDREMİT: Kurşunsuz Benzin 95: 55.46, Motorin: 57.04, Fuel Oil: 26.56
+ERCİŞ: Kurşunsuz Benzin 95: 55.46, Motorin: 57.03, Fuel Oil: 26.58
+GEVAŞ: Kurşunsuz Benzin 95: 55.48, Motorin: 57.06, Fuel Oil: 26.56, Yuksek Kukurtlu Fuel Oil: 22.64, Kalorifer Yakıtı: 30.93
+GÜRPINAR: Kurşunsuz Benzin 95: 55.46, Motorin: 57.04, Fuel Oil: 26.56
+İPEKYOLU: Kurşunsuz Benzin 95: 55.46, Motorin: 57.04, Fuel Oil: 26.56, Yuksek Kukurtlu Fuel Oil: 22.64, Kalorifer Yakıtı: 30.93
+MERKEZ: Kurşunsuz Benzin 95: 55.46, Motorin: 57.04, Gazyağı: 42.49, Fuel Oil: 26.56, Yuksek Kukurtlu Fuel Oil: 22.64, Kalorifer Yakıtı: 30.93
+MURADİYE: Kurşunsuz Benzin 95: 55.46, Motorin: 57.04, Fuel Oil: 26.56
+ÖZALP: Kurşunsuz Benzin 95: 55.46, Motorin: 57.04, Fuel Oil: 26.56
+TUŞBA: Kurşunsuz Benzin 95: 55.46, Motorin: 57.04, Fuel Oil: 26.56

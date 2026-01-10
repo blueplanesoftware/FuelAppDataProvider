@@ -1,0 +1,9 @@
+ENEZ: Kurşunsuz Benzin 95: 54.21, Motorin: 55.84, Gazyağı: 42.35, Fuel Oil: 26.47, Yuksek Kukurtlu Fuel Oil: 22.61, Kalorifer Yakıtı: 30.82
+HAVSA: Kurşunsuz Benzin 95: 54.20, Motorin: 55.83, Gazyağı: 42.35, Fuel Oil: 26.47, Yuksek Kukurtlu Fuel Oil: 22.61, Kalorifer Yakıtı: 30.81
+İPSALA: Kurşunsuz Benzin 95: 54.21, Motorin: 55.84, Gazyağı: 42.35, Fuel Oil: 26.48, Yuksek Kukurtlu Fuel Oil: 22.61, Kalorifer Yakıtı: 30.81
+KEŞAN: Kurşunsuz Benzin 95: 54.21, Motorin: 55.84, Gazyağı: 42.35, Fuel Oil: 26.47, Yuksek Kukurtlu Fuel Oil: 22.61, Kalorifer Yakıtı: 30.81
+LALAPAŞA: Kurşunsuz Benzin 95: 54.20, Motorin: 55.85, Gazyağı: 42.35, Fuel Oil: 26.48, Yuksek Kukurtlu Fuel Oil: 22.61, Kalorifer Yakıtı: 30.81
+MERİÇ: Kurşunsuz Benzin 95: 54.21, Motorin: 55.84, Gazyağı: 42.35, Fuel Oil: 26.48, Yuksek Kukurtlu Fuel Oil: 22.61, Kalorifer Yakıtı: 30.82
+MERKEZ: Kurşunsuz Benzin 95: 54.20, Motorin: 55.83, Gazyağı: 42.35, Fuel Oil: 26.47, Yuksek Kukurtlu Fuel Oil: 22.61, Kalorifer Yakıtı: 30.81
+SÜLOĞLU: Kurşunsuz Benzin 95: 54.20, Motorin: 55.83, Gazyağı: 42.35, Fuel Oil: 26.47, Yuksek Kukurtlu Fuel Oil: 22.61, Kalorifer Yakıtı: 30.81
+UZUNKÖPRÜ: Kurşunsuz Benzin 95: 54.21, Motorin: 55.84, Gazyağı: 42.35, Fuel Oil: 26.48, Yuksek Kukurtlu Fuel Oil: 22.61, Kalorifer Yakıtı: 30.81

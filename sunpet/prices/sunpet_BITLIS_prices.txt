@@ -1,0 +1,4 @@
+ADİLCEVAZ: Kurşunsuz Benzin 95: 55.48, Motorin: 57.17, Gazyağı: 42.47, Fuel Oil: 26.56, Yuksek Kukurtlu Fuel Oil: 22.63, Kalorifer Yakıtı: 30.94
+AHLAT: Kurşunsuz Benzin 95: 55.47, Motorin: 57.17, Gazyağı: 42.47, Fuel Oil: 26.55, Yuksek Kukurtlu Fuel Oil: 22.63, Kalorifer Yakıtı: 30.93
+MERKEZ: Kurşunsuz Benzin 95: 55.46, Motorin: 57.14, Gazyağı: 42.47, Fuel Oil: 26.53, Yuksek Kukurtlu Fuel Oil: 22.63, Kalorifer Yakıtı: 30.92
+TATVAN: Kurşunsuz Benzin 95: 55.46, Motorin: 57.16, Gazyağı: 42.47, Fuel Oil: 26.54, Yuksek Kukurtlu Fuel Oil: 22.63, Kalorifer Yakıtı: 30.92

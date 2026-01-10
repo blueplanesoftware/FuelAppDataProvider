@@ -1,0 +1,5 @@
+BABAESKİ: Kurşunsuz Benzin 95: 54.19, Motorin: 55.81, Gazyağı: 42.35, Fuel Oil: 26.46, Yuksek Kukurtlu Fuel Oil: 22.60, Kalorifer Yakıtı: 30.81
+LÜLEBURGAZ: Kurşunsuz Benzin 95: 54.18, Motorin: 55.80, Gazyağı: 42.35, Fuel Oil: 26.45, Yuksek Kukurtlu Fuel Oil: 22.60, Kalorifer Yakıtı: 30.81
+MERKEZ: Kurşunsuz Benzin 95: 54.19, Motorin: 55.81, Gazyağı: 42.35, Fuel Oil: 26.47, Yuksek Kukurtlu Fuel Oil: 22.60, Kalorifer Yakıtı: 30.81
+PINARHİSAR: Kurşunsuz Benzin 95: 54.19, Motorin: 55.81, Gazyağı: 42.35, Fuel Oil: 26.47, Yuksek Kukurtlu Fuel Oil: 22.60, Kalorifer Yakıtı: 30.81
+VİZE: Kurşunsuz Benzin 95: 54.18, Motorin: 55.80, Gazyağı: 42.35, Fuel Oil: 26.45, Yuksek Kukurtlu Fuel Oil: 22.60, Kalorifer Yakıtı: 30.80

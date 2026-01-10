@@ -1,0 +1,3 @@
+DOĞUBAYAZIT: Kurşunsuz Benzin 95: 55.42, Motorin: 57.03, Fuel Oil: 26.35, Yuksek Kukurtlu Fuel Oil: 22.64
+MERKEZ: Kurşunsuz Benzin 95: 55.40, Motorin: 57.01, Gazyağı: 42.49, Fuel Oil: 26.50, Yuksek Kukurtlu Fuel Oil: 22.63, Kalorifer Yakıtı: 30.92
+PATNOS: Kurşunsuz Benzin 95: 55.43, Motorin: 57.03, Fuel Oil: 26.35, Kalorifer Yakıtı: 30.92
