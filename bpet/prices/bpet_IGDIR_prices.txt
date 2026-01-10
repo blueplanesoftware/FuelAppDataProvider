@@ -1,0 +1,4 @@
+Merkez: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.39, F.Oil: 30.22, Kalyak: 36.01
+ARALIK: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.39, F.Oil: 30.22, Kalyak: 36.01
+KARAKOYUNLU: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.39, F.Oil: 30.22, Kalyak: 36.01
+TUZLUCA: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.39, F.Oil: 30.22, Kalyak: 36.01

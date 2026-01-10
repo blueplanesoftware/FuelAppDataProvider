@@ -1,0 +1,14 @@
+Merkez: Motorin: 55.93, Motorin Diğer: 55.93, K.B. 95: 55.24, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.85
+AKÇAKALE: Motorin: 55.93, Motorin Diğer: 55.93, K.B. 95: 55.24, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.85
+BIRECIK: Motorin: 55.93, Motorin Diğer: 55.93, K.B. 95: 55.24, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.85
+BOZOVA: Motorin: 55.93, Motorin Diğer: 55.93, K.B. 95: 55.24, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.85
+CEYLANPINAR: Motorin: 55.93, Motorin Diğer: 55.93, K.B. 95: 55.24, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.85
+EYYÜBİYE: Motorin: 55.93, Motorin Diğer: 55.93, K.B. 95: 55.24, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.85
+HALİLİYE: Motorin: 55.93, Motorin Diğer: 55.93, K.B. 95: 55.24, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.85
+HALFETI: Motorin: 55.93, Motorin Diğer: 55.93, K.B. 95: 55.24, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.85
+HARRAN: Motorin: 55.93, Motorin Diğer: 55.93, K.B. 95: 55.24, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.85
+HILVAN: Motorin: 55.93, Motorin Diğer: 55.93, K.B. 95: 55.24, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.85
+KARAKÖPRÜ: Motorin: 55.93, Motorin Diğer: 55.93, K.B. 95: 55.24, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.85
+SIVEREK: Motorin: 55.93, Motorin Diğer: 55.93, K.B. 95: 55.24, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.85
+SURUÇ: Motorin: 55.93, Motorin Diğer: 55.93, K.B. 95: 55.24, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.85
+VIRANSEHIR: Motorin: 55.93, Motorin Diğer: 55.93, K.B. 95: 55.24, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.85

@@ -1,0 +1,17 @@
+Merkez: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.52, F.Oil: 29.59, Kalyak: 34.64
+AKINCILAR: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.52, F.Oil: 29.59, Kalyak: 34.64
+ALTINYAYLA: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.52, F.Oil: 29.59, Kalyak: 34.64
+DIVRIGI: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.52, F.Oil: 29.59, Kalyak: 34.64
+DOGANSAR: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.52, F.Oil: 29.59, Kalyak: 34.64
+GÜRÜN: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.52, F.Oil: 29.59, Kalyak: 34.64
+GÖLOVA: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.52, F.Oil: 29.59, Kalyak: 34.64
+GEMEREK: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.52, F.Oil: 29.59, Kalyak: 34.64
+HAFIK: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.52, F.Oil: 29.59, Kalyak: 34.64
+IMRANLI: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.52, F.Oil: 29.59, Kalyak: 34.64
+KANGAL: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.52, F.Oil: 29.59, Kalyak: 34.64
+KOYULHISAR: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.52, F.Oil: 29.59, Kalyak: 34.64
+SARKISLA: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.52, F.Oil: 29.59, Kalyak: 34.64
+SUSEHRI: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.52, F.Oil: 29.59, Kalyak: 34.64
+ULAS: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.52, F.Oil: 29.59, Kalyak: 34.64
+YILDIZELI: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.52, F.Oil: 29.59, Kalyak: 34.64
+ZARA: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.52, F.Oil: 29.59, Kalyak: 34.64

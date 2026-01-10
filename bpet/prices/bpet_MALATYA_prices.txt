@@ -1,0 +1,14 @@
+Merkez: Motorin: 55.95, Motorin Diğer: 55.95, K.B. 95: 55.26, Gaz Yağı: 43.43, F.Oil: 29.91, Kalyak: 34.96
+AKÇADAG: Motorin: 55.95, Motorin Diğer: 55.95, K.B. 95: 55.26, Gaz Yağı: 43.43, F.Oil: 29.91, Kalyak: 34.96
+ARAPGIR: Motorin: 55.95, Motorin Diğer: 55.95, K.B. 95: 55.26, Gaz Yağı: 43.43, F.Oil: 29.91, Kalyak: 34.96
+ARGUVAN: Motorin: 55.95, Motorin Diğer: 55.95, K.B. 95: 55.26, Gaz Yağı: 43.43, F.Oil: 29.91, Kalyak: 34.96
+BATTALGAZI: Motorin: 55.95, Motorin Diğer: 55.95, K.B. 95: 55.26, Gaz Yağı: 43.43, F.Oil: 29.91, Kalyak: 34.96
+DARENDE: Motorin: 55.95, Motorin Diğer: 55.95, K.B. 95: 55.26, Gaz Yağı: 43.43, F.Oil: 29.91, Kalyak: 34.96
+DOGANSEHIR: Motorin: 55.95, Motorin Diğer: 55.95, K.B. 95: 55.26, Gaz Yağı: 43.43, F.Oil: 29.91, Kalyak: 34.96
+DOGANYOL: Motorin: 55.95, Motorin Diğer: 55.95, K.B. 95: 55.26, Gaz Yağı: 43.43, F.Oil: 29.91, Kalyak: 34.96
+HEKIMHAN: Motorin: 55.95, Motorin Diğer: 55.95, K.B. 95: 55.26, Gaz Yağı: 43.43, F.Oil: 29.91, Kalyak: 34.96
+KALE: Motorin: 55.95, Motorin Diğer: 55.95, K.B. 95: 55.26, Gaz Yağı: 43.43, F.Oil: 29.91, Kalyak: 34.96
+KULUNCAK: Motorin: 55.95, Motorin Diğer: 55.95, K.B. 95: 55.26, Gaz Yağı: 43.43, F.Oil: 29.91, Kalyak: 34.96
+PÖTÜRGE: Motorin: 55.95, Motorin Diğer: 55.95, K.B. 95: 55.26, Gaz Yağı: 43.43, F.Oil: 29.91, Kalyak: 34.96
+YAZIHAN: Motorin: 55.95, Motorin Diğer: 55.95, K.B. 95: 55.26, Gaz Yağı: 43.43, F.Oil: 29.91, Kalyak: 34.96
+YESILYURT: Motorin: 55.95, Motorin Diğer: 55.95, K.B. 95: 55.26, Gaz Yağı: 43.43, F.Oil: 29.91, Kalyak: 34.96

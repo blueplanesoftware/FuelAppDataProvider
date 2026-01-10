@@ -1,0 +1,8 @@
+Merkez: Motorin: 55.81, Motorin Diğer: 55.81, K.B. 95: 55.13, Gaz Yağı: 43.49, F.Oil: 30.19, Kalyak: 35.98
+AKYAKA: Motorin: 55.81, Motorin Diğer: 55.81, K.B. 95: 55.13, Gaz Yağı: 43.49, F.Oil: 30.19, Kalyak: 35.98
+ARPAÇAY: Motorin: 55.81, Motorin Diğer: 55.81, K.B. 95: 55.13, Gaz Yağı: 43.49, F.Oil: 30.19, Kalyak: 35.98
+DIGOR: Motorin: 55.81, Motorin Diğer: 55.81, K.B. 95: 55.13, Gaz Yağı: 43.49, F.Oil: 30.19, Kalyak: 35.98
+KAGIZMAN: Motorin: 55.81, Motorin Diğer: 55.81, K.B. 95: 55.13, Gaz Yağı: 43.49, F.Oil: 30.19, Kalyak: 35.98
+SARIKAMIS: Motorin: 55.81, Motorin Diğer: 55.81, K.B. 95: 55.13, Gaz Yağı: 43.49, F.Oil: 30.19, Kalyak: 35.98
+SELIM: Motorin: 55.81, Motorin Diğer: 55.81, K.B. 95: 55.13, Gaz Yağı: 43.49, F.Oil: 30.19, Kalyak: 35.98
+SUSUZ: Motorin: 55.81, Motorin Diğer: 55.81, K.B. 95: 55.13, Gaz Yağı: 43.49, F.Oil: 30.19, Kalyak: 35.98

@@ -1,0 +1,8 @@
+Merkez: Motorin: 55.66, Motorin Diğer: 55.66, K.B. 95: 54.97, Gaz Yağı: 43.40, F.Oil: 29.34, Kalyak: 34.39
+ACIGÖL: Motorin: 55.66, Motorin Diğer: 55.66, K.B. 95: 54.97, Gaz Yağı: 43.40, F.Oil: 29.34, Kalyak: 34.39
+AVANOS: Motorin: 55.66, Motorin Diğer: 55.66, K.B. 95: 54.97, Gaz Yağı: 43.40, F.Oil: 29.34, Kalyak: 34.39
+ÜRGÜP: Motorin: 55.66, Motorin Diğer: 55.66, K.B. 95: 54.97, Gaz Yağı: 43.40, F.Oil: 29.34, Kalyak: 34.39
+DERINKUYU: Motorin: 55.66, Motorin Diğer: 55.66, K.B. 95: 54.97, Gaz Yağı: 43.40, F.Oil: 29.34, Kalyak: 34.39
+GÜLSEHIR: Motorin: 55.66, Motorin Diğer: 55.66, K.B. 95: 54.97, Gaz Yağı: 43.40, F.Oil: 29.34, Kalyak: 34.39
+HACIBEKTAS: Motorin: 55.66, Motorin Diğer: 55.66, K.B. 95: 54.97, Gaz Yağı: 43.40, F.Oil: 29.34, Kalyak: 34.39
+KOZAKLI: Motorin: 55.66, Motorin Diğer: 55.66, K.B. 95: 54.97, Gaz Yağı: 43.40, F.Oil: 29.34, Kalyak: 34.39

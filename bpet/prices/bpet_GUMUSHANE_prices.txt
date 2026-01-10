@@ -1,0 +1,6 @@
+Merkez: Motorin: 55.51, Motorin Diğer: 55.51, K.B. 95: 54.83, Gaz Yağı: 43.45, F.Oil: 29.89, Kalyak: 34.95
+KÜRTÜN: Motorin: 55.51, Motorin Diğer: 55.51, K.B. 95: 54.83, Gaz Yağı: 43.45, F.Oil: 29.89, Kalyak: 34.95
+KÖSE: Motorin: 55.51, Motorin Diğer: 55.51, K.B. 95: 54.83, Gaz Yağı: 43.45, F.Oil: 29.89, Kalyak: 34.95
+KELKIT: Motorin: 55.51, Motorin Diğer: 55.51, K.B. 95: 54.83, Gaz Yağı: 43.45, F.Oil: 29.89, Kalyak: 34.95
+SIRAN: Motorin: 55.51, Motorin Diğer: 55.51, K.B. 95: 54.83, Gaz Yağı: 43.45, F.Oil: 29.89, Kalyak: 34.95
+TORUL: Motorin: 55.51, Motorin Diğer: 55.51, K.B. 95: 54.83, Gaz Yağı: 43.45, F.Oil: 29.89, Kalyak: 34.95

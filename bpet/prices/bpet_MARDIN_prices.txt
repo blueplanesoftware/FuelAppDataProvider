@@ -1,0 +1,11 @@
+Merkez: Motorin: 56.13, Motorin Diğer: 56.13, K.B. 95: 55.40, Gaz Yağı: 43.54, F.Oil: 30.16, Kalyak: 35.93
+ARTUKLU: Motorin: 56.13, Motorin Diğer: 56.13, K.B. 95: 55.40, Gaz Yağı: 43.54, F.Oil: 30.16, Kalyak: 35.93
+ÖMERLI: Motorin: 56.13, Motorin Diğer: 56.13, K.B. 95: 55.40, Gaz Yağı: 43.54, F.Oil: 30.16, Kalyak: 35.93
+DARGEÇIT: Motorin: 56.13, Motorin Diğer: 56.13, K.B. 95: 55.40, Gaz Yağı: 43.54, F.Oil: 30.16, Kalyak: 35.93
+DERIK: Motorin: 56.13, Motorin Diğer: 56.13, K.B. 95: 55.40, Gaz Yağı: 43.54, F.Oil: 30.16, Kalyak: 35.93
+KIZILTEPE: Motorin: 56.13, Motorin Diğer: 56.13, K.B. 95: 55.40, Gaz Yağı: 43.54, F.Oil: 30.16, Kalyak: 35.93
+MAZIDAGI: Motorin: 56.13, Motorin Diğer: 56.13, K.B. 95: 55.40, Gaz Yağı: 43.54, F.Oil: 30.16, Kalyak: 35.93
+MIDYAT: Motorin: 56.13, Motorin Diğer: 56.13, K.B. 95: 55.40, Gaz Yağı: 43.54, F.Oil: 30.16, Kalyak: 35.93
+NUSAYBIN: Motorin: 56.13, Motorin Diğer: 56.13, K.B. 95: 55.40, Gaz Yağı: 43.54, F.Oil: 30.16, Kalyak: 35.93
+SAVUR: Motorin: 56.13, Motorin Diğer: 56.13, K.B. 95: 55.40, Gaz Yağı: 43.54, F.Oil: 30.16, Kalyak: 35.93
+YESILLI: Motorin: 56.13, Motorin Diğer: 56.13, K.B. 95: 55.40, Gaz Yağı: 43.54, F.Oil: 30.16, Kalyak: 35.93

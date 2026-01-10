@@ -1,0 +1,12 @@
+Merkez: Motorin: 55.38, Motorin Diğer: 55.38, K.B. 95: 54.71, Gaz Yağı: 43.50, F.Oil: 29.44, Kalyak: 34.49
+ALMUS: Motorin: 55.38, Motorin Diğer: 55.38, K.B. 95: 54.71, Gaz Yağı: 43.50, F.Oil: 29.44, Kalyak: 34.49
+ARTOVA: Motorin: 55.38, Motorin Diğer: 55.38, K.B. 95: 54.71, Gaz Yağı: 43.50, F.Oil: 29.44, Kalyak: 34.49
+BASÇIFTLIK: Motorin: 55.38, Motorin Diğer: 55.38, K.B. 95: 54.71, Gaz Yağı: 43.50, F.Oil: 29.44, Kalyak: 34.49
+ERBAA: Motorin: 55.38, Motorin Diğer: 55.38, K.B. 95: 54.71, Gaz Yağı: 43.50, F.Oil: 29.44, Kalyak: 34.49
+NIKSAR: Motorin: 55.38, Motorin Diğer: 55.38, K.B. 95: 54.71, Gaz Yağı: 43.50, F.Oil: 29.44, Kalyak: 34.49
+PAZAR: Motorin: 55.38, Motorin Diğer: 55.38, K.B. 95: 54.71, Gaz Yağı: 43.50, F.Oil: 29.44, Kalyak: 34.49
+RESADIYE: Motorin: 55.38, Motorin Diğer: 55.38, K.B. 95: 54.71, Gaz Yağı: 43.50, F.Oil: 29.44, Kalyak: 34.49
+SULUSARAY: Motorin: 55.38, Motorin Diğer: 55.38, K.B. 95: 54.71, Gaz Yağı: 43.50, F.Oil: 29.44, Kalyak: 34.49
+TURHAL: Motorin: 55.38, Motorin Diğer: 55.38, K.B. 95: 54.71, Gaz Yağı: 43.50, F.Oil: 29.44, Kalyak: 34.49
+YESILYURT: Motorin: 55.38, Motorin Diğer: 55.38, K.B. 95: 54.71, Gaz Yağı: 43.50, F.Oil: 29.44, Kalyak: 34.49
+ZILE: Motorin: 55.38, Motorin Diğer: 55.38, K.B. 95: 54.71, Gaz Yağı: 43.50, F.Oil: 29.44, Kalyak: 34.49

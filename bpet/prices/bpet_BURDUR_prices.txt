@@ -1,0 +1,11 @@
+Merkez: Motorin: 55.89, Motorin Diğer: 55.89, K.B. 95: 55.10, Gaz Yağı: 43.38, F.Oil: 28.67, Kalyak: 33.73
+AGLASUN: Motorin: 55.89, Motorin Diğer: 55.89, K.B. 95: 55.10, Gaz Yağı: 43.38, F.Oil: 28.67, Kalyak: 33.73
+ALTINYAYLA: Motorin: 55.89, Motorin Diğer: 55.89, K.B. 95: 55.10, Gaz Yağı: 43.38, F.Oil: 28.67, Kalyak: 33.73
+ÇAVDIR: Motorin: 55.89, Motorin Diğer: 55.89, K.B. 95: 55.10, Gaz Yağı: 43.38, F.Oil: 28.67, Kalyak: 33.73
+ÇELTİKÇİ: Motorin: 55.89, Motorin Diğer: 55.89, K.B. 95: 55.10, Gaz Yağı: 43.38, F.Oil: 28.67, Kalyak: 33.73
+BUCAK: Motorin: 55.89, Motorin Diğer: 55.89, K.B. 95: 55.10, Gaz Yağı: 43.38, F.Oil: 28.67, Kalyak: 33.73
+GÖLHISAR: Motorin: 55.89, Motorin Diğer: 55.89, K.B. 95: 55.10, Gaz Yağı: 43.38, F.Oil: 28.67, Kalyak: 33.73
+KARAMANLI: Motorin: 55.89, Motorin Diğer: 55.89, K.B. 95: 55.10, Gaz Yağı: 43.38, F.Oil: 28.67, Kalyak: 33.73
+KEMER: Motorin: 55.89, Motorin Diğer: 55.89, K.B. 95: 55.10, Gaz Yağı: 43.38, F.Oil: 28.67, Kalyak: 33.73
+TEFENNI: Motorin: 55.89, Motorin Diğer: 55.89, K.B. 95: 55.10, Gaz Yağı: 43.38, F.Oil: 28.67, Kalyak: 33.73
+YESILOVA: Motorin: 55.89, Motorin Diğer: 55.89, K.B. 95: 55.10, Gaz Yağı: 43.38, F.Oil: 28.67, Kalyak: 33.73

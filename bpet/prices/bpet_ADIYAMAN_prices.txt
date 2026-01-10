@@ -1,0 +1,9 @@
+Merkez: Motorin: 55.94, Motorin Diğer: 55.94, K.B. 95: 55.25, Gaz Yağı: 43.38, F.Oil: 30.12, Kalyak: 35.78
+ÇELIKHAN: Motorin: 55.94, Motorin Diğer: 55.94, K.B. 95: 55.25, Gaz Yağı: 43.38, F.Oil: 30.12, Kalyak: 35.78
+BESNI: Motorin: 55.94, Motorin Diğer: 55.94, K.B. 95: 55.25, Gaz Yağı: 43.38, F.Oil: 30.12, Kalyak: 35.78
+GÖLBASI: Motorin: 55.94, Motorin Diğer: 55.94, K.B. 95: 55.25, Gaz Yağı: 43.38, F.Oil: 30.12, Kalyak: 35.78
+GERGER: Motorin: 55.94, Motorin Diğer: 55.94, K.B. 95: 55.25, Gaz Yağı: 43.38, F.Oil: 30.12, Kalyak: 35.78
+KAHTA: Motorin: 55.94, Motorin Diğer: 55.94, K.B. 95: 55.25, Gaz Yağı: 43.38, F.Oil: 30.12, Kalyak: 35.78
+SAMSAT: Motorin: 55.94, Motorin Diğer: 55.94, K.B. 95: 55.25, Gaz Yağı: 43.38, F.Oil: 30.12, Kalyak: 35.78
+SINCIK: Motorin: 55.94, Motorin Diğer: 55.94, K.B. 95: 55.25, Gaz Yağı: 43.38, F.Oil: 30.12, Kalyak: 35.78
+TUT: Motorin: 55.94, Motorin Diğer: 55.94, K.B. 95: 55.25, Gaz Yağı: 43.38, F.Oil: 30.12, Kalyak: 35.78

@@ -1,0 +1,9 @@
+Merkez: Motorin: 54.99, Motorin Diğer: 54.99, K.B. 95: 54.30, Gaz Yağı: 43.38, F.Oil: 29.07, Kalyak: 34.13
+ÇELEBI: Motorin: 54.99, Motorin Diğer: 54.99, K.B. 95: 54.30, Gaz Yağı: 43.38, F.Oil: 29.07, Kalyak: 34.13
+BAHSILI: Motorin: 54.99, Motorin Diğer: 54.99, K.B. 95: 54.30, Gaz Yağı: 43.38, F.Oil: 29.07, Kalyak: 34.13
+BALISEYH: Motorin: 54.99, Motorin Diğer: 54.99, K.B. 95: 54.30, Gaz Yağı: 43.38, F.Oil: 29.07, Kalyak: 34.13
+DELICE: Motorin: 54.99, Motorin Diğer: 54.99, K.B. 95: 54.30, Gaz Yağı: 43.38, F.Oil: 29.07, Kalyak: 34.13
+KARAKEÇILI: Motorin: 54.99, Motorin Diğer: 54.99, K.B. 95: 54.30, Gaz Yağı: 43.38, F.Oil: 29.07, Kalyak: 34.13
+KESKIN: Motorin: 54.99, Motorin Diğer: 54.99, K.B. 95: 54.30, Gaz Yağı: 43.38, F.Oil: 29.07, Kalyak: 34.13
+SULAKYURT: Motorin: 54.99, Motorin Diğer: 54.99, K.B. 95: 54.30, Gaz Yağı: 43.38, F.Oil: 29.07, Kalyak: 34.13
+YAHSIHAN: Motorin: 54.99, Motorin Diğer: 54.99, K.B. 95: 54.30, Gaz Yağı: 43.38, F.Oil: 29.07, Kalyak: 34.13

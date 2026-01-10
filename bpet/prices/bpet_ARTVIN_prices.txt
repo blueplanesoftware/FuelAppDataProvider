@@ -1,0 +1,8 @@
+Merkez: Motorin: 55.61, Motorin Diğer: 55.61, K.B. 95: 54.93, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.88
+ARDANUÇ: Motorin: 55.61, Motorin Diğer: 55.61, K.B. 95: 54.93, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.88
+ARHAVI: Motorin: 55.61, Motorin Diğer: 55.61, K.B. 95: 54.93, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.88
+BORÇKA: Motorin: 55.61, Motorin Diğer: 55.61, K.B. 95: 54.93, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.88
+HOPA: Motorin: 55.61, Motorin Diğer: 55.61, K.B. 95: 54.93, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.88
+MURGUL: Motorin: 55.61, Motorin Diğer: 55.61, K.B. 95: 54.93, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.88
+SAVSAT: Motorin: 55.61, Motorin Diğer: 55.61, K.B. 95: 54.93, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.88
+YUSUFELI: Motorin: 55.61, Motorin Diğer: 55.61, K.B. 95: 54.93, Gaz Yağı: 43.46, F.Oil: 30.13, Kalyak: 35.88

@@ -1,0 +1,9 @@
+Merkez: Motorin: 54.88, Motorin Diğer: 54.88, K.B. 95: 54.18, Gaz Yağı: 43.38, F.Oil: 28.53, Kalyak: 33.59
+ENEZ: Motorin: 54.88, Motorin Diğer: 54.88, K.B. 95: 54.18, Gaz Yağı: 43.38, F.Oil: 28.53, Kalyak: 33.59
+HAVSA: Motorin: 54.88, Motorin Diğer: 54.88, K.B. 95: 54.18, Gaz Yağı: 43.38, F.Oil: 28.53, Kalyak: 33.59
+IPSALA: Motorin: 54.88, Motorin Diğer: 54.88, K.B. 95: 54.18, Gaz Yağı: 43.38, F.Oil: 28.53, Kalyak: 33.59
+KESAN: Motorin: 54.88, Motorin Diğer: 54.88, K.B. 95: 54.18, Gaz Yağı: 43.38, F.Oil: 28.53, Kalyak: 33.59
+LALAPASA: Motorin: 54.88, Motorin Diğer: 54.88, K.B. 95: 54.18, Gaz Yağı: 43.38, F.Oil: 28.53, Kalyak: 33.59
+MERIÇ: Motorin: 54.88, Motorin Diğer: 54.88, K.B. 95: 54.18, Gaz Yağı: 43.38, F.Oil: 28.53, Kalyak: 33.59
+SÜLOGLU: Motorin: 54.88, Motorin Diğer: 54.88, K.B. 95: 54.18, Gaz Yağı: 43.38, F.Oil: 28.53, Kalyak: 33.59
+UZUNKÖPRÜ: Motorin: 54.88, Motorin Diğer: 54.88, K.B. 95: 54.18, Gaz Yağı: 43.38, F.Oil: 28.53, Kalyak: 33.59

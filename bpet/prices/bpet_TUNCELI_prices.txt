@@ -1,0 +1,8 @@
+Merkez: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.52, F.Oil: 30.12, Kalyak: 35.83
+ÇEMISGEZEK: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.52, F.Oil: 30.12, Kalyak: 35.83
+HOZAT: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.52, F.Oil: 30.12, Kalyak: 35.83
+MAZGIRT: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.52, F.Oil: 30.12, Kalyak: 35.83
+NAZIMIYE: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.52, F.Oil: 30.12, Kalyak: 35.83
+OVACIK: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.52, F.Oil: 30.12, Kalyak: 35.83
+PÜLÜMÜR: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.52, F.Oil: 30.12, Kalyak: 35.83
+PERTEK: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.52, F.Oil: 30.12, Kalyak: 35.83

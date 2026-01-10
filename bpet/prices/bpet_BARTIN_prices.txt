@@ -1,0 +1,4 @@
+Merkez: Motorin: 54.84, Motorin Diğer: 54.84, K.B. 95: 54.36, Gaz Yağı: 43.43, F.Oil: 28.49, Kalyak: 33.55
+AMASRA: Motorin: 54.84, Motorin Diğer: 54.84, K.B. 95: 54.36, Gaz Yağı: 43.43, F.Oil: 28.49, Kalyak: 33.55
+KURUCASILE: Motorin: 54.84, Motorin Diğer: 54.84, K.B. 95: 54.36, Gaz Yağı: 43.43, F.Oil: 28.49, Kalyak: 33.55
+ULUS: Motorin: 54.84, Motorin Diğer: 54.84, K.B. 95: 54.36, Gaz Yağı: 43.43, F.Oil: 28.49, Kalyak: 33.55

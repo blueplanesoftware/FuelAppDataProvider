@@ -1,0 +1,7 @@
+Merkez: Motorin: 55.68, Motorin Diğer: 55.68, K.B. 95: 54.99, Gaz Yağı: 43.41, F.Oil: 29.27, Kalyak: 34.32
+AĞAÇÖREN: Motorin: 55.68, Motorin Diğer: 55.68, K.B. 95: 54.99, Gaz Yağı: 43.41, F.Oil: 29.27, Kalyak: 34.32
+ESKIL: Motorin: 55.68, Motorin Diğer: 55.68, K.B. 95: 54.99, Gaz Yağı: 43.41, F.Oil: 29.27, Kalyak: 34.32
+GÜLAĞAÇ: Motorin: 55.68, Motorin Diğer: 55.68, K.B. 95: 54.99, Gaz Yağı: 43.41, F.Oil: 29.27, Kalyak: 34.32
+GÜZELYURT: Motorin: 55.68, Motorin Diğer: 55.68, K.B. 95: 54.99, Gaz Yağı: 43.41, F.Oil: 29.27, Kalyak: 34.32
+ORTAKÖY: Motorin: 55.68, Motorin Diğer: 55.68, K.B. 95: 54.99, Gaz Yağı: 43.41, F.Oil: 29.27, Kalyak: 34.32
+SARIYAHSI: Motorin: 55.68, Motorin Diğer: 55.68, K.B. 95: 54.99, Gaz Yağı: 43.41, F.Oil: 29.27, Kalyak: 34.32

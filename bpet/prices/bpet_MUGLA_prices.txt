@@ -1,0 +1,14 @@
+Merkez: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.85, Gaz Yağı: 43.42, F.Oil: 28.43, Kalyak: 33.49
+BODRUM: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.85, Gaz Yağı: 43.42, F.Oil: 28.43, Kalyak: 33.49
+DALAMAN: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.85, Gaz Yağı: 43.42, F.Oil: 28.43, Kalyak: 33.49
+DATÇA: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.85, Gaz Yağı: 43.42, F.Oil: 28.43, Kalyak: 33.49
+FETHIYE: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.85, Gaz Yağı: 43.42, F.Oil: 28.43, Kalyak: 33.49
+KAVAKLIDERE: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.85, Gaz Yağı: 43.42, F.Oil: 28.43, Kalyak: 33.49
+KÖYCEGIZ: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.85, Gaz Yağı: 43.42, F.Oil: 28.43, Kalyak: 33.49
+MARMARIS: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.85, Gaz Yağı: 43.42, F.Oil: 28.43, Kalyak: 33.49
+MENTEŞE: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.85, Gaz Yağı: 43.42, F.Oil: 28.43, Kalyak: 33.49
+MILAS: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.85, Gaz Yağı: 43.42, F.Oil: 28.43, Kalyak: 33.49
+ORTACA: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.85, Gaz Yağı: 43.42, F.Oil: 28.43, Kalyak: 33.49
+SEYDIKEMER: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.85, Gaz Yağı: 43.42, F.Oil: 28.43, Kalyak: 33.49
+ULA: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.85, Gaz Yağı: 43.42, F.Oil: 28.43, Kalyak: 33.49
+YATAGAN: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.85, Gaz Yağı: 43.42, F.Oil: 28.43, Kalyak: 33.49

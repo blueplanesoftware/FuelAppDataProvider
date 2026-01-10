@@ -1,0 +1,9 @@
+Merkez: Motorin: 54.59, Motorin Diğer: 54.59, K.B. 95: 54.11, Gaz Yağı: 43.41, F.Oil: 27.93, Kalyak: 32.99
+DÖRTDIVAN: Motorin: 54.59, Motorin Diğer: 54.59, K.B. 95: 54.11, Gaz Yağı: 43.41, F.Oil: 27.93, Kalyak: 32.99
+GÖYNÜK: Motorin: 54.59, Motorin Diğer: 54.59, K.B. 95: 54.11, Gaz Yağı: 43.41, F.Oil: 27.93, Kalyak: 32.99
+GEREDE: Motorin: 54.59, Motorin Diğer: 54.59, K.B. 95: 54.11, Gaz Yağı: 43.41, F.Oil: 27.93, Kalyak: 32.99
+KIBRISCIK: Motorin: 54.59, Motorin Diğer: 54.59, K.B. 95: 54.11, Gaz Yağı: 43.41, F.Oil: 27.93, Kalyak: 32.99
+MENGEN: Motorin: 54.59, Motorin Diğer: 54.59, K.B. 95: 54.11, Gaz Yağı: 43.41, F.Oil: 27.93, Kalyak: 32.99
+MUDURNU: Motorin: 54.59, Motorin Diğer: 54.59, K.B. 95: 54.11, Gaz Yağı: 43.41, F.Oil: 27.93, Kalyak: 32.99
+SEBEN: Motorin: 54.59, Motorin Diğer: 54.59, K.B. 95: 54.11, Gaz Yağı: 43.41, F.Oil: 27.93, Kalyak: 32.99
+YENIÇAGA: Motorin: 54.59, Motorin Diğer: 54.59, K.B. 95: 54.11, Gaz Yağı: 43.41, F.Oil: 27.93, Kalyak: 32.99

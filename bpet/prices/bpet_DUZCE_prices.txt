@@ -1,0 +1,8 @@
+Merkez: Motorin: 54.44, Motorin Diğer: 54.44, K.B. 95: 53.96, Gaz Yağı: 43.41, F.Oil: 27.86, Kalyak: 32.92
+AKÇAKOCA: Motorin: 54.44, Motorin Diğer: 54.44, K.B. 95: 53.96, Gaz Yağı: 43.41, F.Oil: 27.86, Kalyak: 32.92
+ÇILIMLI: Motorin: 54.44, Motorin Diğer: 54.44, K.B. 95: 53.96, Gaz Yağı: 43.41, F.Oil: 27.86, Kalyak: 32.92
+CUMAYERI: Motorin: 54.44, Motorin Diğer: 54.44, K.B. 95: 53.96, Gaz Yağı: 43.41, F.Oil: 27.86, Kalyak: 32.92
+GÜMÜŞOVA: Motorin: 54.44, Motorin Diğer: 54.44, K.B. 95: 53.96, Gaz Yağı: 43.41, F.Oil: 27.86, Kalyak: 32.92
+GÖLYAKA: Motorin: 54.44, Motorin Diğer: 54.44, K.B. 95: 53.96, Gaz Yağı: 43.41, F.Oil: 27.86, Kalyak: 32.92
+KAYNASLI: Motorin: 54.44, Motorin Diğer: 54.44, K.B. 95: 53.96, Gaz Yağı: 43.41, F.Oil: 27.86, Kalyak: 32.92
+YIGILCA: Motorin: 54.44, Motorin Diğer: 54.44, K.B. 95: 53.96, Gaz Yağı: 43.41, F.Oil: 27.86, Kalyak: 32.92

@@ -1,0 +1,16 @@
+Merkez: Motorin: 55.60, Motorin Diğer: 55.60, K.B. 95: 54.91, Gaz Yağı: 43.39, F.Oil: 29.64, Kalyak: 34.70
+ALADAG: Motorin: 55.60, Motorin Diğer: 55.60, K.B. 95: 54.91, Gaz Yağı: 43.39, F.Oil: 29.64, Kalyak: 34.70
+İMAMOĞLU: Motorin: 55.60, Motorin Diğer: 55.60, K.B. 95: 54.91, Gaz Yağı: 43.39, F.Oil: 29.64, Kalyak: 34.70
+ÇUKUROVA: Motorin: 55.60, Motorin Diğer: 55.60, K.B. 95: 54.91, Gaz Yağı: 43.39, F.Oil: 29.64, Kalyak: 34.70
+CEYHAN: Motorin: 55.60, Motorin Diğer: 55.60, K.B. 95: 54.91, Gaz Yağı: 43.39, F.Oil: 29.64, Kalyak: 34.70
+FEKE: Motorin: 55.60, Motorin Diğer: 55.60, K.B. 95: 54.91, Gaz Yağı: 43.39, F.Oil: 29.64, Kalyak: 34.70
+KARAISALI: Motorin: 55.60, Motorin Diğer: 55.60, K.B. 95: 54.91, Gaz Yağı: 43.39, F.Oil: 29.64, Kalyak: 34.70
+KARATAS: Motorin: 55.60, Motorin Diğer: 55.60, K.B. 95: 54.91, Gaz Yağı: 43.39, F.Oil: 29.64, Kalyak: 34.70
+KOZAN: Motorin: 55.60, Motorin Diğer: 55.60, K.B. 95: 54.91, Gaz Yağı: 43.39, F.Oil: 29.64, Kalyak: 34.70
+POZANTI: Motorin: 55.60, Motorin Diğer: 55.60, K.B. 95: 54.91, Gaz Yağı: 43.39, F.Oil: 29.64, Kalyak: 34.70
+SAIMBEYLI: Motorin: 55.60, Motorin Diğer: 55.60, K.B. 95: 54.91, Gaz Yağı: 43.39, F.Oil: 29.64, Kalyak: 34.70
+SARICAM: Motorin: 55.60, Motorin Diğer: 55.60, K.B. 95: 54.91, Gaz Yağı: 43.39, F.Oil: 29.64, Kalyak: 34.70
+SEYHAN: Motorin: 55.60, Motorin Diğer: 55.60, K.B. 95: 54.91, Gaz Yağı: 43.39, F.Oil: 29.64, Kalyak: 34.70
+TUFANBEYLI: Motorin: 55.60, Motorin Diğer: 55.60, K.B. 95: 54.91, Gaz Yağı: 43.39, F.Oil: 29.64, Kalyak: 34.70
+YÜREĞİR: Motorin: 55.60, Motorin Diğer: 55.60, K.B. 95: 54.91, Gaz Yağı: 43.39, F.Oil: 29.64, Kalyak: 34.70
+YUMURTALIK: Motorin: 55.60, Motorin Diğer: 55.60, K.B. 95: 54.91, Gaz Yağı: 43.39, F.Oil: 29.64, Kalyak: 34.70

@@ -1,0 +1,14 @@
+Merkez: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.63, Gaz Yağı: 43.41, F.Oil: 29.18, Kalyak: 34.23
+ALACA: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.63, Gaz Yağı: 43.41, F.Oil: 29.18, Kalyak: 34.23
+BAYAT: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.63, Gaz Yağı: 43.41, F.Oil: 29.18, Kalyak: 34.23
+BOGAZKALE: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.63, Gaz Yağı: 43.41, F.Oil: 29.18, Kalyak: 34.23
+DODURGA: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.63, Gaz Yağı: 43.41, F.Oil: 29.18, Kalyak: 34.23
+ISKILIP: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.63, Gaz Yağı: 43.41, F.Oil: 29.18, Kalyak: 34.23
+KARGI: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.63, Gaz Yağı: 43.41, F.Oil: 29.18, Kalyak: 34.23
+LAÇIN: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.63, Gaz Yağı: 43.41, F.Oil: 29.18, Kalyak: 34.23
+MECITÖZÜ: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.63, Gaz Yağı: 43.41, F.Oil: 29.18, Kalyak: 34.23
+OGUZLAR: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.63, Gaz Yağı: 43.41, F.Oil: 29.18, Kalyak: 34.23
+ORTAKÖY: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.63, Gaz Yağı: 43.41, F.Oil: 29.18, Kalyak: 34.23
+OSMANCIK: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.63, Gaz Yağı: 43.41, F.Oil: 29.18, Kalyak: 34.23
+SUNGURLU: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.63, Gaz Yağı: 43.41, F.Oil: 29.18, Kalyak: 34.23
+UGURLUDAG: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.63, Gaz Yağı: 43.41, F.Oil: 29.18, Kalyak: 34.23

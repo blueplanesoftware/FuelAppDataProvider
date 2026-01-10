@@ -1,0 +1,6 @@
+Merkez: Motorin: 55.61, Motorin Diğer: 55.61, K.B. 95: 54.92, Gaz Yağı: 43.38, F.Oil: 29.41, Kalyak: 34.47
+ALTUNHISAR: Motorin: 55.61, Motorin Diğer: 55.61, K.B. 95: 54.92, Gaz Yağı: 43.38, F.Oil: 29.41, Kalyak: 34.47
+ÇAMARDI: Motorin: 55.61, Motorin Diğer: 55.61, K.B. 95: 54.92, Gaz Yağı: 43.38, F.Oil: 29.41, Kalyak: 34.47
+ÇIFTLIK: Motorin: 55.61, Motorin Diğer: 55.61, K.B. 95: 54.92, Gaz Yağı: 43.38, F.Oil: 29.41, Kalyak: 34.47
+BOR: Motorin: 55.61, Motorin Diğer: 55.61, K.B. 95: 54.92, Gaz Yağı: 43.38, F.Oil: 29.41, Kalyak: 34.47
+ULUKISLA: Motorin: 55.61, Motorin Diğer: 55.61, K.B. 95: 54.92, Gaz Yağı: 43.38, F.Oil: 29.41, Kalyak: 34.47

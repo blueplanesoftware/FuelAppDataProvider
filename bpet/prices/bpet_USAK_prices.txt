@@ -1,0 +1,6 @@
+Merkez: Motorin: 55.54, Motorin Diğer: 55.54, K.B. 95: 54.86, Gaz Yağı: 43.41, F.Oil: 28.43, Kalyak: 33.48
+BANAZ: Motorin: 55.54, Motorin Diğer: 55.54, K.B. 95: 54.86, Gaz Yağı: 43.41, F.Oil: 28.43, Kalyak: 33.48
+ESME: Motorin: 55.54, Motorin Diğer: 55.54, K.B. 95: 54.86, Gaz Yağı: 43.41, F.Oil: 28.43, Kalyak: 33.48
+KARAHALLI: Motorin: 55.54, Motorin Diğer: 55.54, K.B. 95: 54.86, Gaz Yağı: 43.41, F.Oil: 28.43, Kalyak: 33.48
+SIVASLI: Motorin: 55.54, Motorin Diğer: 55.54, K.B. 95: 54.86, Gaz Yağı: 43.41, F.Oil: 28.43, Kalyak: 33.48
+ULUBEY: Motorin: 55.54, Motorin Diğer: 55.54, K.B. 95: 54.86, Gaz Yağı: 43.41, F.Oil: 28.43, Kalyak: 33.48

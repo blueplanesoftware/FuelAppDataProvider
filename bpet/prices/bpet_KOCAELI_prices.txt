@@ -1,0 +1,13 @@
+Merkez: Motorin: 53.98, Motorin Diğer: 53.98, K.B. 95: 53.50, Gaz Yağı: 43.38, F.Oil: 27.70, Kalyak: 32.76
+İZMİT: Motorin: 53.98, Motorin Diğer: 53.98, K.B. 95: 53.50, Gaz Yağı: 43.38, F.Oil: 27.70, Kalyak: 32.76
+ÇAYIROVA: Motorin: 53.98, Motorin Diğer: 53.98, K.B. 95: 53.50, Gaz Yağı: 43.38, F.Oil: 27.70, Kalyak: 32.76
+BAŞİSKELE: Motorin: 53.98, Motorin Diğer: 53.98, K.B. 95: 53.50, Gaz Yağı: 43.38, F.Oil: 27.70, Kalyak: 32.76
+DARICA: Motorin: 53.98, Motorin Diğer: 53.98, K.B. 95: 53.50, Gaz Yağı: 43.38, F.Oil: 27.70, Kalyak: 32.76
+DİLOVASI: Motorin: 53.98, Motorin Diğer: 53.98, K.B. 95: 53.50, Gaz Yağı: 43.38, F.Oil: 27.70, Kalyak: 32.76
+DERINCE: Motorin: 53.98, Motorin Diğer: 53.98, K.B. 95: 53.50, Gaz Yağı: 43.38, F.Oil: 27.70, Kalyak: 32.76
+GÖLCÜK: Motorin: 53.98, Motorin Diğer: 53.98, K.B. 95: 53.50, Gaz Yağı: 43.38, F.Oil: 27.70, Kalyak: 32.76
+GEBZE: Motorin: 53.98, Motorin Diğer: 53.98, K.B. 95: 53.50, Gaz Yağı: 43.38, F.Oil: 27.70, Kalyak: 32.76
+KANDIRA: Motorin: 53.98, Motorin Diğer: 53.98, K.B. 95: 53.50, Gaz Yağı: 43.38, F.Oil: 27.70, Kalyak: 32.76
+KARAMÜRSEL: Motorin: 53.98, Motorin Diğer: 53.98, K.B. 95: 53.50, Gaz Yağı: 43.38, F.Oil: 27.70, Kalyak: 32.76
+KARTEPE: Motorin: 53.98, Motorin Diğer: 53.98, K.B. 95: 53.50, Gaz Yağı: 43.38, F.Oil: 27.70, Kalyak: 32.76
+KÖRFEZ: Motorin: 53.98, Motorin Diğer: 53.98, K.B. 95: 53.50, Gaz Yağı: 43.38, F.Oil: 27.70, Kalyak: 32.76

@@ -1,0 +1,7 @@
+Merkez: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.65, Gaz Yağı: 43.46, F.Oil: 29.26, Kalyak: 34.32
+GÜMÜŞHACIKÖY: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.65, Gaz Yağı: 43.46, F.Oil: 29.26, Kalyak: 34.32
+GÖYNÜCEK: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.65, Gaz Yağı: 43.46, F.Oil: 29.26, Kalyak: 34.32
+HAMAMÖZÜ: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.65, Gaz Yağı: 43.46, F.Oil: 29.26, Kalyak: 34.32
+MERZIFON: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.65, Gaz Yağı: 43.46, F.Oil: 29.26, Kalyak: 34.32
+SULUOVA: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.65, Gaz Yağı: 43.46, F.Oil: 29.26, Kalyak: 34.32
+TASOVA: Motorin: 55.32, Motorin Diğer: 55.32, K.B. 95: 54.65, Gaz Yağı: 43.46, F.Oil: 29.26, Kalyak: 34.32

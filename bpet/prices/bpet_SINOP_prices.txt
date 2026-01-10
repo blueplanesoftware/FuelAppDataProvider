@@ -1,0 +1,9 @@
+Merkez: Motorin: 55.37, Motorin Diğer: 55.37, K.B. 95: 54.70, Gaz Yağı: 43.45, F.Oil: 29.28, Kalyak: 34.33
+AYANCIK: Motorin: 55.37, Motorin Diğer: 55.37, K.B. 95: 54.70, Gaz Yağı: 43.45, F.Oil: 29.28, Kalyak: 34.33
+BOYABAT: Motorin: 55.37, Motorin Diğer: 55.37, K.B. 95: 54.70, Gaz Yağı: 43.45, F.Oil: 29.28, Kalyak: 34.33
+DIKMEN: Motorin: 55.37, Motorin Diğer: 55.37, K.B. 95: 54.70, Gaz Yağı: 43.45, F.Oil: 29.28, Kalyak: 34.33
+DURAGAN: Motorin: 55.37, Motorin Diğer: 55.37, K.B. 95: 54.70, Gaz Yağı: 43.45, F.Oil: 29.28, Kalyak: 34.33
+ERFELEK: Motorin: 55.37, Motorin Diğer: 55.37, K.B. 95: 54.70, Gaz Yağı: 43.45, F.Oil: 29.28, Kalyak: 34.33
+GERZE: Motorin: 55.37, Motorin Diğer: 55.37, K.B. 95: 54.70, Gaz Yağı: 43.45, F.Oil: 29.28, Kalyak: 34.33
+SARAYDÜZÜ: Motorin: 55.37, Motorin Diğer: 55.37, K.B. 95: 54.70, Gaz Yağı: 43.45, F.Oil: 29.28, Kalyak: 34.33
+TÜRKELI: Motorin: 55.37, Motorin Diğer: 55.37, K.B. 95: 54.70, Gaz Yağı: 43.45, F.Oil: 29.28, Kalyak: 34.33

@@ -1,0 +1,8 @@
+Merkez: Motorin: 54.85, Motorin Diğer: 54.85, K.B. 95: 54.15, Gaz Yağı: 43.38, F.Oil: 28.48, Kalyak: 33.54
+BABAESKI: Motorin: 54.85, Motorin Diğer: 54.85, K.B. 95: 54.15, Gaz Yağı: 43.38, F.Oil: 28.48, Kalyak: 33.54
+DEMIRKÖY: Motorin: 54.85, Motorin Diğer: 54.85, K.B. 95: 54.15, Gaz Yağı: 43.38, F.Oil: 28.48, Kalyak: 33.54
+KOFÇAZ: Motorin: 54.85, Motorin Diğer: 54.85, K.B. 95: 54.15, Gaz Yağı: 43.38, F.Oil: 28.48, Kalyak: 33.54
+LÜLEBURGAZ: Motorin: 54.85, Motorin Diğer: 54.85, K.B. 95: 54.15, Gaz Yağı: 43.38, F.Oil: 28.48, Kalyak: 33.54
+PEHLIVANKÖY: Motorin: 54.85, Motorin Diğer: 54.85, K.B. 95: 54.15, Gaz Yağı: 43.38, F.Oil: 28.48, Kalyak: 33.54
+PINARHISAR: Motorin: 54.85, Motorin Diğer: 54.85, K.B. 95: 54.15, Gaz Yağı: 43.38, F.Oil: 28.48, Kalyak: 33.54
+VIZE: Motorin: 54.85, Motorin Diğer: 54.85, K.B. 95: 54.15, Gaz Yağı: 43.38, F.Oil: 28.48, Kalyak: 33.54

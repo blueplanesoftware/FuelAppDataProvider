@@ -1,0 +1,12 @@
+Merkez: Motorin: 55.49, Motorin Diğer: 55.49, K.B. 95: 54.81, Gaz Yağı: 43.43, F.Oil: 30.10, Kalyak: 35.71
+ARDESEN: Motorin: 55.49, Motorin Diğer: 55.49, K.B. 95: 54.81, Gaz Yağı: 43.43, F.Oil: 30.10, Kalyak: 35.71
+ÇAMLIHEMSIN: Motorin: 55.49, Motorin Diğer: 55.49, K.B. 95: 54.81, Gaz Yağı: 43.43, F.Oil: 30.10, Kalyak: 35.71
+ÇAYELI: Motorin: 55.49, Motorin Diğer: 55.49, K.B. 95: 54.81, Gaz Yağı: 43.43, F.Oil: 30.10, Kalyak: 35.71
+DEREPAZARI: Motorin: 55.49, Motorin Diğer: 55.49, K.B. 95: 54.81, Gaz Yağı: 43.43, F.Oil: 30.10, Kalyak: 35.71
+FINDIKLI: Motorin: 55.49, Motorin Diğer: 55.49, K.B. 95: 54.81, Gaz Yağı: 43.43, F.Oil: 30.10, Kalyak: 35.71
+GÜNEYSU: Motorin: 55.49, Motorin Diğer: 55.49, K.B. 95: 54.81, Gaz Yağı: 43.43, F.Oil: 30.10, Kalyak: 35.71
+HEMSIN (Ortaköy): Motorin: 55.49, Motorin Diğer: 55.49, K.B. 95: 54.81, Gaz Yağı: 43.43, F.Oil: 30.10, Kalyak: 35.71
+IKIZDERE: Motorin: 55.49, Motorin Diğer: 55.49, K.B. 95: 54.81, Gaz Yağı: 43.43, F.Oil: 30.10, Kalyak: 35.71
+IYIDERE: Motorin: 55.49, Motorin Diğer: 55.49, K.B. 95: 54.81, Gaz Yağı: 43.43, F.Oil: 30.10, Kalyak: 35.71
+KALKANDERE: Motorin: 55.49, Motorin Diğer: 55.49, K.B. 95: 54.81, Gaz Yağı: 43.43, F.Oil: 30.10, Kalyak: 35.71
+PAZAR: Motorin: 55.49, Motorin Diğer: 55.49, K.B. 95: 54.81, Gaz Yağı: 43.43, F.Oil: 30.10, Kalyak: 35.71

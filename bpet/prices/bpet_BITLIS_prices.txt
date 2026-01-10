@@ -1,0 +1,7 @@
+Merkez: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.58, F.Oil: 30.19, Kalyak: 35.99
+ADILCEVAZ: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.58, F.Oil: 30.19, Kalyak: 35.99
+AHLAT: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.58, F.Oil: 30.19, Kalyak: 35.99
+GÜROYMAK: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.58, F.Oil: 30.19, Kalyak: 35.99
+HIZAN: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.58, F.Oil: 30.19, Kalyak: 35.99
+MUTKI: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.58, F.Oil: 30.19, Kalyak: 35.99
+TATVAN: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.58, F.Oil: 30.19, Kalyak: 35.99

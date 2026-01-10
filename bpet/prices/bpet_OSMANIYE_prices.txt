@@ -1,0 +1,7 @@
+Merkez: Motorin: 55.48, Motorin Diğer: 55.48, K.B. 95: 54.79, Gaz Yağı: 43.43, F.Oil: 29.77, Kalyak: 34.82
+BAHÇE: Motorin: 55.48, Motorin Diğer: 55.48, K.B. 95: 54.79, Gaz Yağı: 43.43, F.Oil: 29.77, Kalyak: 34.82
+DÜZİÇİ: Motorin: 55.48, Motorin Diğer: 55.48, K.B. 95: 54.79, Gaz Yağı: 43.43, F.Oil: 29.77, Kalyak: 34.82
+HASANBEYLI: Motorin: 55.48, Motorin Diğer: 55.48, K.B. 95: 54.79, Gaz Yağı: 43.43, F.Oil: 29.77, Kalyak: 34.82
+KADIRLI: Motorin: 55.48, Motorin Diğer: 55.48, K.B. 95: 54.79, Gaz Yağı: 43.43, F.Oil: 29.77, Kalyak: 34.82
+SUMBAS: Motorin: 55.48, Motorin Diğer: 55.48, K.B. 95: 54.79, Gaz Yağı: 43.43, F.Oil: 29.77, Kalyak: 34.82
+TOPRAKKALE: Motorin: 55.48, Motorin Diğer: 55.48, K.B. 95: 54.79, Gaz Yağı: 43.43, F.Oil: 29.77, Kalyak: 34.82

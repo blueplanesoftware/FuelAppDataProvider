@@ -1,0 +1,8 @@
+Merkez: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.60, F.Oil: 30.15, Kalyak: 35.92
+ADAKLI: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.60, F.Oil: 30.15, Kalyak: 35.92
+GENÇ: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.60, F.Oil: 30.15, Kalyak: 35.92
+KARLIOVA: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.60, F.Oil: 30.15, Kalyak: 35.92
+KIGI: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.60, F.Oil: 30.15, Kalyak: 35.92
+SOLHAN: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.60, F.Oil: 30.15, Kalyak: 35.92
+YAYLADERE: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.60, F.Oil: 30.15, Kalyak: 35.92
+YEDISU: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.60, F.Oil: 30.15, Kalyak: 35.92

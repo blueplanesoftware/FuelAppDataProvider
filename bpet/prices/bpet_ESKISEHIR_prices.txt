@@ -1,0 +1,15 @@
+Merkez: Motorin: 54.82, Motorin Diğer: 54.82, K.B. 95: 54.34, Gaz Yağı: 43.42, F.Oil: 28.03, Kalyak: 33.08
+ALPU: Motorin: 54.82, Motorin Diğer: 54.82, K.B. 95: 54.34, Gaz Yağı: 43.42, F.Oil: 28.03, Kalyak: 33.08
+İNÖNÜ: Motorin: 54.82, Motorin Diğer: 54.82, K.B. 95: 54.34, Gaz Yağı: 43.42, F.Oil: 28.03, Kalyak: 33.08
+ÇIFTELER: Motorin: 54.82, Motorin Diğer: 54.82, K.B. 95: 54.34, Gaz Yağı: 43.42, F.Oil: 28.03, Kalyak: 33.08
+BEYLIKOVA: Motorin: 54.82, Motorin Diğer: 54.82, K.B. 95: 54.34, Gaz Yağı: 43.42, F.Oil: 28.03, Kalyak: 33.08
+GÜNYÜZÜ: Motorin: 54.82, Motorin Diğer: 54.82, K.B. 95: 54.34, Gaz Yağı: 43.42, F.Oil: 28.03, Kalyak: 33.08
+HAN: Motorin: 54.82, Motorin Diğer: 54.82, K.B. 95: 54.34, Gaz Yağı: 43.42, F.Oil: 28.03, Kalyak: 33.08
+MAHMUDIYE: Motorin: 54.82, Motorin Diğer: 54.82, K.B. 95: 54.34, Gaz Yağı: 43.42, F.Oil: 28.03, Kalyak: 33.08
+MIHALGAZI: Motorin: 54.82, Motorin Diğer: 54.82, K.B. 95: 54.34, Gaz Yağı: 43.42, F.Oil: 28.03, Kalyak: 33.08
+MIHALIÇCIK: Motorin: 54.82, Motorin Diğer: 54.82, K.B. 95: 54.34, Gaz Yağı: 43.42, F.Oil: 28.03, Kalyak: 33.08
+ODUNPAZARI: Motorin: 54.82, Motorin Diğer: 54.82, K.B. 95: 54.34, Gaz Yağı: 43.42, F.Oil: 28.03, Kalyak: 33.08
+SARICAKAYA: Motorin: 54.82, Motorin Diğer: 54.82, K.B. 95: 54.34, Gaz Yağı: 43.42, F.Oil: 28.03, Kalyak: 33.08
+SEYITGAZI: Motorin: 54.82, Motorin Diğer: 54.82, K.B. 95: 54.34, Gaz Yağı: 43.42, F.Oil: 28.03, Kalyak: 33.08
+SIVRIHISAR: Motorin: 54.82, Motorin Diğer: 54.82, K.B. 95: 54.34, Gaz Yağı: 43.42, F.Oil: 28.03, Kalyak: 33.08
+TEPEBAŞI: Motorin: 54.82, Motorin Diğer: 54.82, K.B. 95: 54.34, Gaz Yağı: 43.42, F.Oil: 28.03, Kalyak: 33.08

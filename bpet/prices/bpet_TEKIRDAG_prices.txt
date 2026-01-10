@@ -1,0 +1,12 @@
+Merkez: Motorin: 54.46, Motorin Diğer: 54.46, K.B. 95: 53.76, Gaz Yağı: 43.38, F.Oil: 28.39, Kalyak: 33.44
+ÇERKEZKÖY: Motorin: 54.46, Motorin Diğer: 54.46, K.B. 95: 53.76, Gaz Yağı: 43.38, F.Oil: 28.39, Kalyak: 33.44
+ÇORLU: Motorin: 54.46, Motorin Diğer: 54.46, K.B. 95: 53.76, Gaz Yağı: 43.38, F.Oil: 28.39, Kalyak: 33.44
+ERGENE: Motorin: 54.46, Motorin Diğer: 54.46, K.B. 95: 53.76, Gaz Yağı: 43.38, F.Oil: 28.39, Kalyak: 33.44
+HAYRABOLU: Motorin: 54.46, Motorin Diğer: 54.46, K.B. 95: 53.76, Gaz Yağı: 43.38, F.Oil: 28.39, Kalyak: 33.44
+KAPAKLI: Motorin: 54.46, Motorin Diğer: 54.46, K.B. 95: 53.76, Gaz Yağı: 43.38, F.Oil: 28.39, Kalyak: 33.44
+MALKARA: Motorin: 54.46, Motorin Diğer: 54.46, K.B. 95: 53.76, Gaz Yağı: 43.38, F.Oil: 28.39, Kalyak: 33.44
+MARMARAEREGLISI: Motorin: 54.46, Motorin Diğer: 54.46, K.B. 95: 53.76, Gaz Yağı: 43.38, F.Oil: 28.39, Kalyak: 33.44
+MURATLI: Motorin: 54.46, Motorin Diğer: 54.46, K.B. 95: 53.76, Gaz Yağı: 43.38, F.Oil: 28.39, Kalyak: 33.44
+SARAY: Motorin: 54.46, Motorin Diğer: 54.46, K.B. 95: 53.76, Gaz Yağı: 43.38, F.Oil: 28.39, Kalyak: 33.44
+SARKÖY: Motorin: 54.46, Motorin Diğer: 54.46, K.B. 95: 53.76, Gaz Yağı: 43.38, F.Oil: 28.39, Kalyak: 33.44
+SÜLEYMANPAŞA: Motorin: 54.46, Motorin Diğer: 54.46, K.B. 95: 53.76, Gaz Yağı: 43.38, F.Oil: 28.39, Kalyak: 33.44

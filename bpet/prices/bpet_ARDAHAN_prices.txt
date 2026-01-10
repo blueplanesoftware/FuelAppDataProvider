@@ -1,0 +1,6 @@
+Merkez: Motorin: 55.80, Motorin Diğer: 55.80, K.B. 95: 55.12, Gaz Yağı: 43.48, F.Oil: 30.16, Kalyak: 35.93
+ÇILDIR: Motorin: 55.80, Motorin Diğer: 55.80, K.B. 95: 55.12, Gaz Yağı: 43.48, F.Oil: 30.16, Kalyak: 35.93
+DAMAL: Motorin: 55.80, Motorin Diğer: 55.80, K.B. 95: 55.12, Gaz Yağı: 43.48, F.Oil: 30.16, Kalyak: 35.93
+GÖLE: Motorin: 55.80, Motorin Diğer: 55.80, K.B. 95: 55.12, Gaz Yağı: 43.48, F.Oil: 30.16, Kalyak: 35.93
+HANAK: Motorin: 55.80, Motorin Diğer: 55.80, K.B. 95: 55.12, Gaz Yağı: 43.48, F.Oil: 30.16, Kalyak: 35.93
+POSOF: Motorin: 55.80, Motorin Diğer: 55.80, K.B. 95: 55.12, Gaz Yağı: 43.48, F.Oil: 30.16, Kalyak: 35.93

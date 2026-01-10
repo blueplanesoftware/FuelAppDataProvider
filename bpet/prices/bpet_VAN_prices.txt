@@ -1,0 +1,14 @@
+Merkez: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.58, F.Oil: 30.24, Kalyak: 36.07
+İPEKYOLU: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.58, F.Oil: 30.24, Kalyak: 36.07
+ÖZALP: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.58, F.Oil: 30.24, Kalyak: 36.07
+ÇALDIRAN: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.58, F.Oil: 30.24, Kalyak: 36.07
+ÇATAK: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.58, F.Oil: 30.24, Kalyak: 36.07
+BAHÇESARAY: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.58, F.Oil: 30.24, Kalyak: 36.07
+BASKALE: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.58, F.Oil: 30.24, Kalyak: 36.07
+EDREMIT: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.58, F.Oil: 30.24, Kalyak: 36.07
+ERCIS: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.58, F.Oil: 30.24, Kalyak: 36.07
+GÜRPINAR: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.58, F.Oil: 30.24, Kalyak: 36.07
+GEVAS: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.58, F.Oil: 30.24, Kalyak: 36.07
+MURADIYE: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.58, F.Oil: 30.24, Kalyak: 36.07
+SARAY: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.58, F.Oil: 30.24, Kalyak: 36.07
+TUŞBA: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.58, F.Oil: 30.24, Kalyak: 36.07

@@ -1,0 +1,17 @@
+Merkez: Motorin: 55.76, Motorin Diğer: 55.76, K.B. 95: 55.07, Gaz Yağı: 43.43, F.Oil: 29.40, Kalyak: 34.46
+AKKISLA: Motorin: 55.76, Motorin Diğer: 55.76, K.B. 95: 55.07, Gaz Yağı: 43.43, F.Oil: 29.40, Kalyak: 34.46
+ÖZVATAN: Motorin: 55.76, Motorin Diğer: 55.76, K.B. 95: 55.07, Gaz Yağı: 43.43, F.Oil: 29.40, Kalyak: 34.46
+BÜNYAN: Motorin: 55.76, Motorin Diğer: 55.76, K.B. 95: 55.07, Gaz Yağı: 43.43, F.Oil: 29.40, Kalyak: 34.46
+DEVELI: Motorin: 55.76, Motorin Diğer: 55.76, K.B. 95: 55.07, Gaz Yağı: 43.43, F.Oil: 29.40, Kalyak: 34.46
+FELAHIYE: Motorin: 55.76, Motorin Diğer: 55.76, K.B. 95: 55.07, Gaz Yağı: 43.43, F.Oil: 29.40, Kalyak: 34.46
+HACILAR: Motorin: 55.76, Motorin Diğer: 55.76, K.B. 95: 55.07, Gaz Yağı: 43.43, F.Oil: 29.40, Kalyak: 34.46
+INCESU: Motorin: 55.76, Motorin Diğer: 55.76, K.B. 95: 55.07, Gaz Yağı: 43.43, F.Oil: 29.40, Kalyak: 34.46
+KOCASINAN: Motorin: 55.76, Motorin Diğer: 55.76, K.B. 95: 55.07, Gaz Yağı: 43.43, F.Oil: 29.40, Kalyak: 34.46
+MELIKGAZI: Motorin: 55.76, Motorin Diğer: 55.76, K.B. 95: 55.07, Gaz Yağı: 43.43, F.Oil: 29.40, Kalyak: 34.46
+PINARBASI: Motorin: 55.76, Motorin Diğer: 55.76, K.B. 95: 55.07, Gaz Yağı: 43.43, F.Oil: 29.40, Kalyak: 34.46
+SARIOGLAN: Motorin: 55.76, Motorin Diğer: 55.76, K.B. 95: 55.07, Gaz Yağı: 43.43, F.Oil: 29.40, Kalyak: 34.46
+SARIZ: Motorin: 55.76, Motorin Diğer: 55.76, K.B. 95: 55.07, Gaz Yağı: 43.43, F.Oil: 29.40, Kalyak: 34.46
+TALAS: Motorin: 55.76, Motorin Diğer: 55.76, K.B. 95: 55.07, Gaz Yağı: 43.43, F.Oil: 29.40, Kalyak: 34.46
+TOMARZA: Motorin: 55.76, Motorin Diğer: 55.76, K.B. 95: 55.07, Gaz Yağı: 43.43, F.Oil: 29.40, Kalyak: 34.46
+YAHYALI: Motorin: 55.76, Motorin Diğer: 55.76, K.B. 95: 55.07, Gaz Yağı: 43.43, F.Oil: 29.40, Kalyak: 34.46
+YESILHISAR: Motorin: 55.76, Motorin Diğer: 55.76, K.B. 95: 55.07, Gaz Yağı: 43.43, F.Oil: 29.40, Kalyak: 34.46

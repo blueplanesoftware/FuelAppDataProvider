@@ -1,0 +1,7 @@
+Merkez: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.53, F.Oil: 30.21, Kalyak: 36.01
+BEYTÜSSEBAP: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.53, F.Oil: 30.21, Kalyak: 36.01
+CIZRE: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.53, F.Oil: 30.21, Kalyak: 36.01
+GÜÇLÜKONAK: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.53, F.Oil: 30.21, Kalyak: 36.01
+IDIL: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.53, F.Oil: 30.21, Kalyak: 36.01
+SILOPI: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.53, F.Oil: 30.21, Kalyak: 36.01
+ULUDERE: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.53, F.Oil: 30.21, Kalyak: 36.01

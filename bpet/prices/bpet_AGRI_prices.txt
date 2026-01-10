@@ -1,0 +1,8 @@
+Merkez: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.49, F.Oil: 30.19, Kalyak: 35.98
+DIYADIN: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.49, F.Oil: 30.19, Kalyak: 35.98
+DOGUBAYAZIT: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.49, F.Oil: 30.19, Kalyak: 35.98
+ELESKIRT: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.49, F.Oil: 30.19, Kalyak: 35.98
+HAMUR: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.49, F.Oil: 30.19, Kalyak: 35.98
+PATNOS: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.49, F.Oil: 30.19, Kalyak: 35.98
+TASLIÇAY: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.49, F.Oil: 30.19, Kalyak: 35.98
+TUTAK: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.44, Gaz Yağı: 43.49, F.Oil: 30.19, Kalyak: 35.98

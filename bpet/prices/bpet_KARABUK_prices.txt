@@ -1,0 +1,6 @@
+Merkez: Motorin: 54.86, Motorin Diğer: 54.86, K.B. 95: 54.38, Gaz Yağı: 43.43, F.Oil: 28.49, Kalyak: 33.55
+EFLANI: Motorin: 54.86, Motorin Diğer: 54.86, K.B. 95: 54.38, Gaz Yağı: 43.43, F.Oil: 28.49, Kalyak: 33.55
+ESKIPAZAR: Motorin: 54.86, Motorin Diğer: 54.86, K.B. 95: 54.38, Gaz Yağı: 43.43, F.Oil: 28.49, Kalyak: 33.55
+OVACIK: Motorin: 54.86, Motorin Diğer: 54.86, K.B. 95: 54.38, Gaz Yağı: 43.43, F.Oil: 28.49, Kalyak: 33.55
+SAFRANBOLU: Motorin: 54.86, Motorin Diğer: 54.86, K.B. 95: 54.38, Gaz Yağı: 43.43, F.Oil: 28.49, Kalyak: 33.55
+YENICE: Motorin: 54.86, Motorin Diğer: 54.86, K.B. 95: 54.38, Gaz Yağı: 43.43, F.Oil: 28.49, Kalyak: 33.55

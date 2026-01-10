@@ -1,0 +1,8 @@
+Merkez: Motorin: 54.79, Motorin Diğer: 54.79, K.B. 95: 54.31, Gaz Yağı: 43.41, F.Oil: 28.39, Kalyak: 33.45
+ALAPLI: Motorin: 54.79, Motorin Diğer: 54.79, K.B. 95: 54.31, Gaz Yağı: 43.41, F.Oil: 28.39, Kalyak: 33.45
+ÇAYCUMA: Motorin: 54.79, Motorin Diğer: 54.79, K.B. 95: 54.31, Gaz Yağı: 43.41, F.Oil: 28.39, Kalyak: 33.45
+DEVREK: Motorin: 54.79, Motorin Diğer: 54.79, K.B. 95: 54.31, Gaz Yağı: 43.41, F.Oil: 28.39, Kalyak: 33.45
+EREGLI: Motorin: 54.79, Motorin Diğer: 54.79, K.B. 95: 54.31, Gaz Yağı: 43.41, F.Oil: 28.39, Kalyak: 33.45
+GÖKÇEBEY: Motorin: 54.79, Motorin Diğer: 54.79, K.B. 95: 54.31, Gaz Yağı: 43.41, F.Oil: 28.39, Kalyak: 33.45
+KİLİMLİ: Motorin: 54.79, Motorin Diğer: 54.79, K.B. 95: 54.31, Gaz Yağı: 43.41, F.Oil: 28.39, Kalyak: 33.45
+KOZLU: Motorin: 54.79, Motorin Diğer: 54.79, K.B. 95: 54.31, Gaz Yağı: 43.41, F.Oil: 28.39, Kalyak: 33.45

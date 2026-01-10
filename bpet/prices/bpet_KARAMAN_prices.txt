@@ -1,0 +1,6 @@
+Merkez: Motorin: 55.66, Motorin Diğer: 55.66, K.B. 95: 54.97, Gaz Yağı: 43.43, F.Oil: 29.44, Kalyak: 34.50
+AYRANCI: Motorin: 55.66, Motorin Diğer: 55.66, K.B. 95: 54.97, Gaz Yağı: 43.43, F.Oil: 29.44, Kalyak: 34.50
+BASYAYLA: Motorin: 55.66, Motorin Diğer: 55.66, K.B. 95: 54.97, Gaz Yağı: 43.43, F.Oil: 29.44, Kalyak: 34.50
+ERMENEK: Motorin: 55.66, Motorin Diğer: 55.66, K.B. 95: 54.97, Gaz Yağı: 43.43, F.Oil: 29.44, Kalyak: 34.50
+KAZIMKARABEKIR: Motorin: 55.66, Motorin Diğer: 55.66, K.B. 95: 54.97, Gaz Yağı: 43.43, F.Oil: 29.44, Kalyak: 34.50
+SARIVELILER: Motorin: 55.66, Motorin Diğer: 55.66, K.B. 95: 54.97, Gaz Yağı: 43.43, F.Oil: 29.44, Kalyak: 34.50

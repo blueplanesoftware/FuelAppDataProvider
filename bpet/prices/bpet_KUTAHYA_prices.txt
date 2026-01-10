@@ -1,0 +1,13 @@
+Merkez: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.96, Gaz Yağı: 43.40, F.Oil: 28.43, Kalyak: 33.48
+ALTINTAS: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.96, Gaz Yağı: 43.40, F.Oil: 28.43, Kalyak: 33.48
+ASLANAPA: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.96, Gaz Yağı: 43.40, F.Oil: 28.43, Kalyak: 33.48
+ÇAVDARHISAR: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.96, Gaz Yağı: 43.40, F.Oil: 28.43, Kalyak: 33.48
+DOMANIÇ: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.96, Gaz Yağı: 43.40, F.Oil: 28.43, Kalyak: 33.48
+DUMLUPINAR: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.96, Gaz Yağı: 43.40, F.Oil: 28.43, Kalyak: 33.48
+EMET: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.96, Gaz Yağı: 43.40, F.Oil: 28.43, Kalyak: 33.48
+GEDIZ: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.96, Gaz Yağı: 43.40, F.Oil: 28.43, Kalyak: 33.48
+HISARCIK: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.96, Gaz Yağı: 43.40, F.Oil: 28.43, Kalyak: 33.48
+PAZARLAR: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.96, Gaz Yağı: 43.40, F.Oil: 28.43, Kalyak: 33.48
+SAPHANE: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.96, Gaz Yağı: 43.40, F.Oil: 28.43, Kalyak: 33.48
+SIMAV: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.96, Gaz Yağı: 43.40, F.Oil: 28.43, Kalyak: 33.48
+TAVSANLI: Motorin: 55.53, Motorin Diğer: 55.53, K.B. 95: 54.96, Gaz Yağı: 43.40, F.Oil: 28.43, Kalyak: 33.48

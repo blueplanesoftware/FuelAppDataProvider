@@ -1,0 +1,9 @@
+Merkez: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.06, Gaz Yağı: 43.47, F.Oil: 30.09, Kalyak: 35.70
+ÜZÜMLÜ: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.06, Gaz Yağı: 43.47, F.Oil: 30.09, Kalyak: 35.70
+ÇAYIRLI: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.06, Gaz Yağı: 43.47, F.Oil: 30.09, Kalyak: 35.70
+ILIÇ: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.06, Gaz Yağı: 43.47, F.Oil: 30.09, Kalyak: 35.70
+KEMAH: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.06, Gaz Yağı: 43.47, F.Oil: 30.09, Kalyak: 35.70
+KEMALIYE: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.06, Gaz Yağı: 43.47, F.Oil: 30.09, Kalyak: 35.70
+OTLUKBELI: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.06, Gaz Yağı: 43.47, F.Oil: 30.09, Kalyak: 35.70
+REFAHIYE: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.06, Gaz Yağı: 43.47, F.Oil: 30.09, Kalyak: 35.70
+TERCAN: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.06, Gaz Yağı: 43.47, F.Oil: 30.09, Kalyak: 35.70

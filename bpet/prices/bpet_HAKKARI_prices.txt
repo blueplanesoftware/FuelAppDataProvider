@@ -1,0 +1,4 @@
+Merkez: Motorin: 56.25, Motorin Diğer: 56.25, K.B. 95: 55.52, Gaz Yağı: 43.62, F.Oil: 30.28, Kalyak: 36.15
+ÇUKURCA: Motorin: 56.25, Motorin Diğer: 56.25, K.B. 95: 55.52, Gaz Yağı: 43.62, F.Oil: 30.28, Kalyak: 36.15
+SEMDINLI: Motorin: 56.25, Motorin Diğer: 56.25, K.B. 95: 55.52, Gaz Yağı: 43.62, F.Oil: 30.28, Kalyak: 36.15
+YÜKSEKOVA: Motorin: 56.25, Motorin Diğer: 56.25, K.B. 95: 55.52, Gaz Yağı: 43.62, F.Oil: 30.28, Kalyak: 36.15

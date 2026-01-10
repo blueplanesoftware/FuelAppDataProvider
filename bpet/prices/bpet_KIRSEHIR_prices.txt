@@ -1,0 +1,7 @@
+Merkez: Motorin: 55.02, Motorin Diğer: 55.02, K.B. 95: 54.33, Gaz Yağı: 43.41, F.Oil: 29.20, Kalyak: 34.26
+AKÇAKENT: Motorin: 55.02, Motorin Diğer: 55.02, K.B. 95: 54.33, Gaz Yağı: 43.41, F.Oil: 29.20, Kalyak: 34.26
+AKPINAR: Motorin: 55.02, Motorin Diğer: 55.02, K.B. 95: 54.33, Gaz Yağı: 43.41, F.Oil: 29.20, Kalyak: 34.26
+ÇİÇEKDAĞI: Motorin: 55.02, Motorin Diğer: 55.02, K.B. 95: 54.33, Gaz Yağı: 43.41, F.Oil: 29.20, Kalyak: 34.26
+BOZTEPE: Motorin: 55.02, Motorin Diğer: 55.02, K.B. 95: 54.33, Gaz Yağı: 43.41, F.Oil: 29.20, Kalyak: 34.26
+KAMAN: Motorin: 55.02, Motorin Diğer: 55.02, K.B. 95: 54.33, Gaz Yağı: 43.41, F.Oil: 29.20, Kalyak: 34.26
+MUCUR: Motorin: 55.02, Motorin Diğer: 55.02, K.B. 95: 54.33, Gaz Yağı: 43.41, F.Oil: 29.20, Kalyak: 34.26

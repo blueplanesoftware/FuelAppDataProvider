@@ -1,0 +1,6 @@
+Merkez: Motorin: 54.29, Motorin Diğer: 54.29, K.B. 95: 53.81, Gaz Yağı: 43.38, F.Oil: 27.79, Kalyak: 32.84
+ALTINOVA: Motorin: 54.29, Motorin Diğer: 54.29, K.B. 95: 53.81, Gaz Yağı: 43.38, F.Oil: 27.79, Kalyak: 32.84
+ARMUTLU: Motorin: 54.29, Motorin Diğer: 54.29, K.B. 95: 53.81, Gaz Yağı: 43.38, F.Oil: 27.79, Kalyak: 32.84
+ÇİFTLİKKÖY: Motorin: 54.29, Motorin Diğer: 54.29, K.B. 95: 53.81, Gaz Yağı: 43.38, F.Oil: 27.79, Kalyak: 32.84
+ÇINARCIK: Motorin: 54.29, Motorin Diğer: 54.29, K.B. 95: 53.81, Gaz Yağı: 43.38, F.Oil: 27.79, Kalyak: 32.84
+TERMAL: Motorin: 54.29, Motorin Diğer: 54.29, K.B. 95: 53.81, Gaz Yağı: 43.38, F.Oil: 27.79, Kalyak: 32.84

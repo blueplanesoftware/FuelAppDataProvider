@@ -1,0 +1,4 @@
+Merkez: Motorin: 55.49, Motorin Diğer: 55.49, K.B. 95: 54.80, Gaz Yağı: 43.42, F.Oil: 30.11, Kalyak: 35.74
+ELBEYLI: Motorin: 55.49, Motorin Diğer: 55.49, K.B. 95: 54.80, Gaz Yağı: 43.42, F.Oil: 30.11, Kalyak: 35.74
+MUSABEYLI: Motorin: 55.49, Motorin Diğer: 55.49, K.B. 95: 54.80, Gaz Yağı: 43.42, F.Oil: 30.11, Kalyak: 35.74
+POLATELI: Motorin: 55.49, Motorin Diğer: 55.49, K.B. 95: 54.80, Gaz Yağı: 43.42, F.Oil: 30.11, Kalyak: 35.74

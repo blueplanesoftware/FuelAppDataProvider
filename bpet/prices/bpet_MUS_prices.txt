@@ -1,0 +1,6 @@
+Merkez: Motorin: 56.14, Motorin Diğer: 56.14, K.B. 95: 55.41, Gaz Yağı: 43.56, F.Oil: 30.17, Kalyak: 35.94
+BULANIK: Motorin: 56.14, Motorin Diğer: 56.14, K.B. 95: 55.41, Gaz Yağı: 43.56, F.Oil: 30.17, Kalyak: 35.94
+HASKÖY: Motorin: 56.14, Motorin Diğer: 56.14, K.B. 95: 55.41, Gaz Yağı: 43.56, F.Oil: 30.17, Kalyak: 35.94
+KORKUT: Motorin: 56.14, Motorin Diğer: 56.14, K.B. 95: 55.41, Gaz Yağı: 43.56, F.Oil: 30.17, Kalyak: 35.94
+MALAZGIRT: Motorin: 56.14, Motorin Diğer: 56.14, K.B. 95: 55.41, Gaz Yağı: 43.56, F.Oil: 30.17, Kalyak: 35.94
+VARTO: Motorin: 56.14, Motorin Diğer: 56.14, K.B. 95: 55.41, Gaz Yağı: 43.56, F.Oil: 30.17, Kalyak: 35.94

@@ -1,0 +1,6 @@
+Merkez: Motorin: 56.07, Motorin Diğer: 56.07, K.B. 95: 55.34, Gaz Yağı: 43.49, F.Oil: 30.17, Kalyak: 35.94
+BESIRI: Motorin: 56.07, Motorin Diğer: 56.07, K.B. 95: 55.34, Gaz Yağı: 43.49, F.Oil: 30.17, Kalyak: 35.94
+GERCÜS: Motorin: 56.07, Motorin Diğer: 56.07, K.B. 95: 55.34, Gaz Yağı: 43.49, F.Oil: 30.17, Kalyak: 35.94
+HASANKEYF: Motorin: 56.07, Motorin Diğer: 56.07, K.B. 95: 55.34, Gaz Yağı: 43.49, F.Oil: 30.17, Kalyak: 35.94
+KOZLUK: Motorin: 56.07, Motorin Diğer: 56.07, K.B. 95: 55.34, Gaz Yağı: 43.49, F.Oil: 30.17, Kalyak: 35.94
+SASON: Motorin: 56.07, Motorin Diğer: 56.07, K.B. 95: 55.34, Gaz Yağı: 43.49, F.Oil: 30.17, Kalyak: 35.94

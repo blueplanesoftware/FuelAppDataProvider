@@ -1,0 +1,7 @@
+Merkez: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.39, Gaz Yağı: 43.41, F.Oil: 30.19, Kalyak: 35.99
+BAYKAN: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.39, Gaz Yağı: 43.41, F.Oil: 30.19, Kalyak: 35.99
+ERUH: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.39, Gaz Yağı: 43.41, F.Oil: 30.19, Kalyak: 35.99
+KURTALAN: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.39, Gaz Yağı: 43.41, F.Oil: 30.19, Kalyak: 35.99
+PERVARI: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.39, Gaz Yağı: 43.41, F.Oil: 30.19, Kalyak: 35.99
+SIRVAN: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.39, Gaz Yağı: 43.41, F.Oil: 30.19, Kalyak: 35.99
+TİLLO: Motorin: 56.12, Motorin Diğer: 56.12, K.B. 95: 55.39, Gaz Yağı: 43.41, F.Oil: 30.19, Kalyak: 35.99

@@ -1,0 +1,10 @@
+Merkez: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.41, F.Oil: 29.91, Kalyak: 34.97
+ARABAN: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.41, F.Oil: 29.91, Kalyak: 34.97
+ISLAHIYE: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.41, F.Oil: 29.91, Kalyak: 34.97
+KARKAMIS: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.41, F.Oil: 29.91, Kalyak: 34.97
+NIZIP: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.41, F.Oil: 29.91, Kalyak: 34.97
+NURDAG: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.41, F.Oil: 29.91, Kalyak: 34.97
+OGUZELI: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.41, F.Oil: 29.91, Kalyak: 34.97
+SAHINBEY: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.41, F.Oil: 29.91, Kalyak: 34.97
+SEHITKAMIL: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.41, F.Oil: 29.91, Kalyak: 34.97
+YAVUZELI: Motorin: 55.74, Motorin Diğer: 55.74, K.B. 95: 55.05, Gaz Yağı: 43.41, F.Oil: 29.91, Kalyak: 34.97

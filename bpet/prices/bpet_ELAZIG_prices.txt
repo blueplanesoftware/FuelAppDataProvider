@@ -1,0 +1,11 @@
+Merkez: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.48, F.Oil: 30.12, Kalyak: 35.79
+AGIN: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.48, F.Oil: 30.12, Kalyak: 35.79
+ALACAKAYA: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.48, F.Oil: 30.12, Kalyak: 35.79
+ARICAK: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.48, F.Oil: 30.12, Kalyak: 35.79
+BASKIL: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.48, F.Oil: 30.12, Kalyak: 35.79
+KARAKOÇAN: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.48, F.Oil: 30.12, Kalyak: 35.79
+KEBAN: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.48, F.Oil: 30.12, Kalyak: 35.79
+KOVANCILAR: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.48, F.Oil: 30.12, Kalyak: 35.79
+MADEN: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.48, F.Oil: 30.12, Kalyak: 35.79
+PALU: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.48, F.Oil: 30.12, Kalyak: 35.79
+SIVRICE: Motorin: 56.18, Motorin Diğer: 56.18, K.B. 95: 55.45, Gaz Yağı: 43.48, F.Oil: 30.12, Kalyak: 35.79

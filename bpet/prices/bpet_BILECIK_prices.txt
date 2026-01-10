@@ -1,0 +1,8 @@
+Merkez: Motorin: 54.48, Motorin Diğer: 54.48, K.B. 95: 54.00, Gaz Yağı: 43.38, F.Oil: 27.91, Kalyak: 32.96
+BOZÜYÜK: Motorin: 54.48, Motorin Diğer: 54.48, K.B. 95: 54.00, Gaz Yağı: 43.38, F.Oil: 27.91, Kalyak: 32.96
+GÖLPAZARI: Motorin: 54.48, Motorin Diğer: 54.48, K.B. 95: 54.00, Gaz Yağı: 43.38, F.Oil: 27.91, Kalyak: 32.96
+INHISAR: Motorin: 54.48, Motorin Diğer: 54.48, K.B. 95: 54.00, Gaz Yağı: 43.38, F.Oil: 27.91, Kalyak: 32.96
+OSMANELI: Motorin: 54.48, Motorin Diğer: 54.48, K.B. 95: 54.00, Gaz Yağı: 43.38, F.Oil: 27.91, Kalyak: 32.96
+PAZARYERI: Motorin: 54.48, Motorin Diğer: 54.48, K.B. 95: 54.00, Gaz Yağı: 43.38, F.Oil: 27.91, Kalyak: 32.96
+SÖĞÜT: Motorin: 54.48, Motorin Diğer: 54.48, K.B. 95: 54.00, Gaz Yağı: 43.38, F.Oil: 27.91, Kalyak: 32.96
+YENIPAZAR: Motorin: 54.48, Motorin Diğer: 54.48, K.B. 95: 54.00, Gaz Yağı: 43.38, F.Oil: 27.91, Kalyak: 32.96
