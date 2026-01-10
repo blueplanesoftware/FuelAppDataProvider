@@ -1,0 +1,3 @@
+Elbeyli: K. Benzin (95 Oktan): 54.92, Motorin: 55.53, Motorin XTR: 55.53, Gazyağı: 46.91, Fuel Oil3: 30.38, Kalorifer Yakıtı: 36.08, LPG: 30.75
+Musabeyli: K. Benzin (95 Oktan): 54.88, Motorin: 55.49, Motorin XTR: 55.49, Gazyağı: 46.87, Fuel Oil3: 30.34, Kalorifer Yakıtı: 36.04, LPG: 30.75
+Polateli: K. Benzin (95 Oktan): 54.89, Motorin: 55.50, Motorin XTR: 55.50, Gazyağı: 46.88, Fuel Oil3: 30.35, Kalorifer Yakıtı: 36.05, LPG: 30.75

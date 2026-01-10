@@ -1,0 +1,9 @@
+Bahşili: K. Benzin (95 Oktan): 54.34, Motorin: 55.00, Motorin XTR: 55.00, Gazyağı: 45.16, Fuel Oil3: 29.31, Kalorifer Yakıtı: 34.44, LPG: 30.45
+Balışeyh: K. Benzin (95 Oktan): 54.36, Motorin: 55.02, Motorin XTR: 55.02, Gazyağı: 45.18, Fuel Oil3: 29.33, Kalorifer Yakıtı: 34.46, LPG: 30.45
+Çelebi: K. Benzin (95 Oktan): 54.37, Motorin: 55.03, Motorin XTR: 55.03, Gazyağı: 45.19, Fuel Oil3: 29.34, Kalorifer Yakıtı: 34.47, LPG: 30.45
+Delice: K. Benzin (95 Oktan): 54.40, Motorin: 55.06, Motorin XTR: 55.06, Gazyağı: 45.22, Fuel Oil3: 29.37, Kalorifer Yakıtı: 34.50, LPG: 30.45
+Karakeçili: K. Benzin (95 Oktan): 54.35, Motorin: 55.01, Motorin XTR: 55.01, Gazyağı: 45.17, Fuel Oil3: 29.32, Kalorifer Yakıtı: 34.45, LPG: 30.45
+Keskin: K. Benzin (95 Oktan): 54.35, Motorin: 55.01, Motorin XTR: 55.01, Gazyağı: 45.17, Fuel Oil3: 29.32, Kalorifer Yakıtı: 34.45, LPG: 30.45
+Sulakyurt: K. Benzin (95 Oktan): 54.39, Motorin: 55.05, Motorin XTR: 55.05, Gazyağı: 45.21, Fuel Oil3: 29.36, Kalorifer Yakıtı: 34.49, LPG: 30.45
+Yahşihan: K. Benzin (95 Oktan): 54.34, Motorin: 55.00, Motorin XTR: 55.00, Gazyağı: 45.16, Fuel Oil3: 29.31, Kalorifer Yakıtı: 34.44, LPG: 30.45
+Yahşiyan: K. Benzin (95 Oktan): 41.51, Motorin: 41.92, Motorin XTR: 41.92, Gazyağı: 38.19, Fuel Oil3: 29.72, Kalorifer Yakıtı: 33.68, LPG: 30.45

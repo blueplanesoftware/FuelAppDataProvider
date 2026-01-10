@@ -1,0 +1,6 @@
+Bahçe: K. Benzin (95 Oktan): 54.92, Motorin: 55.53, Motorin XTR: 55.53, Gazyağı: 46.70, Fuel Oil3: 30.05, Kalorifer Yakıtı: 35.17, LPG: 30.75
+Düziçi: K. Benzin (95 Oktan): 54.91, Motorin: 55.52, Motorin XTR: 55.52, Gazyağı: 46.69, Fuel Oil3: 30.04, Kalorifer Yakıtı: 35.16, LPG: 30.75
+Hasanbeyli: K. Benzin (95 Oktan): 54.92, Motorin: 55.53, Motorin XTR: 55.53, Gazyağı: 46.70, Fuel Oil3: 30.05, Kalorifer Yakıtı: 35.17, LPG: 30.75
+Kadirli: K. Benzin (95 Oktan): 54.92, Motorin: 55.53, Motorin XTR: 55.53, Gazyağı: 46.70, Fuel Oil3: 30.05, Kalorifer Yakıtı: 35.17, LPG: 30.75
+Sumbaş: K. Benzin (95 Oktan): 54.93, Motorin: 55.54, Motorin XTR: 55.54, Gazyağı: 46.71, Fuel Oil3: 30.06, Kalorifer Yakıtı: 35.18, LPG: 30.75
+Toprakkale: K. Benzin (95 Oktan): 54.88, Motorin: 55.49, Motorin XTR: 55.49, Gazyağı: 46.66, Fuel Oil3: 30.01, Kalorifer Yakıtı: 35.13, LPG: 30.75

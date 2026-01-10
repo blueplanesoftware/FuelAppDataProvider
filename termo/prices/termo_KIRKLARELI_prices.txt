@@ -1,0 +1,7 @@
+Babaeski: K. Benzin (95 Oktan): 54.19, Motorin: 54.85, Motorin XTR: 54.85, Gazyağı: 46.91, Fuel Oil3: 28.71, Kalorifer Yakıtı: 33.84, LPG: 30.95
+Demirköy: K. Benzin (95 Oktan): 54.20, Motorin: 54.86, Motorin XTR: 54.86, Gazyağı: 46.92, Fuel Oil3: 28.72, Kalorifer Yakıtı: 33.85, LPG: 30.95
+Kofçaz: K. Benzin (95 Oktan): 54.20, Motorin: 54.86, Motorin XTR: 54.86, Gazyağı: 46.92, Fuel Oil3: 28.72, Kalorifer Yakıtı: 33.85, LPG: 30.95
+Lüleburgaz: K. Benzin (95 Oktan): 54.18, Motorin: 54.84, Motorin XTR: 54.84, Gazyağı: 46.90, Fuel Oil3: 28.70, Kalorifer Yakıtı: 33.83, LPG: 30.95
+Pehlivanköy: K. Benzin (95 Oktan): 54.20, Motorin: 54.86, Motorin XTR: 54.86, Gazyağı: 46.92, Fuel Oil3: 28.72, Kalorifer Yakıtı: 33.85, LPG: 30.95
+Pınarhisar: K. Benzin (95 Oktan): 54.19, Motorin: 54.85, Motorin XTR: 54.85, Gazyağı: 46.91, Fuel Oil3: 28.71, Kalorifer Yakıtı: 33.84, LPG: 30.95
+Vize: K. Benzin (95 Oktan): 54.19, Motorin: 54.85, Motorin XTR: 54.85, Gazyağı: 46.91, Fuel Oil3: 28.71, Kalorifer Yakıtı: 33.84, LPG: 30.95

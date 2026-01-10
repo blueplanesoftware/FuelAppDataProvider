@@ -1,0 +1,5 @@
+Bulanık: K. Benzin (95 Oktan): 55.54, Motorin: 56.17, Motorin XTR: 56.17, Gazyağı: 47.24, Fuel Oil3: 30.43, Kalorifer Yakıtı: 36.27, LPG: 30.85
+Hasköy: K. Benzin (95 Oktan): 55.53, Motorin: 56.16, Motorin XTR: 56.16, Gazyağı: 47.23, Fuel Oil3: 30.42, Kalorifer Yakıtı: 36.26, LPG: 30.85
+Korkut: K. Benzin (95 Oktan): 55.53, Motorin: 56.16, Motorin XTR: 56.16, Gazyağı: 47.23, Fuel Oil3: 30.42, Kalorifer Yakıtı: 36.26, LPG: 30.85
+Malazgirt: K. Benzin (95 Oktan): 55.54, Motorin: 56.17, Motorin XTR: 56.17, Gazyağı: 47.24, Fuel Oil3: 30.43, Kalorifer Yakıtı: 36.27, LPG: 30.85
+Varto: K. Benzin (95 Oktan): 55.53, Motorin: 56.16, Motorin XTR: 56.16, Gazyağı: 47.23, Fuel Oil3: 30.42, Kalorifer Yakıtı: 36.26, LPG: 30.85

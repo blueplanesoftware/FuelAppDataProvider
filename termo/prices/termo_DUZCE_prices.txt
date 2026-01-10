@@ -1,0 +1,7 @@
+Akçakoca: K. Benzin (95 Oktan): 54.02, Motorin: 54.47, Motorin XTR: 54.47, Gazyağı: 45.99, Fuel Oil3: 28.12, Kalorifer Yakıtı: 33.25, LPG: 30.35
+Cumayeri: K. Benzin (95 Oktan): 53.99, Motorin: 54.44, Motorin XTR: 54.44, Gazyağı: 45.96, Fuel Oil3: 28.09, Kalorifer Yakıtı: 33.22, LPG: 30.35
+Çilimli: K. Benzin (95 Oktan): 54.00, Motorin: 54.45, Motorin XTR: 54.45, Gazyağı: 45.97, Fuel Oil3: 28.10, Kalorifer Yakıtı: 33.23, LPG: 30.35
+Gölyaka: K. Benzin (95 Oktan): 54.00, Motorin: 54.45, Motorin XTR: 54.45, Gazyağı: 45.97, Fuel Oil3: 28.10, Kalorifer Yakıtı: 33.23, LPG: 30.35
+Gümüşova: K. Benzin (95 Oktan): 53.99, Motorin: 54.44, Motorin XTR: 54.44, Gazyağı: 45.96, Fuel Oil3: 28.09, Kalorifer Yakıtı: 33.22, LPG: 30.35
+Kaynaşlı: K. Benzin (95 Oktan): 54.01, Motorin: 54.46, Motorin XTR: 54.46, Gazyağı: 45.98, Fuel Oil3: 28.11, Kalorifer Yakıtı: 33.24, LPG: 30.35
+Yığılca: K. Benzin (95 Oktan): 54.03, Motorin: 54.48, Motorin XTR: 54.48, Gazyağı: 46.00, Fuel Oil3: 28.13, Kalorifer Yakıtı: 33.26, LPG: 30.35

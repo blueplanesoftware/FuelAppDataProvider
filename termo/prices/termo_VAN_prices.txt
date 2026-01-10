@@ -1,0 +1,13 @@
+Bahçesaray: K. Benzin (95 Oktan): 55.53, Motorin: 56.13, Motorin XTR: 56.13, Gazyağı: 48.23, Fuel Oil3: 30.48, Kalorifer Yakıtı: 36.38, LPG: 30.75
+Başkale: K. Benzin (95 Oktan): 55.53, Motorin: 56.13, Motorin XTR: 56.13, Gazyağı: 48.23, Fuel Oil3: 30.48, Kalorifer Yakıtı: 36.38, LPG: 30.75
+Çaldıran: K. Benzin (95 Oktan): 55.49, Motorin: 56.09, Motorin XTR: 56.09, Gazyağı: 48.19, Fuel Oil3: 30.44, Kalorifer Yakıtı: 36.34, LPG: 30.75
+Çatak: K. Benzin (95 Oktan): 55.53, Motorin: 56.13, Motorin XTR: 56.13, Gazyağı: 48.23, Fuel Oil3: 30.48, Kalorifer Yakıtı: 36.38, LPG: 30.75
+Edremit: K. Benzin (95 Oktan): 55.53, Motorin: 56.13, Motorin XTR: 56.13, Gazyağı: 48.23, Fuel Oil3: 30.48, Kalorifer Yakıtı: 36.38, LPG: 30.75
+Erciş: K. Benzin (95 Oktan): 55.48, Motorin: 56.08, Motorin XTR: 56.08, Gazyağı: 48.18, Fuel Oil3: 30.43, Kalorifer Yakıtı: 36.33, LPG: 30.75
+Gevaş: K. Benzin (95 Oktan): 55.53, Motorin: 56.13, Motorin XTR: 56.13, Gazyağı: 48.23, Fuel Oil3: 30.48, Kalorifer Yakıtı: 36.38, LPG: 30.75
+Gürpınar: K. Benzin (95 Oktan): 55.53, Motorin: 56.13, Motorin XTR: 56.13, Gazyağı: 48.23, Fuel Oil3: 30.48, Kalorifer Yakıtı: 36.38, LPG: 30.75
+İpekyolu: K. Benzin (95 Oktan): 55.53, Motorin: 56.13, Motorin XTR: 56.13, Gazyağı: 48.23, Fuel Oil3: 30.48, Kalorifer Yakıtı: 36.38, LPG: 30.75
+Muradiye: K. Benzin (95 Oktan): 55.49, Motorin: 56.09, Motorin XTR: 56.09, Gazyağı: 48.19, Fuel Oil3: 30.44, Kalorifer Yakıtı: 36.34, LPG: 30.75
+Özalp: K. Benzin (95 Oktan): 55.53, Motorin: 56.13, Motorin XTR: 56.13, Gazyağı: 48.23, Fuel Oil3: 30.48, Kalorifer Yakıtı: 36.38, LPG: 30.75
+Saray: K. Benzin (95 Oktan): 55.53, Motorin: 56.13, Motorin XTR: 56.13, Gazyağı: 48.23, Fuel Oil3: 30.48, Kalorifer Yakıtı: 36.38, LPG: 30.75
+Tusba: K. Benzin (95 Oktan): 55.53, Motorin: 56.13, Motorin XTR: 56.13, Gazyağı: 48.23, Fuel Oil3: 30.48, Kalorifer Yakıtı: 36.38, LPG: 30.75

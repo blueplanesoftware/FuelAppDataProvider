@@ -1,0 +1,7 @@
+Akyaka: K. Benzin (95 Oktan): 55.23, Motorin: 55.83, Motorin XTR: 55.83, Gazyağı: 48.05, Fuel Oil3: 30.44, Kalorifer Yakıtı: 36.30, LPG: 32.15
+Arpaçay: K. Benzin (95 Oktan): 55.22, Motorin: 55.82, Motorin XTR: 55.82, Gazyağı: 48.04, Fuel Oil3: 30.43, Kalorifer Yakıtı: 36.29, LPG: 32.15
+Digor: K. Benzin (95 Oktan): 55.23, Motorin: 55.83, Motorin XTR: 55.83, Gazyağı: 48.05, Fuel Oil3: 30.44, Kalorifer Yakıtı: 36.30, LPG: 32.15
+Kağızman: K. Benzin (95 Oktan): 55.23, Motorin: 55.83, Motorin XTR: 55.83, Gazyağı: 48.05, Fuel Oil3: 30.44, Kalorifer Yakıtı: 36.30, LPG: 32.15
+Sarıkamış: K. Benzin (95 Oktan): 55.21, Motorin: 55.81, Motorin XTR: 55.81, Gazyağı: 48.03, Fuel Oil3: 30.42, Kalorifer Yakıtı: 36.28, LPG: 32.15
+Selim: K. Benzin (95 Oktan): 55.21, Motorin: 55.81, Motorin XTR: 55.81, Gazyağı: 48.03, Fuel Oil3: 30.42, Kalorifer Yakıtı: 36.28, LPG: 32.15
+Susuz: K. Benzin (95 Oktan): 55.20, Motorin: 55.80, Motorin XTR: 55.80, Gazyağı: 48.02, Fuel Oil3: 30.41, Kalorifer Yakıtı: 36.27, LPG: 32.15

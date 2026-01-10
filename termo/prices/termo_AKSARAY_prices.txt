@@ -1,0 +1,8 @@
+Ağaçören: K. Benzin (95 Oktan): 55.00, Motorin: 55.59, Motorin XTR: 55.59, Gazyağı: 45.33, Fuel Oil3: 29.41, Kalorifer Yakıtı: 34.53, LPG: 30.75
+Eskil: K. Benzin (95 Oktan): 55.10, Motorin: 55.69, Motorin XTR: 55.69, Gazyağı: 45.43, Fuel Oil3: 29.51, Kalorifer Yakıtı: 34.63, LPG: 30.75
+Gülagaç: K. Benzin (95 Oktan): 55.00, Motorin: 55.59, Motorin XTR: 55.59, Gazyağı: 45.33, Fuel Oil3: 29.41, Kalorifer Yakıtı: 34.53, LPG: 30.75
+Güzelyurt: K. Benzin (95 Oktan): 55.08, Motorin: 55.67, Motorin XTR: 55.67, Gazyağı: 45.41, Fuel Oil3: 29.49, Kalorifer Yakıtı: 34.61, LPG: 30.75
+Ortaköy: K. Benzin (95 Oktan): 55.00, Motorin: 55.59, Motorin XTR: 55.59, Gazyağı: 45.33, Fuel Oil3: 29.41, Kalorifer Yakıtı: 34.53, LPG: 30.75
+Sarıyağşi: K. Benzin (95 Oktan): 42.01, Motorin: 42.42, Motorin XTR: 42.42, Gazyağı: 38.44, Fuel Oil3: 29.79, Kalorifer Yakıtı: 33.88, LPG: 30.75
+Sarıyahşi: K. Benzin (95 Oktan): 55.00, Motorin: 55.59, Motorin XTR: 55.59, Gazyağı: 45.33, Fuel Oil3: 29.41, Kalorifer Yakıtı: 34.53, LPG: 30.75
+Sultanhanı: K. Benzin (95 Oktan): 55.10, Motorin: 55.69, Motorin XTR: 55.69, Gazyağı: 45.43, Fuel Oil3: 29.51, Kalorifer Yakıtı: 34.63, LPG: 30.75

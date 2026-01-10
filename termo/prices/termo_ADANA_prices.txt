@@ -1,0 +1,15 @@
+Aladağ: K. Benzin (95 Oktan): 55.02, Motorin: 55.61, Motorin XTR: 55.61, Gazyağı: 46.53, Fuel Oil3: 29.88, Kalorifer Yakıtı: 35.01, LPG: 30.75
+Ceyhan: K. Benzin (95 Oktan): 55.02, Motorin: 55.61, Motorin XTR: 55.61, Gazyağı: 46.53, Fuel Oil3: 29.88, Kalorifer Yakıtı: 35.01, LPG: 30.75
+Çukurova: K. Benzin (95 Oktan): 55.02, Motorin: 55.61, Motorin XTR: 55.61, Gazyağı: 46.53, Fuel Oil3: 29.88, Kalorifer Yakıtı: 35.01, LPG: 30.75
+Feke: K. Benzin (95 Oktan): 55.04, Motorin: 55.63, Motorin XTR: 55.63, Gazyağı: 46.55, Fuel Oil3: 29.90, Kalorifer Yakıtı: 35.03, LPG: 30.75
+İmamoğlu: K. Benzin (95 Oktan): 55.02, Motorin: 55.61, Motorin XTR: 55.61, Gazyağı: 46.53, Fuel Oil3: 29.88, Kalorifer Yakıtı: 35.01, LPG: 30.75
+Karaisali: K. Benzin (95 Oktan): 55.02, Motorin: 55.61, Motorin XTR: 55.61, Gazyağı: 46.53, Fuel Oil3: 29.88, Kalorifer Yakıtı: 35.01, LPG: 30.75
+Karataş: K. Benzin (95 Oktan): 55.02, Motorin: 55.61, Motorin XTR: 55.61, Gazyağı: 46.53, Fuel Oil3: 29.88, Kalorifer Yakıtı: 35.01, LPG: 30.75
+Kozan: K. Benzin (95 Oktan): 55.02, Motorin: 55.61, Motorin XTR: 55.61, Gazyağı: 46.53, Fuel Oil3: 29.88, Kalorifer Yakıtı: 35.01, LPG: 30.75
+Pozantı: K. Benzin (95 Oktan): 55.02, Motorin: 55.61, Motorin XTR: 55.61, Gazyağı: 46.53, Fuel Oil3: 29.88, Kalorifer Yakıtı: 35.01, LPG: 30.75
+Saimbeyli: K. Benzin (95 Oktan): 55.04, Motorin: 55.63, Motorin XTR: 55.63, Gazyağı: 46.55, Fuel Oil3: 29.90, Kalorifer Yakıtı: 35.03, LPG: 30.75
+Sarıçam: K. Benzin (95 Oktan): 55.02, Motorin: 55.61, Motorin XTR: 55.61, Gazyağı: 46.53, Fuel Oil3: 29.88, Kalorifer Yakıtı: 35.01, LPG: 30.75
+Seyhan: K. Benzin (95 Oktan): 55.02, Motorin: 55.61, Motorin XTR: 55.61, Gazyağı: 46.53, Fuel Oil3: 29.88, Kalorifer Yakıtı: 35.01, LPG: 30.75
+Tufanbeyli: K. Benzin (95 Oktan): 55.06, Motorin: 55.65, Motorin XTR: 55.65, Gazyağı: 46.57, Fuel Oil3: 29.92, Kalorifer Yakıtı: 35.05, LPG: 30.75
+Yumurtalık: K. Benzin (95 Oktan): 55.02, Motorin: 55.61, Motorin XTR: 55.61, Gazyağı: 46.53, Fuel Oil3: 29.88, Kalorifer Yakıtı: 35.01, LPG: 30.75
+Yüreğir: K. Benzin (95 Oktan): 55.02, Motorin: 55.61, Motorin XTR: 55.61, Gazyağı: 46.53, Fuel Oil3: 29.88, Kalorifer Yakıtı: 35.01, LPG: 30.75

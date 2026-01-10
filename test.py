@@ -38,6 +38,8 @@ from bpet.scraper import save_all_cities_prices_txt as bpet_save_all_cities_pric
 import bpet
 from enerji.scraper import save_all_cities_prices_txt as enerji_save_all_cities_prices_txt
 import enerji
+from termo.scraper import save_all_cities_prices_txt as termo_save_all_cities_prices_txt
+import termo
 
 def run_opet():
 	parser = argparse.ArgumentParser()
@@ -318,5 +320,21 @@ def run_enerji():
 	if not saved:
 		print("Uyarı: Dosya yazılamadı. Seçici veya fiyat bulunamamış olabilir.")
 
+def run_termo():
+	"""
+	Tüm şehirler için Termo akaryakıt fiyatlarını çekip txt dosyalarına yazar.
+	Her şehir için tüm ilçeler toplanır ve tek bir dosyaya yazılır.
+	Çıktılar: termo/termo_<ŞEHİR>_prices.txt
+	"""
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector (PWDEBUG=1 önerilir)")
+	args = parser.parse_args()
+
+	output_dir = Path(termo.__file__).parent / "prices"
+	saved = termo_save_all_cities_prices_txt(output_dir, debug=args.debug)
+	print(f"{len(saved)} dosya yazıldı -> {output_dir}")
+	if not saved:
+		print("Uyarı: Dosya yazılamadı. Seçici veya fiyat bulunamamış olabilir.")
+
 if __name__ == "__main__":
-	run_bpet()
+	run_termo()

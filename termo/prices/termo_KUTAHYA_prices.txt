@@ -1,0 +1,12 @@
+Altıntaş: K. Benzin (95 Oktan): 55.01, Motorin: 55.55, Motorin XTR: 55.55, Gazyağı: 46.09, Fuel Oil3: 28.68, Kalorifer Yakıtı: 33.80, LPG: 30.75
+Aslanapa: K. Benzin (95 Oktan): 55.01, Motorin: 55.55, Motorin XTR: 55.55, Gazyağı: 46.09, Fuel Oil3: 28.68, Kalorifer Yakıtı: 33.80, LPG: 30.75
+Çavdarhisar: K. Benzin (95 Oktan): 55.01, Motorin: 55.55, Motorin XTR: 55.55, Gazyağı: 46.09, Fuel Oil3: 28.68, Kalorifer Yakıtı: 33.80, LPG: 30.75
+Domaniç: K. Benzin (95 Oktan): 55.00, Motorin: 55.54, Motorin XTR: 55.54, Gazyağı: 46.08, Fuel Oil3: 28.67, Kalorifer Yakıtı: 33.79, LPG: 30.75
+Dumlupınar: K. Benzin (95 Oktan): 55.00, Motorin: 55.54, Motorin XTR: 55.54, Gazyağı: 46.08, Fuel Oil3: 28.67, Kalorifer Yakıtı: 33.79, LPG: 30.75
+Emet: K. Benzin (95 Oktan): 55.01, Motorin: 55.55, Motorin XTR: 55.55, Gazyağı: 46.09, Fuel Oil3: 28.68, Kalorifer Yakıtı: 33.80, LPG: 30.75
+Gediz: K. Benzin (95 Oktan): 55.05, Motorin: 55.59, Motorin XTR: 55.59, Gazyağı: 46.13, Fuel Oil3: 28.72, Kalorifer Yakıtı: 33.84, LPG: 30.75
+Hisarcık: K. Benzin (95 Oktan): 55.02, Motorin: 55.56, Motorin XTR: 55.56, Gazyağı: 46.10, Fuel Oil3: 28.69, Kalorifer Yakıtı: 33.81, LPG: 30.75
+Pazarlar: K. Benzin (95 Oktan): 55.00, Motorin: 55.54, Motorin XTR: 55.54, Gazyağı: 46.08, Fuel Oil3: 28.67, Kalorifer Yakıtı: 33.79, LPG: 30.75
+Simav: K. Benzin (95 Oktan): 55.05, Motorin: 55.59, Motorin XTR: 55.59, Gazyağı: 46.13, Fuel Oil3: 28.72, Kalorifer Yakıtı: 33.84, LPG: 30.75
+Şaphane: K. Benzin (95 Oktan): 55.00, Motorin: 55.54, Motorin XTR: 55.54, Gazyağı: 46.08, Fuel Oil3: 28.67, Kalorifer Yakıtı: 33.79, LPG: 30.75
+Tavşanlı: K. Benzin (95 Oktan): 54.99, Motorin: 55.53, Motorin XTR: 55.53, Gazyağı: 46.07, Fuel Oil3: 28.66, Kalorifer Yakıtı: 33.78, LPG: 30.75

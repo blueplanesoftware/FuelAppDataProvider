@@ -1,0 +1,7 @@
+Acıgöl: K. Benzin (95 Oktan): 55.09, Motorin: 55.68, Motorin XTR: 55.68, Gazyağı: 45.44, Fuel Oil3: 29.59, Kalorifer Yakıtı: 34.71, LPG: 30.75
+Avanos: K. Benzin (95 Oktan): 55.09, Motorin: 55.68, Motorin XTR: 55.68, Gazyağı: 45.44, Fuel Oil3: 29.59, Kalorifer Yakıtı: 34.71, LPG: 30.75
+Derinkuyu: K. Benzin (95 Oktan): 55.06, Motorin: 55.65, Motorin XTR: 55.65, Gazyağı: 45.41, Fuel Oil3: 29.56, Kalorifer Yakıtı: 34.68, LPG: 30.75
+Gülşehir: K. Benzin (95 Oktan): 55.09, Motorin: 55.68, Motorin XTR: 55.68, Gazyağı: 45.44, Fuel Oil3: 29.59, Kalorifer Yakıtı: 34.71, LPG: 30.75
+Hacıbektaş: K. Benzin (95 Oktan): 55.10, Motorin: 55.69, Motorin XTR: 55.69, Gazyağı: 45.45, Fuel Oil3: 29.60, Kalorifer Yakıtı: 34.72, LPG: 30.75
+Kozaklı: K. Benzin (95 Oktan): 55.10, Motorin: 55.69, Motorin XTR: 55.69, Gazyağı: 45.45, Fuel Oil3: 29.60, Kalorifer Yakıtı: 34.72, LPG: 30.75
+Ürgüp: K. Benzin (95 Oktan): 55.09, Motorin: 55.68, Motorin XTR: 55.68, Gazyağı: 45.44, Fuel Oil3: 29.59, Kalorifer Yakıtı: 34.71, LPG: 30.75

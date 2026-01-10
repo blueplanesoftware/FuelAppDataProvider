@@ -1,0 +1,5 @@
+Çukurca: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 31.65
+Derecik: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 31.65
+Esendere: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 31.65
+Şemdinli: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 31.65
+Yüksekova: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 31.65

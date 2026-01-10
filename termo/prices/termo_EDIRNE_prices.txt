@@ -1,0 +1,8 @@
+Enez: K. Benzin (95 Oktan): 54.23, Motorin: 54.89, Motorin XTR: 54.89, Gazyağı: 46.97, Fuel Oil3: 28.77, Kalorifer Yakıtı: 33.90, LPG: 30.95
+Havsa: K. Benzin (95 Oktan): 54.23, Motorin: 54.89, Motorin XTR: 54.89, Gazyağı: 46.97, Fuel Oil3: 28.77, Kalorifer Yakıtı: 33.90, LPG: 30.95
+İpsala: K. Benzin (95 Oktan): 54.23, Motorin: 54.89, Motorin XTR: 54.89, Gazyağı: 46.97, Fuel Oil3: 28.77, Kalorifer Yakıtı: 33.90, LPG: 30.95
+Kesan: K. Benzin (95 Oktan): 54.23, Motorin: 54.89, Motorin XTR: 54.89, Gazyağı: 46.97, Fuel Oil3: 28.77, Kalorifer Yakıtı: 33.90, LPG: 30.95
+Lalapaşa: K. Benzin (95 Oktan): 54.23, Motorin: 54.89, Motorin XTR: 54.89, Gazyağı: 46.97, Fuel Oil3: 28.77, Kalorifer Yakıtı: 33.90, LPG: 30.95
+Meriç: K. Benzin (95 Oktan): 54.23, Motorin: 54.89, Motorin XTR: 54.89, Gazyağı: 46.97, Fuel Oil3: 28.77, Kalorifer Yakıtı: 33.90, LPG: 30.95
+Süloğlu: K. Benzin (95 Oktan): 54.23, Motorin: 54.89, Motorin XTR: 54.89, Gazyağı: 46.97, Fuel Oil3: 28.77, Kalorifer Yakıtı: 33.90, LPG: 30.95
+Uzunköprü: K. Benzin (95 Oktan): 54.23, Motorin: 54.89, Motorin XTR: 54.89, Gazyağı: 46.97, Fuel Oil3: 28.77, Kalorifer Yakıtı: 33.90, LPG: 30.95

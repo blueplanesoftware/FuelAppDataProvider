@@ -1,0 +1,5 @@
+Beşiri: K. Benzin (95 Oktan): 55.45, Motorin: 56.08, Motorin XTR: 56.08, Gazyağı: 47.22, Fuel Oil3: 30.41, Kalorifer Yakıtı: 36.25, LPG: 30.75
+Gercüs: K. Benzin (95 Oktan): 55.45, Motorin: 56.08, Motorin XTR: 56.08, Gazyağı: 47.22, Fuel Oil3: 30.41, Kalorifer Yakıtı: 36.25, LPG: 30.75
+Hasankeyf: K. Benzin (95 Oktan): 55.45, Motorin: 56.08, Motorin XTR: 56.08, Gazyağı: 47.22, Fuel Oil3: 30.41, Kalorifer Yakıtı: 36.25, LPG: 30.75
+Kozluk: K. Benzin (95 Oktan): 55.45, Motorin: 56.08, Motorin XTR: 56.08, Gazyağı: 47.22, Fuel Oil3: 30.41, Kalorifer Yakıtı: 36.25, LPG: 30.75
+Sason: K. Benzin (95 Oktan): 55.45, Motorin: 56.08, Motorin XTR: 56.08, Gazyağı: 47.22, Fuel Oil3: 30.41, Kalorifer Yakıtı: 36.25, LPG: 30.75

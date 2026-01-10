@@ -1,0 +1,7 @@
+Bozüyük: K. Benzin (95 Oktan): 54.07, Motorin: 54.52, Motorin XTR: 54.52, Gazyağı: 46.11, Fuel Oil3: 28.18, Kalorifer Yakıtı: 33.30, LPG: 30.35
+Gölpazarı: K. Benzin (95 Oktan): 54.01, Motorin: 54.46, Motorin XTR: 54.46, Gazyağı: 46.05, Fuel Oil3: 28.12, Kalorifer Yakıtı: 33.24, LPG: 30.35
+İnhisar: K. Benzin (95 Oktan): 54.09, Motorin: 54.54, Motorin XTR: 54.54, Gazyağı: 46.13, Fuel Oil3: 28.20, Kalorifer Yakıtı: 33.32, LPG: 30.35
+Osmaneli: K. Benzin (95 Oktan): 54.01, Motorin: 54.46, Motorin XTR: 54.46, Gazyağı: 46.05, Fuel Oil3: 28.12, Kalorifer Yakıtı: 33.24, LPG: 30.35
+Pazaryeri: K. Benzin (95 Oktan): 54.06, Motorin: 54.51, Motorin XTR: 54.51, Gazyağı: 46.10, Fuel Oil3: 28.17, Kalorifer Yakıtı: 33.29, LPG: 30.35
+Söğüt: K. Benzin (95 Oktan): 54.06, Motorin: 54.51, Motorin XTR: 54.51, Gazyağı: 46.10, Fuel Oil3: 28.17, Kalorifer Yakıtı: 33.29, LPG: 30.35
+Yenipazar: K. Benzin (95 Oktan): 54.03, Motorin: 54.48, Motorin XTR: 54.48, Gazyağı: 46.07, Fuel Oil3: 28.14, Kalorifer Yakıtı: 33.26, LPG: 30.35

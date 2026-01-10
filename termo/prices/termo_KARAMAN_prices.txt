@@ -1,0 +1,6 @@
+Ayrancı: K. Benzin (95 Oktan): 55.06, Motorin: 55.65, Motorin XTR: 55.65, Gazyağı: 46.00, Fuel Oil3: 29.66, Kalorifer Yakıtı: 34.79, LPG: 30.95
+Basyayla: K. Benzin (95 Oktan): 55.09, Motorin: 55.68, Motorin XTR: 55.68, Gazyağı: 46.03, Fuel Oil3: 29.69, Kalorifer Yakıtı: 34.82, LPG: 30.95
+Ermenek: K. Benzin (95 Oktan): 55.08, Motorin: 55.67, Motorin XTR: 55.67, Gazyağı: 46.02, Fuel Oil3: 29.68, Kalorifer Yakıtı: 34.81, LPG: 30.95
+K.Karabekir: K. Benzin (95 Oktan): 42.01, Motorin: 42.41, Motorin XTR: 42.41, Gazyağı: 38.91, Fuel Oil3: 29.78, Kalorifer Yakıtı: 34.02, LPG: 30.95
+Kazımkarabekir: K. Benzin (95 Oktan): 55.09, Motorin: 55.68, Motorin XTR: 55.68, Gazyağı: 46.03, Fuel Oil3: 29.69, Kalorifer Yakıtı: 34.82, LPG: 30.95
+Sarıveliler: K. Benzin (95 Oktan): 55.10, Motorin: 55.69, Motorin XTR: 55.69, Gazyağı: 46.04, Fuel Oil3: 29.70, Kalorifer Yakıtı: 34.83, LPG: 30.95

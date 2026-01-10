@@ -1,0 +1,16 @@
+Akkışla: K. Benzin (95 Oktan): 55.19, Motorin: 55.78, Motorin XTR: 55.78, Gazyağı: 45.86, Fuel Oil3: 29.65, Kalorifer Yakıtı: 34.78, LPG: 30.75
+Bünyan: K. Benzin (95 Oktan): 55.19, Motorin: 55.78, Motorin XTR: 55.78, Gazyağı: 45.86, Fuel Oil3: 29.65, Kalorifer Yakıtı: 34.78, LPG: 30.75
+Develi: K. Benzin (95 Oktan): 55.19, Motorin: 55.78, Motorin XTR: 55.78, Gazyağı: 45.86, Fuel Oil3: 29.65, Kalorifer Yakıtı: 34.78, LPG: 30.75
+Felahiye: K. Benzin (95 Oktan): 55.19, Motorin: 55.78, Motorin XTR: 55.78, Gazyağı: 45.86, Fuel Oil3: 29.65, Kalorifer Yakıtı: 34.78, LPG: 30.75
+Hacılar: K. Benzin (95 Oktan): 55.19, Motorin: 55.78, Motorin XTR: 55.78, Gazyağı: 45.86, Fuel Oil3: 29.65, Kalorifer Yakıtı: 34.78, LPG: 30.75
+İncesu: K. Benzin (95 Oktan): 55.18, Motorin: 55.77, Motorin XTR: 55.77, Gazyağı: 45.85, Fuel Oil3: 29.64, Kalorifer Yakıtı: 34.77, LPG: 30.75
+Kocasinan: K. Benzin (95 Oktan): 55.18, Motorin: 55.77, Motorin XTR: 55.77, Gazyağı: 45.85, Fuel Oil3: 29.64, Kalorifer Yakıtı: 34.77, LPG: 30.75
+Melikgazi: K. Benzin (95 Oktan): 55.19, Motorin: 55.78, Motorin XTR: 55.78, Gazyağı: 45.86, Fuel Oil3: 29.65, Kalorifer Yakıtı: 34.78, LPG: 30.75
+Özvatan: K. Benzin (95 Oktan): 55.19, Motorin: 55.78, Motorin XTR: 55.78, Gazyağı: 45.86, Fuel Oil3: 29.65, Kalorifer Yakıtı: 34.78, LPG: 30.75
+Pınarbaşı: K. Benzin (95 Oktan): 55.21, Motorin: 55.80, Motorin XTR: 55.80, Gazyağı: 45.88, Fuel Oil3: 29.67, Kalorifer Yakıtı: 34.80, LPG: 30.75
+Sarıoğlan: K. Benzin (95 Oktan): 55.21, Motorin: 55.80, Motorin XTR: 55.80, Gazyağı: 45.88, Fuel Oil3: 29.67, Kalorifer Yakıtı: 34.80, LPG: 30.75
+Sarız: K. Benzin (95 Oktan): 55.19, Motorin: 55.78, Motorin XTR: 55.78, Gazyağı: 45.86, Fuel Oil3: 29.65, Kalorifer Yakıtı: 34.78, LPG: 30.75
+Talas: K. Benzin (95 Oktan): 55.19, Motorin: 55.78, Motorin XTR: 55.78, Gazyağı: 45.86, Fuel Oil3: 29.65, Kalorifer Yakıtı: 34.78, LPG: 30.75
+Tomarza: K. Benzin (95 Oktan): 55.21, Motorin: 55.80, Motorin XTR: 55.80, Gazyağı: 45.88, Fuel Oil3: 29.67, Kalorifer Yakıtı: 34.80, LPG: 30.75
+Yahyalı: K. Benzin (95 Oktan): 55.19, Motorin: 55.78, Motorin XTR: 55.78, Gazyağı: 45.86, Fuel Oil3: 29.65, Kalorifer Yakıtı: 34.78, LPG: 30.75
+Yeşilhisar: K. Benzin (95 Oktan): 55.19, Motorin: 55.78, Motorin XTR: 55.78, Gazyağı: 45.86, Fuel Oil3: 29.65, Kalorifer Yakıtı: 34.78, LPG: 30.75

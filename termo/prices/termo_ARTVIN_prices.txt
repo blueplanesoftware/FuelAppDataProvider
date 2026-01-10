@@ -1,0 +1,9 @@
+Ardanuç: K. Benzin (95 Oktan): 55.05, Motorin: 55.65, Motorin XTR: 55.65, Gazyağı: 47.24, Fuel Oil3: 30.40, Kalorifer Yakıtı: 36.22, LPG: 31.85
+Arhavi: K. Benzin (95 Oktan): 55.01, Motorin: 55.61, Motorin XTR: 55.61, Gazyağı: 47.20, Fuel Oil3: 30.36, Kalorifer Yakıtı: 36.18, LPG: 31.85
+Borçka: K. Benzin (95 Oktan): 55.02, Motorin: 55.62, Motorin XTR: 55.62, Gazyağı: 47.21, Fuel Oil3: 30.37, Kalorifer Yakıtı: 36.19, LPG: 31.85
+Çakmakkaya: K. Benzin (95 Oktan): 42.12, Motorin: 42.52, Motorin XTR: 42.52, Gazyağı: 39.26, Fuel Oil3: 30.07, Kalorifer Yakıtı: 34.66, LPG: 31.85
+Hopa: K. Benzin (95 Oktan): 55.01, Motorin: 55.61, Motorin XTR: 55.61, Gazyağı: 47.20, Fuel Oil3: 30.36, Kalorifer Yakıtı: 36.18, LPG: 31.85
+Kemalpaşa: K. Benzin (95 Oktan): 55.01, Motorin: 55.61, Motorin XTR: 55.61, Gazyağı: 47.20, Fuel Oil3: 30.36, Kalorifer Yakıtı: 36.18, LPG: 31.85
+Murgul: K. Benzin (95 Oktan): 55.02, Motorin: 55.62, Motorin XTR: 55.62, Gazyağı: 47.21, Fuel Oil3: 30.37, Kalorifer Yakıtı: 36.19, LPG: 31.85
+Savsat: K. Benzin (95 Oktan): 55.10, Motorin: 55.70, Motorin XTR: 55.70, Gazyağı: 47.29, Fuel Oil3: 30.45, Kalorifer Yakıtı: 36.27, LPG: 31.85
+Yusufeli: K. Benzin (95 Oktan): 55.02, Motorin: 55.62, Motorin XTR: 55.62, Gazyağı: 47.21, Fuel Oil3: 30.37, Kalorifer Yakıtı: 36.19, LPG: 31.85

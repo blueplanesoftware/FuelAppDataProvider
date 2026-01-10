@@ -1,0 +1,7 @@
+Diyadin: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 32.20
+Doğubeyazıt: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 32.20
+Eleşkirt: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 32.20
+Hamur: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 32.20
+Patnos: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 32.20
+Taşlıçay: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 32.20
+Tutak: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 32.20

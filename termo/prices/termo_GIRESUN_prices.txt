@@ -1,0 +1,16 @@
+Alucra: K. Benzin (95 Oktan): 54.97, Motorin: 55.57, Motorin XTR: 55.57, Gazyağı: 46.67, Fuel Oil3: 29.90, Kalorifer Yakıtı: 35.03, LPG: 31.05
+Bulancak: K. Benzin (95 Oktan): 54.96, Motorin: 55.56, Motorin XTR: 55.56, Gazyağı: 46.66, Fuel Oil3: 29.89, Kalorifer Yakıtı: 35.02, LPG: 31.05
+Çamoluk: K. Benzin (95 Oktan): 54.97, Motorin: 55.57, Motorin XTR: 55.57, Gazyağı: 46.67, Fuel Oil3: 29.90, Kalorifer Yakıtı: 35.03, LPG: 31.05
+Çanakçı: K. Benzin (95 Oktan): 54.94, Motorin: 55.54, Motorin XTR: 55.54, Gazyağı: 46.64, Fuel Oil3: 29.87, Kalorifer Yakıtı: 35.00, LPG: 31.05
+Dereli: K. Benzin (95 Oktan): 54.97, Motorin: 55.57, Motorin XTR: 55.57, Gazyağı: 46.67, Fuel Oil3: 29.90, Kalorifer Yakıtı: 35.03, LPG: 31.05
+Doğankent: K. Benzin (95 Oktan): 54.94, Motorin: 55.54, Motorin XTR: 55.54, Gazyağı: 46.64, Fuel Oil3: 29.87, Kalorifer Yakıtı: 35.00, LPG: 31.05
+Espiye: K. Benzin (95 Oktan): 54.94, Motorin: 55.54, Motorin XTR: 55.54, Gazyağı: 46.64, Fuel Oil3: 29.87, Kalorifer Yakıtı: 35.00, LPG: 31.05
+Eynesil: K. Benzin (95 Oktan): 54.93, Motorin: 55.53, Motorin XTR: 55.53, Gazyağı: 46.63, Fuel Oil3: 29.86, Kalorifer Yakıtı: 34.99, LPG: 31.05
+Görele: K. Benzin (95 Oktan): 54.93, Motorin: 55.53, Motorin XTR: 55.53, Gazyağı: 46.63, Fuel Oil3: 29.86, Kalorifer Yakıtı: 34.99, LPG: 31.05
+Güce: K. Benzin (95 Oktan): 54.94, Motorin: 55.54, Motorin XTR: 55.54, Gazyağı: 46.64, Fuel Oil3: 29.87, Kalorifer Yakıtı: 35.00, LPG: 31.05
+Keşap: K. Benzin (95 Oktan): 54.95, Motorin: 55.55, Motorin XTR: 55.55, Gazyağı: 46.65, Fuel Oil3: 29.88, Kalorifer Yakıtı: 35.01, LPG: 31.05
+Piraziz: K. Benzin (95 Oktan): 54.86, Motorin: 55.46, Motorin XTR: 55.46, Gazyağı: 46.56, Fuel Oil3: 29.79, Kalorifer Yakıtı: 34.92, LPG: 31.05
+S.Karahisar: K. Benzin (95 Oktan): 42.12, Motorin: 42.54, Motorin XTR: 42.54, Gazyağı: 39.08, Fuel Oil3: 29.90, Kalorifer Yakıtı: 34.23, LPG: 31.05
+Şebinkarahisar: K. Benzin (95 Oktan): 54.97, Motorin: 55.57, Motorin XTR: 55.57, Gazyağı: 46.67, Fuel Oil3: 29.90, Kalorifer Yakıtı: 35.03, LPG: 31.05
+Tirebolu: K. Benzin (95 Oktan): 54.94, Motorin: 55.54, Motorin XTR: 55.54, Gazyağı: 46.64, Fuel Oil3: 29.87, Kalorifer Yakıtı: 35.00, LPG: 31.05
+Yağlıdere: K. Benzin (95 Oktan): 54.95, Motorin: 55.55, Motorin XTR: 55.55, Gazyağı: 46.65, Fuel Oil3: 29.88, Kalorifer Yakıtı: 35.01, LPG: 31.05

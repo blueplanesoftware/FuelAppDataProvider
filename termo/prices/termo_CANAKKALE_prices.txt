@@ -1,0 +1,11 @@
+Ayvacık: K. Benzin (95 Oktan): 54.70, Motorin: 55.35, Motorin XTR: 55.35, Gazyağı: 46.94, Fuel Oil3: 28.66, Kalorifer Yakıtı: 33.78, LPG: 30.45
+Bayramiç: K. Benzin (95 Oktan): 54.72, Motorin: 55.37, Motorin XTR: 55.37, Gazyağı: 46.96, Fuel Oil3: 28.68, Kalorifer Yakıtı: 33.80, LPG: 30.45
+Biga: K. Benzin (95 Oktan): 54.73, Motorin: 55.38, Motorin XTR: 55.38, Gazyağı: 46.97, Fuel Oil3: 28.69, Kalorifer Yakıtı: 33.81, LPG: 30.45
+Bozcaada: K. Benzin (95 Oktan): 55.19, Motorin: 55.84, Motorin XTR: 55.84, Gazyağı: 47.43, Fuel Oil3: 29.15, Kalorifer Yakıtı: 34.27, LPG: 30.45
+Can: K. Benzin (95 Oktan): 54.74, Motorin: 55.39, Motorin XTR: 55.39, Gazyağı: 46.98, Fuel Oil3: 28.70, Kalorifer Yakıtı: 33.82, LPG: 30.45
+Eceabat: K. Benzin (95 Oktan): 54.73, Motorin: 55.38, Motorin XTR: 55.38, Gazyağı: 46.97, Fuel Oil3: 28.69, Kalorifer Yakıtı: 33.81, LPG: 30.45
+Ezine: K. Benzin (95 Oktan): 54.72, Motorin: 55.37, Motorin XTR: 55.37, Gazyağı: 46.96, Fuel Oil3: 28.68, Kalorifer Yakıtı: 33.80, LPG: 30.45
+Gelibolu: K. Benzin (95 Oktan): 54.73, Motorin: 55.38, Motorin XTR: 55.38, Gazyağı: 46.97, Fuel Oil3: 28.69, Kalorifer Yakıtı: 33.81, LPG: 30.45
+Gökçeada: K. Benzin (95 Oktan): 55.34, Motorin: 55.99, Motorin XTR: 55.99, Gazyağı: 47.58, Fuel Oil3: 29.30, Kalorifer Yakıtı: 34.42, LPG: 30.45
+Lapseki: K. Benzin (95 Oktan): 54.74, Motorin: 55.39, Motorin XTR: 55.39, Gazyağı: 46.98, Fuel Oil3: 28.70, Kalorifer Yakıtı: 33.82, LPG: 30.45
+Yenice: K. Benzin (95 Oktan): 54.72, Motorin: 55.37, Motorin XTR: 55.37, Gazyağı: 46.96, Fuel Oil3: 28.68, Kalorifer Yakıtı: 33.80, LPG: 30.45

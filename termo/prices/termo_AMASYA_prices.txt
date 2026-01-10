@@ -1,0 +1,6 @@
+Göynücek: K. Benzin (95 Oktan): 54.77, Motorin: 55.35, Motorin XTR: 55.35, Gazyağı: 45.91, Fuel Oil3: 29.52, Kalorifer Yakıtı: 34.65, LPG: 31.15
+Gümüşhacıköy: K. Benzin (95 Oktan): 54.75, Motorin: 55.33, Motorin XTR: 55.33, Gazyağı: 45.89, Fuel Oil3: 29.50, Kalorifer Yakıtı: 34.63, LPG: 31.15
+Hamamözü: K. Benzin (95 Oktan): 54.76, Motorin: 55.34, Motorin XTR: 55.34, Gazyağı: 45.90, Fuel Oil3: 29.51, Kalorifer Yakıtı: 34.64, LPG: 31.15
+Merzifon: K. Benzin (95 Oktan): 54.75, Motorin: 55.33, Motorin XTR: 55.33, Gazyağı: 45.89, Fuel Oil3: 29.50, Kalorifer Yakıtı: 34.63, LPG: 31.15
+Suluova: K. Benzin (95 Oktan): 54.74, Motorin: 55.32, Motorin XTR: 55.32, Gazyağı: 45.88, Fuel Oil3: 29.49, Kalorifer Yakıtı: 34.62, LPG: 31.15
+Taşova: K. Benzin (95 Oktan): 54.71, Motorin: 55.29, Motorin XTR: 55.29, Gazyağı: 45.85, Fuel Oil3: 29.46, Kalorifer Yakıtı: 34.59, LPG: 31.15

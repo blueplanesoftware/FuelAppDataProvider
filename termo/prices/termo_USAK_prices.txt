@@ -1,0 +1,6 @@
+Banaz: K. Benzin (95 Oktan): 54.90, Motorin: 55.55, Motorin XTR: 55.55, Gazyağı: 46.53, Fuel Oil3: 28.67, Kalorifer Yakıtı: 33.79, LPG: 30.75
+Esme: K. Benzin (95 Oktan): 54.89, Motorin: 55.54, Motorin XTR: 55.54, Gazyağı: 46.52, Fuel Oil3: 28.66, Kalorifer Yakıtı: 33.78, LPG: 30.75
+Karahallı: K. Benzin (95 Oktan): 54.90, Motorin: 55.55, Motorin XTR: 55.55, Gazyağı: 46.53, Fuel Oil3: 28.67, Kalorifer Yakıtı: 33.79, LPG: 30.75
+Karahanlı: K. Benzin (95 Oktan): 41.80, Motorin: 42.27, Motorin XTR: 42.27, Gazyağı: 39.04, Fuel Oil3: 29.35, Kalorifer Yakıtı: 33.08, LPG: 30.75
+Sivaslı: K. Benzin (95 Oktan): 54.90, Motorin: 55.55, Motorin XTR: 55.55, Gazyağı: 46.53, Fuel Oil3: 28.67, Kalorifer Yakıtı: 33.79, LPG: 30.75
+Ulubey: K. Benzin (95 Oktan): 54.90, Motorin: 55.55, Motorin XTR: 55.55, Gazyağı: 46.53, Fuel Oil3: 28.67, Kalorifer Yakıtı: 33.79, LPG: 30.75

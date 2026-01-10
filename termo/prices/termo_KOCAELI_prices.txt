@@ -1,0 +1,14 @@
+Başiskele: K. Benzin (95 Oktan): 53.54, Motorin: 53.99, Motorin XTR: 53.99, Gazyağı: 46.13, Fuel Oil3: 27.94, Kalorifer Yakıtı: 33.07, LPG: 30.25
+Çayırova: K. Benzin (95 Oktan): 53.57, Motorin: 54.02, Motorin XTR: 54.02, Gazyağı: 46.16, Fuel Oil3: 27.97, Kalorifer Yakıtı: 33.10, LPG: 30.25
+Darıca: K. Benzin (95 Oktan): 53.57, Motorin: 54.02, Motorin XTR: 54.02, Gazyağı: 46.16, Fuel Oil3: 27.97, Kalorifer Yakıtı: 33.10, LPG: 30.25
+Derince: K. Benzin (95 Oktan): 53.54, Motorin: 53.99, Motorin XTR: 53.99, Gazyağı: 46.13, Fuel Oil3: 27.94, Kalorifer Yakıtı: 33.07, LPG: 30.25
+Dilovası: K. Benzin (95 Oktan): 53.56, Motorin: 54.01, Motorin XTR: 54.01, Gazyağı: 46.15, Fuel Oil3: 27.96, Kalorifer Yakıtı: 33.09, LPG: 30.25
+Gebze: K. Benzin (95 Oktan): 53.57, Motorin: 54.02, Motorin XTR: 54.02, Gazyağı: 46.16, Fuel Oil3: 27.97, Kalorifer Yakıtı: 33.10, LPG: 30.25
+Gölcük: K. Benzin (95 Oktan): 53.55, Motorin: 54.00, Motorin XTR: 54.00, Gazyağı: 46.14, Fuel Oil3: 27.95, Kalorifer Yakıtı: 33.08, LPG: 30.25
+Hereke: K. Benzin (95 Oktan): 41.23, Motorin: 41.58, Motorin XTR: 41.58, Gazyağı: 38.99, Fuel Oil3: 28.70, Kalorifer Yakıtı: 32.38, LPG: 30.25
+İzmit: K. Benzin (95 Oktan): 53.54, Motorin: 53.99, Motorin XTR: 53.99, Gazyağı: 46.13, Fuel Oil3: 27.94, Kalorifer Yakıtı: 33.07, LPG: 30.25
+Kandıra: K. Benzin (95 Oktan): 53.57, Motorin: 54.02, Motorin XTR: 54.02, Gazyağı: 46.16, Fuel Oil3: 27.97, Kalorifer Yakıtı: 33.10, LPG: 30.25
+Karamürsel: K. Benzin (95 Oktan): 53.57, Motorin: 54.02, Motorin XTR: 54.02, Gazyağı: 46.16, Fuel Oil3: 27.97, Kalorifer Yakıtı: 33.10, LPG: 30.25
+Kartepe: K. Benzin (95 Oktan): 53.54, Motorin: 53.99, Motorin XTR: 53.99, Gazyağı: 46.13, Fuel Oil3: 27.94, Kalorifer Yakıtı: 33.07, LPG: 30.25
+Körfez: K. Benzin (95 Oktan): 53.54, Motorin: 53.99, Motorin XTR: 53.99, Gazyağı: 46.13, Fuel Oil3: 27.94, Kalorifer Yakıtı: 33.07, LPG: 30.25
+Köseköy: K. Benzin (95 Oktan): 41.23, Motorin: 41.58, Motorin XTR: 41.58, Gazyağı: 38.99, Fuel Oil3: 28.70, Kalorifer Yakıtı: 32.38, LPG: 30.25

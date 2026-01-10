@@ -1,0 +1,6 @@
+Akçakent: K. Benzin (95 Oktan): 54.33, Motorin: 54.99, Motorin XTR: 54.99, Gazyağı: 45.25, Fuel Oil3: 29.40, Kalorifer Yakıtı: 34.53, LPG: 30.75
+Akpınar: K. Benzin (95 Oktan): 54.33, Motorin: 54.99, Motorin XTR: 54.99, Gazyağı: 45.25, Fuel Oil3: 29.40, Kalorifer Yakıtı: 34.53, LPG: 30.75
+Boztepe: K. Benzin (95 Oktan): 54.37, Motorin: 55.03, Motorin XTR: 55.03, Gazyağı: 45.29, Fuel Oil3: 29.44, Kalorifer Yakıtı: 34.57, LPG: 30.75
+Çiçekdağı: K. Benzin (95 Oktan): 54.39, Motorin: 55.05, Motorin XTR: 55.05, Gazyağı: 45.31, Fuel Oil3: 29.46, Kalorifer Yakıtı: 34.59, LPG: 30.75
+Kaman: K. Benzin (95 Oktan): 54.33, Motorin: 54.99, Motorin XTR: 54.99, Gazyağı: 45.25, Fuel Oil3: 29.40, Kalorifer Yakıtı: 34.53, LPG: 30.75
+Mucur: K. Benzin (95 Oktan): 54.40, Motorin: 55.06, Motorin XTR: 55.06, Gazyağı: 45.32, Fuel Oil3: 29.47, Kalorifer Yakıtı: 34.60, LPG: 30.75

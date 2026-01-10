@@ -1,0 +1,3 @@
+Amasra: K. Benzin (95 Oktan): 54.41, Motorin: 54.86, Motorin XTR: 54.86, Gazyağı: 46.04, Fuel Oil3: 28.74, Kalorifer Yakıtı: 33.87, LPG: 30.75
+Kurucaşile: K. Benzin (95 Oktan): 54.41, Motorin: 54.86, Motorin XTR: 54.86, Gazyağı: 46.04, Fuel Oil3: 28.74, Kalorifer Yakıtı: 33.87, LPG: 30.75
+Ulus: K. Benzin (95 Oktan): 54.41, Motorin: 54.86, Motorin XTR: 54.86, Gazyağı: 46.04, Fuel Oil3: 28.74, Kalorifer Yakıtı: 33.87, LPG: 30.75

@@ -1,0 +1,11 @@
+Almus: K. Benzin (95 Oktan): 54.81, Motorin: 55.39, Motorin XTR: 55.39, Gazyağı: 45.96, Fuel Oil3: 29.68, Kalorifer Yakıtı: 34.80, LPG: 31.25
+Artova: K. Benzin (95 Oktan): 54.91, Motorin: 55.49, Motorin XTR: 55.49, Gazyağı: 46.06, Fuel Oil3: 29.78, Kalorifer Yakıtı: 34.90, LPG: 31.25
+Başçiftlik: K. Benzin (95 Oktan): 54.81, Motorin: 55.39, Motorin XTR: 55.39, Gazyağı: 45.96, Fuel Oil3: 29.68, Kalorifer Yakıtı: 34.80, LPG: 31.25
+Erbaa: K. Benzin (95 Oktan): 54.80, Motorin: 55.38, Motorin XTR: 55.38, Gazyağı: 45.95, Fuel Oil3: 29.67, Kalorifer Yakıtı: 34.79, LPG: 31.25
+Niksar: K. Benzin (95 Oktan): 54.81, Motorin: 55.39, Motorin XTR: 55.39, Gazyağı: 45.96, Fuel Oil3: 29.68, Kalorifer Yakıtı: 34.80, LPG: 31.25
+Pazar: K. Benzin (95 Oktan): 54.91, Motorin: 55.49, Motorin XTR: 55.49, Gazyağı: 46.06, Fuel Oil3: 29.78, Kalorifer Yakıtı: 34.90, LPG: 31.25
+Reşadiye: K. Benzin (95 Oktan): 54.81, Motorin: 55.39, Motorin XTR: 55.39, Gazyağı: 45.96, Fuel Oil3: 29.68, Kalorifer Yakıtı: 34.80, LPG: 31.25
+Sulusaray: K. Benzin (95 Oktan): 54.75, Motorin: 55.33, Motorin XTR: 55.33, Gazyağı: 45.90, Fuel Oil3: 29.62, Kalorifer Yakıtı: 34.74, LPG: 31.25
+Turhal: K. Benzin (95 Oktan): 54.74, Motorin: 55.32, Motorin XTR: 55.32, Gazyağı: 45.89, Fuel Oil3: 29.61, Kalorifer Yakıtı: 34.73, LPG: 31.25
+Yeşilyurt: K. Benzin (95 Oktan): 54.75, Motorin: 55.33, Motorin XTR: 55.33, Gazyağı: 45.90, Fuel Oil3: 29.62, Kalorifer Yakıtı: 34.74, LPG: 31.25
+Zile: K. Benzin (95 Oktan): 54.73, Motorin: 55.31, Motorin XTR: 55.31, Gazyağı: 45.88, Fuel Oil3: 29.60, Kalorifer Yakıtı: 34.72, LPG: 31.25

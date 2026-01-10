@@ -1,0 +1,13 @@
+Akçakale: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 30.75
+Birecik: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 30.75
+Bozova: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 30.75
+Ceylanpınar: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 30.75
+Eyyübiye: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 30.75
+Halfeti: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 30.75
+Haliliye: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 30.75
+Harran: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 30.75
+Hilvan: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 30.75
+Karaköprü: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 30.75
+Siverek: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 30.75
+Suruç: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 30.75
+Viranşehir: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 30.75

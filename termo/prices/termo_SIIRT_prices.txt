@@ -1,0 +1,7 @@
+Aydınlar: K. Benzin (95 Oktan): 42.35, Motorin: 42.76, Motorin XTR: 42.76, Gazyağı: 39.27, Fuel Oil3: 30.13, Kalorifer Yakıtı: 34.75, LPG: 30.75
+Baykan: K. Benzin (95 Oktan): 55.49, Motorin: 56.12, Motorin XTR: 56.12, Gazyağı: 47.31, Fuel Oil3: 30.42, Kalorifer Yakıtı: 36.29, LPG: 30.75
+Eruh: K. Benzin (95 Oktan): 55.52, Motorin: 56.15, Motorin XTR: 56.15, Gazyağı: 47.34, Fuel Oil3: 30.45, Kalorifer Yakıtı: 36.32, LPG: 30.75
+Kurtalan: K. Benzin (95 Oktan): 55.49, Motorin: 56.12, Motorin XTR: 56.12, Gazyağı: 47.31, Fuel Oil3: 30.42, Kalorifer Yakıtı: 36.29, LPG: 30.75
+Pervari: K. Benzin (95 Oktan): 55.52, Motorin: 56.15, Motorin XTR: 56.15, Gazyağı: 47.34, Fuel Oil3: 30.45, Kalorifer Yakıtı: 36.32, LPG: 30.75
+Şirvan: K. Benzin (95 Oktan): 55.50, Motorin: 56.13, Motorin XTR: 56.13, Gazyağı: 47.32, Fuel Oil3: 30.43, Kalorifer Yakıtı: 36.30, LPG: 30.75
+Tillo: K. Benzin (95 Oktan): 55.50, Motorin: 56.13, Motorin XTR: 56.13, Gazyağı: 47.32, Fuel Oil3: 30.43, Kalorifer Yakıtı: 36.30, LPG: 30.75

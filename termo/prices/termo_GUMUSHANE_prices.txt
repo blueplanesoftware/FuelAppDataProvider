@@ -1,0 +1,5 @@
+Kelkit: K. Benzin (95 Oktan): 54.94, Motorin: 55.54, Motorin XTR: 55.54, Gazyağı: 46.92, Fuel Oil3: 30.15, Kalorifer Yakıtı: 35.28, LPG: 31.65
+Köse: K. Benzin (95 Oktan): 54.93, Motorin: 55.53, Motorin XTR: 55.53, Gazyağı: 46.91, Fuel Oil3: 30.14, Kalorifer Yakıtı: 35.27, LPG: 31.65
+Kürtün: K. Benzin (95 Oktan): 54.92, Motorin: 55.52, Motorin XTR: 55.52, Gazyağı: 46.90, Fuel Oil3: 30.13, Kalorifer Yakıtı: 35.26, LPG: 31.65
+Şiran: K. Benzin (95 Oktan): 54.94, Motorin: 55.54, Motorin XTR: 55.54, Gazyağı: 46.92, Fuel Oil3: 30.15, Kalorifer Yakıtı: 35.28, LPG: 31.65
+Torul: K. Benzin (95 Oktan): 54.91, Motorin: 55.51, Motorin XTR: 55.51, Gazyağı: 46.89, Fuel Oil3: 30.12, Kalorifer Yakıtı: 35.25, LPG: 31.65

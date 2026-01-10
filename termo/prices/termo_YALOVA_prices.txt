@@ -1,0 +1,5 @@
+Altınova: K. Benzin (95 Oktan): 53.84, Motorin: 54.29, Motorin XTR: 54.29, Gazyağı: 46.57, Fuel Oil3: 28.02, Kalorifer Yakıtı: 33.14, LPG: 30.35
+Armutlu: K. Benzin (95 Oktan): 53.89, Motorin: 54.34, Motorin XTR: 54.34, Gazyağı: 46.62, Fuel Oil3: 28.07, Kalorifer Yakıtı: 33.19, LPG: 30.35
+Çınarcık: K. Benzin (95 Oktan): 53.86, Motorin: 54.31, Motorin XTR: 54.31, Gazyağı: 46.59, Fuel Oil3: 28.04, Kalorifer Yakıtı: 33.16, LPG: 30.35
+Çiftlikköy: K. Benzin (95 Oktan): 53.85, Motorin: 54.30, Motorin XTR: 54.30, Gazyağı: 46.58, Fuel Oil3: 28.03, Kalorifer Yakıtı: 33.15, LPG: 30.35
+Termal: K. Benzin (95 Oktan): 53.85, Motorin: 54.30, Motorin XTR: 54.30, Gazyağı: 46.58, Fuel Oil3: 28.03, Kalorifer Yakıtı: 33.15, LPG: 30.35

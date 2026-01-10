@@ -1,0 +1,8 @@
+Çemişgezek: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 31.55
+Çemişkezek: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 31.55
+Hozat: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 31.55
+Mazgirt: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 31.55
+Nazimiye: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 31.55
+Ovacık: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 31.55
+Pertek: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 31.55
+Pülümür: K. Benzin (95 Oktan): 0.00, Motorin: 0.00, Motorin XTR: 0.00, Gazyağı: 0.00, Fuel Oil3: 0.00, Kalorifer Yakıtı: 0.00, LPG: 31.55

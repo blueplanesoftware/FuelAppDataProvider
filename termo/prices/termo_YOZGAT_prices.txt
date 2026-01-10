@@ -1,0 +1,13 @@
+Akdağmadeni: K. Benzin (95 Oktan): 54.90, Motorin: 55.56, Motorin XTR: 55.56, Gazyağı: 45.55, Fuel Oil3: 29.68, Kalorifer Yakıtı: 34.80, LPG: 31.25
+Aydıncık: K. Benzin (95 Oktan): 54.76, Motorin: 55.42, Motorin XTR: 55.42, Gazyağı: 45.41, Fuel Oil3: 29.54, Kalorifer Yakıtı: 34.66, LPG: 31.25
+Boğazlıyan: K. Benzin (95 Oktan): 54.87, Motorin: 55.53, Motorin XTR: 55.53, Gazyağı: 45.52, Fuel Oil3: 29.65, Kalorifer Yakıtı: 34.77, LPG: 31.25
+Candır: K. Benzin (95 Oktan): 54.90, Motorin: 55.56, Motorin XTR: 55.56, Gazyağı: 45.55, Fuel Oil3: 29.68, Kalorifer Yakıtı: 34.80, LPG: 31.25
+Çayıralan: K. Benzin (95 Oktan): 54.91, Motorin: 55.57, Motorin XTR: 55.57, Gazyağı: 45.56, Fuel Oil3: 29.69, Kalorifer Yakıtı: 34.81, LPG: 31.25
+Çekerek: K. Benzin (95 Oktan): 54.81, Motorin: 55.47, Motorin XTR: 55.47, Gazyağı: 45.46, Fuel Oil3: 29.59, Kalorifer Yakıtı: 34.71, LPG: 31.25
+Kadışehri: K. Benzin (95 Oktan): 54.90, Motorin: 55.56, Motorin XTR: 55.56, Gazyağı: 45.55, Fuel Oil3: 29.68, Kalorifer Yakıtı: 34.80, LPG: 31.25
+Saraykent: K. Benzin (95 Oktan): 54.81, Motorin: 55.47, Motorin XTR: 55.47, Gazyağı: 45.46, Fuel Oil3: 29.59, Kalorifer Yakıtı: 34.71, LPG: 31.25
+Sarıkaya: K. Benzin (95 Oktan): 54.87, Motorin: 55.53, Motorin XTR: 55.53, Gazyağı: 45.52, Fuel Oil3: 29.65, Kalorifer Yakıtı: 34.77, LPG: 31.25
+Sorgun: K. Benzin (95 Oktan): 54.76, Motorin: 55.42, Motorin XTR: 55.42, Gazyağı: 45.41, Fuel Oil3: 29.54, Kalorifer Yakıtı: 34.66, LPG: 31.25
+Şefaatli: K. Benzin (95 Oktan): 54.71, Motorin: 55.37, Motorin XTR: 55.37, Gazyağı: 45.36, Fuel Oil3: 29.49, Kalorifer Yakıtı: 34.61, LPG: 31.25
+Yenifakılı: K. Benzin (95 Oktan): 54.77, Motorin: 55.43, Motorin XTR: 55.43, Gazyağı: 45.42, Fuel Oil3: 29.55, Kalorifer Yakıtı: 34.67, LPG: 31.25
+Yerköy: K. Benzin (95 Oktan): 54.67, Motorin: 55.33, Motorin XTR: 55.33, Gazyağı: 45.32, Fuel Oil3: 29.45, Kalorifer Yakıtı: 34.57, LPG: 31.25
