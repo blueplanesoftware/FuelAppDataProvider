@@ -1,0 +1,15 @@
+ALADAĞ: Kurşunsuz Benzin 95 Oktan: 54.87, Motorin: 55.52, HighDizel: 55.52, Kalorifer Yakıtı: 30.84, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.56
+CEYHAN: Kurşunsuz Benzin 95 Oktan: 54.87, Motorin: 55.52, HighDizel: 55.52, Kalorifer Yakıtı: 30.84, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.56
+ÇUKUROVA: Kurşunsuz Benzin 95 Oktan: 54.87, Motorin: 55.52, HighDizel: 55.52, Kalorifer Yakıtı: 30.84, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.56
+FEKE: Kurşunsuz Benzin 95 Oktan: 54.87, Motorin: 55.52, HighDizel: 55.52, Kalorifer Yakıtı: 30.84, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.56
+İMAMOĞLU: Kurşunsuz Benzin 95 Oktan: 54.87, Motorin: 55.52, HighDizel: 55.52, Kalorifer Yakıtı: 30.84, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.56
+KARAİSALI: Kurşunsuz Benzin 95 Oktan: 54.87, Motorin: 55.52, HighDizel: 55.52, Kalorifer Yakıtı: 30.84, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.56
+KARATAŞ: Kurşunsuz Benzin 95 Oktan: 54.87, Motorin: 55.52, HighDizel: 55.52, Kalorifer Yakıtı: 30.84, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.56
+KOZAN: Kurşunsuz Benzin 95 Oktan: 54.87, Motorin: 55.52, HighDizel: 55.52, Kalorifer Yakıtı: 30.84, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.56
+POZANTI: Kurşunsuz Benzin 95 Oktan: 54.87, Motorin: 55.52, HighDizel: 55.52, Kalorifer Yakıtı: 30.84, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.56
+SAİMBEYLİ: Kurşunsuz Benzin 95 Oktan: 54.87, Motorin: 55.52, HighDizel: 55.52, Kalorifer Yakıtı: 30.84, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.56
+SARIÇAM: Kurşunsuz Benzin 95 Oktan: 54.87, Motorin: 55.52, HighDizel: 55.52, Kalorifer Yakıtı: 30.84, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.56
+SEYHAN: Kurşunsuz Benzin 95 Oktan: 54.87, Motorin: 55.52, HighDizel: 55.52, Kalorifer Yakıtı: 30.84, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.56
+TUFANBEYLİ: Kurşunsuz Benzin 95 Oktan: 54.87, Motorin: 55.52, HighDizel: 55.52, Kalorifer Yakıtı: 30.84, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.56
+YUMURTALIK: Kurşunsuz Benzin 95 Oktan: 54.87, Motorin: 55.52, HighDizel: 55.52, Kalorifer Yakıtı: 30.84, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.56
+YÜREĞİR: Kurşunsuz Benzin 95 Oktan: 54.87, Motorin: 55.52, HighDizel: 55.52, Kalorifer Yakıtı: 30.84, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.56

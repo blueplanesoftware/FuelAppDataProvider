@@ -1,0 +1,6 @@
+ALTUNHİSAR: Kurşunsuz Benzin 95 Oktan: 54.88, Motorin: 55.53, HighDizel: 55.53, Kalorifer Yakıtı: 30.83, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.54
+BOR: Kurşunsuz Benzin 95 Oktan: 54.88, Motorin: 55.53, HighDizel: 55.53, Kalorifer Yakıtı: 30.83, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.54
+ÇAMARDI: Kurşunsuz Benzin 95 Oktan: 54.88, Motorin: 55.53, HighDizel: 55.53, Kalorifer Yakıtı: 30.83, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.54
+ÇİFTLİK: Kurşunsuz Benzin 95 Oktan: 54.88, Motorin: 55.53, HighDizel: 55.53, Kalorifer Yakıtı: 30.83, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.54
+MERKEZ: Kurşunsuz Benzin 95 Oktan: 54.88, Motorin: 55.53, HighDizel: 55.53, Kalorifer Yakıtı: 30.83, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.54
+ULUKIŞLA: Kurşunsuz Benzin 95 Oktan: 54.88, Motorin: 55.53, HighDizel: 55.53, Kalorifer Yakıtı: 30.83, Fuel Oil: 26.47, Yüksek Kükürtlü: 22.54

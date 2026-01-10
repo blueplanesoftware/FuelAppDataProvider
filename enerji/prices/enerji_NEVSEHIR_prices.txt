@@ -1,0 +1,8 @@
+ACIGÖL: Kurşunsuz Benzin 95 Oktan: 54.93, Motorin: 55.58, HighDizel: 55.58, Kalorifer Yakıtı: 30.83, Fuel Oil: 26.49, Yüksek Kükürtlü: 22.53
+AVANOS: Kurşunsuz Benzin 95 Oktan: 54.93, Motorin: 55.58, HighDizel: 55.58, Kalorifer Yakıtı: 30.83, Fuel Oil: 26.49, Yüksek Kükürtlü: 22.53
+DERİNKUYU: Kurşunsuz Benzin 95 Oktan: 54.93, Motorin: 55.58, HighDizel: 55.58, Kalorifer Yakıtı: 30.83, Fuel Oil: 26.49, Yüksek Kükürtlü: 22.53
+GÜLŞEHİR: Kurşunsuz Benzin 95 Oktan: 54.93, Motorin: 55.58, HighDizel: 55.58, Kalorifer Yakıtı: 30.83, Fuel Oil: 26.49, Yüksek Kükürtlü: 22.53
+HACIBEKTAŞ: Kurşunsuz Benzin 95 Oktan: 54.93, Motorin: 55.58, HighDizel: 55.58, Kalorifer Yakıtı: 30.83, Fuel Oil: 26.49, Yüksek Kükürtlü: 22.53
+KOZAKLI: Kurşunsuz Benzin 95 Oktan: 54.93, Motorin: 55.58, HighDizel: 55.58, Kalorifer Yakıtı: 30.83, Fuel Oil: 26.49, Yüksek Kükürtlü: 22.53
+MERKEZ: Kurşunsuz Benzin 95 Oktan: 54.93, Motorin: 55.58, HighDizel: 55.58, Kalorifer Yakıtı: 30.83, Fuel Oil: 26.49, Yüksek Kükürtlü: 22.53
+ÜRGÜP: Kurşunsuz Benzin 95 Oktan: 54.93, Motorin: 55.58, HighDizel: 55.58, Kalorifer Yakıtı: 30.83, Fuel Oil: 26.49, Yüksek Kükürtlü: 22.53

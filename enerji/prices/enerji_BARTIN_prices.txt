@@ -1,0 +1,4 @@
+AMASRA: Kurşunsuz Benzin 95 Oktan: 54.22, Motorin: 54.65, HighDizel: 54.65, Kalorifer Yakıtı: 30.80, Fuel Oil: 26.42, Yüksek Kükürtlü: 22.54
+KURUCAŞİLE: Kurşunsuz Benzin 95 Oktan: 54.22, Motorin: 54.65, HighDizel: 54.65, Kalorifer Yakıtı: 30.80, Fuel Oil: 26.42, Yüksek Kükürtlü: 22.54
+MERKEZ: Kurşunsuz Benzin 95 Oktan: 54.22, Motorin: 54.65, HighDizel: 54.65, Kalorifer Yakıtı: 30.80, Fuel Oil: 26.42, Yüksek Kükürtlü: 22.54
+ULUS: Kurşunsuz Benzin 95 Oktan: 54.22, Motorin: 54.65, HighDizel: 54.65, Kalorifer Yakıtı: 30.80, Fuel Oil: 26.42, Yüksek Kükürtlü: 22.54

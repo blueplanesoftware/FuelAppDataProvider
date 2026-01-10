@@ -1,0 +1,6 @@
+EFLANİ: Kurşunsuz Benzin 95 Oktan: 54.24, Motorin: 54.67, HighDizel: 54.67, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.42, Yüksek Kükürtlü: 22.53
+ESKİPAZAR: Kurşunsuz Benzin 95 Oktan: 54.24, Motorin: 54.67, HighDizel: 54.67, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.42, Yüksek Kükürtlü: 22.53
+MERKEZ: Kurşunsuz Benzin 95 Oktan: 54.24, Motorin: 54.67, HighDizel: 54.67, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.42, Yüksek Kükürtlü: 22.53
+OVACIK: Kurşunsuz Benzin 95 Oktan: 54.24, Motorin: 54.67, HighDizel: 54.67, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.42, Yüksek Kükürtlü: 22.53
+SAFRANBOLU: Kurşunsuz Benzin 95 Oktan: 54.24, Motorin: 54.67, HighDizel: 54.67, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.42, Yüksek Kükürtlü: 22.53
+YENİCE: Kurşunsuz Benzin 95 Oktan: 54.24, Motorin: 54.67, HighDizel: 54.67, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.42, Yüksek Kükürtlü: 22.53

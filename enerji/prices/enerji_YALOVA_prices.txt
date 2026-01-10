@@ -1,0 +1,6 @@
+ALTINOVA: Kurşunsuz Benzin 95 Oktan: 53.66, Motorin: 54.09, HighDizel: 54.09, Kalorifer Yakıtı: 30.77, Fuel Oil: 26.38, Yüksek Kükürtlü: 22.56
+ARMUTLU: Kurşunsuz Benzin 95 Oktan: 53.66, Motorin: 54.09, HighDizel: 54.09, Kalorifer Yakıtı: 30.77, Fuel Oil: 26.38, Yüksek Kükürtlü: 22.56
+ÇINARCIK: Kurşunsuz Benzin 95 Oktan: 53.66, Motorin: 54.09, HighDizel: 54.09, Kalorifer Yakıtı: 30.77, Fuel Oil: 26.38, Yüksek Kükürtlü: 22.56
+ÇİFTLİKKÖY: Kurşunsuz Benzin 95 Oktan: 53.66, Motorin: 54.09, HighDizel: 54.09, Kalorifer Yakıtı: 30.77, Fuel Oil: 26.38, Yüksek Kükürtlü: 22.56
+MERKEZ: Kurşunsuz Benzin 95 Oktan: 53.66, Motorin: 54.09, HighDizel: 54.09, Kalorifer Yakıtı: 30.77, Fuel Oil: 26.38, Yüksek Kükürtlü: 22.56
+TERMAL: Kurşunsuz Benzin 95 Oktan: 53.66, Motorin: 54.09, HighDizel: 54.09, Kalorifer Yakıtı: 30.77, Fuel Oil: 26.38, Yüksek Kükürtlü: 22.56

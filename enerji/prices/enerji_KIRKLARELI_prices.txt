@@ -1,0 +1,8 @@
+BABAESKİ: Kurşunsuz Benzin 95 Oktan: 54.05, Motorin: 54.71, HighDizel: 54.71, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.37, Yüksek Kükürtlü: 22.58
+DEMİRKÖY: Kurşunsuz Benzin 95 Oktan: 54.05, Motorin: 54.71, HighDizel: 54.71, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.37, Yüksek Kükürtlü: 22.58
+KOFÇAZ: Kurşunsuz Benzin 95 Oktan: 54.05, Motorin: 54.71, HighDizel: 54.71, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.37, Yüksek Kükürtlü: 22.58
+LÜLEBURGAZ: Kurşunsuz Benzin 95 Oktan: 54.05, Motorin: 54.71, HighDizel: 54.71, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.37, Yüksek Kükürtlü: 22.58
+MERKEZ: Kurşunsuz Benzin 95 Oktan: 54.05, Motorin: 54.71, HighDizel: 54.71, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.37, Yüksek Kükürtlü: 22.58
+PEHLİVANKÖY: Kurşunsuz Benzin 95 Oktan: 54.05, Motorin: 54.71, HighDizel: 54.71, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.37, Yüksek Kükürtlü: 22.58
+PINARHİSAR: Kurşunsuz Benzin 95 Oktan: 54.05, Motorin: 54.71, HighDizel: 54.71, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.37, Yüksek Kükürtlü: 22.58
+VİZE: Kurşunsuz Benzin 95 Oktan: 54.05, Motorin: 54.71, HighDizel: 54.71, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.37, Yüksek Kükürtlü: 22.58

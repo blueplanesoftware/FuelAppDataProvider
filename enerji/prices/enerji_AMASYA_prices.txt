@@ -1,0 +1,7 @@
+GÖYNÜCEK: Kurşunsuz Benzin 95 Oktan: 54.60, Motorin: 55.22, HighDizel: 55.22, Kalorifer Yakıtı: 30.81, Fuel Oil: 26.42, Yüksek Kükürtlü: 22.53
+GÜMÜŞHACIKÖY: Kurşunsuz Benzin 95 Oktan: 54.60, Motorin: 55.22, HighDizel: 55.22, Kalorifer Yakıtı: 30.81, Fuel Oil: 26.42, Yüksek Kükürtlü: 22.53
+HAMAMÖZÜ: Kurşunsuz Benzin 95 Oktan: 54.60, Motorin: 55.22, HighDizel: 55.22, Kalorifer Yakıtı: 30.81, Fuel Oil: 26.42, Yüksek Kükürtlü: 22.53
+MERKEZ: Kurşunsuz Benzin 95 Oktan: 54.60, Motorin: 55.22, HighDizel: 55.22, Kalorifer Yakıtı: 30.81, Fuel Oil: 26.42, Yüksek Kükürtlü: 22.53
+MERZİFON: Kurşunsuz Benzin 95 Oktan: 54.60, Motorin: 55.22, HighDizel: 55.22, Kalorifer Yakıtı: 30.81, Fuel Oil: 26.42, Yüksek Kükürtlü: 22.53
+SULUOVA: Kurşunsuz Benzin 95 Oktan: 54.60, Motorin: 55.22, HighDizel: 55.22, Kalorifer Yakıtı: 30.81, Fuel Oil: 26.42, Yüksek Kükürtlü: 22.53
+TAŞOVA: Kurşunsuz Benzin 95 Oktan: 54.60, Motorin: 55.22, HighDizel: 55.22, Kalorifer Yakıtı: 30.81, Fuel Oil: 26.42, Yüksek Kükürtlü: 22.53

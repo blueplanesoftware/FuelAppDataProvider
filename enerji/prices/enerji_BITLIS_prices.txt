@@ -1,0 +1,7 @@
+ADİLCEVAZ: Kurşunsuz Benzin 95 Oktan: 55.41, Motorin: 56.11, HighDizel: 56.11, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.61
+AHLAT: Kurşunsuz Benzin 95 Oktan: 55.41, Motorin: 56.11, HighDizel: 56.11, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.61
+GÜROYMAK: Kurşunsuz Benzin 95 Oktan: 55.41, Motorin: 56.11, HighDizel: 56.11, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.61
+HİZAN: Kurşunsuz Benzin 95 Oktan: 55.41, Motorin: 56.11, HighDizel: 56.11, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.61
+MERKEZ: Kurşunsuz Benzin 95 Oktan: 55.41, Motorin: 56.11, HighDizel: 56.11, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.61
+MUTKİ: Kurşunsuz Benzin 95 Oktan: 55.41, Motorin: 56.11, HighDizel: 56.11, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.61
+TATVAN: Kurşunsuz Benzin 95 Oktan: 55.41, Motorin: 56.11, HighDizel: 56.11, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.61

@@ -1,0 +1,11 @@
+ÇERKEZKÖY: Kurşunsuz Benzin 95 Oktan: 53.66, Motorin: 54.32, HighDizel: 54.32, Kalorifer Yakıtı: 30.78, Fuel Oil: 26.43, Yüksek Kükürtlü: 22.58
+ÇORLU: Kurşunsuz Benzin 95 Oktan: 53.66, Motorin: 54.32, HighDizel: 54.32, Kalorifer Yakıtı: 30.78, Fuel Oil: 26.43, Yüksek Kükürtlü: 22.58
+ERGENE: Kurşunsuz Benzin 95 Oktan: 53.66, Motorin: 54.32, HighDizel: 54.32, Kalorifer Yakıtı: 30.78, Fuel Oil: 26.43, Yüksek Kükürtlü: 22.58
+HAYRABOLU: Kurşunsuz Benzin 95 Oktan: 53.66, Motorin: 54.32, HighDizel: 54.32, Kalorifer Yakıtı: 30.78, Fuel Oil: 26.43, Yüksek Kükürtlü: 22.58
+KAPAKLI: Kurşunsuz Benzin 95 Oktan: 53.66, Motorin: 54.32, HighDizel: 54.32, Kalorifer Yakıtı: 30.78, Fuel Oil: 26.43, Yüksek Kükürtlü: 22.58
+MALKARA: Kurşunsuz Benzin 95 Oktan: 53.66, Motorin: 54.32, HighDizel: 54.32, Kalorifer Yakıtı: 30.78, Fuel Oil: 26.43, Yüksek Kükürtlü: 22.58
+MARMARAEREĞLİSİ: Kurşunsuz Benzin 95 Oktan: 53.66, Motorin: 54.32, HighDizel: 54.32, Kalorifer Yakıtı: 30.78, Fuel Oil: 26.43, Yüksek Kükürtlü: 22.58
+MURATLI: Kurşunsuz Benzin 95 Oktan: 53.66, Motorin: 54.32, HighDizel: 54.32, Kalorifer Yakıtı: 30.78, Fuel Oil: 26.43, Yüksek Kükürtlü: 22.58
+SARAY: Kurşunsuz Benzin 95 Oktan: 53.66, Motorin: 54.32, HighDizel: 54.32, Kalorifer Yakıtı: 30.78, Fuel Oil: 26.43, Yüksek Kükürtlü: 22.58
+SÜLEYMANPAŞA: Kurşunsuz Benzin 95 Oktan: 53.66, Motorin: 54.32, HighDizel: 54.32, Kalorifer Yakıtı: 30.78, Fuel Oil: 26.43, Yüksek Kükürtlü: 22.58
+ŞARKÖY: Kurşunsuz Benzin 95 Oktan: 53.66, Motorin: 54.32, HighDizel: 54.32, Kalorifer Yakıtı: 30.78, Fuel Oil: 26.43, Yüksek Kükürtlü: 22.58

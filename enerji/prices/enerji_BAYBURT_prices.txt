@@ -1,0 +1,3 @@
+AYDINTEPE: Kurşunsuz Benzin 95 Oktan: 54.77, Motorin: 55.41, HighDizel: 55.41, Kalorifer Yakıtı: 30.87, Fuel Oil: 26.43, Yüksek Kükürtlü: 22.58
+DEMİRÖZÜ: Kurşunsuz Benzin 95 Oktan: 54.77, Motorin: 55.41, HighDizel: 55.41, Kalorifer Yakıtı: 30.87, Fuel Oil: 26.43, Yüksek Kükürtlü: 22.58
+MERKEZ: Kurşunsuz Benzin 95 Oktan: 54.77, Motorin: 55.41, HighDizel: 55.41, Kalorifer Yakıtı: 30.87, Fuel Oil: 26.43, Yüksek Kükürtlü: 22.58

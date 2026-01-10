@@ -1,0 +1,6 @@
+BANAZ: Kurşunsuz Benzin 95 Oktan: 54.70, Motorin: 55.32, HighDizel: 55.32, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.40, Yüksek Kükürtlü: 22.55
+EŞME: Kurşunsuz Benzin 95 Oktan: 54.70, Motorin: 55.32, HighDizel: 55.32, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.40, Yüksek Kükürtlü: 22.55
+KARAHALLI: Kurşunsuz Benzin 95 Oktan: 54.70, Motorin: 55.32, HighDizel: 55.32, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.40, Yüksek Kükürtlü: 22.55
+MERKEZ: Kurşunsuz Benzin 95 Oktan: 54.70, Motorin: 55.32, HighDizel: 55.32, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.40, Yüksek Kükürtlü: 22.55
+SİVASLI: Kurşunsuz Benzin 95 Oktan: 54.70, Motorin: 55.32, HighDizel: 55.32, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.40, Yüksek Kükürtlü: 22.55
+ULUBEY: Kurşunsuz Benzin 95 Oktan: 54.70, Motorin: 55.32, HighDizel: 55.32, Kalorifer Yakıtı: 30.79, Fuel Oil: 26.40, Yüksek Kükürtlü: 22.55

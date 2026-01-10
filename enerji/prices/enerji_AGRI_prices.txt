@@ -1,0 +1,8 @@
+DİYADİN: Kurşunsuz Benzin 95 Oktan: 55.35, Motorin: 55.99, HighDizel: 55.99, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.48, Yüksek Kükürtlü: 22.61
+DOĞUBAYAZIT: Kurşunsuz Benzin 95 Oktan: 55.35, Motorin: 55.99, HighDizel: 55.99, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.48, Yüksek Kükürtlü: 22.61
+ELEŞKİRT: Kurşunsuz Benzin 95 Oktan: 55.35, Motorin: 55.99, HighDizel: 55.99, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.48, Yüksek Kükürtlü: 22.61
+HAMUR: Kurşunsuz Benzin 95 Oktan: 55.35, Motorin: 55.99, HighDizel: 55.99, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.48, Yüksek Kükürtlü: 22.61
+MERKEZ: Kurşunsuz Benzin 95 Oktan: 55.35, Motorin: 55.99, HighDizel: 55.99, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.48, Yüksek Kükürtlü: 22.61
+PATNOS: Kurşunsuz Benzin 95 Oktan: 55.35, Motorin: 55.99, HighDizel: 55.99, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.48, Yüksek Kükürtlü: 22.61
+TAŞLIÇAY: Kurşunsuz Benzin 95 Oktan: 55.35, Motorin: 55.99, HighDizel: 55.99, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.48, Yüksek Kükürtlü: 22.61
+TUTAK: Kurşunsuz Benzin 95 Oktan: 55.35, Motorin: 55.99, HighDizel: 55.99, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.48, Yüksek Kükürtlü: 22.61

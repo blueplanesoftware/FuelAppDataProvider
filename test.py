@@ -36,6 +36,8 @@ from alpet.scraper import save_all_cities_prices_txt as alpet_save_all_cities_pr
 import alpet
 from bpet.scraper import save_all_cities_prices_txt as bpet_save_all_cities_prices_txt
 import bpet
+from enerji.scraper import save_all_cities_prices_txt as enerji_save_all_cities_prices_txt
+import enerji
 
 def run_opet():
 	parser = argparse.ArgumentParser()
@@ -296,6 +298,22 @@ def run_bpet():
 
 	output_dir = Path(bpet.__file__).parent / "prices"
 	saved = bpet_save_all_cities_prices_txt(output_dir, debug=args.debug)
+	print(f"{len(saved)} dosya yazıldı -> {output_dir}")
+	if not saved:
+		print("Uyarı: Dosya yazılamadı. Seçici veya fiyat bulunamamış olabilir.")
+
+def run_enerji():
+	"""
+	Tüm şehirler için Enerji akaryakıt fiyatlarını çekip txt dosyalarına yazar.
+	Çıktılar: enerji/enerji_<ŞEHİR>_prices.txt
+	İstanbul (Anadolu ve Avrupa) birleştirilir: enerji_ISTANBUL_prices.txt
+	"""
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--debug", action="store_true", help="Headful + slow-mo + Inspector (PWDEBUG=1 önerilir)")
+	args = parser.parse_args()
+
+	output_dir = Path(enerji.__file__).parent / "prices"
+	saved = enerji_save_all_cities_prices_txt(output_dir, debug=args.debug)
 	print(f"{len(saved)} dosya yazıldı -> {output_dir}")
 	if not saved:
 		print("Uyarı: Dosya yazılamadı. Seçici veya fiyat bulunamamış olabilir.")

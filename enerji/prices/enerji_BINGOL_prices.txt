@@ -1,0 +1,8 @@
+ADAKLI: Kurşunsuz Benzin 95 Oktan: 55.41, Motorin: 56.11, HighDizel: 56.11, Kalorifer Yakıtı: 30.89, Fuel Oil: 26.50, Yüksek Kükürtlü: 22.59
+GENÇ: Kurşunsuz Benzin 95 Oktan: 55.41, Motorin: 56.11, HighDizel: 56.11, Kalorifer Yakıtı: 30.89, Fuel Oil: 26.50, Yüksek Kükürtlü: 22.59
+KARLIOVA: Kurşunsuz Benzin 95 Oktan: 55.41, Motorin: 56.11, HighDizel: 56.11, Kalorifer Yakıtı: 30.89, Fuel Oil: 26.50, Yüksek Kükürtlü: 22.59
+KİĞI: Kurşunsuz Benzin 95 Oktan: 55.41, Motorin: 56.11, HighDizel: 56.11, Kalorifer Yakıtı: 30.89, Fuel Oil: 26.50, Yüksek Kükürtlü: 22.59
+MERKEZ: Kurşunsuz Benzin 95 Oktan: 55.41, Motorin: 56.11, HighDizel: 56.11, Kalorifer Yakıtı: 30.89, Fuel Oil: 26.50, Yüksek Kükürtlü: 22.59
+SOLHAN: Kurşunsuz Benzin 95 Oktan: 55.41, Motorin: 56.11, HighDizel: 56.11, Kalorifer Yakıtı: 30.89, Fuel Oil: 26.50, Yüksek Kükürtlü: 22.59
+YAYLADERE: Kurşunsuz Benzin 95 Oktan: 55.41, Motorin: 56.11, HighDizel: 56.11, Kalorifer Yakıtı: 30.89, Fuel Oil: 26.50, Yüksek Kükürtlü: 22.59
+YEDİSU: Kurşunsuz Benzin 95 Oktan: 55.41, Motorin: 56.11, HighDizel: 56.11, Kalorifer Yakıtı: 30.89, Fuel Oil: 26.50, Yüksek Kükürtlü: 22.59

@@ -1,0 +1,4 @@
+ARALIK: Kurşunsuz Benzin 95 Oktan: 55.36, Motorin: 56.00, HighDizel: 56.00, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.50, Yüksek Kükürtlü: 22.62
+KARAKOYUNLU: Kurşunsuz Benzin 95 Oktan: 55.36, Motorin: 56.00, HighDizel: 56.00, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.50, Yüksek Kükürtlü: 22.62
+MERKEZ: Kurşunsuz Benzin 95 Oktan: 55.36, Motorin: 56.00, HighDizel: 56.00, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.50, Yüksek Kükürtlü: 22.62
+TUZLUCA: Kurşunsuz Benzin 95 Oktan: 55.36, Motorin: 56.00, HighDizel: 56.00, Kalorifer Yakıtı: 30.90, Fuel Oil: 26.50, Yüksek Kükürtlü: 22.62

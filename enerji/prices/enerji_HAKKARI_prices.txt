@@ -1,0 +1,4 @@
+ÇUKURCA: Kurşunsuz Benzin 95 Oktan: 55.48, Motorin: 56.18, HighDizel: 56.18, Kalorifer Yakıtı: 31.08, Fuel Oil: 26.72, Yüksek Kükürtlü: 22.79
+MERKEZ: Kurşunsuz Benzin 95 Oktan: 55.48, Motorin: 56.18, HighDizel: 56.18, Kalorifer Yakıtı: 31.08, Fuel Oil: 26.72, Yüksek Kükürtlü: 22.79
+ŞEMDİNLİ: Kurşunsuz Benzin 95 Oktan: 55.48, Motorin: 56.18, HighDizel: 56.18, Kalorifer Yakıtı: 31.08, Fuel Oil: 26.72, Yüksek Kükürtlü: 22.79
+YÜKSEKOVA: Kurşunsuz Benzin 95 Oktan: 55.48, Motorin: 56.18, HighDizel: 56.18, Kalorifer Yakıtı: 31.08, Fuel Oil: 26.72, Yüksek Kükürtlü: 22.79

@@ -1,0 +1,7 @@
+BAYKAN: Kurşunsuz Benzin 95 Oktan: 55.35, Motorin: 56.05, HighDizel: 56.05, Kalorifer Yakıtı: 30.91, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.61
+ERUH: Kurşunsuz Benzin 95 Oktan: 55.35, Motorin: 56.05, HighDizel: 56.05, Kalorifer Yakıtı: 30.91, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.61
+KURTALAN: Kurşunsuz Benzin 95 Oktan: 55.35, Motorin: 56.05, HighDizel: 56.05, Kalorifer Yakıtı: 30.91, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.61
+MERKEZ: Kurşunsuz Benzin 95 Oktan: 55.35, Motorin: 56.05, HighDizel: 56.05, Kalorifer Yakıtı: 30.91, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.61
+PERVARİ: Kurşunsuz Benzin 95 Oktan: 55.35, Motorin: 56.05, HighDizel: 56.05, Kalorifer Yakıtı: 30.91, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.61
+ŞİRVAN: Kurşunsuz Benzin 95 Oktan: 55.35, Motorin: 56.05, HighDizel: 56.05, Kalorifer Yakıtı: 30.91, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.61
+TİLLO: Kurşunsuz Benzin 95 Oktan: 55.35, Motorin: 56.05, HighDizel: 56.05, Kalorifer Yakıtı: 30.91, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.61

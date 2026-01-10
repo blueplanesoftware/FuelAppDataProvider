@@ -1,0 +1,7 @@
+BAHÇE: Kurşunsuz Benzin 95 Oktan: 54.73, Motorin: 55.40, HighDizel: 55.40, Kalorifer Yakıtı: 30.85, Fuel Oil: 26.46, Yüksek Kükürtlü: 22.57
+DÜZİÇİ: Kurşunsuz Benzin 95 Oktan: 54.73, Motorin: 55.40, HighDizel: 55.40, Kalorifer Yakıtı: 30.85, Fuel Oil: 26.46, Yüksek Kükürtlü: 22.57
+HASANBEYLİ: Kurşunsuz Benzin 95 Oktan: 54.73, Motorin: 55.40, HighDizel: 55.40, Kalorifer Yakıtı: 30.85, Fuel Oil: 26.46, Yüksek Kükürtlü: 22.57
+KADİRLİ: Kurşunsuz Benzin 95 Oktan: 54.73, Motorin: 55.40, HighDizel: 55.40, Kalorifer Yakıtı: 30.85, Fuel Oil: 26.46, Yüksek Kükürtlü: 22.57
+MERKEZ: Kurşunsuz Benzin 95 Oktan: 54.73, Motorin: 55.40, HighDizel: 55.40, Kalorifer Yakıtı: 30.85, Fuel Oil: 26.46, Yüksek Kükürtlü: 22.57
+SUMBAS: Kurşunsuz Benzin 95 Oktan: 54.73, Motorin: 55.40, HighDizel: 55.40, Kalorifer Yakıtı: 30.85, Fuel Oil: 26.46, Yüksek Kükürtlü: 22.57
+TOPRAKKALE: Kurşunsuz Benzin 95 Oktan: 54.73, Motorin: 55.40, HighDizel: 55.40, Kalorifer Yakıtı: 30.85, Fuel Oil: 26.46, Yüksek Kükürtlü: 22.57

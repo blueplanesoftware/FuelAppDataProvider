@@ -1,0 +1,13 @@
+AKÇADAĞ: Kurşunsuz Benzin 95 Oktan: 55.20, Motorin: 55.87, HighDizel: 55.87, Kalorifer Yakıtı: 30.86, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.57
+ARAPGİR: Kurşunsuz Benzin 95 Oktan: 55.20, Motorin: 55.87, HighDizel: 55.87, Kalorifer Yakıtı: 30.86, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.57
+ARGUVAN: Kurşunsuz Benzin 95 Oktan: 55.20, Motorin: 55.87, HighDizel: 55.87, Kalorifer Yakıtı: 30.86, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.57
+BATTALGAZİ: Kurşunsuz Benzin 95 Oktan: 55.20, Motorin: 55.87, HighDizel: 55.87, Kalorifer Yakıtı: 30.86, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.57
+DARENDE: Kurşunsuz Benzin 95 Oktan: 55.20, Motorin: 55.87, HighDizel: 55.87, Kalorifer Yakıtı: 30.86, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.57
+DOĞANŞEHİR: Kurşunsuz Benzin 95 Oktan: 55.20, Motorin: 55.87, HighDizel: 55.87, Kalorifer Yakıtı: 30.86, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.57
+DOĞANYOL: Kurşunsuz Benzin 95 Oktan: 55.20, Motorin: 55.87, HighDizel: 55.87, Kalorifer Yakıtı: 30.86, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.57
+HEKİMHAN: Kurşunsuz Benzin 95 Oktan: 55.20, Motorin: 55.87, HighDizel: 55.87, Kalorifer Yakıtı: 30.86, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.57
+KALE: Kurşunsuz Benzin 95 Oktan: 55.20, Motorin: 55.87, HighDizel: 55.87, Kalorifer Yakıtı: 30.86, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.57
+KULUNCAK: Kurşunsuz Benzin 95 Oktan: 55.20, Motorin: 55.87, HighDizel: 55.87, Kalorifer Yakıtı: 30.86, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.57
+PÜTÜRGE: Kurşunsuz Benzin 95 Oktan: 55.20, Motorin: 55.87, HighDizel: 55.87, Kalorifer Yakıtı: 30.86, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.57
+YAZIHAN: Kurşunsuz Benzin 95 Oktan: 55.20, Motorin: 55.87, HighDizel: 55.87, Kalorifer Yakıtı: 30.86, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.57
+YEŞİLYURT: Kurşunsuz Benzin 95 Oktan: 55.20, Motorin: 55.87, HighDizel: 55.87, Kalorifer Yakıtı: 30.86, Fuel Oil: 26.51, Yüksek Kükürtlü: 22.57
